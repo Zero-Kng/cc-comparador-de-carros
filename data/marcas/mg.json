@@ -1,0 +1,966 @@
+{
+  "marca": "MG",
+  "slug": "mg",
+  "site_oficial": "https://www.mgmotoroficial.com.br",
+  "coletado_em": "2026-10-21",
+  "modelos": [
+    {
+      "id": "mg-mg4",
+      "modelo": "MG4",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch médio elétrico",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mg-mg4.webp",
+        "fonte_imagem": "https://media.whichcar.com.au/uploads/2025/08/MG4-FWD-3.png",
+        "pagina_origem": "https://www.whichcar.com.au/news/2026-mg4-affordable-front-wheel-drive-version-2026"
+      },
+      "fontes": [
+        {
+          "url": "https://www.mgmotoroficial.com.br/model/mg4",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mgmotoroficial.com.br/oferta/mg4",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mgmotoroficial.com.br/pdfs/mg4-ficha.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": "Oferta out/2026: de R$ 184.600 por R$ 169.600",
+          "consumo": {
+            "cidade_eletrico_km_le": 43.3,
+            "estrada_eletrico_km_le": 37.4
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "tanque_l": null,
+          "portas": 5,
+          "lugares": 5,
+          "id": "mg-mg4-comfort-2027",
+          "versao": "Comfort",
+          "ano_modelo": 2027,
+          "preco_sugerido_brl": 169600,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Motor síncrono de ímã permanente traseiro, 140 kW; bateria 64 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 190
+            },
+            "torque_kgfm": {
+              "eletrico": 35.7
+            },
+            "bateria_kwh": 61.7,
+            "autonomia_eletrica_km": 364,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.2,
+            "velocidade_maxima_kmh": 180
+          },
+          "dimensoes_mm": {
+            "comprimento": 4287,
+            "largura": 1836,
+            "largura_com_retrovisores": null,
+            "altura": 1516,
+            "entre_eixos": 2705,
+            "altura_livre_solo": 132
+          },
+          "peso_kg": 1755,
+          "porta_malas_l": 350,
+          "pneus": "235/45 R18",
+          "fonte_url": "https://www.mgmotoroficial.com.br/oferta/mg4",
+          "observacoes": "Unidades MY 26/27. Bateria: 64,0 kWh nominal / 61,7 kWh útil. Recarga DC até 140 kW. Altura livre do solo informada com carga. Rodas de alumínio 18\" com calotas aerodinâmicas. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"MG4 64 KWH COM\".",
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Tração traseira",
+              "ACC e assistente de congestionamento (TJA)",
+              "Frenagem autônoma (FCA)",
+              "Painel digital de 10,25\"",
+              "V2L",
+              "One-Pedal",
+              "Volante em couro",
+              "Recarga DC 30-80% em 29 min"
+            ]
+          }
+        },
+        {
+          "status": "À venda",
+          "preco_obs": "Oferta out/2026: de R$ 199.800 por R$ 189.800",
+          "consumo": {
+            "cidade_eletrico_km_le": 43.3,
+            "estrada_eletrico_km_le": 37.4
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "tanque_l": null,
+          "portas": 5,
+          "lugares": 5,
+          "id": "mg-mg4-luxury-2027",
+          "versao": "Luxury",
+          "ano_modelo": 2027,
+          "preco_sugerido_brl": 189800,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Motor síncrono de ímã permanente traseiro, 140 kW; bateria 64 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 190
+            },
+            "torque_kgfm": {
+              "eletrico": 35.7
+            },
+            "bateria_kwh": 61.7,
+            "autonomia_eletrica_km": 364,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.2,
+            "velocidade_maxima_kmh": 180
+          },
+          "dimensoes_mm": {
+            "comprimento": 4287,
+            "largura": 1836,
+            "largura_com_retrovisores": null,
+            "altura": 1516,
+            "entre_eixos": 2705,
+            "altura_livre_solo": 132
+          },
+          "peso_kg": 1765,
+          "porta_malas_l": 350,
+          "pneus": "235/45 R18",
+          "fonte_url": "https://www.mgmotoroficial.com.br/oferta/mg4",
+          "observacoes": "Unidades MY 26/27. Bateria: 64,0 kWh nominal / 61,7 kWh útil. Recarga DC até 140 kW. Altura livre do solo informada com carga. Bancos em tecido e couro artificial. Rodas de alumínio 18\" com calotas aerodinâmicas. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"MG4 64 KWH LUX\".",
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmera 360°",
+              "BSD + RCTA + LCA + DOW",
+              "Bancos dianteiros e volante aquecidos",
+              "Banco do motorista elétrico (6 posições)",
+              "Retrovisor interno eletrocrômico",
+              "Carregador wireless",
+              "Retrovisores com rebatimento elétrico",
+              "Vidros traseiros escurecidos"
+            ]
+          }
+        },
+        {
+          "status": "À venda",
+          "preco_obs": null,
+          "consumo": {
+            "cidade_eletrico_km_le": 36.3,
+            "estrada_eletrico_km_le": 32.7
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "tanque_l": null,
+          "portas": 5,
+          "lugares": 5,
+          "id": "mg-mg4-xpower-2027",
+          "versao": "XPower",
+          "ano_modelo": 2027,
+          "preco_sugerido_brl": 229800,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Dois motores síncronos de ímã permanente, 320 kW; bateria 64 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 435
+            },
+            "torque_kgfm": {
+              "eletrico": 61.2
+            },
+            "bateria_kwh": 61.7,
+            "autonomia_eletrica_km": 279,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.8,
+            "velocidade_maxima_kmh": 200
+          },
+          "dimensoes_mm": {
+            "comprimento": 4287,
+            "largura": 1836,
+            "largura_com_retrovisores": null,
+            "altura": 1516,
+            "entre_eixos": 2705,
+            "altura_livre_solo": 132
+          },
+          "peso_kg": 1810,
+          "porta_malas_l": 350,
+          "pneus": "235/45 R18",
+          "fonte_url": "https://www.mgmotoroficial.com.br/oferta/mg4",
+          "observacoes": "Unidades MY 26/27. Bateria: 64,0 kWh nominal / 61,7 kWh útil. Recarga DC até 140 kW. Altura livre do solo informada com carga. Recarga DC 30-80% em 22 min. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"MG4 64 KWH AWD\".",
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "435 cv e tração integral",
+              "0-100 km/h em 3,8 s",
+              "Bancos esportivos em alcântara e couro sintético",
+              "Discos ventilados nas 4 rodas",
+              "Rodas de liga leve 18\" exclusivas",
+              "Câmera 360°",
+              "BSD + RCTA + LCA + DOW",
+              "Bancos dianteiros e volante aquecidos"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "mg-mg4-urban",
+      "modelo": "MG4 Urban",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch médio elétrico",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mg-mg4-urban.webp",
+        "fonte_imagem": "https://4rings.pl/wp-content/uploads/2026/02/MG4-URBAN-5-1024x576.png",
+        "pagina_origem": "https://4rings.pl/mg4-urban-2026-analiza-ceny/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.mgmotoroficial.com.br/model/mg4urban",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mgmotoroficial.com.br/oferta/mg4urban",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mgmotoroficial.com.br/pdfs/2606_Ficha_Tecnica_MG4_Urban.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": null,
+          "consumo": {
+            "cidade_eletrico_km_le": 56.8,
+            "estrada_eletrico_km_le": 44
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "tanque_l": null,
+          "portas": 5,
+          "lugares": 5,
+          "id": "mg-mg4-urban-comfort-43-kwh-2027",
+          "versao": "Comfort 43 kWh",
+          "ano_modelo": 2027,
+          "preco_sugerido_brl": 134990,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Motor síncrono de ímã permanente dianteiro, 110 kW; bateria 42,8 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 150
+            },
+            "torque_kgfm": {
+              "eletrico": 25.5
+            },
+            "bateria_kwh": 41.9,
+            "autonomia_eletrica_km": 299,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.6,
+            "velocidade_maxima_kmh": 160
+          },
+          "dimensoes_mm": {
+            "comprimento": 4395,
+            "largura": 1842,
+            "largura_com_retrovisores": null,
+            "altura": 1549,
+            "entre_eixos": 2750,
+            "altura_livre_solo": 117
+          },
+          "peso_kg": 1422,
+          "porta_malas_l": 479,
+          "pneus": "195/60 R16",
+          "fonte_url": "https://www.mgmotoroficial.com.br/oferta/mg4urban",
+          "observacoes": "Unidades MY 26/27. Altura inclui rack de teto. Ficha informa volume total do porta-malas considerando 98 L extras sob o assoalho (577 L nas versões 43 kWh; 568 L na 54 kWh); valor padrão = total − 98 L (a página do modelo informa 479 L). Página informa acesso e partida sem chave. 7 airbags (frontais, laterais, cortina e central). Rodas de alumínio 16\" com calotas aerodinâmicas. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"MG4 URB EV43KWH COM\".",
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "7 airbags",
+              "15 assistentes ADAS (ACC, TJA, LKA, BSD, RCTA, DOW)",
+              "Rack de teto",
+              "Painel digital de 7\"",
+              "Saída de ar traseira",
+              "V2L",
+              "Wi-Fi hotspot",
+              "Câmera de ré com linhas dinâmicas"
+            ]
+          }
+        },
+        {
+          "status": "À venda",
+          "preco_obs": null,
+          "consumo": {
+            "cidade_eletrico_km_le": 56.8,
+            "estrada_eletrico_km_le": 44
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "tanque_l": null,
+          "portas": 5,
+          "lugares": 5,
+          "id": "mg-mg4-urban-luxury-43-kwh-2027",
+          "versao": "Luxury 43 kWh",
+          "ano_modelo": 2027,
+          "preco_sugerido_brl": 144990,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Motor síncrono de ímã permanente dianteiro, 110 kW; bateria 42,8 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 150
+            },
+            "torque_kgfm": {
+              "eletrico": 25.5
+            },
+            "bateria_kwh": 41.9,
+            "autonomia_eletrica_km": 299,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.6,
+            "velocidade_maxima_kmh": 160
+          },
+          "dimensoes_mm": {
+            "comprimento": 4395,
+            "largura": 1842,
+            "largura_com_retrovisores": null,
+            "altura": 1549,
+            "entre_eixos": 2750,
+            "altura_livre_solo": 117
+          },
+          "peso_kg": 1422,
+          "porta_malas_l": 479,
+          "pneus": "205/50 R17",
+          "fonte_url": "https://www.mgmotoroficial.com.br/oferta/mg4urban",
+          "observacoes": "Unidades MY 26/27. Altura inclui rack de teto. Ficha informa volume total do porta-malas considerando 98 L extras sob o assoalho (577 L nas versões 43 kWh; 568 L na 54 kWh); valor padrão = total − 98 L (a página do modelo informa 479 L). Página informa acesso e partida sem chave. 7 airbags (frontais, laterais, cortina e central). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"MG4 URB EV43KWH LUX\".",
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmera 360°",
+              "Bancos dianteiros e volante aquecidos",
+              "Volante em couro",
+              "Banco do motorista elétrico (6 posições)",
+              "Luz ambiente (64 cores)",
+              "Carregador wireless",
+              "Rodas de liga leve 17\"",
+              "Retrovisores com rebatimento elétrico"
+            ]
+          }
+        },
+        {
+          "status": "À venda",
+          "preco_obs": null,
+          "consumo": {
+            "cidade_eletrico_km_le": 43.3,
+            "estrada_eletrico_km_le": 37.4
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "tanque_l": null,
+          "portas": 5,
+          "lugares": 5,
+          "id": "mg-mg4-urban-luxury-54-kwh-2027",
+          "versao": "Luxury 54 kWh Long Range",
+          "ano_modelo": 2027,
+          "preco_sugerido_brl": 154990,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Motor síncrono de ímã permanente dianteiro, 118 kW; bateria 53,9 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 160
+            },
+            "torque_kgfm": {
+              "eletrico": 25.5
+            },
+            "bateria_kwh": 52.8,
+            "autonomia_eletrica_km": 358,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.5,
+            "velocidade_maxima_kmh": 160
+          },
+          "dimensoes_mm": {
+            "comprimento": 4395,
+            "largura": 1842,
+            "largura_com_retrovisores": null,
+            "altura": 1549,
+            "entre_eixos": 2750,
+            "altura_livre_solo": 117
+          },
+          "peso_kg": 1504,
+          "porta_malas_l": 470,
+          "pneus": "205/50 R17",
+          "fonte_url": "https://www.mgmotoroficial.com.br/oferta/mg4urban",
+          "observacoes": "Unidades MY 26/27. Altura inclui rack de teto. Ficha informa volume total do porta-malas considerando 98 L extras sob o assoalho (577 L nas versões 43 kWh; 568 L na 54 kWh); valor padrão = total − 98 L (a página do modelo informa 479 L). Página informa acesso e partida sem chave. 7 airbags (frontais, laterais, cortina e central). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"MG4 64 KWH LUX\".",
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Bateria de 54 kWh e 358 km de autonomia (Inmetro)",
+              "Câmera 360°",
+              "Bancos dianteiros e volante aquecidos",
+              "Banco do motorista elétrico (6 posições)",
+              "Luz ambiente (64 cores)",
+              "Carregador wireless",
+              "Rodas de liga leve 17\""
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "mg-s5",
+      "modelo": "MG S5",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mg-s5.webp",
+        "fonte_imagem": "https://www.netcarshow.com/MG-S5_EV-2026-Side_Profile.026e0b74.jpg",
+        "pagina_origem": "https://www.netcarshow.com/mg/2026-s5_ev/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.mgmotoroficial.com.br/model/mgs5",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mgmotoroficial.com.br/oferta/mgs5",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mgmotoroficial.com.br/pdfs/mgs5-ficha.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": "Oferta out/2026: de R$ 218.800 por R$ 179.800",
+          "consumo": {
+            "cidade_eletrico_km_le": 43,
+            "estrada_eletrico_km_le": 36.7
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "tanque_l": null,
+          "portas": 5,
+          "lugares": 5,
+          "id": "mg-s5-comfort-2027",
+          "versao": "Comfort",
+          "ano_modelo": 2027,
+          "preco_sugerido_brl": 179800,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Motor síncrono de ímã permanente traseiro, 151 kW; bateria 64 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 205
+            },
+            "torque_kgfm": {
+              "eletrico": 35.7
+            },
+            "bateria_kwh": 62.1,
+            "autonomia_eletrica_km": 351,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.3,
+            "velocidade_maxima_kmh": 170
+          },
+          "dimensoes_mm": {
+            "comprimento": 4476,
+            "largura": 1849,
+            "largura_com_retrovisores": null,
+            "altura": 1633,
+            "entre_eixos": 2734,
+            "altura_livre_solo": 145
+          },
+          "peso_kg": 1705,
+          "porta_malas_l": 453,
+          "pneus": "215/60 R17",
+          "fonte_url": "https://www.mgmotoroficial.com.br/oferta/mgs5",
+          "observacoes": "Unidades MY 26/27. Bateria 64,0 kWh nominal / 62,1 kWh útil. Recarga DC até 150 kW (10-80% em 28 min). V2L. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"S5 EV 62KWH COM\".",
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "ACC, TJA, LKA e frenagem autônoma",
+              "Rodas diamantadas 17\"",
+              "Painel digital de 10,25\"",
+              "One-Pedal",
+              "V2L",
+              "Rack de teto",
+              "Saída de ar traseira"
+            ]
+          }
+        },
+        {
+          "status": "À venda",
+          "preco_obs": "Oferta out/2026: de R$ 238.800 por R$ 219.800",
+          "consumo": {
+            "cidade_eletrico_km_le": 43,
+            "estrada_eletrico_km_le": 36.7
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "tanque_l": null,
+          "portas": 5,
+          "lugares": 5,
+          "id": "mg-s5-luxury-2027",
+          "versao": "Luxury",
+          "ano_modelo": 2027,
+          "preco_sugerido_brl": 219800,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Motor síncrono de ímã permanente traseiro, 151 kW; bateria 64 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 205
+            },
+            "torque_kgfm": {
+              "eletrico": 35.7
+            },
+            "bateria_kwh": 62.1,
+            "autonomia_eletrica_km": 351,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.3,
+            "velocidade_maxima_kmh": 170
+          },
+          "dimensoes_mm": {
+            "comprimento": 4476,
+            "largura": 1849,
+            "largura_com_retrovisores": null,
+            "altura": 1633,
+            "entre_eixos": 2734,
+            "altura_livre_solo": 145
+          },
+          "peso_kg": 1755,
+          "porta_malas_l": 453,
+          "pneus": "225/55 R18",
+          "fonte_url": "https://www.mgmotoroficial.com.br/oferta/mgs5",
+          "observacoes": "Unidades MY 26/27. Bateria 64,0 kWh nominal / 62,1 kWh útil. Recarga DC até 150 kW (10-80% em 28 min). V2L. Bancos em tecido e couro artificial. 7 airbags (inclui central). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"S5 EV 62KWH LUX\".",
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto solar panorâmico",
+              "Câmera 360°",
+              "BSD + RCTA + LCA + DOW + RCW",
+              "Bancos dianteiros aquecidos e ventilados",
+              "Volante aquecido",
+              "Porta-malas elétrico com sensor de aproximação",
+              "Airbag central",
+              "Sensor de chuva",
+              "Carregador wireless"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "mg-cyberster",
+      "modelo": "Cyberster",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Roadster elétrico",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mg-cyberster.webp",
+        "fonte_imagem": "https://nmimg.co.za/pietermaritzburg/wp-content/uploads/sites/2/2024/12/cybester-left-side-view.jpg",
+        "pagina_origem": "https://nmimg.co.za/pietermaritzburg/ranges/mg-cyberster/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.mgmotoroficial.com.br/model/MG-CYBERSTER",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mgmotoroficial.com.br/oferta/cyberster",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mgmotoroficial.com.br/pdfs/cyberster-ficha.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": null,
+          "consumo": {
+            "cidade_eletrico_km_le": 38.9,
+            "estrada_eletrico_km_le": 33.9
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "tanque_l": null,
+          "portas": 2,
+          "lugares": 2,
+          "id": "mg-cyberster-awd-77-kwh-2027",
+          "versao": "AWD 77 kWh",
+          "ano_modelo": 2027,
+          "preco_sugerido_brl": 529800,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Dois motores síncronos de ímã permanente (150 kW dianteiro + 250 kW traseiro; 375 kW combinados); bateria 77 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 510
+            },
+            "torque_kgfm": {
+              "eletrico": 73.9
+            },
+            "bateria_kwh": 74.4,
+            "autonomia_eletrica_km": 342,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.2,
+            "velocidade_maxima_kmh": 200
+          },
+          "dimensoes_mm": {
+            "comprimento": 4535,
+            "largura": 1913,
+            "largura_com_retrovisores": null,
+            "altura": 1329,
+            "entre_eixos": 2690,
+            "altura_livre_solo": 116
+          },
+          "peso_kg": 1985,
+          "porta_malas_l": 249,
+          "pneus": "245/40 R20 (diant.) / 275/35 R20 (tras.)",
+          "fonte_url": "https://www.mgmotoroficial.com.br/oferta/cyberster",
+          "observacoes": "Unidades MY 26/27. Bateria 77,0 kWh nominal / 74,4 kWh útil. Altura livre do solo 115,5 mm (arredondada). Capota de tecido elétrica. Multimídia em 2 telas de 7\" + painel de 10,25\"; CarPlay/Android Auto via cabo. Edição comemorativa \"100th Anniversary\". Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CYBERSTER 77 KWH AWD\".",
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 7,
+            "carplay_android_auto": "Com fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Portas elétricas tipo tesoura",
+              "Capota de tecido elétrica",
+              "Freios Brembo",
+              "510 cv e 0-100 km/h em 3,2 s",
+              "Launch control",
+              "Bancos em alcântara e couro sintético, aquecidos, com ajuste elétrico e memória",
+              "Som Bose com 8 alto-falantes",
+              "Três telas digitais",
+              "Câmera 360°",
+              "Purificador de ar"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+.git
+.gitignore
+.dockerignore
+Dockerfile
+README.md
+.claude
+.impeccable
+.superpowers
+docs
+entrega
+tests
+scripts
+data/marcas
+package.json
+abrir localhost.txt

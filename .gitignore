@@ -1,0 +1,12 @@
+.claude/
+.impeccable/
+.superpowers/
+.vscode/
+docs/
+entrega/
+abrir localhost.txt
+node_modules/
+*.log
+Thumbs.db
+desktop.ini
+.DS_Store

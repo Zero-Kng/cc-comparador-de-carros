@@ -1,0 +1,1056 @@
+{
+  "marca": "Lexus",
+  "slug": "lexus",
+  "site_oficial": "https://www.lexus.com.br",
+  "coletado_em": "2026-10-19",
+  "modelos": [
+    {
+      "id": "lexus-ux",
+      "modelo": "UX",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/lexus-ux.webp",
+        "fonte_imagem": "https://s1.cdn.autoevolution.com/images/news/gallery/lexus-ux-300h-enters-model-year-2026-largely-unchanged_7.jpg",
+        "pagina_origem": "https://www.autoevolution.com/news/lexus-ux-300h-enters-model-year-2026-largely-unchanged-260988.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.lexus.com.br/pt/models/ux.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.lexus.com.br/pt/models/ux/ux-300h.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://lacddam.lexusasia.com/lexus-v3-brazil/model-brochures/26my/ux-300h/UX300H-2026.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.lexuscomunica.com.br/lexus-apresenta-novo-ux-300h-no-brasil/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "lexus-ux-ux-300h-2027",
+          "versao": "UX 300h",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 314990,
+          "preco_obs": "Preço público sugerido do site (base Brasília/DF), pintura metalizada, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 16V DOHC VVT-iE + motor elétrico (Lexus Hybrid 5ª geração)",
+            "cilindrada_cm3": 1987,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 152,
+              "eletrico": 112,
+              "combinada": 198
+            },
+            "torque_kgfm": {
+              "gasolina": 18.8,
+              "eletrico": 20.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.1,
+            "velocidade_maxima_kmh": 177
+          },
+          "consumo": {
+            "cidade_gasolina": 17.3,
+            "estrada_gasolina": 14.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4495,
+            "largura": 1840,
+            "largura_com_retrovisores": null,
+            "altura": 1520,
+            "entre_eixos": 2640,
+            "altura_livre_solo": 157
+          },
+          "peso_kg": null,
+          "porta_malas_l": 268,
+          "tanque_l": 40,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/50 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 8,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Lexus Safety System+ (PCS, DRCC, LTA, LDA, AHB)",
+              "Câmera 360°",
+              "Bancos dianteiros aquecidos e ventilados",
+              "Painel digital de 12,3\"",
+              "Teto solar elétrico",
+              "Tampa traseira elétrica hands-free",
+              "Pneus run flat"
+            ]
+          },
+          "fonte_url": "https://www.lexus.com.br/pt/models/ux/ux-300h.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Catálogo oficial \"UX 300h linha 2027\" (MY’27). Consumo PBEV 2025. Tipo de conexão CarPlay/Android Auto (com ou sem fio) não especificado. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"UX 300H UX 300H\"."
+        }
+      ]
+    },
+    {
+      "id": "lexus-nx",
+      "modelo": "NX",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido (HEV)",
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/lexus-nx.webp",
+        "fonte_imagem": "https://southcountylexus.bhaimg.com/website/lexus/2026-nx-exterior.jpg",
+        "pagina_origem": "https://www.southcountylexus.com/lexus-reviews/2026-nx.htm"
+      },
+      "fontes": [
+        {
+          "url": "https://www.lexus.com.br/pt/models/nx.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://lacddam.lexusasia.com/lexus-v3-brazil/model-brochures/26my/nx-350h/NX350H-2026.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://lacddam.lexusasia.com/lexus-v3-brazil/model-brochures/26my/nx-450h/NX450H-2026.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.lexuscomunica.com.br/lexus-amplia-portfolio-no-brasil-com-nx-em-inedita-opcao-hibrida-plug-in/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "lexus-nx-350h-dynamic-2026",
+          "versao": "350h Dynamic",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 409990,
+          "preco_obs": "Preço público sugerido do site (base Brasília/DF), pintura metalizada, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.5 16V DOHC (A25A-FXS) + motores elétricos dianteiro e traseiro",
+            "cilindrada_cm3": 2487,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 192,
+              "eletrico": 182,
+              "combinada": 246
+            },
+            "torque_kgfm": {
+              "gasolina": 22.1,
+              "eletrico": 27
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.7,
+            "velocidade_maxima_kmh": 200
+          },
+          "consumo": {
+            "cidade_gasolina": 15.7,
+            "estrada_gasolina": 13.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4660,
+            "largura": 1865,
+            "largura_com_retrovisores": null,
+            "altura": 1670,
+            "entre_eixos": 2690,
+            "altura_livre_solo": 195
+          },
+          "peso_kg": 1870,
+          "porta_malas_l": 520,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/50 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9.8,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Lexus Safety System+ 3.0 (PCS, DRCC, LTA, AHS)",
+              "Câmera 360°",
+              "Alerta de saída segura (SEA)",
+              "Tampa traseira elétrica hands-free",
+              "Multimídia de 9,8\"",
+              "Bancos em couro ecológico"
+            ]
+          },
+          "fonte_url": "https://www.lexus.com.br/pt/models/nx/nx-350h-dynamic.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Catálogo oficial NX 350h 2026 (MY25/26). Consumo PBEV 2025. Altura livre do solo com pneus 235/50 R20 (site). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"NX350H DYNAMIC\"."
+        },
+        {
+          "id": "lexus-nx-350h-luxury-2026",
+          "versao": "350h Luxury",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 429990,
+          "preco_obs": "Preço público sugerido do site (base Brasília/DF), pintura metalizada, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.5 16V DOHC (A25A-FXS) + motores elétricos dianteiro e traseiro",
+            "cilindrada_cm3": 2487,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 192,
+              "eletrico": 182,
+              "combinada": 246
+            },
+            "torque_kgfm": {
+              "gasolina": 22.1,
+              "eletrico": 27
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.7,
+            "velocidade_maxima_kmh": 200
+          },
+          "consumo": {
+            "cidade_gasolina": 15.7,
+            "estrada_gasolina": 13.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4660,
+            "largura": 1865,
+            "largura_com_retrovisores": null,
+            "altura": 1670,
+            "entre_eixos": 2690,
+            "altura_livre_solo": 195
+          },
+          "peso_kg": 1870,
+          "porta_malas_l": 520,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/50 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Multimídia de 14\" com navegação",
+              "Head-up display",
+              "Teto solar elétrico",
+              "Bancos dianteiros aquecidos e ventilados; traseiros aquecidos",
+              "Banco do motorista com memória e Easy Access",
+              "Carregador por indução",
+              "Bancos em couro natural"
+            ]
+          },
+          "fonte_url": "https://www.lexus.com.br/pt/models/nx/nx-350h-luxury.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Catálogo oficial NX 350h 2026 (MY25/26). Consumo PBEV 2025. Altura livre do solo com pneus 235/50 R20 (site). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"NX350H DYNAMIC\"."
+        },
+        {
+          "id": "lexus-nx-350h-f-sport-2026",
+          "versao": "350h F-Sport",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 474990,
+          "preco_obs": "Preço público sugerido do site (base Brasília/DF), pintura metalizada, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.5 16V DOHC (A25A-FXS) + motores elétricos dianteiro e traseiro",
+            "cilindrada_cm3": 2487,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 192,
+              "eletrico": 182,
+              "combinada": 246
+            },
+            "torque_kgfm": {
+              "gasolina": 22.1,
+              "eletrico": 27
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.7,
+            "velocidade_maxima_kmh": 200
+          },
+          "consumo": {
+            "cidade_gasolina": 15.7,
+            "estrada_gasolina": 13.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4660,
+            "largura": 1865,
+            "largura_com_retrovisores": null,
+            "altura": 1670,
+            "entre_eixos": 2690,
+            "altura_livre_solo": 195
+          },
+          "peso_kg": 1870,
+          "porta_malas_l": 520,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/50 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Visual F-Sport (grade exclusiva, rodas 20\" pretas)",
+              "Suspensão adaptativa variável (AVS)",
+              "Teto solar panorâmico",
+              "Som Mark Levinson 16 alto-falantes + subwoofer",
+              "Retrovisor interno digital",
+              "Estacionamento automático (IPA)",
+              "Head-up display"
+            ]
+          },
+          "fonte_url": "https://www.lexus.com.br/pt/models/nx/nx-350h-fsport.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Catálogo oficial NX 350h 2026 (MY25/26). Consumo PBEV 2025. Altura livre do solo com pneus 235/50 R20 (site). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"NX350H DYNAMIC\"."
+        },
+        {
+          "id": "lexus-nx-450h-plug-in-2026",
+          "versao": "450h+ Plug-in",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 499990,
+          "preco_obs": "Preço público sugerido do site (base Brasília/DF), pintura metalizada, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.5 16V DOHC (A25A-FXS) + motores elétricos dianteiro e traseiro, híbrido plug-in",
+            "cilindrada_cm3": 2487,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 187,
+              "eletrico": 182,
+              "combinada": 308
+            },
+            "torque_kgfm": {
+              "gasolina": 23.6,
+              "eletrico": 27
+            },
+            "bateria_kwh": 18.1,
+            "autonomia_eletrica_km": 55,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.3,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 14.5,
+            "estrada_gasolina": 13.1,
+            "cidade_eletrico_km_le": 37.1,
+            "estrada_eletrico_km_le": 29.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4660,
+            "largura": 1856,
+            "largura_com_retrovisores": null,
+            "altura": 1670,
+            "entre_eixos": 2690,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 520,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/50 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Híbrido plug-in com 55 km de autonomia elétrica",
+              "Carregador portátil 2,3 kW + wallbox 7,4 kW inclusos",
+              "Teto solar panorâmico",
+              "Volante aquecido",
+              "Multimídia de 14\" com navegação",
+              "Estacionamento automático (IPA)",
+              "Câmera 360°"
+            ]
+          },
+          "fonte_url": "https://www.lexus.com.br/pt/models/nx/nx-450h-plus.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Catálogo oficial NX 450h+ 2026 (MY25/26). Consumo PBEV 2025 (modo híbrido em km/l e modo elétrico em km/le). Largura de 1.856 mm conforme impresso no catálogo (NX 350h: 1.865 mm). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"NX 450H PLUG-IN NX450H PLUG-IN\"."
+        }
+      ]
+    },
+    {
+      "id": "lexus-rx",
+      "modelo": "RX",
+      "categoria": "SUV Grande",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)",
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/lexus-rx.webp",
+        "fonte_imagem": "https://insidethehood.com/wp-content/uploads/2024/01/2026-Lexus-RX-Price.jpg",
+        "pagina_origem": "https://ausmalbilderfurkinder.de/2026-lexus-rx-350h/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.lexus.com.br/pt/models/rx.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://lacddam.lexusasia.com/lexus-v3-brazil/model-brochures/25my/rx-450h/RX450H-2025.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://lacddam.lexusasia.com/lexus-v3-brazil/model-brochures/25my/rx-500h/RX500H-2025.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.lexuscomunica.com.br/lexus-anuncia-novo-rx-450h-no-brasil/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.webmotors.com.br/carros-novos/sp-sao-paulo/lexus",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "lexus-rx-450h-plug-in-2027",
+          "versao": "450h+ Plug-in",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 614990,
+          "preco_obs": "Preço público sugerido do site (base Brasília/DF), pintura metalizada, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.5 16V DOHC + motores elétricos dianteiro (182 cv) e traseiro (54 cv), híbrido plug-in",
+            "cilindrada_cm3": 2487,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 187,
+              "eletrico": 182,
+              "combinada": 308
+            },
+            "torque_kgfm": {
+              "gasolina": 23.6,
+              "eletrico": 27
+            },
+            "bateria_kwh": 18.1,
+            "autonomia_eletrica_km": 56,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.5,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 14.1,
+            "estrada_gasolina": 12.6,
+            "cidade_eletrico_km_le": 35,
+            "estrada_eletrico_km_le": 28.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4890,
+            "largura": 1920,
+            "largura_com_retrovisores": null,
+            "altura": 1695,
+            "entre_eixos": 2850,
+            "altura_livre_solo": 182
+          },
+          "peso_kg": null,
+          "porta_malas_l": 612,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/50 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Híbrido plug-in com 56 km de autonomia elétrica",
+              "Teto solar panorâmico",
+              "Bancos dianteiros e traseiros aquecidos e ventilados",
+              "Som Mark Levinson 21 alto-falantes",
+              "Head-up display",
+              "Câmera 360°",
+              "Estacionamento automático"
+            ]
+          },
+          "fonte_url": "https://www.lexus.com.br/pt/models/rx/rx-450h-plus.html",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Ano-modelo não informado no site oficial; adotado conforme anúncios de 0 km (fonte secundária). Ficha/catálogo oficial mais recente é MY2025. Consumo PBEV 2024. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RX450H PLUG-IN I/LEXUS RX450H PLUG-IN\"."
+        },
+        {
+          "id": "lexus-rx-500h-f-sport-performance-2026",
+          "versao": "500h F-Sport Performance",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 619990,
+          "preco_obs": "Preço público sugerido do site (base Brasília/DF), pintura metalizada, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.4 turbo 16V DOHC + motores elétricos dianteiro (87 cv) e traseiro (54 cv), tração DIRECT4",
+            "cilindrada_cm3": 2393,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 275,
+              "eletrico": 87,
+              "combinada": 371
+            },
+            "torque_kgfm": {
+              "gasolina": 46,
+              "eletrico": 29
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.2,
+            "velocidade_maxima_kmh": 210
+          },
+          "consumo": {
+            "cidade_gasolina": 10.8,
+            "estrada_gasolina": 11
+          },
+          "dimensoes_mm": {
+            "comprimento": 4890,
+            "largura": 1920,
+            "largura_com_retrovisores": null,
+            "altura": 1695,
+            "entre_eixos": 2850,
+            "altura_livre_solo": 183
+          },
+          "peso_kg": null,
+          "porta_malas_l": 612,
+          "tanque_l": 65,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/50 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Visual e acabamento F-Sport (rodas 21\")",
+              "Tração integral DIRECT4",
+              "Ar digital de 3 zonas",
+              "Teto solar panorâmico",
+              "Som Mark Levinson 21 alto-falantes",
+              "Head-up display",
+              "Câmera 360°"
+            ]
+          },
+          "fonte_url": "https://www.lexus.com.br/pt/models/rx/rx-500h-fsport-performance.html",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Ano-modelo não informado no site oficial; adotado conforme anúncios de 0 km (fonte secundária). Ficha/catálogo oficial mais recente é MY2025. Consumo PBEV 2024. Peso não informado de forma confiável (catálogo repete o valor do NX). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RX500H F-SPORT\"."
+        }
+      ]
+    },
+    {
+      "id": "lexus-rz",
+      "modelo": "RZ",
+      "categoria": "SUV Médio",
+      "subcategoria": "SUV cupê",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/lexus-rz.webp",
+        "fonte_imagem": "https://www.netcarshow.com/Lexus-RZ-2026-Side_Profile.734e3b30.jpg",
+        "pagina_origem": "https://www.netcarshow.com/lexus/2026-rz/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.lexus.com.br/pt/models/rz.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.lexus.com.br/pt/models/rz/rz-500e.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.lexuscomunica.com.br/lexus-rz-500e-primeiro-eletrico-da-marca-no-brasil-ja-esta-disponivel-nas-concessionarias-de-todo-o-pais/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.webmotors.com.br/carros-novos/estoque/lexus",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "lexus-rz-500e-2027",
+          "versao": "500e",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 499990,
+          "preco_obs": "Preço público sugerido do site (base Brasília/DF), pintura metalizada, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Dois motores elétricos (eAxle dianteiro e traseiro, até 167 kW cada; 26,9 kgfm por eixo), tração DIRECT4",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 381
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": 77,
+            "autonomia_eletrica_km": 357,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.6,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 39.1,
+            "estrada_eletrico_km_le": 32.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4805,
+            "largura": 1895,
+            "largura_com_retrovisores": null,
+            "altura": 1635,
+            "entre_eixos": 2850,
+            "altura_livre_solo": 200
+          },
+          "peso_kg": null,
+          "porta_malas_l": 522,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 8,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": null,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 14,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Recarga DC até 150 kW",
+              "Teto panorâmico com transparência controlada eletronicamente",
+              "Som Mark Levinson 14 alto-falantes",
+              "Bancos em Ultrasuede",
+              "Iluminação ambiente de 64 cores",
+              "Maçanetas eletrônicas e-Latch",
+              "Lexus Safety System+ 3.0"
+            ]
+          },
+          "fonte_url": "https://www.lexus.com.br/pt/models/rz/rz-500e.html",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Ano-modelo não informado no site oficial; adotado conforme anúncios de 0 km (fonte secundária). Autonomia Inmetro (357 km) do release de maio/2026. Torque informado por eixo. Itens de equipamento não detalhados nas fontes oficiais ficaram null. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RZ 500e\"."
+        }
+      ]
+    },
+    {
+      "id": "lexus-es",
+      "modelo": "ES",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan grande",
+      "propulsoes": [
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/lexus-es.webp",
+        "fonte_imagem": "https://img-cdn-zw.zigwheelsksa.com/large/gallery/exterior/22/2178/lexus-es-2026-side-view-911156.jpg",
+        "pagina_origem": "https://www.zigwheelsksa.com/new-cars/lexus/es-2026/images"
+      },
+      "fontes": [
+        {
+          "url": "https://www.lexus.com.br/pt/models/es.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.lexuscomunica.com.br/novo-lexus-es-ja-esta-disponivel-em-pre-venda-no-brasil-por-r-399-990/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.vrum.com.br/mercado/2026/08/7472901-novo-lexus-es-350h-chega-ao-brasil-por-rs-399-990-e-faz-ate-186-km-l.html",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.webmotors.com.br/carros-novos/estoque/lexus",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "lexus-es-350h-2027",
+          "versao": "350h",
+          "ano_modelo": 2027,
+          "status": "Pré-venda",
+          "preco_sugerido_brl": 399990,
+          "preco_obs": "Preço de pré-venda divulgado pela Lexus (ago/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.5 + eAxle (Lexus Hybrid 6ª geração)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "combinada": 247
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": 7.7,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 18.6,
+            "estrada_gasolina": 16.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 5140,
+            "largura": 1920,
+            "largura_com_retrovisores": null,
+            "altura": 1560,
+            "entre_eixos": 2950,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 10,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 14,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Nova (8ª) geração",
+              "Lexus Safety System 4.0 com monitor do condutor",
+              "Multimídia LexusConnect de 14\"",
+              "Head-up display colorido",
+              "Som Mark Levinson 17 alto-falantes",
+              "Retrovisor interno digital",
+              "Iluminação ambiente de 14 cores",
+              "Rodas AERO de 19\""
+            ]
+          },
+          "fonte_url": "https://www.lexus.com.br/pt/models/es.html",
+          "campos_fonte_secundaria": [
+            "ano_modelo",
+            "motor.combustivel",
+            "motor.potencia_cv",
+            "desempenho.aceleracao_0_100_s",
+            "consumo.cidade_gasolina",
+            "consumo.estrada_gasolina"
+          ],
+          "observacoes": "Em pré-venda (entregas a partir de out/2026). Site e release oficial não divulgam potência, consumo nem ano-modelo; esses dados vêm da imprensa (Inmetro) e de anúncios 0 km. Dimensões arredondadas do release oficial (5,14 x 1,92 x 1,56 m; entre-eixos 2,95 m). ES 500e (elétrico) anunciado para o fim de 2026, ainda sem preço — não incluído."
+        }
+      ]
+    }
+  ]
+}

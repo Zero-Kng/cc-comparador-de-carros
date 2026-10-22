@@ -1,0 +1,2883 @@
+{
+  "marca": "GWM",
+  "slug": "gwm",
+  "site_oficial": "https://www.gwmmotors.com.br",
+  "coletado_em": "2026-10-20",
+  "modelos": [
+    {
+      "id": "gwm-haval-h6",
+      "modelo": "Haval H6",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido (HEV)",
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/gwm-haval-h6.webp",
+        "fonte_imagem": "https://motorshow.com.br/wp-content/uploads/sites/2/2026/01/hev-2-lateral-direita.jpg",
+        "pagina_origem": "https://motorshow.com.br/gwm-haval-h6-2026-para-pcd"
+      },
+      "fontes": [
+        {
+          "url": "https://www.gwmmotors.com.br/pt/modelos/haval-h6-hev",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/modelos/haval-h6-hev-one",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/modelos/haval-h6-phev-19",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/modelos/haval-h6-phev-35",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/content/dam/gwm/pages/br/pt/models/haval-hev2-my25/ficha-tecnica-haval-h6-hev2-flex-gwm.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/content/dam/gwm/pages/br/pt/models/haval-h6-hev-one/ficha-tecnica-haval-h6-hev-one-flex-gwm.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/content/dam/gwm/pages/br/pt/models/haval-h6-phev19-my25/ficha-tecnica-haval-h6-phev19-flex-gwm.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/content/dam/gwm/pages/br/pt/models/phev-35/ficha-tecnica-haval-h6-phev-35-flex.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/saiba-mais/condicoes-comerciais",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://monitormercantil.com.br/gwm-anuncia-linha-haval-h6-flex-com-producao-nacional/",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "gwm-haval-h6-hev-one-2027",
+          "versao": "HEV One",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 199900,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Flex",
+            "descricao": "1.5 Turbo Flex HEV + 1 motor elétrico",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 248
+            },
+            "torque_kgfm": {
+              "combinada": 54.5
+            },
+            "bateria_kwh": 1.53,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.6,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_etanol": 10.2,
+            "estrada_etanol": 9,
+            "cidade_gasolina": 15.8,
+            "estrada_gasolina": 13
+          },
+          "dimensoes_mm": {
+            "comprimento": 4703,
+            "largura": 1886,
+            "largura_com_retrovisores": null,
+            "altura": 1730,
+            "entre_eixos": 2738,
+            "altura_livre_solo": 200
+          },
+          "peso_kg": 1699,
+          "porta_malas_l": 560,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/60 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Head-up display",
+              "Câmera 540° com chassi invisível",
+              "Bancos dianteiros com ventilação",
+              "Coffee OS 3 com 300+ comandos de voz",
+              "Condução semiautônoma nível 2+",
+              "Auto reverse assistance (refaz os últimos 50 m)",
+              "Carregador por indução de 50 W",
+              "Sem teto solar e sem porta-malas hands-free (itens retirados em relação ao HEV2)"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/haval-h6-hev-one",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Versão de entrada (retorno do HEV One). O site oficial não informa o ano-modelo; 2027 conforme imprensa (Monitor Mercantil, linha 2027 do H6). Controle de estabilidade: item obrigatório por lei no Brasil; a ficha cita TCS/ABS/EBD. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HAVAL H6 HEV1 FLEX\"."
+        },
+        {
+          "id": "gwm-haval-h6-hev2-2026",
+          "versao": "HEV2",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 224000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Flex",
+            "descricao": "1.5 Turbo Flex HEV + 1 motor elétrico",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 248
+            },
+            "torque_kgfm": {
+              "combinada": 54.5
+            },
+            "bateria_kwh": 1.53,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.6,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_etanol": 10.2,
+            "estrada_etanol": 9,
+            "cidade_gasolina": 15.8,
+            "estrada_gasolina": 13
+          },
+          "dimensoes_mm": {
+            "comprimento": 4703,
+            "largura": 1886,
+            "largura_com_retrovisores": null,
+            "altura": 1730,
+            "entre_eixos": 2738,
+            "altura_livre_solo": 200
+          },
+          "peso_kg": 1699,
+          "porta_malas_l": 560,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/60 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Head-up display",
+              "Câmera 540° com chassi invisível",
+              "Bancos dianteiros com ventilação",
+              "Coffee OS 3 com 300+ comandos de voz",
+              "Condução semiautônoma nível 2+",
+              "Auto reverse assistance (refaz os últimos 50 m)",
+              "Carregador por indução de 50 W",
+              "Teto solar panorâmico elétrico",
+              "Porta-malas com abertura hands-free"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/haval-h6-hev",
+          "campos_fonte_secundaria": [],
+          "observacoes": "A GWM publica uma única ficha técnica para os anos-modelo 2026/2026 e 2026/2027; especificações iguais nos dois anos. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HAVAL H6 HEV1 FLEX\"."
+        },
+        {
+          "id": "gwm-haval-h6-hev2-2027",
+          "versao": "HEV2",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 225000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Flex",
+            "descricao": "1.5 Turbo Flex HEV + 1 motor elétrico",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 248
+            },
+            "torque_kgfm": {
+              "combinada": 54.5
+            },
+            "bateria_kwh": 1.53,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.6,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_etanol": 10.2,
+            "estrada_etanol": 9,
+            "cidade_gasolina": 15.8,
+            "estrada_gasolina": 13
+          },
+          "dimensoes_mm": {
+            "comprimento": 4703,
+            "largura": 1886,
+            "largura_com_retrovisores": null,
+            "altura": 1730,
+            "entre_eixos": 2738,
+            "altura_livre_solo": 200
+          },
+          "peso_kg": 1699,
+          "porta_malas_l": 560,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/60 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Head-up display",
+              "Câmera 540° com chassi invisível",
+              "Bancos dianteiros com ventilação",
+              "Coffee OS 3 com 300+ comandos de voz",
+              "Condução semiautônoma nível 2+",
+              "Auto reverse assistance (refaz os últimos 50 m)",
+              "Carregador por indução de 50 W",
+              "Teto solar panorâmico elétrico",
+              "Porta-malas com abertura hands-free"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/haval-h6-hev",
+          "campos_fonte_secundaria": [],
+          "observacoes": "A GWM publica uma única ficha técnica para os anos-modelo 2026/2026 e 2026/2027; especificações iguais nos dois anos. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HAVAL H6 HEV1 FLEX\"."
+        },
+        {
+          "id": "gwm-haval-h6-phev19-2026",
+          "versao": "PHEV19",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 249000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.5 Turbo Flex PHEV + 1 motor elétrico dianteiro",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 326
+            },
+            "torque_kgfm": {
+              "combinada": 54.5
+            },
+            "bateria_kwh": 19,
+            "autonomia_eletrica_km": 77,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.4,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_etanol": 10,
+            "estrada_etanol": 8.9,
+            "cidade_gasolina": 14.7,
+            "estrada_gasolina": 12.9,
+            "cidade_eletrico_km_le": 37.7,
+            "estrada_eletrico_km_le": 30.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4703,
+            "largura": 1886,
+            "largura_com_retrovisores": null,
+            "altura": 1730,
+            "entre_eixos": 2738,
+            "altura_livre_solo": 201
+          },
+          "peso_kg": 1915,
+          "porta_malas_l": 560,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/55 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Head-up display",
+              "Câmera 540° com chassi invisível",
+              "Bancos dianteiros com ventilação",
+              "Coffee OS 3 com 300+ comandos de voz",
+              "Condução semiautônoma nível 2+",
+              "Auto reverse assistance (refaz os últimos 50 m)",
+              "Carregador por indução de 50 W",
+              "Teto solar panorâmico elétrico",
+              "Porta-malas com abertura hands-free",
+              "Som com 9 alto-falantes e subwoofer (216 W)",
+              "Recarga DC 33 kW (20-80% em ~25 min)"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/haval-h6-phev-19",
+          "campos_fonte_secundaria": [],
+          "observacoes": "A GWM publica uma única ficha técnica para os anos-modelo 2026/2026 e 2026/2027; especificações iguais nos dois anos. Capacidade de reboque 750 kg. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HAVAL H6 PHEV19 FF\"."
+        },
+        {
+          "id": "gwm-haval-h6-phev19-2027",
+          "versao": "PHEV19",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 250000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.5 Turbo Flex PHEV + 1 motor elétrico dianteiro",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 326
+            },
+            "torque_kgfm": {
+              "combinada": 54.5
+            },
+            "bateria_kwh": 19,
+            "autonomia_eletrica_km": 77,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.4,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_etanol": 10,
+            "estrada_etanol": 8.9,
+            "cidade_gasolina": 14.7,
+            "estrada_gasolina": 12.9,
+            "cidade_eletrico_km_le": 37.7,
+            "estrada_eletrico_km_le": 30.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4703,
+            "largura": 1886,
+            "largura_com_retrovisores": null,
+            "altura": 1730,
+            "entre_eixos": 2738,
+            "altura_livre_solo": 201
+          },
+          "peso_kg": 1915,
+          "porta_malas_l": 560,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/55 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Head-up display",
+              "Câmera 540° com chassi invisível",
+              "Bancos dianteiros com ventilação",
+              "Coffee OS 3 com 300+ comandos de voz",
+              "Condução semiautônoma nível 2+",
+              "Auto reverse assistance (refaz os últimos 50 m)",
+              "Carregador por indução de 50 W",
+              "Teto solar panorâmico elétrico",
+              "Porta-malas com abertura hands-free",
+              "Som com 9 alto-falantes e subwoofer (216 W)",
+              "Recarga DC 33 kW (20-80% em ~25 min)"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/haval-h6-phev-19",
+          "campos_fonte_secundaria": [],
+          "observacoes": "A GWM publica uma única ficha técnica para os anos-modelo 2026/2026 e 2026/2027; especificações iguais nos dois anos. Capacidade de reboque 750 kg. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HAVAL H6 PHEV19 FF\"."
+        },
+        {
+          "id": "gwm-haval-h6-phev35-2026",
+          "versao": "PHEV35",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 289000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.5 Turbo Flex PHEV + 2 motores elétricos (dianteiro e traseiro)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 393
+            },
+            "torque_kgfm": {
+              "combinada": 65.5
+            },
+            "bateria_kwh": 35,
+            "autonomia_eletrica_km": 126,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.8,
+            "velocidade_maxima_kmh": 190
+          },
+          "consumo": {
+            "cidade_etanol": 9.2,
+            "estrada_etanol": 7.4,
+            "cidade_gasolina": 12.5,
+            "estrada_gasolina": 10.7,
+            "cidade_eletrico_km_le": 30.7,
+            "estrada_eletrico_km_le": 26.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4703,
+            "largura": 1886,
+            "largura_com_retrovisores": null,
+            "altura": 1730,
+            "entre_eixos": 2738,
+            "altura_livre_solo": 197
+          },
+          "peso_kg": 2070,
+          "porta_malas_l": 560,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/55 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Head-up display",
+              "Câmera 540° com chassi invisível",
+              "Bancos dianteiros com ventilação",
+              "Coffee OS 3 com 300+ comandos de voz",
+              "Condução semiautônoma nível 2+",
+              "Auto reverse assistance (refaz os últimos 50 m)",
+              "Carregador por indução de 50 W",
+              "Tração integral (2 motores elétricos)",
+              "Câmera de reconhecimento facial (fadiga/distração)",
+              "Teto solar panorâmico elétrico",
+              "Bancos com revestimento premium",
+              "Recarga DC 48 kW"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/haval-h6-phev-35",
+          "campos_fonte_secundaria": [],
+          "observacoes": "A GWM publica uma única ficha técnica para os anos-modelo 2026/2026 e 2026/2027; especificações iguais nos dois anos. A ficha descreve os bancos como \"revestimento premium\" (sem especificar couro). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HAVAL H6 PHEV35 FF\"."
+        },
+        {
+          "id": "gwm-haval-h6-phev35-2027",
+          "versao": "PHEV35",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 290000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.5 Turbo Flex PHEV + 2 motores elétricos (dianteiro e traseiro)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 393
+            },
+            "torque_kgfm": {
+              "combinada": 65.5
+            },
+            "bateria_kwh": 35,
+            "autonomia_eletrica_km": 126,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.8,
+            "velocidade_maxima_kmh": 190
+          },
+          "consumo": {
+            "cidade_etanol": 9.2,
+            "estrada_etanol": 7.4,
+            "cidade_gasolina": 12.5,
+            "estrada_gasolina": 10.7,
+            "cidade_eletrico_km_le": 30.7,
+            "estrada_eletrico_km_le": 26.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4703,
+            "largura": 1886,
+            "largura_com_retrovisores": null,
+            "altura": 1730,
+            "entre_eixos": 2738,
+            "altura_livre_solo": 197
+          },
+          "peso_kg": 2070,
+          "porta_malas_l": 560,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/55 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Head-up display",
+              "Câmera 540° com chassi invisível",
+              "Bancos dianteiros com ventilação",
+              "Coffee OS 3 com 300+ comandos de voz",
+              "Condução semiautônoma nível 2+",
+              "Auto reverse assistance (refaz os últimos 50 m)",
+              "Carregador por indução de 50 W",
+              "Tração integral (2 motores elétricos)",
+              "Câmera de reconhecimento facial (fadiga/distração)",
+              "Teto solar panorâmico elétrico",
+              "Bancos com revestimento premium",
+              "Recarga DC 48 kW"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/haval-h6-phev-35",
+          "campos_fonte_secundaria": [],
+          "observacoes": "A GWM publica uma única ficha técnica para os anos-modelo 2026/2026 e 2026/2027; especificações iguais nos dois anos. A ficha descreve os bancos como \"revestimento premium\" (sem especificar couro). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HAVAL H6 PHEV35 FF\"."
+        }
+      ]
+    },
+    {
+      "id": "gwm-haval-h6-gt",
+      "modelo": "Haval H6 GT",
+      "categoria": "SUV Médio",
+      "subcategoria": "SUV cupê",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/gwm-haval-h6-gt.webp",
+        "fonte_imagem": "https://images.carexpert.com.au/resize/3000/-/app/uploads/2023/06/2023-GWM-Haval-H6-GT-Ultra-AWD-14.jpg",
+        "pagina_origem": "https://autosopedia.com/blog/2024/04/14/2024-gwm-haval-h6-gt-price-and-specs/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.gwmmotors.com.br/pt/modelos/haval-h6-gt",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/content/dam/gwm/pages/br/pt/models/haval-h6-gt-my25/ficha-tecnica-haval-h6-gt-flex-gwm.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/saiba-mais/condicoes-comerciais",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "gwm-haval-h6-gt-gt-2026",
+          "versao": "GT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 326000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.5 Turbo Flex PHEV + 2 motores elétricos (dianteiro e traseiro)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 393
+            },
+            "torque_kgfm": {
+              "combinada": 65.5
+            },
+            "bateria_kwh": 35,
+            "autonomia_eletrica_km": 126,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.7,
+            "velocidade_maxima_kmh": 190
+          },
+          "consumo": {
+            "cidade_etanol": 9.2,
+            "estrada_etanol": 7.4,
+            "cidade_gasolina": 12.5,
+            "estrada_gasolina": 10.7,
+            "cidade_eletrico_km_le": 30.7,
+            "estrada_eletrico_km_le": 26.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4727,
+            "largura": 1940,
+            "largura_com_retrovisores": null,
+            "altura": 1730,
+            "entre_eixos": 2738,
+            "altura_livre_solo": 198
+          },
+          "peso_kg": 2045,
+          "porta_malas_l": 515,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/55 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Carroceria SUV cupê",
+              "Acabamento interno em suede",
+              "Bancos em couro ecológico e suede com logo GT",
+              "Tração integral (2 motores elétricos)",
+              "Head-up display",
+              "Câmera 540° com chassi invisível",
+              "Câmera de reconhecimento facial",
+              "Teto solar panorâmico elétrico",
+              "Pneus Michelin",
+              "Emblema GT em vermelho"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/haval-h6-gt",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano-modelo 2026 também ofertado como 2025/2026 por R$ 325.000. Ficha técnica única publicada para os anos-modelo à venda. Largura de 1.940 mm conforme ficha. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HAVAL H6 GT FF\"."
+        },
+        {
+          "id": "gwm-haval-h6-gt-gt-2027",
+          "versao": "GT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 326000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.5 Turbo Flex PHEV + 2 motores elétricos (dianteiro e traseiro)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 393
+            },
+            "torque_kgfm": {
+              "combinada": 65.5
+            },
+            "bateria_kwh": 35,
+            "autonomia_eletrica_km": 126,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.7,
+            "velocidade_maxima_kmh": 190
+          },
+          "consumo": {
+            "cidade_etanol": 9.2,
+            "estrada_etanol": 7.4,
+            "cidade_gasolina": 12.5,
+            "estrada_gasolina": 10.7,
+            "cidade_eletrico_km_le": 30.7,
+            "estrada_eletrico_km_le": 26.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4727,
+            "largura": 1940,
+            "largura_com_retrovisores": null,
+            "altura": 1730,
+            "entre_eixos": 2738,
+            "altura_livre_solo": 198
+          },
+          "peso_kg": 2045,
+          "porta_malas_l": 515,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/55 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Carroceria SUV cupê",
+              "Acabamento interno em suede",
+              "Bancos em couro ecológico e suede com logo GT",
+              "Tração integral (2 motores elétricos)",
+              "Head-up display",
+              "Câmera 540° com chassi invisível",
+              "Câmera de reconhecimento facial",
+              "Teto solar panorâmico elétrico",
+              "Pneus Michelin",
+              "Emblema GT em vermelho"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/haval-h6-gt",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica única publicada para os anos-modelo à venda. Largura de 1.940 mm conforme ficha. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HAVAL H6 GT FF\"."
+        }
+      ]
+    },
+    {
+      "id": "gwm-haval-h7",
+      "modelo": "Haval H7",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/gwm-haval-h7.webp",
+        "fonte_imagem": "https://s2-autoesporte.glbimg.com/0oK95Eqyg0H7Is6LGDY98Gj-R-8=/0x0:1920x1278/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/g/A/THGSOHRMG8AhRBiKFFVw/gwm-haval-h7-menglong-plus-lateral.png",
+        "pagina_origem": "https://autoesporte.globo.com/carros/lancamentos-de-carros/noticia/2026/04/novo-gwm-haval-h7-estreia-brasil-2026.ghtml"
+      },
+      "fontes": [
+        {
+          "url": "https://www.gwmmotors.com.br/pt/modelos/haval-h7",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/content/dam/gwm/pages/br/pt/models/haval-h7/ficha-tecnica-havalh7-gwm.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/saiba-mais/condicoes-comerciais",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/media-center/news/2026/gwm-haval-h7-estreia-no-brasil-unindo-tecnologia-hibrida-plug-in-flex-design-robusto-e-vocacao-para-aventura",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-20"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "gwm-haval-h7-phev-hi4-2027",
+          "versao": "PHEV Hi4",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 261000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.5 Turbo Flex PHEV (150 cv) + motor elétrico 150 kW",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "eletrico": 204,
+              "combinada": 370
+            },
+            "torque_kgfm": {
+              "eletrico": 35.7,
+              "combinada": 77
+            },
+            "bateria_kwh": 27.5,
+            "autonomia_eletrica_km": 92,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.7,
+            "velocidade_maxima_kmh": 190
+          },
+          "consumo": {
+            "cidade_etanol": 7.7,
+            "estrada_etanol": 6.9,
+            "cidade_gasolina": 11.9,
+            "estrada_gasolina": 10.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4800,
+            "largura": 1950,
+            "largura_com_retrovisores": null,
+            "altura": 1843,
+            "entre_eixos": 2738,
+            "altura_livre_solo": 220
+          },
+          "peso_kg": 2170,
+          "porta_malas_l": 586,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "255/60 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Tração Hi4 com bloqueio do diferencial traseiro",
+              "Head-up display de 9\" com função off-road",
+              "Câmera 540° com chassi invisível",
+              "V2L 6 kW",
+              "Bancos dianteiros ventilados",
+              "Banco do motorista com memória",
+              "Teto solar panorâmico",
+              "Iluminação ambiente 64 cores",
+              "Cortinas solares nas portas traseiras",
+              "Condução semiautônoma nível 2+"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/haval-h7",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Lançado em 07/10/2026 (linha 2026/2027). Ficha cita transmissão \"DHT-3 4 marchas\". Autonomia elétrica WLTP 130 km. Bancos descritos como \"revestimento premium\". Controle de estabilidade: obrigatório por lei; a ficha cita TCS/ABS/EBD."
+        }
+      ]
+    },
+    {
+      "id": "gwm-haval-h9",
+      "modelo": "Haval H9",
+      "categoria": "SUV Grande",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/gwm-haval-h9.webp",
+        "fonte_imagem": "https://s2-autoesporte.glbimg.com/OwHi8P_ftoUYZOvyfunTpg5Rv58=/0x0:1920x1281/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2025/L/2/oeqdjoQu6VU8TLNFfuWg/gwm-haval-h9-2026-lateral-estatica.jpg",
+        "pagina_origem": "https://autoesporte.globo.com/carros/testes-de-carros/review/2025/09/teste-gwm-haval-h9.ghtml"
+      },
+      "fontes": [
+        {
+          "url": "https://www.gwmmotors.com.br/pt/modelos/haval-h9",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/modelos/haval-h9-selection",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/content/dam/gwm/pages/br/pt/models/haval-h9/ficha-tecnica-h9-my27-gwm.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/content/dam/gwm/pages/br/pt/models/haval-h9-selection/ficha-tecnica-h9-selection-gwm.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/saiba-mais/condicoes-comerciais",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/media-center/news/2026/gwm-brasil-apresenta-linha-2027-do-haval-h9-com-evolucao-em-design-e-sofisticacao",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "gwm-haval-h9-exclusive-2026",
+          "versao": "Exclusive",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 329000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026); 2025/2026 e 2026/2026",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.4 Turbo Diesel",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 184
+            },
+            "torque_kgfm": {
+              "diesel": 48.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 13,
+            "velocidade_maxima_kmh": 170
+          },
+          "consumo": {
+            "cidade_diesel": 9,
+            "estrada_diesel": 10.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4950,
+            "largura": 1976,
+            "largura_com_retrovisores": null,
+            "altura": 1930,
+            "entre_eixos": 2850,
+            "altura_livre_solo": 224
+          },
+          "peso_kg": 2525,
+          "porta_malas_l": null,
+          "tanque_l": 78,
+          "lugares": 7,
+          "portas": 4,
+          "pneus": "265/55 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "7 lugares",
+              "Tração 4x4 com reduzida (4x2H/4x4H/4x4L)",
+              "Faróis full LED matrix",
+              "Bancos dianteiros com aquecimento, resfriamento e massagem",
+              "Ventilação nos bancos da 2ª fileira",
+              "Som surround 640 W RMS com 10 alto-falantes",
+              "Estribo lateral elétrico",
+              "Câmera 540° com chassi transparente",
+              "Controle de cruzeiro off-road",
+              "Grade frontal cromada (linha 2026)"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/haval-h9",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas: 88 L com 7 lugares e 1.598 L no máximo (a ficha não informa o volume com a 3ª fila rebatida). A ficha não informa o número de airbags. Controle de estabilidade: obrigatório por lei. Linha 2026: a GWM publica apenas a ficha MY2027; segundo o comunicado da linha 2027, as mudanças foram só estéticas (grade e emblemas em preto fosco). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HAVAL H9 EXC\"."
+        },
+        {
+          "id": "gwm-haval-h9-exclusive-2027",
+          "versao": "Exclusive",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 335000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.4 Turbo Diesel",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 184
+            },
+            "torque_kgfm": {
+              "diesel": 48.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 13,
+            "velocidade_maxima_kmh": 170
+          },
+          "consumo": {
+            "cidade_diesel": 9,
+            "estrada_diesel": 10.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4950,
+            "largura": 1976,
+            "largura_com_retrovisores": null,
+            "altura": 1930,
+            "entre_eixos": 2850,
+            "altura_livre_solo": 224
+          },
+          "peso_kg": 2525,
+          "porta_malas_l": null,
+          "tanque_l": 78,
+          "lugares": 7,
+          "portas": 4,
+          "pneus": "265/55 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "7 lugares",
+              "Tração 4x4 com reduzida (4x2H/4x4H/4x4L)",
+              "Faróis full LED matrix",
+              "Bancos dianteiros com aquecimento, resfriamento e massagem",
+              "Ventilação nos bancos da 2ª fileira",
+              "Som surround 640 W RMS com 10 alto-falantes",
+              "Estribo lateral elétrico",
+              "Câmera 540° com chassi transparente",
+              "Controle de cruzeiro off-road",
+              "Capacidade de reboque 2.500 kg (com freio)",
+              "Grade frontal com acabamento fosco"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/haval-h9",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas: 88 L com 7 lugares e 1.598 L no máximo (a ficha não informa o volume com a 3ª fila rebatida). A ficha não informa o número de airbags. Controle de estabilidade: obrigatório por lei. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HAVAL H9 EXC\"."
+        },
+        {
+          "id": "gwm-haval-h9-selection-2027",
+          "versao": "Selection",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 339000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.4 Turbo Diesel",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 184
+            },
+            "torque_kgfm": {
+              "diesel": 48.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 13,
+            "velocidade_maxima_kmh": 170
+          },
+          "consumo": {
+            "cidade_diesel": 9,
+            "estrada_diesel": 10.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4950,
+            "largura": 1976,
+            "largura_com_retrovisores": null,
+            "altura": 1930,
+            "entre_eixos": 2850,
+            "altura_livre_solo": 224
+          },
+          "peso_kg": 2525,
+          "porta_malas_l": null,
+          "tanque_l": 78,
+          "lugares": 7,
+          "portas": 4,
+          "pneus": "265/55 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Cor exclusiva Cinza Zenith fosco",
+              "Interior exclusivo Marrom Saibro",
+              "Rodas 19\" pretas",
+              "Grade frontal em preto brilhante",
+              "7 lugares",
+              "Tração 4x4 com reduzida (4x2H/4x4H/4x4L)",
+              "Faróis full LED matrix",
+              "Bancos dianteiros com aquecimento, resfriamento e massagem",
+              "Ventilação nos bancos da 2ª fileira",
+              "Som surround 640 W RMS com 10 alto-falantes",
+              "Estribo lateral elétrico",
+              "Câmera 540° com chassi transparente",
+              "Controle remoto via app My GWM"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/haval-h9-selection",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas: 88 L com 7 lugares e 1.598 L no máximo (a ficha não informa o volume com a 3ª fila rebatida). A ficha não informa o número de airbags. Controle de estabilidade: obrigatório por lei. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HAVAL H9 EXC\"."
+        }
+      ]
+    },
+    {
+      "id": "gwm-ora-03",
+      "modelo": "Ora 03",
+      "categoria": "Hatch",
+      "subcategoria": null,
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/gwm-ora-03.webp",
+        "fonte_imagem": "https://cdn.autopapo.com.br/box/uploads/2025/04/28180645/gwm-ora-03-skin-2026-vermelho-lateral-1920x1280.jpg",
+        "pagina_origem": "https://autopapo.com.br/noticia/gwm-ora-03-2026/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.gwmmotors.com.br/pt/modelos/ora-03-bev58",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/content/dam/gwm/pages/br/pt/models/ora-03-bev58/ficha-tecnica/gwm-ora-03-bev58-ficha-tecnica.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/saiba-mais/condicoes-comerciais",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/media-center/news/2026/gwm-lanca-o-ora-5-seu-primeiro-suv-100-eletrico-que-combina-espaco-tecnologia-e-autonomia-de-ate-435-km",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.webmotors.com.br/gwm/ora-03/2024",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.car.blog.br/2023/10/gwm-ora-3-chega-para-enfrentar-o-byd.html?m=0",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "gwm-ora-03-bev58-2027",
+          "versao": "BEV58",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 169000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Motor elétrico dianteiro",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 171
+            },
+            "torque_kgfm": {
+              "eletrico": 25.5
+            },
+            "bateria_kwh": 58,
+            "autonomia_eletrica_km": 315,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 42.8,
+            "estrada_eletrico_km_le": 36.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4235,
+            "largura": 1825,
+            "largura_com_retrovisores": null,
+            "altura": 1603,
+            "entre_eixos": 2650,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 228,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "7 airbags (inclui central dianteiro)",
+              "Câmera 360° com 9 visualizações",
+              "Condução semiautônoma nível 2+",
+              "Teto solar panorâmico preto (exceto cor Cinza Zenith)",
+              "Pinças de freio amarelas",
+              "Acesso remoto pelo app",
+              "6 modos de condução",
+              "Retrovisor interno fotocrômico"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/ora-03-bev58",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura"
+          ],
+          "observacoes": "Linha 2026/2027. Autonomia WLTP 420 km. Controle de estabilidade: obrigatório por lei; a ficha cita TCS/ABS/EBD. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"ORA 03 BEV58\". Comprimento, largura e altura de fontes secundárias (Webmotors, car.blog.br, Itatiaia); peso da versão BEV58 não divulgado."
+        }
+      ]
+    },
+    {
+      "id": "gwm-ora-5",
+      "modelo": "Ora 5",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/gwm-ora-5.webp",
+        "fonte_imagem": "https://s2-autoesporte.glbimg.com/3BNtYl340BTopSVnwOjOknCUxL8=/0x0:1920x1280/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/c/B/SNVVYzScmE91o1tgBoZQ/gwm-ora-5-2026-lateral-1.jpg",
+        "pagina_origem": "https://autoesporte.globo.com/carros/lancamentos-de-carros/noticia/2026/06/gwm-ora-5-e-o-novo-suv-eletrico-mais-barato-do-brasil-veja-preco.ghtml"
+      },
+      "fontes": [
+        {
+          "url": "https://www.gwmmotors.com.br/pt/modelos/ora5",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/content/dam/gwm/pages/br/pt/media-center/modelos/ora-5/ORA%205%20-%20Ficha%20T%C3%A9cnica%205.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/saiba-mais/condicoes-comerciais",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/media-center/news/2026/gwm-lanca-o-ora-5-seu-primeiro-suv-100-eletrico-que-combina-espaco-tecnologia-e-autonomia-de-ate-435-km",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "gwm-ora-5-bev-2027",
+          "versao": "BEV",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 163990,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Motor elétrico dianteiro",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 204
+            },
+            "torque_kgfm": {
+              "eletrico": 26.5
+            },
+            "bateria_kwh": 58.3,
+            "autonomia_eletrica_km": 349,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.7,
+            "velocidade_maxima_kmh": 170
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 44.8,
+            "estrada_eletrico_km_le": 37.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4471,
+            "largura": 1833,
+            "largura_com_retrovisores": null,
+            "altura": 1641,
+            "entre_eixos": 2720,
+            "altura_livre_solo": 175
+          },
+          "peso_kg": 1685,
+          "porta_malas_l": 362,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/60 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto panorâmico de vidro fixo com cortina elétrica",
+              "Bancos dianteiros ventilados",
+              "Memória de posição do banco do motorista",
+              "Porta-malas com abertura elétrica",
+              "Câmera 540° com visualização transparente",
+              "V2L até 6 kW",
+              "Recarga DC 120 kW (30-80% em ~20 min)",
+              "Som com 9 alto-falantes (216 W)",
+              "Coffee OS 3 com comandos de voz com IA",
+              "Filtro de ar N95"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/ora5",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Versão única, linha 2026/2027. Autonomia WLTP 435 km. Peso 1.685 kg na ficha (o comunicado de imprensa cita 1.669 kg). Controle de estabilidade: obrigatório por lei. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"ORA 5\"."
+        }
+      ]
+    },
+    {
+      "id": "gwm-tank-300",
+      "modelo": "Tank 300",
+      "categoria": "SUV Médio",
+      "subcategoria": "SUV off-road",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/gwm-tank-300.webp",
+        "fonte_imagem": "https://clickpetroleoegas.com.br/wp-content/uploads/2025/09/gwm-tank-300-lateral-1115x730.jpg",
+        "pagina_origem": "https://clickpetroleoegas.com.br/gwm-tank-300-hibrido-flex-confirmado-para-2026-com-motor-2-0-flpc96/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.gwmmotors.com.br/pt/modelos/tank-300",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/content/dam/gwm/pages/br/pt/models/tank-300/ficha-tecnica-gwm-tank300-phev-flex.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/saiba-mais/condicoes-comerciais",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/media-center/news/2026/gwm-estreia-submarca-off-road-criada-no-brasil-e-lanca-o-gwm-tank-300-terraforce",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/content/dam/gwm/pages/br/pt/media-center/modelos/tank-300-terraforce/fichattecnicaterra.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "gwm-tank-300-phev-flex-2026",
+          "versao": "PHEV Flex",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 339000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026); 2025/2026",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Flex",
+            "descricao": "2.0 Turbo Flex PHEV + motor elétrico P2",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 394
+            },
+            "torque_kgfm": {
+              "combinada": 76.4
+            },
+            "bateria_kwh": 37.11,
+            "autonomia_eletrica_km": 74,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.8,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_etanol": 5.4,
+            "estrada_etanol": 5.7,
+            "cidade_gasolina": 7.5,
+            "estrada_gasolina": 7.6,
+            "cidade_eletrico_km_le": 18.3,
+            "estrada_eletrico_km_le": 18.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4760,
+            "largura": 1930,
+            "largura_com_retrovisores": null,
+            "altura": 1903,
+            "entre_eixos": 2750,
+            "altura_livre_solo": 222
+          },
+          "peso_kg": 2630,
+          "porta_malas_l": 863,
+          "tanque_l": 70,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "265/60 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "3 bloqueios eletrônicos (central, dianteiro e traseiro)",
+              "Sistema Todo-Terreno com 9 modos",
+              "Tank Turn (manobra em curva fechada)",
+              "Bancos em couro Nappa com aquecimento, ventilação e massagem",
+              "Volante aquecido",
+              "Câmera 360° com chassi transparente",
+              "Full Parking Assist",
+              "V2L 3,3 kW",
+              "Som premium 640 W com 9 alto-falantes",
+              "Capacidade de reboque 2.500 kg (com freio)"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/tank-300",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo híbrido (Inmetro). Consumo no modo elétrico informado em km/e: 18,3/18,8 e 13,1/14,1 (urbano/rodoviário). Porta-malas 863 L / 1.520 L com bancos rebatidos. Ano-modelo 2026 vendido como 2025/2026; ficha técnica única publicada no site. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"TANK 300 PHEV FLEX\"."
+        },
+        {
+          "id": "gwm-tank-300-phev-flex-2027",
+          "versao": "PHEV Flex",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 342000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Flex",
+            "descricao": "2.0 Turbo Flex PHEV + motor elétrico P2",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 394
+            },
+            "torque_kgfm": {
+              "combinada": 76.4
+            },
+            "bateria_kwh": 37.11,
+            "autonomia_eletrica_km": 74,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.8,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_etanol": 5.4,
+            "estrada_etanol": 5.7,
+            "cidade_gasolina": 7.5,
+            "estrada_gasolina": 7.6,
+            "cidade_eletrico_km_le": 18.3,
+            "estrada_eletrico_km_le": 18.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4760,
+            "largura": 1930,
+            "largura_com_retrovisores": null,
+            "altura": 1903,
+            "entre_eixos": 2750,
+            "altura_livre_solo": 222
+          },
+          "peso_kg": 2630,
+          "porta_malas_l": 863,
+          "tanque_l": 70,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "265/60 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "3 bloqueios eletrônicos (central, dianteiro e traseiro)",
+              "Sistema Todo-Terreno com 9 modos",
+              "Tank Turn (manobra em curva fechada)",
+              "Bancos em couro Nappa com aquecimento, ventilação e massagem",
+              "Volante aquecido",
+              "Câmera 360° com chassi transparente",
+              "Full Parking Assist",
+              "V2L 3,3 kW",
+              "Som premium 640 W com 9 alto-falantes",
+              "Capacidade de reboque 2.500 kg (com freio)"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/tank-300",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo híbrido (Inmetro). Consumo no modo elétrico informado em km/e: 18,3/18,8 e 13,1/14,1 (urbano/rodoviário). Porta-malas 863 L / 1.520 L com bancos rebatidos. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"TANK 300 PHEV FLEX\"."
+        },
+        {
+          "id": "gwm-tank-300-terraforce-2027",
+          "versao": "TerraForce",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 350000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Flex",
+            "descricao": "2.0 Turbo Flex PHEV + motor elétrico P2",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 394
+            },
+            "torque_kgfm": {
+              "combinada": 76.4
+            },
+            "bateria_kwh": 37.11,
+            "autonomia_eletrica_km": 74,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.8,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_etanol": 5.4,
+            "estrada_etanol": 5.7,
+            "cidade_gasolina": 7.5,
+            "estrada_gasolina": 7.6,
+            "cidade_eletrico_km_le": 18.3,
+            "estrada_eletrico_km_le": 18.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4760,
+            "largura": 1930,
+            "largura_com_retrovisores": null,
+            "altura": 1960,
+            "entre_eixos": 2750,
+            "altura_livre_solo": 222
+          },
+          "peso_kg": 2630,
+          "porta_malas_l": 863,
+          "tanque_l": 70,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "265/60 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Série limitada a 300 unidades",
+              "Cor Cinza Zenith fosco",
+              "Grade frontal exclusiva",
+              "Rack de expedição no teto (75 kg estático)",
+              "Rodas de liga leve reforçadas de 18\" com design exclusivo",
+              "Ventilação também no encosto dos bancos dianteiros",
+              "Banco do motorista com 8 modos de massagem",
+              "3 bloqueios eletrônicos (central, dianteiro e traseiro)",
+              "Sistema Todo-Terreno com 9 modos",
+              "Tank Turn (manobra em curva fechada)"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/media-center/modelos/tank-300-terraforce",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo híbrido (Inmetro). Consumo no modo elétrico informado em km/e: 18,3/18,8 e 13,1/14,1 (urbano/rodoviário). Porta-malas 863 L / 1.520 L com bancos rebatidos. Altura de 1.960 mm com o rack de expedição. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"TANK 300 PHEV FLEX\"."
+        }
+      ]
+    },
+    {
+      "id": "gwm-poer-p30",
+      "modelo": "Poer P30",
+      "categoria": "Picape",
+      "subcategoria": "Picape média",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/gwm-poer-p30.webp",
+        "fonte_imagem": "https://s2-autoesporte.glbimg.com/pTJQS4LkBUWpnmwiJW-H6I5AfzU=/0x0:1920x1281/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2025/f/s/ime9tnQIu5Z22vBq7zlg/gwm-poer-p30-2026-lateral.jpg",
+        "pagina_origem": "https://autoesporte.globo.com/carros/testes-de-carros/review/2025/09/teste-gwm-poer-p30-picape-media.ghtml"
+      },
+      "fontes": [
+        {
+          "url": "https://www.gwmmotors.com.br/pt/modelos/poer-p30-pro",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/modelos/poer-p30-trail",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/modelos/poer-p30-exclusive",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/content/dam/gwm/pages/br/pt/models/poer-p30-pro/catalogo-poer-p30-my27-gwm.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/media-center/news/2026/gwm-amplia-a-familia-poer-p30-com-nova-versao-pro-e-mais-equipamentos-na-linha-2027",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/saiba-mais/condicoes-comerciais",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "gwm-poer-p30-pro-2027",
+          "versao": "Pro",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 205000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.4 Turbo Diesel (4D24)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 184
+            },
+            "torque_kgfm": {
+              "diesel": 48.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.2,
+            "velocidade_maxima_kmh": 190
+          },
+          "consumo": {
+            "cidade_diesel": 9.4,
+            "estrada_diesel": 10.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 5416,
+            "largura": 1947,
+            "largura_com_retrovisores": null,
+            "altura": 1884,
+            "entre_eixos": 3230,
+            "altura_livre_solo": 213
+          },
+          "peso_kg": 2236,
+          "porta_malas_l": null,
+          "tanque_l": 78,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/60 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1027
+          },
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": null,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Pacote ADAS 2 (ACC, TJA, ICA, AEB, LKA)",
+              "Rodas de aço 18\" pretas com pneus AT",
+              "Painel digital de 7\"",
+              "Bloqueio eletrônico do diferencial traseiro",
+              "Freio de estacionamento eletrônico",
+              "Paddle shifts",
+              "Garantia de 10 anos para motor e transmissão",
+              "4 alto-falantes"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/poer-p30-pro",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Nova versão de entrada da linha 2027. Câmera de ré não citada explicitamente na ficha. Reboque 3.100 kg. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"POER P30 EXC\"."
+        },
+        {
+          "id": "gwm-poer-p30-trail-2027",
+          "versao": "Trail",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 227000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.4 Turbo Diesel (4D24)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 184
+            },
+            "torque_kgfm": {
+              "diesel": 48.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.2,
+            "velocidade_maxima_kmh": 190
+          },
+          "consumo": {
+            "cidade_diesel": 9.4,
+            "estrada_diesel": 10.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 5416,
+            "largura": 1947,
+            "largura_com_retrovisores": null,
+            "altura": 1884,
+            "entre_eixos": 3230,
+            "altura_livre_solo": 213
+          },
+          "peso_kg": 2245,
+          "porta_malas_l": null,
+          "tanque_l": 78,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/60 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1018
+          },
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote ADAS 2 (ACC, TJA, ICA, AEB, LKA)",
+              "Câmera 360° e câmera de chassi transparente",
+              "Rodas 18\" diamantadas com pneus AT Cooper",
+              "Bancos em couro sintético",
+              "Bloqueio eletrônico do diferencial traseiro",
+              "Garantia de 10 anos para motor e transmissão",
+              "Controle remoto pelo app My GWM",
+              "6 alto-falantes com amplificador"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/poer-p30-trail",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Reboque 3.100 kg. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"POER P30 EXC\"."
+        },
+        {
+          "id": "gwm-poer-p30-exclusive-2027",
+          "versao": "Exclusive",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 247000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026); com teto solar opcional R$ 250.000",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.4 Turbo Diesel (4D24)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 184
+            },
+            "torque_kgfm": {
+              "diesel": 48.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.2,
+            "velocidade_maxima_kmh": 190
+          },
+          "consumo": {
+            "cidade_diesel": 9.4,
+            "estrada_diesel": 10.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 5416,
+            "largura": 1947,
+            "largura_com_retrovisores": null,
+            "altura": 1884,
+            "entre_eixos": 3230,
+            "altura_livre_solo": 213
+          },
+          "peso_kg": 2253,
+          "porta_malas_l": null,
+          "tanque_l": 78,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/55 R19",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1010
+          },
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote ADAS 2+ (BSD, RCTA, FCTA, TSR, DOW, RCW)",
+              "Bancos em couro legítimo com aquecimento e ventilação",
+              "Rodas 19\" diamantadas com pneus HT Continental",
+              "Teto solar opcional (+R$ 3.000)",
+              "Retrovisores com rebatimento elétrico e aquecimento",
+              "Interior preto e marrom",
+              "Câmera 360° e câmera de chassi transparente",
+              "Garantia de 10 anos para motor e transmissão"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/poer-p30-exclusive",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Teto solar opcional (R$ 3.000). Reboque 3.100 kg. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"POER P30 EXC\"."
+        },
+        {
+          "id": "gwm-poer-p30-trail-2026",
+          "versao": "Trail",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 225000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026); 2025/2026 por R$ 220.000",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.4 Turbo Diesel (4D24)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 184
+            },
+            "torque_kgfm": {
+              "diesel": 48.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.2,
+            "velocidade_maxima_kmh": 190
+          },
+          "consumo": {
+            "cidade_diesel": 9.4,
+            "estrada_diesel": 10.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 5416,
+            "largura": 1947,
+            "largura_com_retrovisores": null,
+            "altura": 1884,
+            "entre_eixos": 3230,
+            "altura_livre_solo": 213
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": 78,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": null,
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": null
+          },
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": null,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": null,
+            "destaques": []
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/saiba-mais/condicoes-comerciais",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Linha 2026 (2025/2026 e 2026/2026) ainda ofertada nas condições comerciais. A GWM só publica o catálogo MY2027; segundo o comunicado da linha 2027, o conjunto mecânico é o mesmo, mas a linha 2027 trouxe 6 airbags de série e nova estrutura de carroceria — por isso equipamentos e pesos da linha 2026 ficaram sem confirmação (null). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"POER P30 EXC\"."
+        },
+        {
+          "id": "gwm-poer-p30-exclusive-2026",
+          "versao": "Exclusive",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 245000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026); 2025/2026 por R$ 240.000",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.4 Turbo Diesel (4D24)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 184
+            },
+            "torque_kgfm": {
+              "diesel": 48.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.2,
+            "velocidade_maxima_kmh": 190
+          },
+          "consumo": {
+            "cidade_diesel": 9.4,
+            "estrada_diesel": 10.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 5416,
+            "largura": 1947,
+            "largura_com_retrovisores": null,
+            "altura": 1884,
+            "entre_eixos": 3230,
+            "altura_livre_solo": 213
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": 78,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": null,
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": null
+          },
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": null,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": null,
+            "destaques": []
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/saiba-mais/condicoes-comerciais",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Linha 2026 (2025/2026 e 2026/2026) ainda ofertada nas condições comerciais. A GWM só publica o catálogo MY2027; segundo o comunicado da linha 2027, o conjunto mecânico é o mesmo, mas a linha 2027 trouxe 6 airbags de série e nova estrutura de carroceria — por isso equipamentos e pesos da linha 2026 ficaram sem confirmação (null). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"POER P30 EXC\"."
+        }
+      ]
+    },
+    {
+      "id": "gwm-wey-07",
+      "modelo": "Wey 07",
+      "categoria": "SUV Grande",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/gwm-wey-07.webp",
+        "fonte_imagem": "https://cdn.autopapo.com.br/box/uploads/2025/10/22190858/gwm-wey-07-2026-azul-cianita-lateral-1920x1280.jpg",
+        "pagina_origem": "https://autopapo.com.br/noticia/gwm-wey-07-2026-lancamento/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.gwmmotors.com.br/pt/modelos/wey-07",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/content/dam/gwm/pages/br/pt/models/wey/catalogo-wey07-gwm.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/saiba-mais/condicoes-comerciais",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/media-center/news/2026/gwm-wey-07-dark-edition-chega-ao-brasil-com-visual-escurecido-e-presenca-marcante",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "gwm-wey-07-phev-hi4-2026",
+          "versao": "PHEV Hi4",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 429000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026); 2025/2026",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo gasolina PHEV + 2 motores elétricos (Hi4)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 517
+            },
+            "torque_kgfm": {
+              "combinada": 83.6
+            },
+            "bateria_kwh": 42.5,
+            "autonomia_eletrica_km": 128,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.9,
+            "velocidade_maxima_kmh": 190
+          },
+          "consumo": {
+            "cidade_gasolina": 10.8,
+            "estrada_gasolina": 9.1,
+            "cidade_eletrico_km_le": 25.9,
+            "estrada_eletrico_km_le": 22.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 5156,
+            "largura": 1980,
+            "largura_com_retrovisores": null,
+            "altura": 1805,
+            "entre_eixos": 3050,
+            "altura_livre_solo": 180
+          },
+          "peso_kg": 2545,
+          "porta_malas_l": 1040,
+          "tanque_l": 79,
+          "lugares": 6,
+          "portas": 5,
+          "pneus": "265/45 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "6 lugares individuais (2+2+2)",
+              "Bancos em couro Nappa com aquecimento, ventilação e 8 tipos de massagem",
+              "Banco do passageiro com posição gravidade zero",
+              "Head-up display de 25\"",
+              "Som Hi-Fi 1.670 W com 16 alto-falantes",
+              "Thermal box 7 L",
+              "Estribos laterais elétricos",
+              "Câmera 540° com chassi transparente",
+              "Estacionamento automático",
+              "V2L 3,3 kW",
+              "Função Boss"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/wey-07",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas: 239 L com as 3 fileiras e 1.040 L com a 3ª fileira rebatida. Autonomia elétrica WLTP 185 km. Consumo PBEV não divulgado pela marca. Torque convertido de 820 Nm. Catálogo único publicado no site. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"WEY 07\"."
+        },
+        {
+          "id": "gwm-wey-07-phev-hi4-2027",
+          "versao": "PHEV Hi4",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 429000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo gasolina PHEV + 2 motores elétricos (Hi4)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 517
+            },
+            "torque_kgfm": {
+              "combinada": 83.6
+            },
+            "bateria_kwh": 42.5,
+            "autonomia_eletrica_km": 128,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.9,
+            "velocidade_maxima_kmh": 190
+          },
+          "consumo": {
+            "cidade_gasolina": 10.8,
+            "estrada_gasolina": 9.1,
+            "cidade_eletrico_km_le": 25.9,
+            "estrada_eletrico_km_le": 22.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 5156,
+            "largura": 1980,
+            "largura_com_retrovisores": null,
+            "altura": 1805,
+            "entre_eixos": 3050,
+            "altura_livre_solo": 180
+          },
+          "peso_kg": 2545,
+          "porta_malas_l": 1040,
+          "tanque_l": 79,
+          "lugares": 6,
+          "portas": 5,
+          "pneus": "265/45 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "6 lugares individuais (2+2+2)",
+              "Bancos em couro Nappa com aquecimento, ventilação e 8 tipos de massagem",
+              "Banco do passageiro com posição gravidade zero",
+              "Head-up display de 25\"",
+              "Som Hi-Fi 1.670 W com 16 alto-falantes",
+              "Thermal box 7 L",
+              "Estribos laterais elétricos",
+              "Câmera 540° com chassi transparente",
+              "Estacionamento automático",
+              "V2L 3,3 kW",
+              "Função Boss"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/modelos/wey-07",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas: 239 L com as 3 fileiras e 1.040 L com a 3ª fileira rebatida. Autonomia elétrica WLTP 185 km. Consumo PBEV não divulgado pela marca. Torque convertido de 820 Nm. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"WEY 07\"."
+        },
+        {
+          "id": "gwm-wey-07-dark-edition-2027",
+          "versao": "Dark Edition",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 432000,
+          "preco_obs": "Preço único GWM com frete incluso (página do modelo / condições comerciais, out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo gasolina PHEV + 2 motores elétricos (Hi4)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 517
+            },
+            "torque_kgfm": {
+              "combinada": 83.6
+            },
+            "bateria_kwh": 42.5,
+            "autonomia_eletrica_km": 128,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.9,
+            "velocidade_maxima_kmh": 190
+          },
+          "consumo": {
+            "cidade_gasolina": 10.8,
+            "estrada_gasolina": 9.1,
+            "cidade_eletrico_km_le": 25.9,
+            "estrada_eletrico_km_le": 22.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 5156,
+            "largura": 1980,
+            "largura_com_retrovisores": null,
+            "altura": 1805,
+            "entre_eixos": 3050,
+            "altura_livre_solo": 180
+          },
+          "peso_kg": 2545,
+          "porta_malas_l": 1040,
+          "tanque_l": 79,
+          "lugares": 6,
+          "portas": 5,
+          "pneus": "265/45 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Carroceria preta com detalhes escurecidos",
+              "Rodas exclusivas de 21\" com pinças de freio vermelhas",
+              "Cabine totalmente preta com Alcantara",
+              "6 lugares individuais (2+2+2)",
+              "Bancos em couro Nappa com aquecimento, ventilação e 8 tipos de massagem",
+              "Banco do passageiro com posição gravidade zero",
+              "Head-up display de 25\"",
+              "Som Hi-Fi 1.670 W com 16 alto-falantes",
+              "Thermal box 7 L",
+              "Estribos laterais elétricos",
+              "Câmera 540° com chassi transparente"
+            ]
+          },
+          "fonte_url": "https://www.gwmmotors.com.br/pt/media-center/news/2026/gwm-wey-07-dark-edition-chega-ao-brasil-com-visual-escurecido-e-presenca-marcante",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas: 239 L com as 3 fileiras e 1.040 L com a 3ª fileira rebatida. Autonomia elétrica WLTP 185 km. Consumo PBEV não divulgado pela marca. Torque convertido de 820 Nm. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"WEY 07\"."
+        }
+      ]
+    }
+  ]
+}

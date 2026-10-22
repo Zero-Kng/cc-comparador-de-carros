@@ -1,0 +1,1955 @@
+{
+  "marca": "GAC",
+  "slug": "gac",
+  "site_oficial": "https://www.gacgroup.com/pt-br",
+  "coletado_em": "2026-10-20",
+  "modelos": [
+    {
+      "id": "gac-aion-es",
+      "modelo": "Aion ES",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan médio",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/gac-aion-es.webp",
+        "fonte_imagem": "https://carrosbemmontados.com.br/wp-content/uploads/2025/01/new-gac-aion-rt-2026-5.webp",
+        "pagina_origem": "https://carrosbemmontados.com.br/gac-aion-rt-2026/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.gacgroup.com/pt-br/todos-os-modelos-gac-eletrico/aion-es",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gacgroup.com/pt-br/configuration/aion-es/2024",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.webmotors.com.br/gac/aion-es/2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "gac-aion-es-plus-2026",
+          "versao": "Plus",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 170990,
+          "preco_obs": "Preço \"a partir de\" no site oficial",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico 100 kW (136 cv)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 136
+            },
+            "torque_kgfm": {
+              "eletrico": 22.9
+            },
+            "bateria_kwh": 55.2,
+            "autonomia_eletrica_km": 314,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": 130
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 47.1,
+            "estrada_eletrico_km_le": 42.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4810,
+            "largura": 1880,
+            "largura_com_retrovisores": null,
+            "altura": 1545,
+            "entre_eixos": 2750,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1658,
+          "porta_malas_l": 453,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/55 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Com fio",
+            "painel_digital": null,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Piloto automático (convencional)",
+              "Recarga DC até 68 kW",
+              "Sensor de chuva",
+              "Freio de estacionamento eletrônico com auto hold",
+              "Painel de instrumentos de 3,5\"",
+              "Apple CarPlay com fio (Android Auto não listado)"
+            ]
+          },
+          "fonte_url": "https://www.gacgroup.com/pt-br/configuration/aion-es/2024",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano-modelo conforme catálogo Webmotors (o site oficial não informa ano-modelo). Aceleração 0-100 km/h não divulgada no site oficial. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AION ES PLUS\"."
+        }
+      ]
+    },
+    {
+      "id": "gac-aion-ut",
+      "modelo": "Aion UT",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch compacto",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/gac-aion-ut.webp",
+        "fonte_imagem": "https://www.netcarshow.com/GAC-AION_UT-2026-Side_Profile.85ae0660.jpg",
+        "pagina_origem": "https://www.netcarshow.com/gac/2026-aion_ut/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.gacgroup.com/pt-br/todos-os-modelos-gac-eletrico/aion-ut",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gacgroup.com/pt-br/configuration/aion-ut/2024",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.webmotors.com.br/gac/aion-ut/2027",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://mundodoautomovelparapcd.com.br/gac-aion-ut-para-pcd-em-outubro-de-2026/",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "gac-aion-ut-premium-2027",
+          "versao": "Premium",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 139990,
+          "preco_obs": "Preço de tabela ao público geral (out/2026) segundo fontes secundárias; não exibido no site oficial",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico 150 kW (204 cv)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 204
+            },
+            "torque_kgfm": {
+              "eletrico": 21.4
+            },
+            "bateria_kwh": 44.12,
+            "autonomia_eletrica_km": 253,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.6,
+            "velocidade_maxima_kmh": 160
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 43.7,
+            "estrada_eletrico_km_le": 35.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4270,
+            "largura": 1850,
+            "largura_com_retrovisores": null,
+            "altura": 1575,
+            "entre_eixos": 2750,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1540,
+          "porta_malas_l": 340,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/55 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Bateria LFP de 44,12 kWh",
+              "Recarga DC até 64 kW",
+              "V2L",
+              "Wi-Fi 4G",
+              "Piloto automático (convencional)",
+              "Painel de 8,88\""
+            ]
+          },
+          "fonte_url": "https://www.gacgroup.com/pt-br/configuration/aion-ut/2024",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Ano-modelo conforme catálogo Webmotors (o site oficial não informa ano-modelo). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AION UT PREMIUM\"."
+        },
+        {
+          "id": "gac-aion-ut-elite-2027",
+          "versao": "Elite",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 159990,
+          "preco_obs": "Preço de tabela ao público geral (out/2026) segundo fontes secundárias; não exibido no site oficial",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico 150 kW (204 cv)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 204
+            },
+            "torque_kgfm": {
+              "eletrico": 21.4
+            },
+            "bateria_kwh": 60,
+            "autonomia_eletrica_km": 310,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.3,
+            "velocidade_maxima_kmh": 160
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 38.3,
+            "estrada_eletrico_km_le": 32.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4270,
+            "largura": 1850,
+            "largura_com_retrovisores": null,
+            "altura": 1575,
+            "entre_eixos": 2750,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1700,
+          "porta_malas_l": 340,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/55 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Bateria LFP de 60 kWh",
+              "Recarga DC até 87 kW",
+              "Teto panorâmico com cortina elétrica",
+              "Bancos dianteiros ventilados",
+              "Tampa traseira elétrica",
+              "Carregador sem fio 50 W",
+              "Piloto automático integrado (ICA)",
+              "Alerta de tráfego cruzado traseiro",
+              "V2L"
+            ]
+          },
+          "fonte_url": "https://www.gacgroup.com/pt-br/configuration/aion-ut/2024",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Ano-modelo conforme catálogo Webmotors (o site oficial não informa ano-modelo). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AION UT ELITE\"."
+        }
+      ]
+    },
+    {
+      "id": "gac-aion-y",
+      "modelo": "Aion Y",
+      "categoria": "SUV Médio",
+      "subcategoria": "Crossover",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/gac-aion-y.webp",
+        "fonte_imagem": "https://imgcdn.sayaratbay.com/large/gallery/exterior/84/2108/gac-aion-y-plus-side-view-476315.jpg",
+        "pagina_origem": "https://www.sayarabay.com/new-cars/gac/aion-y-plus/colors"
+      },
+      "fontes": [
+        {
+          "url": "https://www.gacgroup.com/pt-br/todos-os-modelos-gac-eletrico/aion-y",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gacgroup.com/pt-br/configuration/aion-y/2024",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.webmotors.com.br/gac/aion-y/2027",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "gac-aion-y-premium-2026",
+          "versao": "Premium",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 175990,
+          "preco_obs": "Preço \"a partir de\" no site oficial",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico 150 kW (204 cv)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 204
+            },
+            "torque_kgfm": {
+              "eletrico": 22.9
+            },
+            "bateria_kwh": 63.2,
+            "autonomia_eletrica_km": 318,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.5,
+            "velocidade_maxima_kmh": 150
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 36.5,
+            "estrada_eletrico_km_le": 35
+          },
+          "dimensoes_mm": {
+            "comprimento": 4535,
+            "largura": 1870,
+            "largura_com_retrovisores": null,
+            "altura": 1650,
+            "entre_eixos": 2750,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1727,
+          "porta_malas_l": 361,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/55 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Com fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto solar panorâmico com cortina elétrica",
+              "Câmera 360°",
+              "Painel de 10,25\"",
+              "Piloto automático (convencional)",
+              "Rack de teto"
+            ]
+          },
+          "fonte_url": "https://www.gacgroup.com/pt-br/configuration/aion-y/2024",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano-modelo conforme catálogo Webmotors (o site oficial não informa ano-modelo). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AION Y PREMIUM\"."
+        },
+        {
+          "id": "gac-aion-y-premium-2027",
+          "versao": "Premium",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 175990,
+          "preco_obs": "Preço \"a partir de\" no site oficial",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico 150 kW (204 cv)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 204
+            },
+            "torque_kgfm": {
+              "eletrico": 22.9
+            },
+            "bateria_kwh": 63.2,
+            "autonomia_eletrica_km": 318,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.5,
+            "velocidade_maxima_kmh": 150
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 36.5,
+            "estrada_eletrico_km_le": 35
+          },
+          "dimensoes_mm": {
+            "comprimento": 4535,
+            "largura": 1870,
+            "largura_com_retrovisores": null,
+            "altura": 1650,
+            "entre_eixos": 2750,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1727,
+          "porta_malas_l": 361,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/55 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Com fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto solar panorâmico com cortina elétrica",
+              "Câmera 360°",
+              "Painel de 10,25\"",
+              "Piloto automático (convencional)",
+              "Rack de teto"
+            ]
+          },
+          "fonte_url": "https://www.gacgroup.com/pt-br/configuration/aion-y/2024",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano-modelo conforme catálogo Webmotors (o site oficial não informa ano-modelo). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AION Y PREMIUM\"."
+        },
+        {
+          "id": "gac-aion-y-elite-2026",
+          "versao": "Elite",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 187990,
+          "preco_obs": "Preço segundo Webmotors; o site oficial exibe só o \"a partir de\"",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico 150 kW (204 cv)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 204
+            },
+            "torque_kgfm": {
+              "eletrico": 22.9
+            },
+            "bateria_kwh": 63.2,
+            "autonomia_eletrica_km": 318,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.5,
+            "velocidade_maxima_kmh": 150
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 36.5,
+            "estrada_eletrico_km_le": 35
+          },
+          "dimensoes_mm": {
+            "comprimento": 4535,
+            "largura": 1870,
+            "largura_com_retrovisores": null,
+            "altura": 1650,
+            "entre_eixos": 2750,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1738,
+          "porta_malas_l": 361,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/50 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Com fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Piloto automático integrado (ICA) e assistente de congestionamento",
+              "Banco do motorista ventilado",
+              "Banco do passageiro elétrico",
+              "Tampa traseira elétrica",
+              "V2L",
+              "Faróis altos inteligentes",
+              "Retrovisor interno fotocromático"
+            ]
+          },
+          "fonte_url": "https://www.gacgroup.com/pt-br/configuration/aion-y/2024",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Ano-modelo conforme catálogo Webmotors (o site oficial não informa ano-modelo). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AION Y ELITE\"."
+        },
+        {
+          "id": "gac-aion-y-elite-2027",
+          "versao": "Elite",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 187990,
+          "preco_obs": "Preço segundo Webmotors; o site oficial exibe só o \"a partir de\"",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico 150 kW (204 cv)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 204
+            },
+            "torque_kgfm": {
+              "eletrico": 22.9
+            },
+            "bateria_kwh": 63.2,
+            "autonomia_eletrica_km": 318,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.5,
+            "velocidade_maxima_kmh": 150
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 36.5,
+            "estrada_eletrico_km_le": 35
+          },
+          "dimensoes_mm": {
+            "comprimento": 4535,
+            "largura": 1870,
+            "largura_com_retrovisores": null,
+            "altura": 1650,
+            "entre_eixos": 2750,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1738,
+          "porta_malas_l": 361,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/50 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Com fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Piloto automático integrado (ICA) e assistente de congestionamento",
+              "Banco do motorista ventilado",
+              "Banco do passageiro elétrico",
+              "Tampa traseira elétrica",
+              "V2L",
+              "Faróis altos inteligentes",
+              "Retrovisor interno fotocromático"
+            ]
+          },
+          "fonte_url": "https://www.gacgroup.com/pt-br/configuration/aion-y/2024",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Ano-modelo conforme catálogo Webmotors (o site oficial não informa ano-modelo). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AION Y ELITE\"."
+        }
+      ]
+    },
+    {
+      "id": "gac-aion-v",
+      "modelo": "Aion V",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/gac-aion-v.webp",
+        "fonte_imagem": "https://drivingenthusiast.com.au/wp-content/uploads/2025/12/2026-GAC-Aion-V-length.jpeg",
+        "pagina_origem": "https://drivingenthusiast.com.au/2025/12/2026-gac-aion-v-review-australian-launch-video/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.gacgroup.com/pt-br/todos-os-modelos-gac-eletrico/aion-v",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gacgroup.com/pt-br/configuration/aion-v/2024",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.webmotors.com.br/gac/aion-v/2027",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "gac-aion-v-elite-2026",
+          "versao": "Elite",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 219990,
+          "preco_obs": "Preço \"a partir de\" no site oficial",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico 150 kW (204 cv)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 204
+            },
+            "torque_kgfm": {
+              "eletrico": 24.5
+            },
+            "bateria_kwh": 75.3,
+            "autonomia_eletrica_km": 389,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.9,
+            "velocidade_maxima_kmh": 160
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 40.3,
+            "estrada_eletrico_km_le": 34.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4605,
+            "largura": 1854,
+            "largura_com_retrovisores": null,
+            "altura": 1686,
+            "entre_eixos": 2775,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1920,
+          "porta_malas_l": 427,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/45 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Com fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Android Auto sem fio (Apple CarPlay com fio)",
+              "Bancos dianteiros com aquecimento, ventilação, massagem e memória",
+              "Refrigerador inteligente",
+              "Teto panorâmico com cortina elétrica",
+              "Airbag central",
+              "Recarga DC até 180 kW",
+              "V2L",
+              "Tampa traseira elétrica com abertura por aproximação",
+              "9 alto-falantes",
+              "Banco traseiro reclinável até 137°"
+            ]
+          },
+          "fonte_url": "https://www.gacgroup.com/pt-br/configuration/aion-v/2024",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano-modelo conforme catálogo Webmotors (o site oficial não informa ano-modelo). Largura oficial 1854 mm (Webmotors cita 1876 mm). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AION V ELITE\"."
+        },
+        {
+          "id": "gac-aion-v-elite-2027",
+          "versao": "Elite",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 219990,
+          "preco_obs": "Preço \"a partir de\" no site oficial",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico 150 kW (204 cv)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 204
+            },
+            "torque_kgfm": {
+              "eletrico": 24.5
+            },
+            "bateria_kwh": 75.3,
+            "autonomia_eletrica_km": 389,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.9,
+            "velocidade_maxima_kmh": 160
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 40.3,
+            "estrada_eletrico_km_le": 34.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4605,
+            "largura": 1854,
+            "largura_com_retrovisores": null,
+            "altura": 1686,
+            "entre_eixos": 2775,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1920,
+          "porta_malas_l": 427,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/45 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Com fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Android Auto sem fio (Apple CarPlay com fio)",
+              "Bancos dianteiros com aquecimento, ventilação, massagem e memória",
+              "Refrigerador inteligente",
+              "Teto panorâmico com cortina elétrica",
+              "Airbag central",
+              "Recarga DC até 180 kW",
+              "V2L",
+              "Tampa traseira elétrica com abertura por aproximação",
+              "9 alto-falantes",
+              "Banco traseiro reclinável até 137°"
+            ]
+          },
+          "fonte_url": "https://www.gacgroup.com/pt-br/configuration/aion-v/2024",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano-modelo conforme catálogo Webmotors (o site oficial não informa ano-modelo). Largura oficial 1854 mm (Webmotors cita 1876 mm). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AION V ELITE\"."
+        }
+      ]
+    },
+    {
+      "id": "gac-hyptec-ht",
+      "modelo": "Hyptec HT",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV cupê",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/gac-hyptec-ht.webp",
+        "fonte_imagem": "https://s2-autoesporte.glbimg.com/3oMqXu3U2zP59rnX06Rc8nmxF-0=/0x0:1920x1280/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2025/I/P/9T3ZoXTKCY3BuKzhx0iA/gac-hyptec-ht-2-lateral-reta.jpg",
+        "pagina_origem": "https://autoesporte.globo.com/carros/testes-de-carros/noticia/2025/08/teste-gac-hyptec-ht.ghtml"
+      },
+      "fontes": [
+        {
+          "url": "https://www.gacgroup.com/pt-br/todos-os-modelos-gac-eletrico/hyptec-ht",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gacgroup.com/pt-br/configuration/hyptec-ht/2024",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.webmotors.com.br/gac/hyptec-ht/2027",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "gac-hyptec-ht-elite-2027",
+          "versao": "Elite",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 314990,
+          "preco_obs": "Preço \"a partir de\" no site oficial",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico 250 kW (340 cv)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 340
+            },
+            "torque_kgfm": {
+              "eletrico": 38.7
+            },
+            "bateria_kwh": 83,
+            "autonomia_eletrica_km": 620,
+            "autonomia_ciclo": "NEDC"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.8,
+            "velocidade_maxima_kmh": 183
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 43.1,
+            "estrada_eletrico_km_le": 33.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4935,
+            "largura": 1920,
+            "largura_com_retrovisores": null,
+            "altura": 1700,
+            "entre_eixos": 2935,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2200,
+          "porta_malas_l": 670,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/50 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Teto panorâmico com cortina elétrica",
+              "Portas sem moldura",
+              "Bancos em couro Nappa com massagem, aquecimento, ventilação e memória",
+              "Som premium com 22 alto-falantes",
+              "Recarga DC até 280 kW",
+              "Suspensão dianteira double wishbone",
+              "Banco traseiro reclinável até 143°",
+              "V2L"
+            ]
+          },
+          "fonte_url": "https://www.gacgroup.com/pt-br/configuration/hyptec-ht/2024",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano-modelo conforme catálogo Webmotors (o site oficial não informa ano-modelo). Porta-malas 670 L + 55 L (frunk). Especificação do site oficial atual (83 kWh, 340 cv, 620 km NEDC); unidades 2026 anteriores tinham 72,7 kWh/245 cv/362 km Inmetro segundo fontes secundárias. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HYPTEC HT ELITE\"."
+        },
+        {
+          "id": "gac-hyptec-ht-ultra-2027",
+          "versao": "Ultra",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 369990,
+          "preco_obs": "Preço segundo Webmotors; o site oficial exibe só o \"a partir de\"",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico 250 kW (340 cv)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 340
+            },
+            "torque_kgfm": {
+              "eletrico": 38.7
+            },
+            "bateria_kwh": 83,
+            "autonomia_eletrica_km": 620,
+            "autonomia_ciclo": "NEDC"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.8,
+            "velocidade_maxima_kmh": 183
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 43.1,
+            "estrada_eletrico_km_le": 33.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4935,
+            "largura": 1920,
+            "largura_com_retrovisores": null,
+            "altura": 1700,
+            "entre_eixos": 2935,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2250,
+          "porta_malas_l": 670,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/50 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Portas traseiras asa de gaivota",
+              "Portas com abertura elétrica por toque",
+              "Teto solar fixo com isolamento térmico",
+              "Bancos em couro Nappa com massagem, aquecimento, ventilação e memória",
+              "Som premium com 22 alto-falantes",
+              "Recarga DC até 280 kW",
+              "Suspensão dianteira double wishbone",
+              "Banco traseiro reclinável até 143°",
+              "V2L"
+            ]
+          },
+          "fonte_url": "https://www.gacgroup.com/pt-br/configuration/hyptec-ht/2024",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Ano-modelo conforme catálogo Webmotors (o site oficial não informa ano-modelo). Porta-malas 670 L + 55 L (frunk). Especificação do site oficial atual (83 kWh, 340 cv, 620 km NEDC); unidades 2026 anteriores tinham 72,7 kWh/245 cv/362 km Inmetro segundo fontes secundárias. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HYPTEC HT ULTRA\"."
+        }
+      ]
+    },
+    {
+      "id": "gac-gs3",
+      "modelo": "GS3",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/gac-gs3.webp",
+        "fonte_imagem": "https://cdn.autopapo.com.br/box/uploads/2026/03/06143438/gac-gs3-2026-branco-lateral-1707x1280.jpeg",
+        "pagina_origem": "https://autopapo.com.br/noticia/lancamento-gac-gs3-motor-equipamentos/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.gacgroup.com/pt-br/todos-os-modelos-gac-hibrido/gs3",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gacgroup.com/pt-br/configuration/gac-gs3/2024",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.webmotors.com.br/gac/gs3/2027",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "gac-gs3-premium-2027",
+          "versao": "Premium",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 139990,
+          "preco_obs": "Preço de tabela segundo Webmotors; não exibido no site oficial",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo gasolina",
+            "cilindrada_cm3": 1497,
+            "cilindros": null,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 170
+            },
+            "torque_kgfm": {
+              "gasolina": 25.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 10.2,
+            "estrada_gasolina": 11.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4410,
+            "largura": 1850,
+            "largura_com_retrovisores": null,
+            "altura": 1600,
+            "entre_eixos": 2650,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1415,
+          "porta_malas_l": 341,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Piloto automático (convencional)",
+              "Painel de 7\"",
+              "Grade \"Star diamond\""
+            ]
+          },
+          "fonte_url": "https://www.gacgroup.com/pt-br/configuration/gac-gs3/2024",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Ano-modelo conforme catálogo Webmotors (o site oficial não informa ano-modelo). Motor homologado para gasolina E30. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GS3 ELITE\"."
+        },
+        {
+          "id": "gac-gs3-elite-2027",
+          "versao": "Elite",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 159990,
+          "preco_obs": "Preço de tabela segundo Webmotors; não exibido no site oficial",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo gasolina",
+            "cilindrada_cm3": 1497,
+            "cilindros": null,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 170
+            },
+            "torque_kgfm": {
+              "gasolina": 25.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 10.2,
+            "estrada_gasolina": 11.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4410,
+            "largura": 1850,
+            "largura_com_retrovisores": null,
+            "altura": 1600,
+            "entre_eixos": 2650,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1430,
+          "porta_malas_l": 341,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/45 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Estacionamento autônomo completo",
+              "Monitoramento de ponto cego por câmera (BSV)",
+              "Banco do motorista ventilado",
+              "Pinças de freio vermelhas",
+              "Maçanetas retráteis elétricas",
+              "Wi-Fi 4G e OTA",
+              "Tampa traseira elétrica",
+              "Grade \"Flying wing\""
+            ]
+          },
+          "fonte_url": "https://www.gacgroup.com/pt-br/configuration/gac-gs3/2024",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Ano-modelo conforme catálogo Webmotors (o site oficial não informa ano-modelo). Motor homologado para gasolina E30. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GS3 ELITE\"."
+        }
+      ]
+    },
+    {
+      "id": "gac-gs4",
+      "modelo": "GS4 Hybrid",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/gac-gs4.webp",
+        "fonte_imagem": "https://i.blogs.es/f5b94a/gac-hev-1/1366_2000.jpeg",
+        "pagina_origem": "https://www.motorpasion.com.mx/industria/gac-gs4-max-hev-mexico"
+      },
+      "fontes": [
+        {
+          "url": "https://www.gacgroup.com/pt-br/todos-os-modelos-gac-hibrido/gs4-hybrid",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gacgroup.com/pt-br/configuration/gac-gs4/2024",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.webmotors.com.br/gac/gs4/2027",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "gac-gs4-premium-2026",
+          "versao": "Premium",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 191990,
+          "preco_obs": "Preço de tabela segundo Webmotors; não exibido no site oficial",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 ATK HEV (plataforma GPMA, transmissão 2DHT)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 140,
+              "eletrico": 182,
+              "combinada": 235
+            },
+            "torque_kgfm": {
+              "gasolina": 18.4,
+              "eletrico": 30.6
+            },
+            "bateria_kwh": 2.1,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 14.1,
+            "estrada_gasolina": 11.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4680,
+            "largura": 1901,
+            "largura_com_retrovisores": null,
+            "altura": 1660,
+            "entre_eixos": 2750,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1641,
+          "porta_malas_l": 638,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/60 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Bancos dianteiros ventilados",
+              "Bancos em tecido",
+              "Painel de 7\"",
+              "Piloto automático integrado (ICA)"
+            ]
+          },
+          "fonte_url": "https://www.gacgroup.com/pt-br/configuration/gac-gs4/2024",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Ano-modelo conforme catálogo Webmotors (o site oficial não informa ano-modelo). Android: espelhamento com cabo via app CarbitLink (Android Auto não listado). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GS4 PREMIUM\"."
+        },
+        {
+          "id": "gac-gs4-premium-2027",
+          "versao": "Premium",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 191990,
+          "preco_obs": "Preço de tabela segundo Webmotors; não exibido no site oficial",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 ATK HEV (plataforma GPMA, transmissão 2DHT)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 140,
+              "eletrico": 182,
+              "combinada": 235
+            },
+            "torque_kgfm": {
+              "gasolina": 18.4,
+              "eletrico": 30.6
+            },
+            "bateria_kwh": 2.1,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 14.1,
+            "estrada_gasolina": 11.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4680,
+            "largura": 1901,
+            "largura_com_retrovisores": null,
+            "altura": 1660,
+            "entre_eixos": 2750,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1641,
+          "porta_malas_l": 638,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/60 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Bancos dianteiros ventilados",
+              "Bancos em tecido",
+              "Painel de 7\"",
+              "Piloto automático integrado (ICA)"
+            ]
+          },
+          "fonte_url": "https://www.gacgroup.com/pt-br/configuration/gac-gs4/2024",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Ano-modelo conforme catálogo Webmotors (o site oficial não informa ano-modelo). Android: espelhamento com cabo via app CarbitLink (Android Auto não listado). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GS4 PREMIUM\"."
+        },
+        {
+          "id": "gac-gs4-elite-2026",
+          "versao": "Elite",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 209990,
+          "preco_obs": "Preço de tabela segundo Webmotors; não exibido no site oficial",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 ATK HEV (plataforma GPMA, transmissão 2DHT)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 140,
+              "eletrico": 182,
+              "combinada": 235
+            },
+            "torque_kgfm": {
+              "gasolina": 18.4,
+              "eletrico": 30.6
+            },
+            "bateria_kwh": 2.1,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 14.1,
+            "estrada_gasolina": 11.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4680,
+            "largura": 1901,
+            "largura_com_retrovisores": null,
+            "altura": 1660,
+            "entre_eixos": 2750,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1673,
+          "porta_malas_l": 638,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/55 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Head-up display",
+              "Painel de 10,25\"",
+              "Teto panorâmico com cortina elétrica",
+              "Tampa traseira elétrica",
+              "Banco do passageiro elétrico",
+              "Bancos dianteiros ventilados",
+              "Assistente de mudança de faixa (LCA)",
+              "Alerta de tráfego cruzado traseiro",
+              "6 alto-falantes"
+            ]
+          },
+          "fonte_url": "https://www.gacgroup.com/pt-br/configuration/gac-gs4/2024",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Ano-modelo conforme catálogo Webmotors (o site oficial não informa ano-modelo). Android: espelhamento com cabo via app CarbitLink (Android Auto não listado). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GS4 PREMIUM\"."
+        },
+        {
+          "id": "gac-gs4-elite-2027",
+          "versao": "Elite",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 209990,
+          "preco_obs": "Preço de tabela segundo Webmotors; não exibido no site oficial",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 ATK HEV (plataforma GPMA, transmissão 2DHT)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 140,
+              "eletrico": 182,
+              "combinada": 235
+            },
+            "torque_kgfm": {
+              "gasolina": 18.4,
+              "eletrico": 30.6
+            },
+            "bateria_kwh": 2.1,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 14.1,
+            "estrada_gasolina": 11.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4680,
+            "largura": 1901,
+            "largura_com_retrovisores": null,
+            "altura": 1660,
+            "entre_eixos": 2750,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1673,
+          "porta_malas_l": 638,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/55 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Head-up display",
+              "Painel de 10,25\"",
+              "Teto panorâmico com cortina elétrica",
+              "Tampa traseira elétrica",
+              "Banco do passageiro elétrico",
+              "Bancos dianteiros ventilados",
+              "Assistente de mudança de faixa (LCA)",
+              "Alerta de tráfego cruzado traseiro",
+              "6 alto-falantes"
+            ]
+          },
+          "fonte_url": "https://www.gacgroup.com/pt-br/configuration/gac-gs4/2024",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Ano-modelo conforme catálogo Webmotors (o site oficial não informa ano-modelo). Android: espelhamento com cabo via app CarbitLink (Android Auto não listado). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GS4 PREMIUM\"."
+        }
+      ]
+    },
+    {
+      "id": "gac-gs9",
+      "modelo": "GS9",
+      "categoria": "SUV Grande",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/gac-gs9.webp",
+        "fonte_imagem": "https://www.planetcarsz.com/img/carros/galeria/2025/09/gac-s9-2026-001-20250910162307-1280x925.jpg",
+        "pagina_origem": "https://www.planetcarsz.com/carros/gac-s9-2026"
+      },
+      "fontes": [
+        {
+          "url": "https://www.gacgroup.com/pt-br/todos-os-modelos-gac-hibrido/gs9-hyperhybrid",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gacgroup.com/pt-br/configuration/gac-gs9/2026",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.webmotors.com.br/gac/gs9/2027",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "gac-gs9-ultra-2027",
+          "versao": "Ultra",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 399990,
+          "preco_obs": "Preço de tabela segundo Webmotors (lançamento a R$ 379.990); não exibido no site oficial",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo HyperHybrid (PHEV + REEV), 2 motores elétricos",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 160,
+              "eletrico": 340,
+              "combinada": 500
+            },
+            "torque_kgfm": {
+              "gasolina": 21.4,
+              "eletrico": 42.3,
+              "combinada": 62.5
+            },
+            "bateria_kwh": 44.5,
+            "autonomia_eletrica_km": 114,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.9,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 10.3,
+            "estrada_gasolina": 10.6,
+            "cidade_eletrico_km_le": 26.8,
+            "estrada_eletrico_km_le": 27.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 5060,
+            "largura": 1950,
+            "largura_com_retrovisores": null,
+            "altura": 1760,
+            "entre_eixos": 2930,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2365,
+          "porta_malas_l": 255,
+          "tanque_l": 60,
+          "lugares": 6,
+          "portas": 5,
+          "pneus": "255/50 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 9,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": null,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "6 lugares em 3 fileiras",
+              "Câmera 540°",
+              "Head-up display",
+              "Som com 21 alto-falantes",
+              "Bancos Nappa com aquecimento, ventilação e massagem (1ª e 2ª fileiras)",
+              "Amortecedores com controle de amortecimento",
+              "Estacionamento automático",
+              "Volante aquecido",
+              "Redução ativa de ruído",
+              "Recarga DC até 140 kW"
+            ]
+          },
+          "fonte_url": "https://www.gacgroup.com/pt-br/configuration/gac-gs9/2026",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl",
+            "transmissao.tipo"
+          ],
+          "observacoes": "Ano-modelo conforme catálogo Webmotors (o site oficial não informa ano-modelo). Site oficial classifica como \"PHEV + REEV\". Porta-malas 255 L com a 3ª fileira em uso (1005 L rebatida). Tipo de transmissão não informado no site oficial (DHT do sistema híbrido GAC). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GS9 ULTRA\"."
+        }
+      ]
+    }
+  ]
+}

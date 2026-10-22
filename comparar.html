@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Minha comparação · CC</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Inter+Tight:wght@500;600;700&family=JetBrains+Mono:wght@500&display=swap">
+  <link rel="stylesheet" href="css/estilo.css">
+  <script type="module" src="js/comum.js"></script>
+  <script type="module" src="js/comparar.js"></script>
+</head>
+<body>
+<header class="cabecalho">
+  <div class="conteudo">
+    <a class="logo" href="index.html" aria-label="CC, página inicial">CC</a>
+    <nav class="menu" aria-label="Principal">
+      <a href="explorar.php">Explorar modelos</a>
+      <a href="como-comparamos.php">Como comparamos</a>
+      <a class="botao botao--pequeno" href="comparar.html" aria-current="page"><span>Minha comparação (<span data-contador>0</span>)</span></a>
+    </nav>
+  </div>
+</header>
+
+<main class="conteudo comparar">
+  <div class="comparar__topo">
+    <div>
+      <p class="rotulo">Lado a lado</p>
+      <h1>Minha comparação</h1>
+      <p class="comparar__resumo" id="resumo"></p>
+    </div>
+    <a class="botao" href="index.html">+ Adicionar modelo</a>
+  </div>
+  <p class="comparar__mensagem" id="mensagem" role="status" hidden></p>
+  <div id="comparacao">
+    <p class="carregando">Carregando a comparação…</p>
+  </div>
+</main>
+
+<footer class="rodape">
+  <div class="conteudo">
+    <span>Dados das fabricantes. Fontes secundárias sempre sinalizadas.</span>
+    <span>Modelos vendidos oficialmente no Brasil · anos-modelo 2026 e 2027</span>
+  </div>
+</footer>
+</body>
+</html>

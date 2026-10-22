@@ -1,0 +1,2017 @@
+{
+  "marca": "Jeep",
+  "slug": "jeep",
+  "site_oficial": "https://www.jeep.com.br",
+  "coletado_em": "2026-10-19",
+  "modelos": [
+    {
+      "id": "jeep-renegade",
+      "modelo": "Renegade",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão",
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/jeep-renegade.webp",
+        "fonte_imagem": "https://images.dealer.com/ddc/vehicles/2023/Jeep/Renegade/SUV/trim_Latitude_426417/perspective/side-left/2023_76.png",
+        "pagina_origem": "https://www.phillong.com/showroom/2023/Jeep/Renegade/SUV.htm"
+      },
+      "fontes": [
+        {
+          "url": "https://www.jeep.com.br/renegade.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jeep.com.br/renegade/monte.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://mvs-service.k8s.fcalatam.com.br/mvs?brand=JEEP&market=pt-BR&model=611&year=2027",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://price-service.k8s.fcalatam.com.br/price",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "jeep-renegade-altitude-2027",
+          "versao": "Altitude T270",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 129990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador jeep.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.3 T270 Turbo Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 176
+            },
+            "torque_kgfm": {
+              "etanol": 27.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9,
+            "velocidade_maxima_kmh": 206
+          },
+          "consumo": {
+            "cidade_etanol": 7.8,
+            "estrada_etanol": 8.9,
+            "cidade_gasolina": 11.1,
+            "estrada_gasolina": 12.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4268,
+            "largura": 1805,
+            "largura_com_retrovisores": null,
+            "altura": 1696,
+            "entre_eixos": 2570,
+            "altura_livre_solo": 186
+          },
+          "peso_kg": null,
+          "porta_malas_l": 385,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto pintado em preto",
+              "Rack de teto preto",
+              "Quadro de instrumentos TFT de 7\"",
+              "Detector de fadiga do motorista",
+              "Aviso de mudança de faixa",
+              "Jeep Traction Control+",
+              "Freio de estacionamento eletrônico",
+              "Sistema Start&Stop"
+            ]
+          },
+          "fonte_url": "https://www.jeep.com.br/renegade/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "A marca divulga um único valor de potência/torque (176 cv / 270 Nm) para o motor flex; registrado na chave etanol. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RENEGADE ALTIT T270\"."
+        },
+        {
+          "id": "jeep-renegade-longitude-mhev-2027",
+          "versao": "Longitude T270 MHEV",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 158690,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador jeep.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.3 T270 Turbo Flex MHEV",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 176
+            },
+            "torque_kgfm": {
+              "etanol": 27.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9,
+            "velocidade_maxima_kmh": 206
+          },
+          "consumo": {
+            "cidade_etanol": 8.3,
+            "estrada_etanol": 8.6,
+            "cidade_gasolina": 11.9,
+            "estrada_gasolina": 11.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4268,
+            "largura": 1805,
+            "largura_com_retrovisores": null,
+            "altura": 1702,
+            "entre_eixos": 2570,
+            "altura_livre_solo": 192
+          },
+          "peso_kg": null,
+          "porta_malas_l": 385,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema híbrido leve MHEV",
+              "Bancos em couro",
+              "Volante revestido em couro",
+              "Sensor de estacionamento traseiro",
+              "Reconhecimento de placas de trânsito",
+              "Partida remota",
+              "Carregador por indução"
+            ]
+          },
+          "fonte_url": "https://www.jeep.com.br/renegade/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "A marca divulga um único valor de potência/torque (176 cv / 270 Nm) para o motor flex; registrado na chave etanol. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RENEGADE ALTIT HYB\"."
+        },
+        {
+          "id": "jeep-renegade-sahara-mhev-2027",
+          "versao": "Sahara T270 MHEV",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 175990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador jeep.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.3 T270 Turbo Flex MHEV",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 176
+            },
+            "torque_kgfm": {
+              "etanol": 27.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9,
+            "velocidade_maxima_kmh": 206
+          },
+          "consumo": {
+            "cidade_etanol": 8.3,
+            "estrada_etanol": 8.6,
+            "cidade_gasolina": 11.9,
+            "estrada_gasolina": 11.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4268,
+            "largura": 1805,
+            "largura_com_retrovisores": null,
+            "altura": 1702,
+            "entre_eixos": 2570,
+            "altura_livre_solo": 192
+          },
+          "peso_kg": null,
+          "porta_malas_l": 385,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema híbrido leve MHEV",
+              "Teto solar panorâmico Command View",
+              "Adventure Intelligence com Alexa",
+              "Banco do motorista elétrico",
+              "Paddle shifters",
+              "Comutação automática dos faróis",
+              "Retrovisor interno eletrocrômico",
+              "Faróis de neblina",
+              "Sensor de chuva"
+            ]
+          },
+          "fonte_url": "https://www.jeep.com.br/renegade/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "A marca divulga um único valor de potência/torque (176 cv / 270 Nm) para o motor flex; registrado na chave etanol. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RENEGADE ALTIT HYB\"."
+        },
+        {
+          "id": "jeep-renegade-willys-2027",
+          "versao": "Willys T270 4x4",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 189490,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador jeep.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.3 T270 Turbo Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 176
+            },
+            "torque_kgfm": {
+              "etanol": 27.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.9,
+            "velocidade_maxima_kmh": 197
+          },
+          "consumo": {
+            "cidade_etanol": 6.3,
+            "estrada_etanol": 7.4,
+            "cidade_gasolina": 9.2,
+            "estrada_gasolina": 10.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4268,
+            "largura": 1805,
+            "largura_com_retrovisores": null,
+            "altura": 1731,
+            "entre_eixos": 2570,
+            "altura_livre_solo": 213
+          },
+          "peso_kg": null,
+          "porta_malas_l": 314,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Tração 4x4 Jeep Active Drive Low",
+              "Seletor de terrenos com modo Rock",
+              "Pneus ATR+",
+              "HDC (controle de descida)",
+              "Suspensão off-road elevada",
+              "Protetores de cárter, tanque e transmissão",
+              "Estepe full size",
+              "Gancho de reboque",
+              "Adesivos Willys",
+              "Teto solar panorâmico"
+            ]
+          },
+          "fonte_url": "https://www.jeep.com.br/renegade/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "A marca divulga um único valor de potência/torque (176 cv / 270 Nm) para o motor flex; registrado na chave etanol. Medida dos pneus ATR+ aro 17 não informada. Sensor dianteiro: o card do site cita sensores dianteiro e traseiro, mas a lista de itens de série cita só o traseiro (deixado null). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RENEGADE WILLYS 4x4\"."
+        }
+      ]
+    },
+    {
+      "id": "jeep-compass",
+      "modelo": "Compass",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/jeep-compass.webp",
+        "fonte_imagem": "https://images.cars.com/cldstatic/wp-content/uploads/jeep-compass-2026-exterior-oem-13.jpg",
+        "pagina_origem": "https://www.cars.com/articles/heres-the-new-electrified-2026-jeep-compass-we-may-or-may-not-get-509026/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.jeep.com.br/compass.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jeep.com.br/compass/monte.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://mvs-service.k8s.fcalatam.com.br/mvs?brand=JEEP&market=pt-BR&model=675&year=2026",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://price-service.k8s.fcalatam.com.br/price",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jeep.com.br/content/dam/jeep/products/675/receptiva/2026/ficha-tecnica/ficha-tecnica-compass-sport-t270.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jeep.com.br/content/dam/jeep/products/675/receptiva/2026/ficha-tecnica/ficha-tecnica-compass-longitude-t270.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jeep.com.br/content/dam/jeep/products/675/receptiva/2026/ficha-tecnica/ficha-tecnica-serie-s-compass-my26.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jeep.com.br/content/dam/jeep/products/675/receptiva/2026/ficha-tecnica/ficha-tecnica-blackhawk-hurricane-compass-my26.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "jeep-compass-sport-2026",
+          "versao": "Sport T270",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 174990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador jeep.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.3 T270 Turbo Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 176
+            },
+            "torque_kgfm": {
+              "etanol": 27.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.8,
+            "velocidade_maxima_kmh": 202
+          },
+          "consumo": {
+            "cidade_etanol": 7.3,
+            "estrada_etanol": 8.6,
+            "cidade_gasolina": 10.1,
+            "estrada_gasolina": 12.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4404,
+            "largura": 1819,
+            "largura_com_retrovisores": null,
+            "altura": 1632,
+            "entre_eixos": 2636,
+            "altura_livre_solo": 209
+          },
+          "peso_kg": 1565,
+          "porta_malas_l": 476,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 8.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Quadro de instrumentos com tela TFT de 7\"",
+              "Sensor de chuva",
+              "Sistema Auto Hold",
+              "Modo Sport",
+              "Jeep Traction Control+",
+              "Protetor de cárter e de tanque",
+              "Opcionais: Pacote Exclusive, Pacote Tech (ADAS nível 2), Pacote Premium"
+            ]
+          },
+          "fonte_url": "https://www.jeep.com.br/content/dam/jeep/products/675/receptiva/2026/ficha-tecnica/ficha-tecnica-compass-sport-t270.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "A marca divulga um único valor de potência/torque (176 cv / 270 Nm) para o motor flex; registrado na chave etanol. 0-100 km/h conforme ficha técnica (E100). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COMPASS LIMITED T\"."
+        },
+        {
+          "id": "jeep-compass-longitude-2026",
+          "versao": "Longitude T270",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 199990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador jeep.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.3 T270 Turbo Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 176
+            },
+            "torque_kgfm": {
+              "etanol": 27.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.8,
+            "velocidade_maxima_kmh": 202
+          },
+          "consumo": {
+            "cidade_etanol": 7.3,
+            "estrada_etanol": 8.6,
+            "cidade_gasolina": 10.1,
+            "estrada_gasolina": 12.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4404,
+            "largura": 1819,
+            "largura_com_retrovisores": null,
+            "altura": 1628,
+            "entre_eixos": 2636,
+            "altura_livre_solo": 205
+          },
+          "peso_kg": 1585,
+          "porta_malas_l": 476,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "ADAS nível 2 (ACC com Stop&Go, assistente ativo de direção)",
+              "Painel digital de 10,25\"",
+              "Navegação GPS",
+              "Paddle shifters",
+              "Comutação automática dos faróis",
+              "Reconhecimento de placas",
+              "Opcionais: teto solar panorâmico, Pacote Night Eagle, rodas 19\""
+            ]
+          },
+          "fonte_url": "https://www.jeep.com.br/content/dam/jeep/products/675/receptiva/2026/ficha-tecnica/ficha-tecnica-compass-longitude-t270.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "A marca divulga um único valor de potência/torque (176 cv / 270 Nm) para o motor flex; registrado na chave etanol. 0-100 km/h conforme ficha técnica (E100). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COMPASS LIMITED T\"."
+        },
+        {
+          "id": "jeep-compass-serie-s-2026",
+          "versao": "Série S T270",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 233990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador jeep.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.3 T270 Turbo Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 176
+            },
+            "torque_kgfm": {
+              "etanol": 27.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.8,
+            "velocidade_maxima_kmh": 202
+          },
+          "consumo": {
+            "cidade_etanol": 7.3,
+            "estrada_etanol": 8.6,
+            "cidade_gasolina": 10.1,
+            "estrada_gasolina": 12.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4404,
+            "largura": 1819,
+            "largura_com_retrovisores": null,
+            "altura": 1625,
+            "entre_eixos": 2636,
+            "altura_livre_solo": 202
+          },
+          "peso_kg": 1589,
+          "porta_malas_l": 476,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/45 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto solar panorâmico Command View",
+              "Bancos elétricos para motorista e passageiro",
+              "Som Beats de 506 W com subwoofer",
+              "Porta-malas elétrico com sensor de presença",
+              "Park Assist",
+              "Detecção de tráfego cruzado traseiro",
+              "Alexa integrada",
+              "Rodas escurecidas de 19\"",
+              "Teto pintado de preto"
+            ]
+          },
+          "fonte_url": "https://www.jeep.com.br/content/dam/jeep/products/675/receptiva/2026/ficha-tecnica/ficha-tecnica-serie-s-compass-my26.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "A marca divulga um único valor de potência/torque (176 cv / 270 Nm) para o motor flex; registrado na chave etanol. 0-100 km/h conforme ficha técnica (E100). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COMPASS LIMITED T\"."
+        },
+        {
+          "id": "jeep-compass-blackhawk-2026",
+          "versao": "Blackhawk 2.0T Hurricane Flex 4x4",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 278990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador jeep.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "2.0 Hurricane Turbo Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 272
+            },
+            "torque_kgfm": {
+              "etanol": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.3,
+            "velocidade_maxima_kmh": 228
+          },
+          "consumo": {
+            "cidade_etanol": 6,
+            "estrada_etanol": 7.6,
+            "cidade_gasolina": 8.5,
+            "estrada_gasolina": 11
+          },
+          "dimensoes_mm": {
+            "comprimento": 4404,
+            "largura": 1819,
+            "largura_com_retrovisores": null,
+            "altura": 1640,
+            "entre_eixos": 2636,
+            "altura_livre_solo": 198
+          },
+          "peso_kg": 1720,
+          "porta_malas_l": 476,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/45 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 2.0 Hurricane de 272 cv",
+              "Tração 4x4 Jeep Active Drive Low",
+              "Seletor de terrenos e HDC",
+              "Performance Pages",
+              "Pinças de freio vermelhas",
+              "Bancos em couro e suede",
+              "Som Beats de 506 W",
+              "Tomada 127 V",
+              "Teto solar panorâmico"
+            ]
+          },
+          "fonte_url": "https://www.jeep.com.br/content/dam/jeep/products/675/receptiva/2026/ficha-tecnica/ficha-tecnica-blackhawk-hurricane-compass-my26.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "A marca divulga um único valor de potência/torque (272 cv / 400 Nm) para o motor flex; registrado na chave etanol. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COMPASS BLACKHAWK F\"."
+        }
+      ]
+    },
+    {
+      "id": "jeep-commander",
+      "modelo": "Commander",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV 7 lugares",
+      "propulsoes": [
+        "Combustão",
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/jeep-commander.webp",
+        "fonte_imagem": "https://images.dailyrevs.com/0000/v3/Jeep/68a5856f69be0361a52f5e0d/2026-commander-blackhawk-jeep-hmn47777a30ot5z5zg2en.jpeg",
+        "pagina_origem": "https://www.dailyrevs.com/cars/2026-jeep-commander-blackhawk"
+      },
+      "fontes": [
+        {
+          "url": "https://www.jeep.com.br/commander.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jeep.com.br/commander/monte.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://mvs-service.k8s.fcalatam.com.br/mvs?brand=JEEP&market=pt-BR&model=671&year=2027",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://price-service.k8s.fcalatam.com.br/price",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jeep.com.br/content/dam/jeep/commander/receptiva/2026/ficha-tecnica/ficha-tecnica-longitude-commander-my27.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jeep.com.br/content/dam/jeep/commander/receptiva/2026/ficha-tecnica/ficha-tecnica-limited-mhev-NOVA.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jeep.com.br/content/dam/jeep/commander/receptiva/2026/ficha-tecnica/ficha-tecnica-overland-flex-commander-my27.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jeep.com.br/content/dam/jeep/commander/receptiva/2026/ficha-tecnica/ficha-tecnica-overland-turbo-diesel-commander-my27.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jeep.com.br/content/dam/jeep/commander/receptiva/2026/ficha-tecnica/ficha-tecnica-blackhawk-hurricane-commander-my27.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "jeep-commander-longitude-2027",
+          "versao": "Longitude T270 7L",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 228790,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador jeep.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.3 T270 Turbo Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 176
+            },
+            "torque_kgfm": {
+              "etanol": 27.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.3,
+            "velocidade_maxima_kmh": 198
+          },
+          "consumo": {
+            "cidade_etanol": 6.9,
+            "estrada_etanol": 8.3,
+            "cidade_gasolina": 10,
+            "estrada_gasolina": 11.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4766,
+            "largura": 1859,
+            "largura_com_retrovisores": null,
+            "altura": 1685,
+            "entre_eixos": 2796,
+            "altura_livre_solo": 211
+          },
+          "peso_kg": 1668,
+          "porta_malas_l": 661,
+          "tanque_l": 61,
+          "lugares": 7,
+          "portas": 4,
+          "pneus": "235/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "7 lugares com 3ª fileira reclinável",
+              "ADAS nível 2 com centralizador de faixa",
+              "Park Assist",
+              "Porta-malas com abertura elétrica",
+              "Detector de tráfego cruzado",
+              "Partida remota",
+              "Navegação GPS",
+              "Ar-condicionado com ajuste para fileiras traseiras"
+            ]
+          },
+          "fonte_url": "https://www.jeep.com.br/content/dam/jeep/commander/receptiva/2026/ficha-tecnica/ficha-tecnica-longitude-commander-my27.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "A marca divulga um único valor de potência/torque (176 cv / 270 Nm) para o motor flex; registrado na chave etanol. Porta-malas: 233 L com 7 lugares, 661 L com a 3ª fila rebatida, 1.760 L com 2 lugares. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COMMANDER LIM 7 270\"."
+        },
+        {
+          "id": "jeep-commander-limited-mhev-2027",
+          "versao": "Limited T270 MHEV",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 255690,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador jeep.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.3 T270 Turbo Flex MHEV",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 176
+            },
+            "torque_kgfm": {
+              "etanol": 27.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.4,
+            "velocidade_maxima_kmh": 198
+          },
+          "consumo": {
+            "cidade_etanol": 7.6,
+            "estrada_etanol": 8.1,
+            "cidade_gasolina": 11,
+            "estrada_gasolina": 11.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4766,
+            "largura": 1859,
+            "largura_com_retrovisores": null,
+            "altura": 1685,
+            "entre_eixos": 2796,
+            "altura_livre_solo": 213
+          },
+          "peso_kg": 1709,
+          "porta_malas_l": 661,
+          "tanque_l": 61,
+          "lugares": 7,
+          "portas": 4,
+          "pneus": "235/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema híbrido leve MHEV",
+              "Bancos e painel em couro e suede",
+              "Som Harman Kardon de 450 W",
+              "Adventure Intelligence com Alexa",
+              "Carregador por indução",
+              "ADAS nível 2",
+              "Park Assist"
+            ]
+          },
+          "fonte_url": "https://www.jeep.com.br/content/dam/jeep/commander/receptiva/2026/ficha-tecnica/ficha-tecnica-limited-mhev-NOVA.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "A marca divulga um único valor de potência/torque (176 cv / 270 Nm) para o motor flex; registrado na chave etanol. Porta-malas: 233 L com 7 lugares, 661 L com a 3ª fila rebatida, 1.760 L com 2 lugares. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COMMANDER LMTD HYB\"."
+        },
+        {
+          "id": "jeep-commander-overland-mhev-2027",
+          "versao": "Overland T270 MHEV",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 283790,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador jeep.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.3 T270 Turbo Flex MHEV",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 176
+            },
+            "torque_kgfm": {
+              "etanol": 27.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.6,
+            "velocidade_maxima_kmh": 198
+          },
+          "consumo": {
+            "cidade_etanol": 7.6,
+            "estrada_etanol": 8.1,
+            "cidade_gasolina": 11,
+            "estrada_gasolina": 11.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4766,
+            "largura": 1859,
+            "largura_com_retrovisores": null,
+            "altura": 1685,
+            "entre_eixos": 2796,
+            "altura_livre_solo": 212
+          },
+          "peso_kg": 1775,
+          "porta_malas_l": 661,
+          "tanque_l": 61,
+          "lugares": 7,
+          "portas": 4,
+          "pneus": "235/50 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema híbrido leve MHEV",
+              "Teto solar panorâmico",
+              "Câmera 360°",
+              "Banco do motorista com memória e passageiro elétrico",
+              "Bancos em couro e suede marrom",
+              "Porta-malas hands free",
+              "Som Harman Kardon de 450 W",
+              "Molduras inferiores na cor do veículo"
+            ]
+          },
+          "fonte_url": "https://www.jeep.com.br/content/dam/jeep/commander/receptiva/2026/ficha-tecnica/ficha-tecnica-overland-flex-commander-my27.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "A marca divulga um único valor de potência/torque (176 cv / 270 Nm) para o motor flex; registrado na chave etanol. Porta-malas: 233 L com 7 lugares, 661 L com a 3ª fila rebatida, 1.760 L com 2 lugares. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COMMANDER LMTD HYB\"."
+        },
+        {
+          "id": "jeep-commander-overland-turbodiesel-2027",
+          "versao": "Overland 2.2 Turbodiesel 4x4",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 319990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador jeep.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.2 MultiJet Turbodiesel",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 200
+            },
+            "torque_kgfm": {
+              "diesel": 45.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.7,
+            "velocidade_maxima_kmh": 205
+          },
+          "consumo": {
+            "cidade_diesel": 10.3,
+            "estrada_diesel": 13.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4766,
+            "largura": 1859,
+            "largura_com_retrovisores": null,
+            "altura": 1685,
+            "entre_eixos": 2796,
+            "altura_livre_solo": 213
+          },
+          "peso_kg": 1943,
+          "porta_malas_l": 661,
+          "tanque_l": 61,
+          "lugares": 7,
+          "portas": 4,
+          "pneus": "235/50 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 2.2 turbodiesel de 200 cv e 450 Nm",
+              "Tração 4x4 Jeep Active Drive Low",
+              "Seletor de terrenos e HDC",
+              "Off-Road Pages",
+              "Câmbio rotary shifter",
+              "Câmera 360°",
+              "Teto solar panorâmico",
+              "Pneus Seal Inside",
+              "Som Harman Kardon de 450 W"
+            ]
+          },
+          "fonte_url": "https://www.jeep.com.br/content/dam/jeep/commander/receptiva/2026/ficha-tecnica/ficha-tecnica-overland-turbo-diesel-commander-my27.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas: 233 L com 7 lugares, 661 L com a 3ª fila rebatida, 1.760 L com 2 lugares. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COMMANDER OVE 2.2 D\"."
+        },
+        {
+          "id": "jeep-commander-blackhawk-2027",
+          "versao": "Blackhawk 2.0T Hurricane Flex 4x4",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 329990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador jeep.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "2.0 Hurricane Turbo Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 272
+            },
+            "torque_kgfm": {
+              "etanol": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 7,
+            "velocidade_maxima_kmh": 220
+          },
+          "consumo": {
+            "cidade_etanol": 5.7,
+            "estrada_etanol": 7.4,
+            "cidade_gasolina": 8.2,
+            "estrada_gasolina": 10.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4766,
+            "largura": 1859,
+            "largura_com_retrovisores": null,
+            "altura": 1685,
+            "entre_eixos": 2796,
+            "altura_livre_solo": 202
+          },
+          "peso_kg": 1886,
+          "porta_malas_l": 661,
+          "tanque_l": 61,
+          "lugares": 7,
+          "portas": 4,
+          "pneus": "235/50 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 2.0 Hurricane de 272 cv",
+              "Tração 4x4 Jeep Active Drive Low",
+              "Performance Pages e Off-Road Pages",
+              "Acabamento externo dark chrome",
+              "Pinças de freio vermelhas",
+              "Bancos em couro preto Blackhawk",
+              "Câmera 360°",
+              "Teto solar panorâmico",
+              "Som Harman Kardon de 450 W"
+            ]
+          },
+          "fonte_url": "https://www.jeep.com.br/content/dam/jeep/commander/receptiva/2026/ficha-tecnica/ficha-tecnica-blackhawk-hurricane-commander-my27.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "A marca divulga um único valor de potência/torque (272 cv / 400 Nm) para o motor flex; registrado na chave etanol. Porta-malas: 233 L com 7 lugares, 661 L com a 3ª fila rebatida, 1.760 L com 2 lugares. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COMMANDER BLK GME (MY27)\"."
+        }
+      ]
+    },
+    {
+      "id": "jeep-avenger",
+      "modelo": "Avenger",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/jeep-avenger.webp",
+        "fonte_imagem": "https://www.diariomotor.com/imagenes/2023/04/jeep-avenger-lateral-amplia-864485.jpg?class=OG",
+        "pagina_origem": "https://www.diariomotor.com/noticia/jeep-avenger-adelanto-2026/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.jeep.com.br/avenger.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jeep.com.br/avenger/monte.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://mvs-service.k8s.fcalatam.com.br/mvs?brand=JEEP&market=pt-BR&model=657&year=2027",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://price-service.k8s.fcalatam.com.br/price",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://carroscomcamanzi.com.br/wp-content/uploads/2026/08/Ficha_Tecnica_Avenger_Altitude_MHEV.pdf",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://carroscomcamanzi.com.br/wp-content/uploads/2026/08/Ficha_Tecnica_Avenger_Longitude_MHEV.pdf",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://carroscomcamanzi.com.br/wp-content/uploads/2026/08/Ficha_Tecnica_Avenger_Limited_MHEV.pdf",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "jeep-avenger-altitude-2027",
+          "versao": "Altitude T200 MHEV CVT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 121990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador jeep.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.0 T200 Turbo Flex MHEV",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 116,
+              "gasolina": 116
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.3,
+            "velocidade_maxima_kmh": 185
+          },
+          "consumo": {
+            "cidade_etanol": 8.8,
+            "estrada_etanol": 9.4,
+            "cidade_gasolina": 12.7,
+            "estrada_gasolina": 13.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4084,
+            "largura": 1776,
+            "largura_com_retrovisores": 1981,
+            "altura": 1583,
+            "entre_eixos": 2557,
+            "altura_livre_solo": 221
+          },
+          "peso_kg": 1253,
+          "porta_malas_l": 364,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/65 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema híbrido leve MHEV 12 V",
+              "Seletor de terrenos (Selec-Terrain)",
+              "HDC (controle de descida)",
+              "Faróis LED com comutação automática",
+              "Quadro de instrumentos digital de 7\"",
+              "Reconhecimento de placas",
+              "Sensor de estacionamento traseiro",
+              "Opcional: pacote High Altitude"
+            ]
+          },
+          "fonte_url": "https://www.jeep.com.br/avenger/monte.html",
+          "campos_fonte_secundaria": [
+            "motor.cilindrada_cm3",
+            "motor.cilindros",
+            "motor.potencia_cv.gasolina",
+            "motor.torque_kgfm.gasolina",
+            "tracao",
+            "desempenho.aceleracao_0_100_s",
+            "desempenho.velocidade_maxima_kmh",
+            "dimensoes_mm.largura",
+            "peso_kg",
+            "dimensoes_mm.altura"
+          ],
+          "observacoes": "CVT com 7 marchas emuladas. Tanque: API oficial informa 54 L e a ficha técnica (cópia de concessionária) informa 47 L — divergência, deixado null. A largura da API oficial (1.981 mm) inclui retrovisores; usada a largura sem retrovisores da ficha técnica. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AVENGER LIMITED HYB\"."
+        },
+        {
+          "id": "jeep-avenger-longitude-2027",
+          "versao": "Longitude T200 MHEV CVT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 137990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador jeep.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.0 T200 Turbo Flex MHEV",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 116,
+              "gasolina": 116
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.3,
+            "velocidade_maxima_kmh": 185
+          },
+          "consumo": {
+            "cidade_etanol": 8.8,
+            "estrada_etanol": 9.4,
+            "cidade_gasolina": 12.7,
+            "estrada_gasolina": 13.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4084,
+            "largura": 1776,
+            "largura_com_retrovisores": 1981,
+            "altura": 1600,
+            "entre_eixos": 2557,
+            "altura_livre_solo": 221
+          },
+          "peso_kg": 1271,
+          "porta_malas_l": 364,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Piloto automático adaptativo (ACC)",
+              "Chave presencial e Walk Away Lock",
+              "Câmera de ré",
+              "Faróis de neblina com cornering",
+              "Paddle shifters",
+              "Barras longitudinais no teto",
+              "Bancos em tecido e vinil",
+              "Opcionais: Convenience Pack, teto solar + Adventure Intelligence"
+            ]
+          },
+          "fonte_url": "https://www.jeep.com.br/avenger/monte.html",
+          "campos_fonte_secundaria": [
+            "motor.cilindrada_cm3",
+            "motor.cilindros",
+            "motor.potencia_cv.gasolina",
+            "motor.torque_kgfm.gasolina",
+            "tracao",
+            "desempenho.aceleracao_0_100_s",
+            "desempenho.velocidade_maxima_kmh",
+            "dimensoes_mm.largura",
+            "peso_kg"
+          ],
+          "observacoes": "CVT com 7 marchas emuladas. Tanque: API oficial informa 54 L e a ficha técnica (cópia de concessionária) informa 47 L — divergência, deixado null. A largura da API oficial (1.981 mm) inclui retrovisores; usada a largura sem retrovisores da ficha técnica. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AVENGER LIMITED HYB\"."
+        },
+        {
+          "id": "jeep-avenger-limited-2027",
+          "versao": "Limited T200 MHEV CVT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 147990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador jeep.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.0 T200 Turbo Flex MHEV",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 116,
+              "gasolina": 116
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.3,
+            "velocidade_maxima_kmh": 185
+          },
+          "consumo": {
+            "cidade_etanol": 8.8,
+            "estrada_etanol": 9.4,
+            "cidade_gasolina": 12.7,
+            "estrada_gasolina": 13.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4084,
+            "largura": 1776,
+            "largura_com_retrovisores": 1981,
+            "altura": 1600,
+            "entre_eixos": 2557,
+            "altura_livre_solo": 221
+          },
+          "peso_kg": 1280,
+          "porta_malas_l": 364,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Faróis LED Matrix",
+              "ADAS nível 2",
+              "Câmera 360°",
+              "Quadro de instrumentos digital de 10,25\"",
+              "Iluminação ambiente de 8 cores",
+              "Retrovisor eletrocrômico frameless",
+              "Jeep Connect com IA embarcada",
+              "Navegação embarcada",
+              "Teto pintado de preto",
+              "Bancos em vinil premium",
+              "Opcional: teto solar"
+            ]
+          },
+          "fonte_url": "https://www.jeep.com.br/avenger/monte.html",
+          "campos_fonte_secundaria": [
+            "motor.cilindrada_cm3",
+            "motor.cilindros",
+            "motor.potencia_cv.gasolina",
+            "motor.torque_kgfm.gasolina",
+            "tracao",
+            "desempenho.aceleracao_0_100_s",
+            "desempenho.velocidade_maxima_kmh",
+            "dimensoes_mm.largura",
+            "peso_kg",
+            "dimensoes_mm.entre_eixos"
+          ],
+          "observacoes": "CVT com 7 marchas emuladas. Tanque: API oficial informa 54 L e a ficha técnica (cópia de concessionária) informa 47 L — divergência, deixado null. A largura da API oficial (1.981 mm) inclui retrovisores; usada a largura sem retrovisores da ficha técnica. Entre-eixos: a API oficial informa 2.561 mm para esta versão (2.557 mm nas demais); usado 2.557 mm da ficha técnica. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AVENGER LIMITED HYB\"."
+        }
+      ]
+    },
+    {
+      "id": "jeep-wrangler",
+      "modelo": "Wrangler",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV fora de estrada",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/jeep-wrangler.webp",
+        "fonte_imagem": "https://cdn.auto-dash.com/affinitivadvertising/vehicleimgs/jellybeans/jeep/2026-jeep-wrangler-rubicon-beige-side.webp",
+        "pagina_origem": "https://www.crownchryslerdodgejeep.com/jeep-wrangler-specs-cleveland-tn.htm"
+      },
+      "fontes": [
+        {
+          "url": "https://www.jeep.com.br/wrangler.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jeep.com.br/wrangler/monte.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://mvs-service.k8s.fcalatam.com.br/mvs?brand=JEEP&market=pt-BR&model=685&year=2026",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://price-service.k8s.fcalatam.com.br/price",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "jeep-wrangler-rubicon-2026",
+          "versao": "Rubicon",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 529990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador jeep.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 Turbo Gasolina",
+            "cilindrada_cm3": 1995,
+            "cilindros": null,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 272
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 7.2,
+            "estrada_gasolina": 7.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4785,
+            "largura": 1894,
+            "largura_com_retrovisores": null,
+            "altura": 1853,
+            "entre_eixos": 3008,
+            "altura_livre_solo": 268
+          },
+          "peso_kg": null,
+          "porta_malas_l": 548,
+          "tanque_l": 81,
+          "lugares": null,
+          "portas": 4,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Tração 4x4 Rock-Trac com reduzida 4:1",
+              "Bloqueios de diferencial Tru-Lok",
+              "Barra estabilizadora com desconexão eletrônica",
+              "Crawl ratio 77:1",
+              "Teto rígido e portas removíveis, para-brisa rebatível",
+              "TrailCam (câmera frontal off-road)",
+              "Som Alpine com 9 alto-falantes e subwoofer",
+              "Rock Rails",
+              "Off-Road Pages",
+              "Tomada 230 V"
+            ]
+          },
+          "fonte_url": "https://www.jeep.com.br/wrangler.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Carroceria de 4 portas (Unlimited). Medida dos pneus de uso misto aro 17 não informada no site BR. Classificação: comprimento de 4,785 m (limítrofe), posicionado como SUV fora de estrada grande. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"WRANGLER UNL RUBI\"."
+        }
+      ]
+    },
+    {
+      "id": "jeep-gladiator",
+      "modelo": "Gladiator",
+      "categoria": "Picape",
+      "subcategoria": "Picape média",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/jeep-gladiator.webp",
+        "fonte_imagem": "https://www.usnews.com/object/image/00000190-4dd5-d00a-a1df-7dd7b5a70000/03usnpx-2024jeepgladiator-sideview-jmv.JPG?update-time=1719292874749&size=responsiveGallery&format=webp",
+        "pagina_origem": "https://cars.usnews.com/cars-trucks/jeep/gladiator/photos-exterior"
+      },
+      "fontes": [
+        {
+          "url": "https://www.jeep.com.br/gladiator.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jeep.com.br/gladiator/monte.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://mvs-service.k8s.fcalatam.com.br/mvs?brand=JEEP&market=pt-BR&model=559&year=2026",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://price-service.k8s.fcalatam.com.br/price",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "jeep-gladiator-rubicon-2026",
+          "versao": "Rubicon",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 529990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador jeep.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.6 V6 Pentastar",
+            "cilindrada_cm3": null,
+            "cilindros": 6,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 284
+            },
+            "torque_kgfm": {
+              "gasolina": 35.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.1,
+            "velocidade_maxima_kmh": 156
+          },
+          "consumo": {
+            "cidade_gasolina": 6.3,
+            "estrada_gasolina": 7.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 5591,
+            "largura": 1894,
+            "largura_com_retrovisores": null,
+            "altura": 1905,
+            "entre_eixos": 3488,
+            "altura_livre_solo": 270
+          },
+          "peso_kg": 2261,
+          "porta_malas_l": null,
+          "tanque_l": 83,
+          "lugares": null,
+          "portas": 4,
+          "pneus": "245/75 R17",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 1000,
+            "capacidade_carga_kg": 674
+          },
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Tração 4x4 Rock-Trac com reduzida 4:1",
+              "Bloqueios de diferencial Tru-Lok",
+              "Barra estabilizadora com desconexão eletrônica",
+              "Teto rígido e portas removíveis, para-brisa rebatível",
+              "Caçamba de 1.000 L com capota marítima e proteção em spray",
+              "Reboque de até 3.138 kg",
+              "Alto-falante Bluetooth removível Alpine",
+              "TrailCam (câmera frontal off-road)",
+              "Tomada 220 V na caçamba"
+            ]
+          },
+          "fonte_url": "https://www.jeep.com.br/gladiator.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Velocidade máxima limitada eletronicamente. Capacidade de reboque: 3.138 kg. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GLADIATOR RUBICON\"."
+        }
+      ]
+    }
+  ]
+}

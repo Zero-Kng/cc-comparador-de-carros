@@ -1,0 +1,2153 @@
+{
+  "marca": "Honda",
+  "slug": "honda",
+  "site_oficial": "https://www.honda.com.br/automoveis",
+  "coletado_em": "2026-10-19",
+  "modelos": [
+    {
+      "id": "honda-city-hatchback",
+      "modelo": "City Hatchback",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch compacto",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/honda-city-hatchback.webp",
+        "fonte_imagem": "https://clickpetroleoegas.com.br/wp-content/uploads/2025/12/Honda-City-Hatchback-2026-chega-como-versao-de-entrada-por-cerca-de-R-117-mil-aposta-em-consumo-baixo-seis-airbags-bom-espaco-interno-mecanica-confiavel-2.jpg",
+        "pagina_origem": "https://clickpetroleoegas.com.br/honda-city-hatchback-2026-chega-como-versao-de-entrada-por-cerca-de-r-117-mil-aposta-em-consumo-baixo-seis-airbags-bom-espaco-interno-mecanica-confiavel-ctl01/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.honda.com.br/automoveis/cityhatchback",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.honda.com.br/automoveis/produto/api/consulta/completo?modelo=cityhatchback&uf=SP",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "honda-city-hatchback-lx-2027",
+          "versao": "LX",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 117700,
+          "preco_obs": "Preço público sugerido SP, com frete; cor sólida Branco Tafetá. Acréscimo de R$ 1.900 para metálica/perolizada e R$ 2.200 para Branco Topázio Perolizado.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 DOHC i-VTEC Flex com injeção direta",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 126,
+              "gasolina": 126
+            },
+            "torque_kgfm": {
+              "etanol": 15.8,
+              "gasolina": 15.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 9.2,
+            "estrada_etanol": 10.5,
+            "cidade_gasolina": 13.2,
+            "estrada_gasolina": 15
+          },
+          "dimensoes_mm": {
+            "comprimento": 4343,
+            "largura": 1748,
+            "largura_com_retrovisores": null,
+            "altura": 1498,
+            "entre_eixos": 2600,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1166,
+          "porta_malas_l": 268,
+          "tanque_l": 39.5,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "185/60 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Magic Seat",
+              "Barra frontal iluminada em LED",
+              "Smart Entry",
+              "Alerta de pressão dos pneus (TPMS)"
+            ]
+          },
+          "fonte_url": "https://www.honda.com.br/automoveis/cityhatchback",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Peso informado no site sob o rótulo \"Peso bruto total\", mas o valor corresponde ao peso em ordem de marcha. Câmera de ré e faróis Full LED citados no card da versão LX (não constam da lista de equipamentos). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CITY HATCH LX\"."
+        },
+        {
+          "id": "honda-city-hatchback-ex-2027",
+          "versao": "EX",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 137400,
+          "preco_obs": "Preço público sugerido SP, com frete; cor sólida Branco Tafetá. Acréscimo de R$ 1.900 para metálica/perolizada e R$ 2.200 para Branco Topázio Perolizado.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 DOHC i-VTEC Flex com injeção direta",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 126,
+              "gasolina": 126
+            },
+            "torque_kgfm": {
+              "etanol": 15.8,
+              "gasolina": 15.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 9.2,
+            "estrada_etanol": 10.5,
+            "cidade_gasolina": 13.2,
+            "estrada_gasolina": 15
+          },
+          "dimensoes_mm": {
+            "comprimento": 4343,
+            "largura": 1748,
+            "largura_com_retrovisores": null,
+            "altura": 1498,
+            "entre_eixos": 2600,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1182,
+          "porta_malas_l": 268,
+          "tanque_l": 39.5,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "185/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Honda SENSING (ACC, CMBS, LKAS, RDM, AHB)",
+              "Freio de estacionamento eletrônico com Brake Hold",
+              "Saídas de ar traseiras",
+              "USB-C traseiras",
+              "Magic Seat"
+            ]
+          },
+          "fonte_url": "https://www.honda.com.br/automoveis/cityhatchback",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Peso informado no site sob o rótulo \"Peso bruto total\", mas o valor corresponde ao peso em ordem de marcha. Quadro de instrumentos com tela TFT de 4,2\". Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CITY HATCH LX\"."
+        },
+        {
+          "id": "honda-city-hatchback-exl-2027",
+          "versao": "EXL",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 144800,
+          "preco_obs": "Preço público sugerido SP, com frete; cor sólida Branco Tafetá. Acréscimo de R$ 1.900 para metálica/perolizada e R$ 2.200 para Branco Topázio Perolizado.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 DOHC i-VTEC Flex com injeção direta",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 126,
+              "gasolina": 126
+            },
+            "torque_kgfm": {
+              "etanol": 15.8,
+              "gasolina": 15.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 9.2,
+            "estrada_etanol": 10.5,
+            "cidade_gasolina": 13.2,
+            "estrada_gasolina": 15
+          },
+          "dimensoes_mm": {
+            "comprimento": 4343,
+            "largura": 1748,
+            "largura_com_retrovisores": null,
+            "altura": 1498,
+            "entre_eixos": 2600,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1184,
+          "porta_malas_l": 268,
+          "tanque_l": 39.5,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "185/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Painel digital TFT 7\"",
+              "Paddle shifts",
+              "Sensores de estacionamento traseiros",
+              "Retrovisores com rebatimento automático",
+              "myHonda Connect",
+              "Faróis de neblina"
+            ]
+          },
+          "fonte_url": "https://www.honda.com.br/automoveis/cityhatchback",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Peso informado no site sob o rótulo \"Peso bruto total\", mas o valor corresponde ao peso em ordem de marcha. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CITY HATCH LX\"."
+        },
+        {
+          "id": "honda-city-hatchback-touring-2027",
+          "versao": "Touring",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 153300,
+          "preco_obs": "Preço público sugerido SP, com frete; cor sólida Branco Tafetá. Acréscimo de R$ 1.900 para metálica/perolizada e R$ 2.200 para Branco Topázio Perolizado.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 DOHC i-VTEC Flex com injeção direta",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 126,
+              "gasolina": 126
+            },
+            "torque_kgfm": {
+              "etanol": 15.8,
+              "gasolina": 15.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 9.2,
+            "estrada_etanol": 10.5,
+            "cidade_gasolina": 13.2,
+            "estrada_gasolina": 15
+          },
+          "dimensoes_mm": {
+            "comprimento": 4343,
+            "largura": 1748,
+            "largura_com_retrovisores": null,
+            "altura": 1498,
+            "entre_eixos": 2600,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1184,
+          "porta_malas_l": 268,
+          "tanque_l": 39.5,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "185/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Honda LaneWatch (câmera de ponto cego)",
+              "ACC com Low Speed Follow",
+              "8 alto-falantes",
+              "Sensor de chuva",
+              "Partida remota pela chave",
+              "Faróis de neblina em LED",
+              "Rodas com acabamento escurecido"
+            ]
+          },
+          "fonte_url": "https://www.honda.com.br/automoveis/cityhatchback",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Peso informado no site sob o rótulo \"Peso bruto total\", mas o valor corresponde ao peso em ordem de marcha. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CITY HATCH LX\"."
+        }
+      ]
+    },
+    {
+      "id": "honda-city-sedan",
+      "modelo": "City Sedan",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan compacto",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/honda-city-sedan.webp",
+        "fonte_imagem": "https://imgcdn.zigwheels.my/large/gallery/exterior/7/1687/honda-city-side-view-671046.jpg",
+        "pagina_origem": "https://www.zigwheels.my/new-cars/honda/city/1-5l-ehev-rs"
+      },
+      "fontes": [
+        {
+          "url": "https://www.honda.com.br/automoveis/citysedan",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.honda.com.br/automoveis/produto/api/consulta/completo?modelo=citysedan&uf=SP",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "honda-city-sedan-lx-2027",
+          "versao": "LX",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 117700,
+          "preco_obs": "Preço público sugerido SP, com frete; cor sólida Branco Tafetá. Acréscimo de R$ 1.900 para metálica/perolizada e R$ 2.200 para Branco Topázio Perolizado.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 DOHC i-VTEC Flex com injeção direta",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 126,
+              "gasolina": 126
+            },
+            "torque_kgfm": {
+              "etanol": 15.8,
+              "gasolina": 15.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 9.3,
+            "estrada_etanol": 10.4,
+            "cidade_gasolina": 12.8,
+            "estrada_gasolina": 15.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4577,
+            "largura": 1748,
+            "largura_com_retrovisores": null,
+            "altura": 1477,
+            "entre_eixos": 2600,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1174,
+          "porta_malas_l": 519,
+          "tanque_l": 44,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "185/60 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Faróis Full LED",
+              "Câmera de ré multivisão",
+              "Smart Entry",
+              "Rodas de aço com calotas"
+            ]
+          },
+          "fonte_url": "https://www.honda.com.br/automoveis/citysedan",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Peso informado no site sob o rótulo \"Peso bruto total\", mas o valor corresponde ao peso em ordem de marcha. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CITY LX\"."
+        },
+        {
+          "id": "honda-city-sedan-ex-2027",
+          "versao": "EX",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 138400,
+          "preco_obs": "Preço público sugerido SP, com frete; cor sólida Branco Tafetá. Acréscimo de R$ 1.900 para metálica/perolizada e R$ 2.200 para Branco Topázio Perolizado.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 DOHC i-VTEC Flex com injeção direta",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 126,
+              "gasolina": 126
+            },
+            "torque_kgfm": {
+              "etanol": 15.8,
+              "gasolina": 15.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 9.3,
+            "estrada_etanol": 10.4,
+            "cidade_gasolina": 12.8,
+            "estrada_gasolina": 15.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4577,
+            "largura": 1748,
+            "largura_com_retrovisores": null,
+            "altura": 1477,
+            "entre_eixos": 2600,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1174,
+          "porta_malas_l": 519,
+          "tanque_l": 44,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "185/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Honda SENSING (ACC, CMBS, LKAS, RDM, AHB)",
+              "Paddle shifts",
+              "Freio de estacionamento eletrônico com Brake Hold",
+              "Saídas de ar traseiras"
+            ]
+          },
+          "fonte_url": "https://www.honda.com.br/automoveis/citysedan",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Peso informado no site sob o rótulo \"Peso bruto total\", mas o valor corresponde ao peso em ordem de marcha. Quadro de instrumentos com tela TFT de 4,2\". Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CITY LX\"."
+        },
+        {
+          "id": "honda-city-sedan-exl-2027",
+          "versao": "EXL",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 145800,
+          "preco_obs": "Preço público sugerido SP, com frete; cor sólida Branco Tafetá. Acréscimo de R$ 1.900 para metálica/perolizada e R$ 2.200 para Branco Topázio Perolizado.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 DOHC i-VTEC Flex com injeção direta",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 126,
+              "gasolina": 126
+            },
+            "torque_kgfm": {
+              "etanol": 15.8,
+              "gasolina": 15.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 9.3,
+            "estrada_etanol": 10.4,
+            "cidade_gasolina": 12.8,
+            "estrada_gasolina": 15.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4577,
+            "largura": 1748,
+            "largura_com_retrovisores": null,
+            "altura": 1477,
+            "entre_eixos": 2600,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1174,
+          "porta_malas_l": 519,
+          "tanque_l": 44,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "185/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Honda LaneWatch (câmera de ponto cego)",
+              "Painel digital TFT 7\"",
+              "6 alto-falantes",
+              "Sensores de estacionamento traseiros",
+              "Retrovisores com rebatimento automático",
+              "myHonda Connect"
+            ]
+          },
+          "fonte_url": "https://www.honda.com.br/automoveis/citysedan",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Peso informado no site sob o rótulo \"Peso bruto total\", mas o valor corresponde ao peso em ordem de marcha. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CITY LX\"."
+        },
+        {
+          "id": "honda-city-sedan-touring-2027",
+          "versao": "Touring",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 154300,
+          "preco_obs": "Preço público sugerido SP, com frete; cor sólida Branco Tafetá. Acréscimo de R$ 1.900 para metálica/perolizada e R$ 2.200 para Branco Topázio Perolizado.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 DOHC i-VTEC Flex com injeção direta",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 126,
+              "gasolina": 126
+            },
+            "torque_kgfm": {
+              "etanol": 15.8,
+              "gasolina": 15.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 9.3,
+            "estrada_etanol": 10.4,
+            "cidade_gasolina": 12.8,
+            "estrada_gasolina": 15.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4577,
+            "largura": 1748,
+            "largura_com_retrovisores": null,
+            "altura": 1477,
+            "entre_eixos": 2600,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1174,
+          "porta_malas_l": 519,
+          "tanque_l": 44,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "185/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Multimídia 10,1\"",
+              "Honda LaneWatch (câmera de ponto cego)",
+              "8 alto-falantes",
+              "Sensor de chuva",
+              "Retrovisor interno fotocrômico",
+              "Partida remota pela chave"
+            ]
+          },
+          "fonte_url": "https://www.honda.com.br/automoveis/citysedan",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Peso informado no site sob o rótulo \"Peso bruto total\", mas o valor corresponde ao peso em ordem de marcha. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CITY LX\"."
+        }
+      ]
+    },
+    {
+      "id": "honda-wr-v",
+      "modelo": "WR-V",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/honda-wr-v.webp",
+        "fonte_imagem": "https://autosdeprimera.com/wp-content/uploads/2025/10/honda-wr-v-2026-brasil-lateral-2048x1365.jpg",
+        "pagina_origem": "https://autosdeprimera.com/autos-de-primera/en-el-mundo/honda-wr-v-2026-brasil/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.honda.com.br/automoveis/wrv",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.honda.com.br/automoveis/produto/api/consulta/completo?modelo=wrv&uf=SP",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "honda-wr-v-ex-2027",
+          "versao": "EX",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 149900,
+          "preco_obs": "Preço público sugerido SP, com frete; cor sólida Branco Tafetá. Acréscimo de R$ 2.200 para metálica/perolizada e R$ 2.500 para Branco Topázio Perolizado.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 DOHC i-VTEC Flex com injeção direta",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 126,
+              "gasolina": 126
+            },
+            "torque_kgfm": {
+              "etanol": 15.8,
+              "gasolina": 15.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.2,
+            "estrada_etanol": 8.9,
+            "cidade_gasolina": 12,
+            "estrada_gasolina": 12.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4325,
+            "largura": 1790,
+            "largura_com_retrovisores": null,
+            "altura": 1650,
+            "entre_eixos": 2650,
+            "altura_livre_solo": 223
+          },
+          "peso_kg": 1273,
+          "porta_malas_l": 458,
+          "tanque_l": 44,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/55 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": null,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Honda SENSING (ACC, CMBS, LKAS, RDM, AHB)",
+              "Painel digital TFT 7\"",
+              "Paddle shifts",
+              "Saídas de ar traseiras",
+              "Altura livre do solo de 223 mm"
+            ]
+          },
+          "fonte_url": "https://www.honda.com.br/automoveis/wrv",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"WR-V EX\"."
+        },
+        {
+          "id": "honda-wr-v-exl-2027",
+          "versao": "EXL",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 154900,
+          "preco_obs": "Preço público sugerido SP, com frete; cor sólida Branco Tafetá. Acréscimo de R$ 2.200 para metálica/perolizada e R$ 2.500 para Branco Topázio Perolizado.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 DOHC i-VTEC Flex com injeção direta",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 126,
+              "gasolina": 126
+            },
+            "torque_kgfm": {
+              "etanol": 15.8,
+              "gasolina": 15.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.2,
+            "estrada_etanol": 8.9,
+            "cidade_gasolina": 12,
+            "estrada_gasolina": 12.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4325,
+            "largura": 1790,
+            "largura_com_retrovisores": null,
+            "altura": 1650,
+            "entre_eixos": 2650,
+            "altura_livre_solo": 223
+          },
+          "peso_kg": 1278,
+          "porta_malas_l": 458,
+          "tanque_l": 44,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/55 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": null,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "myHonda Connect com partida remota",
+              "Faróis de neblina em LED",
+              "Barras longitudinais no teto",
+              "Apoio de braço traseiro",
+              "Carregador por indução"
+            ]
+          },
+          "fonte_url": "https://www.honda.com.br/automoveis/wrv",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"WR-V EX\"."
+        }
+      ]
+    },
+    {
+      "id": "honda-hr-v",
+      "modelo": "HR-V",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/honda-hr-v.webp",
+        "fonte_imagem": "https://images.cars.com/cldstatic/wp-content/uploads/honda-hr-v-2026-06-exterior-profile-scaled.jpg",
+        "pagina_origem": "https://www.cars.com/research/honda-hr_v-2026/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.honda.com.br/automoveis/hrv",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.honda.com.br/automoveis/produto/api/consulta/completo?modelo=hrv&uf=SP",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "honda-hr-v-ex-2027",
+          "versao": "EX",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 166400,
+          "preco_obs": "Preço público sugerido SP, com frete; cor sólida Branco Tafetá. Acréscimo de R$ 2.200 para metálica/perolizada e R$ 2.500 para Branco Topázio Perolizado.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 DOHC i-VTEC Flex com injeção direta",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 126,
+              "gasolina": 126
+            },
+            "torque_kgfm": {
+              "etanol": 15.8,
+              "gasolina": 15.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.8,
+            "estrada_etanol": 9.9,
+            "cidade_gasolina": 12.5,
+            "estrada_gasolina": 13.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4346,
+            "largura": 1790,
+            "largura_com_retrovisores": null,
+            "altura": 1590,
+            "entre_eixos": 2610,
+            "altura_livre_solo": 185
+          },
+          "peso_kg": 1297,
+          "porta_malas_l": 354,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Honda SENSING com ACC Low Speed Follow",
+              "Honda LaneWatch (câmera de ponto cego)",
+              "Freio de estacionamento eletrônico com Brake Hold",
+              "Controle de descida (HDC)",
+              "Saídas de ar traseiras"
+            ]
+          },
+          "fonte_url": "https://www.honda.com.br/automoveis/hrv",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HR-V EX\"."
+        },
+        {
+          "id": "honda-hr-v-exl-2027",
+          "versao": "EXL",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 174300,
+          "preco_obs": "Preço público sugerido SP, com frete; cor sólida Branco Tafetá. Acréscimo de R$ 2.200 para metálica/perolizada e R$ 2.500 para Branco Topázio Perolizado.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 DOHC i-VTEC Flex com injeção direta",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 126,
+              "gasolina": 126
+            },
+            "torque_kgfm": {
+              "etanol": 15.8,
+              "gasolina": 15.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.8,
+            "estrada_etanol": 9.9,
+            "cidade_gasolina": 12.5,
+            "estrada_gasolina": 13.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4346,
+            "largura": 1790,
+            "largura_com_retrovisores": null,
+            "altura": 1590,
+            "entre_eixos": 2610,
+            "altura_livre_solo": 185
+          },
+          "peso_kg": 1303,
+          "porta_malas_l": 354,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Honda LaneWatch (câmera de ponto cego)",
+              "Sensores de estacionamento dianteiros e traseiros",
+              "Sensor de chuva",
+              "Retrovisor interno fotocrômico",
+              "Faróis de neblina em LED",
+              "2 tweeters"
+            ]
+          },
+          "fonte_url": "https://www.honda.com.br/automoveis/hrv",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HR-V EX\"."
+        },
+        {
+          "id": "honda-hr-v-advance-2027",
+          "versao": "Advance",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 203300,
+          "preco_obs": "Preço público sugerido SP, com frete; cor sólida Branco Tafetá. Acréscimo de R$ 2.200 para metálica/perolizada e R$ 2.500 para Branco Topázio Perolizado.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 DI VTEC Turbo Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 177,
+              "gasolina": 177
+            },
+            "torque_kgfm": {
+              "etanol": 24.5,
+              "gasolina": 24.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8,
+            "estrada_etanol": 9.2,
+            "cidade_gasolina": 11.3,
+            "estrada_gasolina": 13
+          },
+          "dimensoes_mm": {
+            "comprimento": 4385,
+            "largura": 1790,
+            "largura_com_retrovisores": null,
+            "altura": 1590,
+            "entre_eixos": 2610,
+            "altura_livre_solo": 181
+          },
+          "peso_kg": 1402,
+          "porta_malas_l": 354,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/50 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 1.5 turbo de 177 cv",
+              "Modo de condução Sport",
+              "Escapamento duplo",
+              "myHonda Connect",
+              "Honda LaneWatch (câmera de ponto cego)",
+              "Bancos em couro preto ou cinza claro"
+            ]
+          },
+          "fonte_url": "https://www.honda.com.br/automoveis/hrv",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HR-V ADVANCE\"."
+        },
+        {
+          "id": "honda-hr-v-touring-2027",
+          "versao": "Touring",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 214000,
+          "preco_obs": "Preço público sugerido SP, com frete; cor sólida Branco Tafetá. Acréscimo de R$ 2.200 para metálica/perolizada e R$ 2.500 para Branco Topázio Perolizado.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 DI VTEC Turbo Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 177,
+              "gasolina": 177
+            },
+            "torque_kgfm": {
+              "etanol": 24.5,
+              "gasolina": 24.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8,
+            "estrada_etanol": 9.2,
+            "cidade_gasolina": 11.3,
+            "estrada_gasolina": 13
+          },
+          "dimensoes_mm": {
+            "comprimento": 4385,
+            "largura": 1790,
+            "largura_com_retrovisores": null,
+            "altura": 1590,
+            "entre_eixos": 2610,
+            "altura_livre_solo": 181
+          },
+          "peso_kg": 1408,
+          "porta_malas_l": 354,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/50 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 1.5 turbo de 177 cv",
+              "Tampa traseira elétrica com função hands free",
+              "Banco do motorista com ajuste elétrico",
+              "Partida remota pela chave",
+              "4 tweeters",
+              "Escapamento duplo"
+            ]
+          },
+          "fonte_url": "https://www.honda.com.br/automoveis/hrv",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HR-V ADVANCE\"."
+        }
+      ]
+    },
+    {
+      "id": "honda-zr-v",
+      "modelo": "ZR-V",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "México",
+      "imagem": {
+        "arquivo": "img/carros/honda-zr-v.webp",
+        "fonte_imagem": "https://www.dubicars.com/images/9ac675/r_960x540/generations/generation_660bc2d190a88_hzr-v-ehev-lx-side-cgarnet.png?6",
+        "pagina_origem": "https://www.dubicars.com/new-cars/honda/zr-v/images"
+      },
+      "fontes": [
+        {
+          "url": "https://www.honda.com.br/automoveis/zrv",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.honda.com.br/automoveis/produto/api/consulta/completo?modelo=zrv&uf=SP",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "honda-zr-v-touring-2026",
+          "versao": "Touring",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 215100,
+          "preco_obs": "Preço público sugerido SP, com frete; mesmo preço para todas as cores.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 16V DOHC i-VTEC",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 161
+            },
+            "torque_kgfm": {
+              "gasolina": 19.1
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 10.4,
+            "estrada_gasolina": 12.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4568,
+            "largura": 1840,
+            "largura_com_retrovisores": null,
+            "altura": 1621,
+            "entre_eixos": 2655,
+            "altura_livre_solo": 178
+          },
+          "peso_kg": 1465,
+          "porta_malas_l": 389,
+          "tanque_l": 53,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 8,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "8 airbags (inclui joelhos)",
+              "Honda LaneWatch (câmera de ponto cego)",
+              "Monitor de atenção do motorista",
+              "Controle de descida (HDC)",
+              "Paddle shifts",
+              "Retrovisores com rebatimento elétrico automático",
+              "Partida remota pela chave",
+              "8 alto-falantes"
+            ]
+          },
+          "fonte_url": "https://www.honda.com.br/automoveis/zrv",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Altura livre do solo informada como 177,5 mm (arredondada). Site indica ano/modelo 2025/2026. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"ZR-V TOURING\"."
+        }
+      ]
+    },
+    {
+      "id": "honda-civic-hibrido",
+      "modelo": "Civic Híbrido",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan médio",
+      "propulsoes": [
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/honda-civic-hibrido.webp",
+        "fonte_imagem": "https://www.usnews.com/object/image/00000198-a5be-d2c5-a99b-a7bfe2eb0000/2026-honda-civic-hybrid-side-ak.jpg?update-time=1755128159495&size=responsiveGallery&format=webp",
+        "pagina_origem": "https://cars.usnews.com/cars-trucks/honda/civic-hybrid/2026/photos-exterior"
+      },
+      "fontes": [
+        {
+          "url": "https://www.honda.com.br/automoveis/civic",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.honda.com.br/automoveis/produto/api/consulta/completo?modelo=civichibrido&uf=SP",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "honda-civic-hibrido-advanced-hybrid-2026",
+          "versao": "Advanced Hybrid",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 266500,
+          "preco_obs": "Preço público sugerido SP, com frete; mesmo preço para todas as cores.",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 DI DOHC 16V e:HEV (híbrido)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 143,
+              "eletrico": 184
+            },
+            "torque_kgfm": {
+              "gasolina": 19.1,
+              "eletrico": 32.1
+            },
+            "bateria_kwh": 1.05,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 18.4,
+            "estrada_gasolina": 15.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4687,
+            "largura": 1802,
+            "largura_com_retrovisores": null,
+            "altura": 1432,
+            "entre_eixos": 2735,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1449,
+          "porta_malas_l": 495,
+          "tanque_l": 40,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/50 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 8,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema híbrido e:HEV",
+              "Som premium Bose",
+              "Painel digital TFT 10,2\"",
+              "Google Assistente integrado",
+              "Bancos dianteiros com ajustes elétricos",
+              "Honda LaneWatch (câmera de ponto cego)",
+              "Cancelamento ativo de ruído",
+              "Paddle shifts para regeneração"
+            ]
+          },
+          "fonte_url": "https://www.honda.com.br/automoveis/civic",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Versão única chamada \"Híbrido\" no configurador e \"Civic Advanced Hybrid\" no menu do site. Site indica ano/modelo 2025/2026. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CIVIC HYBRID TOURING\"."
+        }
+      ]
+    },
+    {
+      "id": "honda-civic-type-r",
+      "modelo": "Civic Type R",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch esportivo",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/honda-civic-type-r.webp",
+        "fonte_imagem": "https://media.dealeralchemist.com/jellies/Honda/Civic Type R/C483106_WH_Side.png?auto=compress%2Cformat",
+        "pagina_origem": "https://www.diehlauto.com/vehicle/New/2026/Honda/Civic-Type-R/JHMFL5G45TX000190/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.honda.com.br/automoveis/civic-typer",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.honda.com.br/automoveis/produto/api/consulta/completo?modelo=civictyper&uf=SP",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "honda-civic-type-r-type-r-2026",
+          "versao": "Type R",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 430500,
+          "preco_obs": "Preço público sugerido SP, com frete; mesmo preço para todas as cores. Pacote Traffic Alert opcional: R$ 5.000.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 DI DOHC VTEC Turbo",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 297
+            },
+            "torque_kgfm": {
+              "gasolina": 42.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 8.8,
+            "estrada_gasolina": 11.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4598,
+            "largura": 1890,
+            "largura_com_retrovisores": null,
+            "altura": 1407,
+            "entre_eixos": 2735,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1451,
+          "porta_malas_l": 337,
+          "tanque_l": 47,
+          "lugares": null,
+          "portas": 5,
+          "pneus": "265/30 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 10,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmbio manual de 6 marchas com Rev-Match",
+              "Freios Brembo dianteiros de 4 pistões",
+              "Pneus Michelin Pilot Sport 4S",
+              "Suspensão com amortecimento adaptativo",
+              "Som Bose com 12 alto-falantes",
+              "Bancos esportivos tipo concha em suede",
+              "Aplicativo Honda LogR",
+              "Modos Comfort/Sport/+R/Individual",
+              "Escapamento com saída tripla",
+              "Placa numerada"
+            ]
+          },
+          "fonte_url": "https://www.honda.com.br/automoveis/civic-typer",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Airbags: frontais, laterais dianteiros e traseiros, cortina e joelhos (contagem 10 derivada da lista do site). Alerta de ponto cego só no pacote opcional Traffic Alert. Site indica ano/modelo 2025/2026."
+        }
+      ]
+    },
+    {
+      "id": "honda-cr-v-hibrido",
+      "modelo": "CR-V Híbrido",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/honda-cr-v-hibrido.webp",
+        "fonte_imagem": "https://images.dealer.com/ddc/vehicles/2026/Honda/CR-V Hybrid/SUV/trim_Sport_57bf51/perspective/side-left/2026_76.png",
+        "pagina_origem": "https://www.atlanticcoasthonda.com/showroom/2026/Honda/CR-V Hybrid/SUV.htm"
+      },
+      "fontes": [
+        {
+          "url": "https://www.honda.com.br/automoveis/crv",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.honda.com.br/automoveis/produto/api/consulta/completo?modelo=crvhibrido&uf=SP",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "honda-cr-v-hibrido-advanced-hybrid-2026",
+          "versao": "Advanced Hybrid",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 353500,
+          "preco_obs": "Preço público sugerido SP, com frete; mesmo preço para todas as cores.",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 DI DOHC 16V e:HEV (híbrido)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 147,
+              "eletrico": 184
+            },
+            "torque_kgfm": {
+              "gasolina": 19.4,
+              "eletrico": 34.2
+            },
+            "bateria_kwh": 1.06,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 14.1,
+            "estrada_gasolina": 11.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4706,
+            "largura": 1866,
+            "largura_com_retrovisores": null,
+            "altura": 1691,
+            "entre_eixos": 2700,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1819,
+          "porta_malas_l": 581,
+          "tanque_l": 53,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/55 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 10,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Tração integral AWD",
+              "Teto solar panorâmico elétrico",
+              "Head-up display",
+              "Som premium Bose",
+              "Tampa traseira elétrica hands free",
+              "Memória de posição do banco do motorista",
+              "Honda LaneWatch (câmera de ponto cego)",
+              "Atualização OTA",
+              "Grade dianteira ativa"
+            ]
+          },
+          "fonte_url": "https://www.honda.com.br/automoveis/crv",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Versão única \"Híbrido\" (CR-V Advanced Hybrid). Site descreve a transmissão como \"Automática\" (sistema e:HEV). Site indica ano/modelo 2026/2026. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CR-V TOURING\"."
+        }
+      ]
+    },
+    {
+      "id": "honda-accord-hibrido",
+      "modelo": "Accord Híbrido",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan grande",
+      "propulsoes": [
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/honda-accord-hibrido.webp",
+        "fonte_imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqHFMEh9WNiRFOx6FbnRX1atRHZPJ1nlEF5gYMK1mY41zx4MWapC1pqFbi-SgjBv1sJWts4lpaoYfS9JTwxuY8O4Jn0uAAdA3hvcccXvupVVJQDcWfh1z0Ab_LGvryPFZ7rpbrXGtJULmgoHC990jO5vuxw8bYWLpa7HraDj-LvY4h8i81JZBmtKEVEuCd/s2560/Honda-Accord Advanced-Hybrid-2026 (56).jpg",
+        "pagina_origem": "https://www.car.blog.br/2025/09/honda-accord-advanced-hybrid-2026-preco.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.honda.com.br/automoveis/accord",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.honda.com.br/automoveis/produto/api/consulta/completo?modelo=accordhibrido&uf=SP",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "honda-accord-hibrido-advanced-hybrid-2026",
+          "versao": "Advanced Hybrid",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 333000,
+          "preco_obs": "Preço público sugerido SP, com frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 DI DOHC 16V e:HEV (híbrido)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 146,
+              "eletrico": 184
+            },
+            "torque_kgfm": {
+              "gasolina": 19.2,
+              "eletrico": 34.1
+            },
+            "bateria_kwh": 1.05,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 17.5,
+            "estrada_gasolina": 15.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4971,
+            "largura": 1862,
+            "largura_com_retrovisores": null,
+            "altura": 1459,
+            "entre_eixos": 2830,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1625,
+          "porta_malas_l": 574,
+          "tanque_l": 49,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/45 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 8,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Multimídia 12,3\"",
+              "Head-up display",
+              "Som premium Bose",
+              "Memória de posição do banco do motorista",
+              "Seletor de modo EV",
+              "Honda LaneWatch (câmera de ponto cego)",
+              "Cancelamento ativo de ruído",
+              "Atualização OTA"
+            ]
+          },
+          "fonte_url": "https://www.honda.com.br/automoveis/accord",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Versão única \"Híbrido\" (Accord Advanced Hybrid). Site descreve a transmissão como \"Automática\" (sistema e:HEV). Site indica ano/modelo 2025/2026. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"ACCORD HYBRID TOURING\"."
+        }
+      ]
+    },
+    {
+      "id": "honda-prelude",
+      "modelo": "Prelude",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Cupê esportivo híbrido",
+      "propulsoes": [
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/honda-prelude.webp",
+        "fonte_imagem": "https://cdn.auto-dash.com/affinitivadvertising/vehicleimgs/jellybeans/honda/2026-honda-prelude-base-black-side.webp",
+        "pagina_origem": "https://www.hondaofocala.com/honda-prelude-specs-ocala-fl/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.honda.com.br/automoveis/prelude",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.honda.com.br/automoveis/produto/api/consulta/completo?modelo=prelude&uf=SP",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "honda-prelude-hibrido-2026",
+          "versao": "Híbrido",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 380000,
+          "preco_obs": "Preço público sugerido SP, com frete; mesmo preço para todas as cores.",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 DI DOHC 16V e:HEV (híbrido)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 143,
+              "eletrico": 184,
+              "combinada": 203
+            },
+            "torque_kgfm": {
+              "gasolina": 19.1,
+              "eletrico": 32.1
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 17.9,
+            "estrada_gasolina": 15.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4522,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1355,
+            "entre_eixos": 2605,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1469,
+          "porta_malas_l": 264,
+          "tanque_l": 40,
+          "lugares": null,
+          "portas": 2,
+          "pneus": "235/40 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Honda S+ Shift",
+              "Suspensão derivada do Type R",
+              "Freios dianteiros Brembo de 4 pistões",
+              "Alerta de ponto cego (BSI) e de tráfego cruzado (CTM)",
+              "Som Bose",
+              "Google Assistente integrado",
+              "Monitor de atenção do motorista"
+            ]
+          },
+          "fonte_url": "https://www.honda.com.br/automoveis/prelude",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha do site não informa largura nem número de airbags. Lista de conforto do site parece parcialmente copiada do Civic Type R (bancos em suede, LogR, 12 alto-falantes vs. card com 8); itens de acabamento interno ficaram null. Site indica ano/modelo 2026/2026. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"PRELUDE TOP\"."
+        }
+      ]
+    }
+  ]
+}

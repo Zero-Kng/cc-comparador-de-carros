@@ -1,0 +1,1146 @@
+{
+  "marca": "Maserati",
+  "slug": "maserati",
+  "site_oficial": "https://www.maserati.com/br/pt",
+  "coletado_em": "2026-10-21",
+  "modelos": [
+    {
+      "id": "maserati-grecale",
+      "modelo": "Grecale",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV de luxo",
+      "propulsoes": [
+        "Híbrido leve (MHEV)",
+        "Combustão",
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "Itália",
+      "imagem": {
+        "arquivo": "img/carros/maserati-grecale.webp",
+        "fonte_imagem": "https://imgcdn.zigwheels.my/large/gallery/exterior/43/1901/maserati-grecale-side-view-983830.jpg",
+        "pagina_origem": "https://www.zigwheels.my/new-cars/maserati/grecale"
+      },
+      "fontes": [
+        {
+          "url": "https://www.maserati.com/br/pt/models/grecale",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.maserati.com/br/pt/models/grecale/grecale-trim",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.maserati.com/br/pt/models/grecale/grecale-modena",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.maserati.com/br/pt/models/grecale/grecale-trofeo",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.maserati.com/br/pt/models/grecale/grecale-folgore",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "maserati-grecale-grecale-2026",
+          "versao": "Grecale",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 L4 turbo mild hybrid",
+            "cilindrada_cm3": 1995,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 300
+            },
+            "torque_kgfm": {
+              "gasolina": 45.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.6,
+            "velocidade_maxima_kmh": 229
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4846,
+            "largura": 1947,
+            "largura_com_retrovisores": null,
+            "altura": 1663,
+            "entre_eixos": 2901,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 5,
+          "pneus": "235/55 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 2.0 turbo híbrido leve de 300 cv",
+              "Tração integral",
+              "Rodas 19\""
+            ]
+          },
+          "fonte_url": "https://www.maserati.com/br/pt/models/grecale/grecale-trim",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela rede oficial Maserati (Maserati São Paulo, Grupo Via Italia). Preço não divulgado no site BR. Ficha técnica do site oficial Maserati Brasil (maserati.com/br/pt). Potências publicadas em \"HP\" no site BR, tratadas como cv. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "maserati-grecale-modena-2026",
+          "versao": "Modena",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 L4 turbo mild hybrid",
+            "cilindrada_cm3": 1995,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 330
+            },
+            "torque_kgfm": {
+              "gasolina": 45.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.3,
+            "velocidade_maxima_kmh": 240
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4846,
+            "largura": 1947,
+            "largura_com_retrovisores": null,
+            "altura": 1663,
+            "entre_eixos": 2901,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 5,
+          "pneus": "255/45 R20 (diant.) / 295/40 R20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 2.0 turbo híbrido leve de 330 cv",
+              "Detalhes esportivos Modena",
+              "Rodas 20\""
+            ]
+          },
+          "fonte_url": "https://www.maserati.com/br/pt/models/grecale/grecale-modena",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela rede oficial Maserati (Maserati São Paulo, Grupo Via Italia). Preço não divulgado no site BR. Ficha técnica do site oficial Maserati Brasil (maserati.com/br/pt). Potências publicadas em \"HP\" no site BR, tratadas como cv. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "maserati-grecale-trofeo-2026",
+          "versao": "Trofeo",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 V6 biturbo Nettuno",
+            "cilindrada_cm3": 3000,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 530
+            },
+            "torque_kgfm": {
+              "gasolina": 63.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.8,
+            "velocidade_maxima_kmh": 285
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4859,
+            "largura": 1979,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2901,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 5,
+          "pneus": "255/40 R21 (diant.) / 295/35 R21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor V6 Nettuno 3.0 biturbo de 530 cv",
+              "Rodas 21\"",
+              "Visual esportivo Trofeo"
+            ]
+          },
+          "fonte_url": "https://www.maserati.com/br/pt/models/grecale/grecale-trofeo",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela rede oficial Maserati (Maserati São Paulo, Grupo Via Italia). Preço não divulgado no site BR. Ficha técnica do site oficial Maserati Brasil (maserati.com/br/pt). Potências publicadas em \"HP\" no site BR, tratadas como cv. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "maserati-grecale-folgore-2026",
+          "versao": "Folgore",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Motores elétricos, tração integral",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 550
+            },
+            "torque_kgfm": {
+              "eletrico": 83.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.1,
+            "velocidade_maxima_kmh": 220
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4865,
+            "largura": 1979,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2901,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 5,
+          "pneus": "255/50 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "100% elétrico, 550 cv",
+              "Torque de 820 Nm",
+              "Teto solar elétrico opcional"
+            ]
+          },
+          "fonte_url": "https://www.maserati.com/br/pt/models/grecale/grecale-folgore",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela rede oficial Maserati (Maserati São Paulo, Grupo Via Italia). Preço não divulgado no site BR. Ficha técnica do site oficial Maserati Brasil (maserati.com/br/pt). Potências publicadas em \"HP\" no site BR, tratadas como cv. Capacidade da bateria e autonomia não informadas na página BR. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    },
+    {
+      "id": "maserati-granturismo",
+      "modelo": "GranTurismo",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Grand tourer 2+2",
+      "propulsoes": [
+        "Combustão",
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "Itália",
+      "imagem": {
+        "arquivo": "img/carros/maserati-granturismo.webp",
+        "fonte_imagem": "https://static.tcimg.net/vehicles/primary/de6624fdd8209956/2024-Maserati-GranTurismo-gray-full_color-driver_side_profile.png",
+        "pagina_origem": "https://fity.club/lists/suggestions/Maserati-Side-Profile/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.maserati.com/br/pt/models/granturismo",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.maserati.com/br/pt/models/granturismo/granturismo-trim",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.maserati.com/br/pt/models/granturismo/granturismo-trofeo",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.maserati.com/br/pt/models/granturismo/granturismo-folgore",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "maserati-granturismo-granturismo-2026",
+          "versao": "GranTurismo",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 V6 biturbo Nettuno",
+            "cilindrada_cm3": 3000,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 490
+            },
+            "torque_kgfm": {
+              "gasolina": 61.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": 3.9,
+            "velocidade_maxima_kmh": 302
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor V6 Nettuno 3.0 biturbo de 490 cv",
+              "Modo de condução Country (+20 mm de altura)",
+              "4 lugares"
+            ]
+          },
+          "fonte_url": "https://www.maserati.com/br/pt/models/granturismo/granturismo-trim",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela rede oficial Maserati (Maserati São Paulo, Grupo Via Italia). Preço não divulgado no site BR. Ficha técnica do site oficial Maserati Brasil (maserati.com/br/pt). Potências publicadas em \"HP\" no site BR, tratadas como cv. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "maserati-granturismo-trofeo-2026",
+          "versao": "Trofeo",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 V6 biturbo Nettuno",
+            "cilindrada_cm3": 3000,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 590
+            },
+            "torque_kgfm": {
+              "gasolina": 66.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": 3.5,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor V6 Nettuno 3.0 biturbo de 590 cv",
+              "Escapamento esportivo Trofeo",
+              "Medidor de força G"
+            ]
+          },
+          "fonte_url": "https://www.maserati.com/br/pt/models/granturismo/granturismo-trofeo",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela rede oficial Maserati (Maserati São Paulo, Grupo Via Italia). Preço não divulgado no site BR. Ficha técnica do site oficial Maserati Brasil (maserati.com/br/pt). Potências publicadas em \"HP\" no site BR, tratadas como cv. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "maserati-granturismo-folgore-2026",
+          "versao": "Folgore",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "3 motores elétricos de 300 kW, arquitetura 800 V",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 761
+            },
+            "torque_kgfm": {
+              "eletrico": 137.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": 541,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.7,
+            "velocidade_maxima_kmh": 325
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "100% elétrico, 761 cv e 1.350 Nm",
+              "Três motores elétricos de 300 kW",
+              "Bateria 800 V",
+              "Autonomia de até 541 km"
+            ]
+          },
+          "fonte_url": "https://www.maserati.com/br/pt/models/granturismo/granturismo-folgore",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela rede oficial Maserati (Maserati São Paulo, Grupo Via Italia). Preço não divulgado no site BR. Ficha técnica do site oficial Maserati Brasil (maserati.com/br/pt). Potências publicadas em \"HP\" no site BR, tratadas como cv. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    },
+    {
+      "id": "maserati-grancabrio",
+      "modelo": "GranCabrio",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Conversível 2+2",
+      "propulsoes": [
+        "Combustão",
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "Itália",
+      "imagem": {
+        "arquivo": "img/carros/maserati-grancabrio.webp",
+        "fonte_imagem": "https://www.netcarshow.com/Maserati-GranCabrio_Folgore-2025-Side_Profile.3017f6e7.jpg",
+        "pagina_origem": "https://www.netcarshow.com/maserati/2025-grancabrio_folgore/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.maserati.com/br/pt/models/grancabrio",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.maserati.com/br/pt/models/grancabrio/grancabrio-trim",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.maserati.com/br/pt/models/grancabrio/grancabrio-trofeo",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.maserati.com/br/pt/models/grancabrio/grancabrio-folgore",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "maserati-grancabrio-grancabrio-2026",
+          "versao": "GranCabrio",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 V6 biturbo Nettuno",
+            "cilindrada_cm3": 3000,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 490
+            },
+            "torque_kgfm": {
+              "gasolina": 61.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": 4,
+            "velocidade_maxima_kmh": 300
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Capota de lona",
+              "Motor V6 Nettuno 3.0 biturbo de 490 cv",
+              "Modo de condução Country (+20 mm)",
+              "4 lugares"
+            ]
+          },
+          "fonte_url": "https://www.maserati.com/br/pt/models/grancabrio/grancabrio-trim",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela rede oficial Maserati (Maserati São Paulo, Grupo Via Italia). Preço não divulgado no site BR. Ficha técnica do site oficial Maserati Brasil (maserati.com/br/pt). Potências publicadas em \"HP\" no site BR, tratadas como cv. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "maserati-grancabrio-trofeo-2026",
+          "versao": "Trofeo",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 V6 biturbo Nettuno",
+            "cilindrada_cm3": 3000,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 590
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": 3.6,
+            "velocidade_maxima_kmh": 316
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Capota de lona",
+              "Motor V6 Nettuno 3.0 biturbo de 590 cv",
+              "Escapamento esportivo Trofeo"
+            ]
+          },
+          "fonte_url": "https://www.maserati.com/br/pt/models/grancabrio/grancabrio-trofeo",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela rede oficial Maserati (Maserati São Paulo, Grupo Via Italia). Preço não divulgado no site BR. Ficha técnica do site oficial Maserati Brasil (maserati.com/br/pt). Potências publicadas em \"HP\" no site BR, tratadas como cv. Velocidade máxima informada como \"superando os 316 km/h\". Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "maserati-grancabrio-folgore-2026",
+          "versao": "Folgore",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "3 motores elétricos de 300 kW, arquitetura 800 V",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 761
+            },
+            "torque_kgfm": {
+              "eletrico": 137.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": 509,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.8,
+            "velocidade_maxima_kmh": 290
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Conversível 100% elétrico, 761 cv",
+              "Sistema Wheel End Disconnect",
+              "Bateria 800 V",
+              "Autonomia de até 509 km"
+            ]
+          },
+          "fonte_url": "https://www.maserati.com/br/pt/models/grancabrio/grancabrio-folgore",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela rede oficial Maserati (Maserati São Paulo, Grupo Via Italia). Preço não divulgado no site BR. Ficha técnica do site oficial Maserati Brasil (maserati.com/br/pt). Potências publicadas em \"HP\" no site BR, tratadas como cv. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    },
+    {
+      "id": "maserati-mcpura",
+      "modelo": "MCPura",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Superesportivo",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Itália",
+      "imagem": {
+        "arquivo": "img/carros/maserati-mcpura.webp",
+        "fonte_imagem": "https://imagecdnsa.zigwheels.ae/large/gallery/exterior/43/1985/maserati-mc20-cielo-side-view-924853.jpg",
+        "pagina_origem": "https://www.zigwheels.ae/new-cars/maserati/mc20-cielo/images"
+      },
+      "fontes": [
+        {
+          "url": "https://www.maserati.com/br/pt/models/mcpura",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.maserati.com/br/pt/models/mcpura-cielo",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.autocarindia.com/cars/maserati/mcpura/specifications",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "maserati-mcpura-coupe-2026",
+          "versao": "Coupé",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 V6 biturbo Nettuno",
+            "cilindrada_cm3": 3000,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 630
+            },
+            "torque_kgfm": {
+              "gasolina": 73.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.9,
+            "velocidade_maxima_kmh": 325
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4667,
+            "largura": 1965,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2700,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "245/35 R20 (diant.) / 305/30 R20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor V6 Nettuno de 630 cv com pré-câmara",
+              "Portas tipo borboleta",
+              "Monocoque de fibra de carbono",
+              "Rodas Cyclonic 20\""
+            ]
+          },
+          "fonte_url": "https://www.maserati.com/br/pt/models/mcpura",
+          "campos_fonte_secundaria": [
+            "transmissao"
+          ],
+          "observacoes": "Vendido no Brasil pela rede oficial Maserati (Maserati São Paulo, Grupo Via Italia). Preço não divulgado no site BR. Ficha técnica do site oficial Maserati Brasil (maserati.com/br/pt). Potências publicadas em \"HP\" no site BR, tratadas como cv. Sucessor do MC20; monocoque de fibra de carbono. Câmbio de dupla embreagem de 8 marchas conforme fichas da imprensa (Autocar India). Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "maserati-mcpura-cielo-2026",
+          "versao": "Cielo",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 V6 biturbo Nettuno",
+            "cilindrada_cm3": 3000,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 630
+            },
+            "torque_kgfm": {
+              "gasolina": 73.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.9,
+            "velocidade_maxima_kmh": 320
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4667,
+            "largura": 1965,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2700,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "245/35 R20 (diant.) / 305/30 R20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Conversível com teto de vidro eletrocrômico PDLC",
+              "Motor V6 Nettuno de 630 cv",
+              "Portas tipo borboleta"
+            ]
+          },
+          "fonte_url": "https://www.maserati.com/br/pt/models/mcpura-cielo",
+          "campos_fonte_secundaria": [
+            "transmissao"
+          ],
+          "observacoes": "Vendido no Brasil pela rede oficial Maserati (Maserati São Paulo, Grupo Via Italia). Preço não divulgado no site BR. Ficha técnica do site oficial Maserati Brasil (maserati.com/br/pt). Potências publicadas em \"HP\" no site BR, tratadas como cv. Sucessor do MC20; monocoque de fibra de carbono. Câmbio de dupla embreagem de 8 marchas conforme fichas da imprensa (Autocar India). Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1924 @@
+{
+  "marca": "Renault",
+  "slug": "renault",
+  "site_oficial": "https://www.renault.com.br",
+  "coletado_em": "2026-10-20",
+  "modelos": [
+    {
+      "id": "renault-kwid",
+      "modelo": "Kwid",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch subcompacto",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/renault-kwid.webp",
+        "fonte_imagem": "https://www.motoragora.com.br/wp-content/uploads/2025/10/novo-renault-kwid-e-tech-2026-novidades-6-1-1024x576.png",
+        "pagina_origem": "https://www.motoragora.com.br/novo-renault-kwid-e-tech-2026-novidades/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.renault.com.br/veiculos-de-passeio/kwid.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.renault.com.br/veiculos-de-passeio/kwid/monte-o-seu.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cdn.group.renault.com/ren/br/renault-new-cars/product-plans/2026/novo-kwid/catalogo/AF-RMA03226F_Catalogo_Kwid-09-26.pdf.asset.pdf/d7c3ee7786.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "renault-kwid-evolution-2027",
+          "versao": "Evolution",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 82790,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 SCe 12V Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 71,
+              "gasolina": 68
+            },
+            "torque_kgfm": {
+              "etanol": 10,
+              "gasolina": 9.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 13.5,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 10.4,
+            "estrada_etanol": 10.7,
+            "cidade_gasolina": 14.4,
+            "estrada_gasolina": 15.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 3720,
+            "largura": 1579,
+            "largura_com_retrovisores": null,
+            "altura": 1481,
+            "entre_eixos": 2423,
+            "altura_livre_solo": 185
+          },
+          "peso_kg": 818,
+          "porta_malas_l": 290,
+          "tanque_l": 38,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "165/70 R14",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": "Não",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 14,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Painel digital de 7\"",
+              "Pré-instalação para rádio",
+              "Sensor de estacionamento traseiro",
+              "Start & Stop",
+              "TPMS",
+              "Rodas de aço de 14\""
+            ]
+          },
+          "fonte_url": "https://www.renault.com.br/veiculos-de-passeio/kwid/monte-o-seu.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2026/2027 indicado na configuração do site oficial. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"KWID ZEN 2\"."
+        },
+        {
+          "id": "renault-kwid-techno-2027",
+          "versao": "Techno",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 85890,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 SCe 12V Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 71,
+              "gasolina": 68
+            },
+            "torque_kgfm": {
+              "etanol": 10,
+              "gasolina": 9.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 13.5,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 10.4,
+            "estrada_etanol": 10.7,
+            "cidade_gasolina": 14.4,
+            "estrada_gasolina": 15.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 3720,
+            "largura": 1579,
+            "largura_com_retrovisores": null,
+            "altura": 1481,
+            "entre_eixos": 2423,
+            "altura_livre_solo": 185
+          },
+          "peso_kg": 820,
+          "porta_malas_l": 290,
+          "tanque_l": 38,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "165/70 R14",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 14,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Multimídia de 10,1\" com espelhamento sem fio",
+              "Câmera de ré",
+              "Retrovisores elétricos",
+              "Comandos de áudio no volante",
+              "Rodas de aço biton de 14\"",
+              "4 alto-falantes"
+            ]
+          },
+          "fonte_url": "https://www.renault.com.br/veiculos-de-passeio/kwid/monte-o-seu.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2026/2027 indicado na configuração do site oficial. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"KWID ZEN 2\"."
+        },
+        {
+          "id": "renault-kwid-outsider-2027",
+          "versao": "Outsider",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 91190,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 SCe 12V Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 71,
+              "gasolina": 68
+            },
+            "torque_kgfm": {
+              "etanol": 10,
+              "gasolina": 9.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 13.5,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 10.4,
+            "estrada_etanol": 10.7,
+            "cidade_gasolina": 14.4,
+            "estrada_gasolina": 15.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 3720,
+            "largura": 1579,
+            "largura_com_retrovisores": null,
+            "altura": 1481,
+            "entre_eixos": 2423,
+            "altura_livre_solo": 185
+          },
+          "peso_kg": 825,
+          "porta_malas_l": 290,
+          "tanque_l": 38,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "175/70 R14",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 14,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Rodas de liga leve de 14\" diamantadas",
+              "Revestimento em couro ecológico",
+              "Pintura biton",
+              "Protetores dianteiro/traseiro e barras de teto",
+              "Sensor crepuscular",
+              "Logotipo Outsider"
+            ]
+          },
+          "fonte_url": "https://www.renault.com.br/veiculos-de-passeio/kwid/monte-o-seu.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2026/2027 indicado na configuração do site oficial. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"KWID ZEN 2\"."
+        }
+      ]
+    },
+    {
+      "id": "renault-kardian",
+      "modelo": "Kardian",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/renault-kardian.webp",
+        "fonte_imagem": "https://autoagora.com.br/wp-content/uploads/2025/08/2_lancamento_renault_kardian_2026_autoagora_com_br_Kardian-2026-30.jpg",
+        "pagina_origem": "https://autoagora.com.br/lancamento-renault-kardian-2026/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.renault.com.br/veiculos-de-passeio/kardian.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.renault.com.br/veiculos-de-passeio/kardian/monte-o-seu.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cdn.group.renault.com/ren/br/renault-new-cars/product-plans/2026/kardian/AF_RMA05726_Kardian_Sustentavel_Catalogo1.pdf.asset.pdf/eafb36798c.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://motorshow.com.br/renault-kardian-2027-estreia-versao-vibe",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.car.blog.br/2026/08/renault-kardian-vibe-2027-preco-r-99990.html",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "renault-kardian-vibe-2027",
+          "versao": "Vibe",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 99990,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 TCe Turbo Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 125,
+              "gasolina": 120
+            },
+            "torque_kgfm": {
+              "etanol": 22.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.9,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_etanol": 8.8,
+            "estrada_etanol": 10.2,
+            "cidade_gasolina": 12.7,
+            "estrada_gasolina": 14.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4119,
+            "largura": 1747,
+            "largura_com_retrovisores": null,
+            "altura": 1596,
+            "entre_eixos": 2604,
+            "altura_livre_solo": 209
+          },
+          "peso_kg": null,
+          "porta_malas_l": 410,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "185/65 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Multimídia flutuante de 8\" com espelhamento sem fio",
+              "Painel LCD de 3,5\"",
+              "Ar-condicionado digital automático",
+              "Faróis 100% LED",
+              "Sensor de estacionamento traseiro",
+              "Rodas de aço de 15\""
+            ]
+          },
+          "fonte_url": "https://www.renault.com.br/veiculos-de-passeio/kardian/monte-o-seu.html",
+          "campos_fonte_secundaria": [
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Ano/modelo 2026/2027 indicado na configuração do site oficial. Altura conforme configurador oficial; altura livre do solo conforme catálogo oficial. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"KARDIAN EVO AT\"."
+        },
+        {
+          "id": "renault-kardian-evolution-at-2027",
+          "versao": "Evolution AT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 126590,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 TCe Turbo Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 125,
+              "gasolina": 120
+            },
+            "torque_kgfm": {
+              "etanol": 22.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.9,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4119,
+            "largura": 1747,
+            "largura_com_retrovisores": null,
+            "altura": 1596,
+            "entre_eixos": 2604,
+            "altura_livre_solo": 209
+          },
+          "peso_kg": null,
+          "porta_malas_l": 410,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Câmbio EDC com e-shifter e paddle shifts",
+              "Rodas Flexwheel escurecidas de 16\"",
+              "Barras de teto",
+              "Multimídia de 8\" com espelhamento sem fio",
+              "6 airbags"
+            ]
+          },
+          "fonte_url": "https://www.renault.com.br/veiculos-de-passeio/kardian/monte-o-seu.html",
+          "campos_fonte_secundaria": [
+            "tanque_l"
+          ],
+          "observacoes": "Ano/modelo 2026/2027 indicado na configuração do site oficial. Altura conforme configurador oficial; altura livre do solo conforme catálogo oficial."
+        },
+        {
+          "id": "renault-kardian-techno-2027",
+          "versao": "Techno",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 128990,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 TCe Turbo Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 125,
+              "gasolina": 120
+            },
+            "torque_kgfm": {
+              "etanol": 22.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.9,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_etanol": 8.8,
+            "estrada_etanol": 9.7,
+            "cidade_gasolina": 12.8,
+            "estrada_gasolina": 13.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4119,
+            "largura": 1747,
+            "largura_com_retrovisores": null,
+            "altura": 1596,
+            "entre_eixos": 2604,
+            "altura_livre_solo": 209
+          },
+          "peso_kg": null,
+          "porta_malas_l": 410,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Multimídia openR de 10,1\"",
+              "Painel digital de 7\"",
+              "ACC",
+              "Frenagem autônoma de emergência",
+              "Chave presencial tipo cartão",
+              "Freio de estacionamento eletrônico",
+              "Carregador por indução",
+              "Rodas Hayek 17\" diamantadas biton"
+            ]
+          },
+          "fonte_url": "https://www.renault.com.br/veiculos-de-passeio/kardian/monte-o-seu.html",
+          "campos_fonte_secundaria": [
+            "tanque_l"
+          ],
+          "observacoes": "Ano/modelo 2026/2027 indicado na configuração do site oficial. Altura conforme configurador oficial; altura livre do solo conforme catálogo oficial. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"KARDIAN TECH AT\"."
+        },
+        {
+          "id": "renault-kardian-iconic-2027",
+          "versao": "Iconic",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 140990,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 TCe Turbo Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 125,
+              "gasolina": 120
+            },
+            "torque_kgfm": {
+              "etanol": 22.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.9,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_etanol": 8.8,
+            "estrada_etanol": 9.8,
+            "cidade_gasolina": 12.2,
+            "estrada_gasolina": 13.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4119,
+            "largura": 1747,
+            "largura_com_retrovisores": null,
+            "altura": 1596,
+            "entre_eixos": 2604,
+            "altura_livre_solo": 209
+          },
+          "peso_kg": null,
+          "porta_malas_l": 410,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Painel digital de 10,25\"",
+              "Farol alto inteligente",
+              "Ambient lighting",
+              "Teto biton preto",
+              "Bancos em revestimento premium",
+              "Multimídia openR de 10,1\"",
+              "ACC"
+            ]
+          },
+          "fonte_url": "https://www.renault.com.br/veiculos-de-passeio/kardian/monte-o-seu.html",
+          "campos_fonte_secundaria": [
+            "tanque_l"
+          ],
+          "observacoes": "Ano/modelo 2026/2027 indicado na configuração do site oficial. Altura conforme configurador oficial; altura livre do solo conforme catálogo oficial. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"KARDIAN ICO AT\"."
+        }
+      ]
+    },
+    {
+      "id": "renault-duster",
+      "modelo": "Duster",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/renault-duster.webp",
+        "fonte_imagem": "https://cdn.autopapo.com.br/box/uploads/2026/03/18115428/renault-duster-2026-4.jpg",
+        "pagina_origem": "https://autopapo.com.br/curta/renault-duster-2026-ganha-motor-de-163-cv-e-teto-solar-em-nova-geracao/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.renault.com.br/veiculos-de-passeio/duster.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.renault.com.br/veiculos-de-passeio/duster/monte-o-seu.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cdn.group.renault.com/ren/br/renault-new-cars/editorial/2026/catalogo/maio/AF-RMA02126A-Catalogo-Duster-ABR-26.pdf.asset.pdf/db69771ffa.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cdn.group.renault.com/ren/br/renault-new-cars/editorial/2026/inmetro-senatran/HJD-INMETRO-2026-29-09-2025.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "renault-duster-intense-plus-1-6-mt-2027",
+          "versao": "Intense Plus 1.6 MT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 131990,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.6 SCe 16V Flex",
+            "cilindrada_cm3": 1598,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 112,
+              "gasolina": 109
+            },
+            "torque_kgfm": {
+              "etanol": 15.6,
+              "gasolina": 15.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.4,
+            "velocidade_maxima_kmh": 178
+          },
+          "consumo": {
+            "cidade_etanol": 7.6,
+            "estrada_etanol": 8.4,
+            "cidade_gasolina": 11.2,
+            "estrada_gasolina": 12.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4376,
+            "largura": 1832,
+            "largura_com_retrovisores": null,
+            "altura": 1693,
+            "entre_eixos": 2673,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 475,
+          "tanque_l": 46,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/65 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Multimídia de 8\" com espelhamento sem fio",
+              "Câmera de ré",
+              "Faróis de neblina",
+              "Barras de teto",
+              "Rodas de liga leve 16\" diamantadas",
+              "Controle de cruzeiro"
+            ]
+          },
+          "fonte_url": "https://www.renault.com.br/veiculos-de-passeio/duster/monte-o-seu.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2026/2027 indicado na configuração do site oficial. Consumo conforme etiqueta Inmetro publicada no site. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DUSTER DUSTER INT 16\"."
+        },
+        {
+          "id": "renault-duster-intense-plus-1-6-cvt-2027",
+          "versao": "Intense Plus 1.6 CVT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 144990,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.6 SCe 16V Flex",
+            "cilindrada_cm3": 1598,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 112,
+              "gasolina": 109
+            },
+            "torque_kgfm": {
+              "etanol": 15.6,
+              "gasolina": 15.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 12.9,
+            "velocidade_maxima_kmh": 167
+          },
+          "consumo": {
+            "cidade_etanol": 7.5,
+            "estrada_etanol": 8.3,
+            "cidade_gasolina": 10.8,
+            "estrada_gasolina": 11.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4376,
+            "largura": 1832,
+            "largura_com_retrovisores": null,
+            "altura": 1693,
+            "entre_eixos": 2673,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 475,
+          "tanque_l": 46,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/65 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmbio CVT X-Tronic com 6 marchas simuladas",
+              "Multimídia de 8\" com espelhamento sem fio",
+              "Câmera de ré",
+              "Faróis de neblina",
+              "Rodas de liga leve 16\" diamantadas"
+            ]
+          },
+          "fonte_url": "https://www.renault.com.br/veiculos-de-passeio/duster/monte-o-seu.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2026/2027 indicado na configuração do site oficial. Consumo conforme etiqueta Inmetro publicada no site. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DUSTER DUSTER ICO16 CVT\"."
+        },
+        {
+          "id": "renault-duster-iconic-plus-1-6-cvt-2027",
+          "versao": "Iconic Plus 1.6 CVT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 154990,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.6 SCe 16V Flex",
+            "cilindrada_cm3": 1598,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 112,
+              "gasolina": 109
+            },
+            "torque_kgfm": {
+              "etanol": 15.6,
+              "gasolina": 15.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 12.9,
+            "velocidade_maxima_kmh": 167
+          },
+          "consumo": {
+            "cidade_etanol": 7.5,
+            "estrada_etanol": 8.3,
+            "cidade_gasolina": 10.8,
+            "estrada_gasolina": 11.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4376,
+            "largura": 1832,
+            "largura_com_retrovisores": null,
+            "altura": 1693,
+            "entre_eixos": 2673,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 475,
+          "tanque_l": 46,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmera multiview",
+              "Sensor de ponto cego",
+              "Ar-condicionado digital automático",
+              "Chave-cartão presencial",
+              "Carregador por indução",
+              "Sensor de chuva e crepuscular",
+              "Rodas Tergan 17\" pratas"
+            ]
+          },
+          "fonte_url": "https://www.renault.com.br/veiculos-de-passeio/duster/monte-o-seu.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2026/2027 indicado na configuração do site oficial. Consumo conforme etiqueta Inmetro publicada no site. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DUSTER DUSTER ICO16 CVT\"."
+        },
+        {
+          "id": "renault-duster-iconic-plus-1-3-tce-2027",
+          "versao": "Iconic Plus 1.3 TCe",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 171990,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.3 TCe Turbo Flex",
+            "cilindrada_cm3": 1332,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 163,
+              "gasolina": 156
+            },
+            "torque_kgfm": {
+              "etanol": 27.5,
+              "gasolina": 25.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.5,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_etanol": 7.5,
+            "estrada_etanol": 8.6,
+            "cidade_gasolina": 10.9,
+            "estrada_gasolina": 12.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4376,
+            "largura": 1832,
+            "largura_com_retrovisores": null,
+            "altura": 1693,
+            "entre_eixos": 2673,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 475,
+          "tanque_l": 46,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 1.3 turbo de 163 cv",
+              "CVT com 8 marchas simuladas",
+              "Câmera multiview",
+              "Sensor de ponto cego",
+              "Chave-cartão presencial",
+              "Rodas Tergan 17\" pretas",
+              "Pack Outsider opcional"
+            ]
+          },
+          "fonte_url": "https://www.renault.com.br/veiculos-de-passeio/duster/monte-o-seu.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2026/2027 indicado na configuração do site oficial. Consumo conforme etiqueta Inmetro publicada no site. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DUSTER DUSTER ICO TCE\"."
+        }
+      ]
+    },
+    {
+      "id": "renault-boreal",
+      "modelo": "Boreal",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/renault-boreal.webp",
+        "fonte_imagem": "https://s2-autoesporte.glbimg.com/W9dQeDdr_ckpoKG8G_hPOMdLR70=/1600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2025/G/5/j6WKXgTEy8rYrEr8TGIg/renault-boreal-iconic-2026-lateral-estatica.jpg",
+        "pagina_origem": "https://autoesporte.globo.com/carros/lancamentos-de-carros/fotos/renault-boreal-iconic-fotos-exclusivas.ghtml"
+      },
+      "fontes": [
+        {
+          "url": "https://www.renault.com.br/veiculos-de-passeio/boreal.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.renault.com.br/veiculos-de-passeio/boreal/monte-o-seu.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cdn.group.renault.com/ren/br/renault-new-cars/editorial/2026/catalogo/out/RMA00226N-Catalogo-Boreal-10-26vf.pdf.asset.pdf/eb3d9afa81.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "renault-boreal-evolution-2026",
+          "versao": "Evolution",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 182990,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.3 TCe Turbo Flex",
+            "cilindrada_cm3": 1333,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 163,
+              "gasolina": 156
+            },
+            "torque_kgfm": {
+              "etanol": 27.5,
+              "gasolina": 27.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.5,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_etanol": 7.8,
+            "estrada_etanol": 9.4,
+            "cidade_gasolina": 11.2,
+            "estrada_gasolina": 13.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4556,
+            "largura": 1841,
+            "largura_com_retrovisores": null,
+            "altura": 1652,
+            "entre_eixos": 2702,
+            "altura_livre_solo": 213
+          },
+          "peso_kg": 1438,
+          "porta_malas_l": 586,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "ACC com Stop&Go",
+              "Frenagem automática de emergência frontal e em curvas",
+              "Multimídia openR link de 10,1\"",
+              "Painel digital de 7\"",
+              "Console com compartimento refrigerado",
+              "Som Arkamys com 6 alto-falantes",
+              "Rodas 18\" Mountain cinza"
+            ]
+          },
+          "fonte_url": "https://www.renault.com.br/veiculos-de-passeio/boreal/monte-o-seu.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2026/2026 indicado na configuração do site oficial. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"BOREAL EVO\"."
+        },
+        {
+          "id": "renault-boreal-techno-2026",
+          "versao": "Techno",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 204990,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.3 TCe Turbo Flex",
+            "cilindrada_cm3": 1333,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 163,
+              "gasolina": 156
+            },
+            "torque_kgfm": {
+              "etanol": 27.5,
+              "gasolina": 27.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.5,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_etanol": 7.8,
+            "estrada_etanol": 9.4,
+            "cidade_gasolina": 11.2,
+            "estrada_gasolina": 13.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4556,
+            "largura": 1841,
+            "largura_com_retrovisores": null,
+            "altura": 1652,
+            "entre_eixos": 2702,
+            "altura_livre_solo": 213
+          },
+          "peso_kg": 1438,
+          "porta_malas_l": 586,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Multimídia openR de 10\" com Google integrado e Gemini",
+              "Painel digital de 10\" com mapa",
+              "Bancos dianteiros elétricos",
+              "Sensores de estacionamento dianteiros, laterais e traseiros",
+              "Alerta de tráfego cruzado traseiro",
+              "5 modos de condução",
+              "Teto solar panorâmico opcional"
+            ]
+          },
+          "fonte_url": "https://www.renault.com.br/veiculos-de-passeio/boreal/monte-o-seu.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2026/2026 indicado na configuração do site oficial. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"BOREAL EVO\"."
+        },
+        {
+          "id": "renault-boreal-iconic-2026",
+          "versao": "Iconic",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 219990,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.3 TCe Turbo Flex",
+            "cilindrada_cm3": 1333,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 163,
+              "gasolina": 156
+            },
+            "torque_kgfm": {
+              "etanol": 27.5,
+              "gasolina": 27.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.5,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_etanol": 7.8,
+            "estrada_etanol": 9.4,
+            "cidade_gasolina": 11.2,
+            "estrada_gasolina": 13.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4556,
+            "largura": 1841,
+            "largura_com_retrovisores": null,
+            "altura": 1652,
+            "entre_eixos": 2702,
+            "altura_livre_solo": 213
+          },
+          "peso_kg": 1438,
+          "porta_malas_l": 586,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/55 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmera 360° com visão 3D",
+              "Teto solar panorâmico elétrico",
+              "Som Harman Kardon com 10 alto-falantes",
+              "Bancos com massagem e memória",
+              "Porta-malas elétrico hands-free",
+              "Active Driver Assist",
+              "Estacionamento semiautônomo",
+              "Rodas 19\" River diamantadas"
+            ]
+          },
+          "fonte_url": "https://www.renault.com.br/veiculos-de-passeio/boreal/monte-o-seu.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2026/2026 indicado na configuração do site oficial. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"BOREAL EVO\"."
+        }
+      ]
+    },
+    {
+      "id": "renault-oroch",
+      "modelo": "Oroch",
+      "categoria": "Picape",
+      "subcategoria": "Picape compacta",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/renault-oroch.webp",
+        "fonte_imagem": "https://www.megautos.com/wp-content/uploads/2017/09/duster-oroch-dynamique-perfil-1024x576.jpg",
+        "pagina_origem": "https://www.megautos.com/proxima-renault-duster-oroch/duster-oroch-dynamique-perfil/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.renault.com.br/veiculos-de-passeio/oroch.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.renault.com.br/veiculos-de-passeio/oroch/monte-o-seu.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cdn.group.renault.com/ren/br/renault-new-cars/product-plans/2025/oroch/dez-facelift/AF_RMA001625_Catalogo_Oroch_2025_V3.pdf.asset.pdf/1547e6cf93.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cdn.group.renault.com/ren/br/renault-new-cars/editorial/2026/inmetro-senatran/U79-INMETRO-ANO-2026-29-09-2025.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "renault-oroch-pro-2027",
+          "versao": "Pro",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 132890,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.6 SCe 16V Flex",
+            "cilindrada_cm3": 1598,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 112,
+              "gasolina": 109
+            },
+            "torque_kgfm": {
+              "etanol": 15.6,
+              "gasolina": 15.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.8,
+            "velocidade_maxima_kmh": 174
+          },
+          "consumo": {
+            "cidade_etanol": 7.6,
+            "estrada_etanol": 8.1,
+            "cidade_gasolina": 11.3,
+            "estrada_gasolina": 11.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4719,
+            "largura": 1821,
+            "largura_com_retrovisores": null,
+            "altura": 1631,
+            "entre_eixos": 2829,
+            "altura_livre_solo": 212
+          },
+          "peso_kg": 1292,
+          "porta_malas_l": null,
+          "tanque_l": 45,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/65 R16",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 683,
+            "capacidade_carga_kg": 678
+          },
+          "equipamentos": {
+            "airbags": 2,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": "Não",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Pré-disposição para rádio",
+              "Protetor de caçamba",
+              "8 ganchos na caçamba",
+              "Rodas de aço 16\"",
+              "Controle de estabilidade e tração"
+            ]
+          },
+          "fonte_url": "https://www.renault.com.br/veiculos-de-passeio/oroch/monte-o-seu.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2026/2027 indicado na configuração do site oficial. Torque único de 15,6 kgfm informado pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"OROCH Intense16M\"."
+        },
+        {
+          "id": "renault-oroch-intense-2027",
+          "versao": "Intense",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 140990,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.6 SCe 16V Flex",
+            "cilindrada_cm3": 1598,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 112,
+              "gasolina": 109
+            },
+            "torque_kgfm": {
+              "etanol": 15.6,
+              "gasolina": 15.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.8,
+            "velocidade_maxima_kmh": 174
+          },
+          "consumo": {
+            "cidade_etanol": 7.6,
+            "estrada_etanol": 8.1,
+            "cidade_gasolina": 11.3,
+            "estrada_gasolina": 11.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4719,
+            "largura": 1821,
+            "largura_com_retrovisores": null,
+            "altura": 1694,
+            "entre_eixos": 2829,
+            "altura_livre_solo": 212
+          },
+          "peso_kg": 1335,
+          "porta_malas_l": null,
+          "tanque_l": 45,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/65 R16",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 683,
+            "capacidade_carga_kg": 650
+          },
+          "equipamentos": {
+            "airbags": 2,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Multimídia 8\" com espelhamento sem fio",
+              "Sensor de estacionamento traseiro",
+              "Barras de teto",
+              "Alarme perimétrico",
+              "Faróis de neblina",
+              "Rodas de aço 16\" com calotas"
+            ]
+          },
+          "fonte_url": "https://www.renault.com.br/veiculos-de-passeio/oroch/monte-o-seu.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2026/2027 indicado na configuração do site oficial. Torque único de 15,6 kgfm informado pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"OROCH Intense16M\"."
+        },
+        {
+          "id": "renault-oroch-iconic-2027",
+          "versao": "Iconic",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 147690,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.6 SCe 16V Flex",
+            "cilindrada_cm3": 1598,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 112,
+              "gasolina": 109
+            },
+            "torque_kgfm": {
+              "etanol": 15.6,
+              "gasolina": 15.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.8,
+            "velocidade_maxima_kmh": 174
+          },
+          "consumo": {
+            "cidade_etanol": 7.6,
+            "estrada_etanol": 8.1,
+            "cidade_gasolina": 11.3,
+            "estrada_gasolina": 11.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4719,
+            "largura": 1834,
+            "largura_com_retrovisores": null,
+            "altura": 1694,
+            "entre_eixos": 2829,
+            "altura_livre_solo": 212
+          },
+          "peso_kg": 1339,
+          "porta_malas_l": null,
+          "tanque_l": 45,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/65 R16",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 683,
+            "capacidade_carga_kg": 661
+          },
+          "equipamentos": {
+            "airbags": 2,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": null,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Ar-condicionado automático",
+              "Sensor de chuva e crepuscular",
+              "Faróis Follow me Home",
+              "Rodas de liga leve 16\" diamantadas escurecidas",
+              "Capota marítima",
+              "Alargadores de para-lamas"
+            ]
+          },
+          "fonte_url": "https://www.renault.com.br/veiculos-de-passeio/oroch/monte-o-seu.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2026/2027 indicado na configuração do site oficial. Torque único de 15,6 kgfm informado pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"OROCH Intense16M\"."
+        }
+      ]
+    },
+    {
+      "id": "renault-koleos",
+      "modelo": "Koleos",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": "Coreia do Sul",
+      "imagem": {
+        "arquivo": "img/carros/renault-koleos.webp",
+        "fonte_imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqOQr1VhFGr0Xz9jeJh6cOCcbQ3t43_izZaYp5hPpcVxDUPm56SHcJhdDGPwAfh-MQq7wzsiT6kpTMEHeLEKVtgTYY9UEJCbPrsCojSWaKfv9uJ9YR0kDB-OlkXSf1qg2drXvWXmBlAyenxBVj4fEldfrXoK_knURyMFhJdWbIIiK_sdNknMch8gIoUKvl/s2560/Renault_Koleos_Hybrid_E-Tech_2027 (23).jpg",
+        "pagina_origem": "https://www.car.blog.br/2026/04/renault-koleos-hybrid-e-tech-brasil-preco-detalhes.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.renault.com.br/veiculos-hibridos/koleos.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.renault.com.br/veiculos-hibridos/koleos/monte-o-seu.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cdn.group.renault.com/ren/br/renault-new-cars/editorial/2026/catalogo/abril/afRMA00326D_Catalogo_Koleos1-abril-26.pdf.asset.pdf/77633a0cd9.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "renault-koleos-esprit-alpine-2027",
+          "versao": "Esprit Alpine",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 289990,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo GDI E-Tech Full Hybrid",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 144,
+              "eletrico": 136,
+              "combinada": 245
+            },
+            "torque_kgfm": {
+              "gasolina": 23.5,
+              "eletrico": 32.6
+            },
+            "bateria_kwh": 1.64,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": 3
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.3,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_gasolina": 13.1,
+            "estrada_gasolina": 12.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4778,
+            "largura": 1880,
+            "largura_com_retrovisores": null,
+            "altura": 1686,
+            "entre_eixos": 2820,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1804,
+          "porta_malas_l": 545,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/45 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "openR panorama com 3 telas de 12,3\"",
+              "Head-up display de 9,3\"",
+              "Som Bose com 10 alto-falantes",
+              "Bancos dianteiros aquecidos e ventilados",
+              "Volante em Alcantara aquecido",
+              "Câmera 360° com chassi transparente",
+              "Estacionamento autônomo",
+              "Teto solar panorâmico",
+              "Rodas 20\" Peak"
+            ]
+          },
+          "fonte_url": "https://www.renault.com.br/veiculos-hibridos/koleos/monte-o-seu.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2026/2027 indicado na configuração do site oficial. Porta-malas de 545 L conforme configurador (431 L no padrão VDA). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"KOLEOS E-TECH\"."
+        }
+      ]
+    }
+  ]
+}

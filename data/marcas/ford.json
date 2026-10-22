@@ -1,0 +1,2234 @@
+{
+  "marca": "Ford",
+  "slug": "ford",
+  "site_oficial": "https://www.ford.com.br",
+  "coletado_em": "2026-10-20",
+  "modelos": [
+    {
+      "id": "ford-ranger",
+      "modelo": "Ranger",
+      "categoria": "Picape",
+      "subcategoria": "Picape média",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/ford-ranger.webp",
+        "fonte_imagem": "https://s2-autoesporte.glbimg.com/hLUY9qoexZYbC0uuUYyby-5Z7O4=/0x0:1920x1280/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/M/4/v9qUt5Sde99X2IHb5JGQ/ford-ranger-xl-2026-cabine-simples-lateral.jpg",
+        "pagina_origem": "https://autoesporte.globo.com/carros/lancamentos-de-carros/noticia/2026/03/ford-ranger-xl-2026-precos-equipamentos-consumo-capacidade-de-carga.ghtml"
+      },
+      "fontes": [
+        {
+          "url": "https://www.ford.com.br/picapes/ranger.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.ford.com.br/compre-o-seu/monte-o-seu-novo.html?nameplate=Ranger_FBR",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.ford.com.br/content/dam/Ford/website-assets/latam/br/nameplate/2025/nova-geracao-ranger/pdf/fbr-ranger-ficha-tecnica.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.ford.com.br/content/dam/Ford/website-assets/latam/br/nameplate/2025/nova-geracao-ranger/pdf/fbr-ranger-xl-ficha-tecnica.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "ford-ranger-xl-2-0-cs-diesel-4x4-mt-2027",
+          "versao": "XL 2.0 CS Diesel 4x4 MT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 256600,
+          "preco_obs": "Preço público sugerido à vista no site Ford, base Brasília, com frete incluso (PB e SP: consultar concessionária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.0 Turbo Diesel",
+            "cilindrada_cm3": 1995,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 170
+            },
+            "torque_kgfm": {
+              "diesel": 41.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 10.3,
+            "estrada_diesel": 11.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 5370,
+            "largura": null,
+            "largura_com_retrovisores": 2208,
+            "altura": 1884,
+            "entre_eixos": 3270,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1997,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "255/70 R16",
+          "picape": {
+            "cabine": "Simples",
+            "cacamba_l": 1690,
+            "capacidade_carga_kg": 1223
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Linha Ford Pro (uso profissional)",
+              "Diferencial traseiro blocante com acionamento eletrônico",
+              "Tração 4x4 com reduzida",
+              "Controle automático em descidas",
+              "Piloto automático e limitador de velocidade",
+              "Painel de instrumentos colorido de 8\"",
+              "Rodas de aço estampado 16\" com pneus All Terrain",
+              "Faróis halógenos com DRL",
+              "Caçamba longa de cabine simples",
+              "Ford Pro Portal de monitoramento de frota gratuito"
+            ]
+          },
+          "fonte_url": "https://www.ford.com.br/picapes/ranger/compare-as-versoes/xl-20-cs-4x4-mt.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Versão da linha Ford Pro (cabine simples), listada no site com preço público. Ficha técnica: PDF Ranger XL (peso bruto total 3220 kg; capacidade de imersão 800 mm). Largura informada só com espelhos (2208 mm). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Nova Ranger 4x4 XL\"."
+        },
+        {
+          "id": "ford-ranger-xl-2-0-cs-diesel-4x4-at-2027",
+          "versao": "XL 2.0 CS Diesel 4x4 AT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 266600,
+          "preco_obs": "Preço público sugerido à vista no site Ford, base Brasília, com frete incluso (PB e SP: consultar concessionária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.0 Turbo Diesel",
+            "cilindrada_cm3": 1995,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 170
+            },
+            "torque_kgfm": {
+              "diesel": 41.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.2,
+            "estrada_diesel": 11.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 5370,
+            "largura": null,
+            "largura_com_retrovisores": 2208,
+            "altura": 1884,
+            "entre_eixos": 3270,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2020,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "255/70 R16",
+          "picape": {
+            "cabine": "Simples",
+            "cacamba_l": 1690,
+            "capacidade_carga_kg": 1170
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Linha Ford Pro (uso profissional)",
+              "Diferencial traseiro blocante com acionamento eletrônico",
+              "Tração 4x4 com reduzida",
+              "Controle automático em descidas",
+              "Piloto automático e limitador de velocidade",
+              "Painel de instrumentos colorido de 8\"",
+              "Rodas de aço estampado 16\" com pneus All Terrain",
+              "Faróis halógenos com DRL",
+              "Caçamba longa de cabine simples",
+              "Ford Pro Portal de monitoramento de frota gratuito"
+            ]
+          },
+          "fonte_url": "https://www.ford.com.br/picapes/ranger/compare-as-versoes/xl-20-cs-4x4-at.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Versão da linha Ford Pro (cabine simples), listada no site com preço público. Ficha técnica: PDF Ranger XL (peso bruto total 3190 kg; capacidade de imersão 800 mm). Largura informada só com espelhos (2208 mm). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Nova Ranger 4x4 Cabine Simples\"."
+        },
+        {
+          "id": "ford-ranger-xl-2-0-cd-diesel-4x4-mt-2026",
+          "versao": "XL 2.0 CD Diesel 4x4 MT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 272600,
+          "preco_obs": "Preço público sugerido à vista no site Ford, base Brasília, com frete incluso (PB e SP: consultar concessionária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.0 Turbo Diesel",
+            "cilindrada_cm3": 1995,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 170
+            },
+            "torque_kgfm": {
+              "diesel": 41.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 10.3,
+            "estrada_diesel": 11.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 5370,
+            "largura": null,
+            "largura_com_retrovisores": 2208,
+            "altura": 1886,
+            "entre_eixos": 3270,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2123,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "255/70 R16",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 1230,
+            "capacidade_carga_kg": 1097
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Linha Ford Pro (uso profissional)",
+              "Diferencial traseiro blocante com acionamento eletrônico",
+              "Tração 4x4 com reduzida",
+              "Controle automático em descidas",
+              "Piloto automático e limitador de velocidade",
+              "Painel de instrumentos colorido de 8\"",
+              "Rodas de aço estampado 16\" com pneus All Terrain",
+              "Faróis halógenos com DRL",
+              "Vidros elétricos traseiros",
+              "Cinto de 3 pontos para o passageiro central traseiro",
+              "Para-choque na cor preta",
+              "Ford Pro Portal de monitoramento de frota gratuito"
+            ]
+          },
+          "fonte_url": "https://www.ford.com.br/picapes/ranger/compare-as-versoes/xl-20-cd-4x4-mt.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Versão da linha Ford Pro (cabine dupla), listada no site com preço público. Ficha técnica: PDF Ranger XL (peso bruto total 3220 kg; capacidade de imersão 800 mm). Largura informada só com espelhos (2208 mm). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Nova Ranger 4x4 XL\"."
+        },
+        {
+          "id": "ford-ranger-xl-2-0-cd-diesel-4x4-at-2027",
+          "versao": "XL 2.0 CD Diesel 4x4 AT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 282600,
+          "preco_obs": "Preço público sugerido à vista no site Ford, base Brasília, com frete incluso (PB e SP: consultar concessionária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.0 Turbo Diesel",
+            "cilindrada_cm3": 1995,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 170
+            },
+            "torque_kgfm": {
+              "diesel": 41.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 5370,
+            "largura": null,
+            "largura_com_retrovisores": 2208,
+            "altura": 1886,
+            "entre_eixos": 3270,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2130,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "255/70 R16",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 1230,
+            "capacidade_carga_kg": 1060
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Linha Ford Pro (uso profissional)",
+              "Diferencial traseiro blocante com acionamento eletrônico",
+              "Tração 4x4 com reduzida",
+              "Controle automático em descidas",
+              "Piloto automático e limitador de velocidade",
+              "Painel de instrumentos colorido de 8\"",
+              "Rodas de aço estampado 16\" com pneus All Terrain",
+              "Faróis halógenos com DRL",
+              "Vidros elétricos traseiros",
+              "Cinto de 3 pontos para o passageiro central traseiro",
+              "Para-choque na cor preta",
+              "Ford Pro Portal de monitoramento de frota gratuito"
+            ]
+          },
+          "fonte_url": "https://www.ford.com.br/picapes/ranger/compare-as-versoes/xl-20-cd-4x4-at.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Versão da linha Ford Pro (cabine dupla), listada no site com preço público. Ficha técnica: PDF Ranger XL (peso bruto total 3190 kg; capacidade de imersão 800 mm). Largura informada só com espelhos (2208 mm)."
+        },
+        {
+          "id": "ford-ranger-black-2-0-diesel-4x2-at-2027",
+          "versao": "Black 2.0 Diesel 4x2 AT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 242600,
+          "preco_obs": "Preço público sugerido à vista no site Ford, base Brasília, com frete incluso (PB e SP: consultar concessionária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.0 Turbo Diesel",
+            "cilindrada_cm3": 1995,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 170
+            },
+            "torque_kgfm": {
+              "diesel": 41.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x2",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 10.2,
+            "estrada_diesel": 12.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 5370,
+            "largura": null,
+            "largura_com_retrovisores": 2208,
+            "altura": 1884,
+            "entre_eixos": 3270,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2069,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "255/65 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1031
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": false,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Visual Black com interior exclusivo",
+              "Santo Antônio esportivo",
+              "Estribos laterais e estribo plataforma",
+              "Faróis Full LED",
+              "Rodas de liga leve 18\" com pneus All Terrain",
+              "Bancos com revestimento premium",
+              "Carregador por indução",
+              "Saída de ar-condicionado para a 2ª fileira",
+              "Painel de instrumentos colorido de 8\"",
+              "Alarme perimétrico",
+              "Tração traseira 4x2"
+            ]
+          },
+          "fonte_url": "https://www.ford.com.br/picapes/ranger/compare-as-versoes/black-2-0-diesel-4x2-at.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura informada só com espelhos (2208 mm). Capacidade de imersão 800 mm. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Nova Ranger 4x2 Black\"."
+        },
+        {
+          "id": "ford-ranger-xls-2-0-diesel-4x4-at-2027",
+          "versao": "XLS 2.0 Diesel 4x4 AT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 285900,
+          "preco_obs": "Preço público sugerido à vista no site Ford, base Brasília, com frete incluso (PB e SP: consultar concessionária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.0 Turbo Diesel",
+            "cilindrada_cm3": 1995,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 170
+            },
+            "torque_kgfm": {
+              "diesel": 41.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.9,
+            "estrada_diesel": 11.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 5370,
+            "largura": null,
+            "largura_com_retrovisores": 2208,
+            "altura": 1884,
+            "entre_eixos": 3270,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2183,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "255/70 R17",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1037
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "4 modos de condução",
+              "Diferencial traseiro blocante",
+              "Controle automático em descidas",
+              "Faróis Full LED",
+              "Rodas de liga leve 17\" com pneus All Terrain",
+              "Carregador por indução",
+              "Saída de ar-condicionado para a 2ª fileira",
+              "Sensor de estacionamento traseiro",
+              "Alarme perimétrico"
+            ]
+          },
+          "fonte_url": "https://www.ford.com.br/picapes/ranger/compare-as-versoes/xls-2-0-diesel-4x4-at.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura informada só com espelhos (2208 mm). Capacidade de imersão 800 mm. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Nova Ranger 4x4 XLS\"."
+        },
+        {
+          "id": "ford-ranger-xls-3-0-v6-diesel-4wd-at-2027",
+          "versao": "XLS 3.0 V6 Diesel 4WD AT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 309600,
+          "preco_obs": "Preço público sugerido à vista no site Ford, base Brasília, com frete incluso (PB e SP: consultar concessionária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "3.0 V6 Turbo Diesel",
+            "cilindrada_cm3": null,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 250
+            },
+            "torque_kgfm": {
+              "diesel": 61.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 10
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 8.6,
+            "estrada_diesel": 10.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 5370,
+            "largura": null,
+            "largura_com_retrovisores": 2208,
+            "altura": 1884,
+            "entre_eixos": 3270,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2266,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "255/70 R17",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1054
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 3.0 V6 de 250 cv e 600 Nm",
+              "Câmbio automático de 10 marchas com E-Shifter",
+              "Tração 4WD com modos 2H/4H/4L/4A",
+              "Freio a disco nas 4 rodas",
+              "Start & Stop",
+              "Diferencial traseiro blocante",
+              "Faróis Full LED",
+              "Carregador por indução"
+            ]
+          },
+          "fonte_url": "https://www.ford.com.br/picapes/ranger/compare-as-versoes/xls-3-0-diesel-4wd-at.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura informada só com espelhos (2208 mm). Capacidade de imersão 800 mm. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Nova Ranger 4x4 XLS\"."
+        },
+        {
+          "id": "ford-ranger-xlt-3-0-v6-diesel-4wd-at-2027",
+          "versao": "XLT 3.0 V6 Diesel 4WD AT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 315900,
+          "preco_obs": "Preço público sugerido à vista no site Ford, base Brasília, com frete incluso (PB e SP: consultar concessionária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "3.0 V6 Turbo Diesel",
+            "cilindrada_cm3": null,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 250
+            },
+            "torque_kgfm": {
+              "diesel": 61.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 10
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 8.6,
+            "estrada_diesel": 10.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 5370,
+            "largura": null,
+            "largura_com_retrovisores": 2208,
+            "altura": 1884,
+            "entre_eixos": 3270,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2283,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "255/70 R17",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1037
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": false,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Assistente autônomo de frenagem com detecção de pedestres",
+              "Assistente de permanência em faixa",
+              "Reconhecimento de placas de trânsito",
+              "Farol alto automático",
+              "Retrovisores com rebatimento elétrico",
+              "Retrovisor interno eletrocrômico e sensor de chuva",
+              "Banco do motorista com ajuste elétrico de 8 posições",
+              "Faróis de neblina em LED",
+              "Estribo plataforma e protetor de caçamba",
+              "Tomada 12V na caçamba"
+            ]
+          },
+          "fonte_url": "https://www.ford.com.br/picapes/ranger/compare-as-versoes/xlt-30-diesel-4wd-at.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura informada só com espelhos (2208 mm). Capacidade de imersão 800 mm. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Nova Ranger 4x4 XLT\"."
+        },
+        {
+          "id": "ford-ranger-limited-3-0-v6-diesel-4wd-at-kit-opcional-2027",
+          "versao": "Limited 3.0 V6 Diesel 4WD AT + Kit Opcional",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 372900,
+          "preco_obs": "Preço público sugerido à vista no site Ford, base Brasília, com frete incluso (PB e SP: consultar concessionária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "3.0 V6 Turbo Diesel",
+            "cilindrada_cm3": null,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 250
+            },
+            "torque_kgfm": {
+              "diesel": 61.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 10
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 8.6,
+            "estrada_diesel": 10.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 5370,
+            "largura": null,
+            "largura_com_retrovisores": 2208,
+            "altura": 1884,
+            "entre_eixos": 3270,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2357,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "255/55 R20",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1023
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Kit Opcional incluso no preço: painel digital de 12,4\"",
+              "Piloto automático adaptativo com Stop & Go",
+              "Câmera 360°",
+              "Monitoramento de ponto cego e alerta de tráfego cruzado",
+              "Frenagem autônoma em marcha à ré",
+              "Assistente de manobras evasivas",
+              "Rodas de liga leve 20\"",
+              "Multimídia SYNC 4 de 12\" com navegador off-road",
+              "6 modos de condução (inclui Lama/Terra e Areia)",
+              "Ar-condicionado digital de duas zonas",
+              "Chave presencial e partida sem chave",
+              "Bagageiro de teto e santo antônio na cor do veículo",
+              "Sensor de pressão dos pneus (TPMS)"
+            ]
+          },
+          "fonte_url": "https://www.ford.com.br/picapes/ranger/compare-as-versoes/limited-30-diesel-4wd-at-kit-opcional.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "O site só oferece a Limited com o Kit Opcional (preço já inclui o kit). Pneus 255/55 R20 All Season. Largura informada só com espelhos (2208 mm). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Nova Ranger 4x4 LTD+\"."
+        }
+      ]
+    },
+    {
+      "id": "ford-ranger-raptor",
+      "modelo": "Ranger Raptor",
+      "categoria": "Picape",
+      "subcategoria": "Picape média",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/ford-ranger-raptor.webp",
+        "fonte_imagem": "https://www.ford.com.br/content/dam/Ford/website-assets/latam/br/nameplate/2024/ranger-raptor/overview/colorizer/azul_belize/fbr-nameplate-color-azul-belize.jpg.dam.full.high.jpg/1700829668253.jpg",
+        "pagina_origem": "https://www.bluerecordstudio.com/2023/10/2026-ford-raptor-truck-reviews-prices.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.ford.com.br/picapes/ranger-raptor.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.ford.com.br/compre-o-seu/monte-o-seu-novo.html?nameplate=Ranger_Raptor_FBR",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.ford.com.br/content/dam/Ford/website-assets/latam/br/nameplate/2025/ranger-raptor/pdf/fbr-ranger-raptor-ficha-tecnica.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.icarros.com.br/catalogo/marcas/ford/ranger-raptor",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "ford-ranger-raptor-3-0-v6-bi-turbo-4wd-at-2026",
+          "versao": "Raptor 3.0 V6 Bi-turbo 4WD AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 499000,
+          "preco_obs": "Preço público sugerido à vista no site Ford, base Brasília, com frete incluso (PB e SP: consultar concessionária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 V6 EcoBoost Bi-turbo",
+            "cilindrada_cm3": null,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 397
+            },
+            "torque_kgfm": {
+              "gasolina": 59.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 10
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 6.7,
+            "estrada_gasolina": 7.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 5381,
+            "largura": null,
+            "largura_com_retrovisores": 2208,
+            "altura": 1922,
+            "entre_eixos": 3270,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2415,
+          "porta_malas_l": null,
+          "tanque_l": 77,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "285/70 R17",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 715
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": null,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Suspensão FOX 2.5\" Live Valve Racing",
+              "Diferenciais dianteiro e traseiro blocantes",
+              "Faróis Matrix LED",
+              "7 modos de condução (inclui Baja e Rock Crawl)",
+              "Escapamento com 4 modos",
+              "Painel digital Raptor de 12,4\"",
+              "Som Bang & Olufsen com 8 alto-falantes",
+              "Bancos Raptor com aquecimento e ajustes elétricos",
+              "Paddle shifters",
+              "Piloto automático off-road (Trail Control)",
+              "Pneus General Grabber 285/70 R17",
+              "Protetores inferiores off-road",
+              "Tomada 120V na caçamba"
+            ]
+          },
+          "fonte_url": "https://www.ford.com.br/picapes/ranger-raptor.html",
+          "campos_fonte_secundaria": [
+            "consumo"
+          ],
+          "observacoes": "Capacidade de imersão 850 mm. Largura informada só com espelhos (2208 mm). Tamanho da tela central não informado na ficha. Consumo do catálogo iCarros (origem não informada); a Ranger Raptor não consta na tabela PBEV 2026."
+        }
+      ]
+    },
+    {
+      "id": "ford-maverick",
+      "modelo": "Maverick",
+      "categoria": "Picape",
+      "subcategoria": "Picape intermediária",
+      "propulsoes": [
+        "Combustão",
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/ford-maverick.webp",
+        "fonte_imagem": "https://autoimage.capitalone.com/cms/Auto/assets/images/4047-inset07-2026-ford-maverick-xlt-hybrid-awd-space-white-side-profile.jpg",
+        "pagina_origem": "https://www.capitalone.com/cars/learn/finding-the-right-car/2026-ford-maverick-review/4047"
+      },
+      "fontes": [
+        {
+          "url": "https://www.ford.com.br/picapes/maverick.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.ford.com.br/picapes/maverick/versoes/compare.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.ford.com.br/compre-o-seu/monte-o-seu-novo.html?nameplate=Maverick_FBR",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.ford.com.br/content/dam/Ford/website-assets/latam/br/nameplate/2025/maverick/pdf/v2/v3/fbr-maverick-ficha-tecnica.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.fromtheroad.ford.com/br/pt/articles/2026/ford-amplia-a-linha-maverick-2026-com-nova-versao-lariat-.html",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "ford-maverick-lariat-2026",
+          "versao": "Lariat",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 209900,
+          "preco_obs": "Preço público sugerido à vista no site Ford, base Brasília, com frete incluso (PB e SP: consultar concessionária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 EcoBoost GTDi Turbo",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 253
+            },
+            "torque_kgfm": {
+              "gasolina": 38.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 8.4,
+            "estrada_gasolina": 10.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 5096,
+            "largura": 1979,
+            "largura_com_retrovisores": null,
+            "altura": 1733,
+            "entre_eixos": 3077,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1759,
+          "porta_malas_l": null,
+          "tanque_l": 62.4,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/55 R19",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 943,
+            "capacidade_carga_kg": 618
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 13.2,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Edição limitada",
+              "Detalhes cromados na grade",
+              "Central SYNC 4 de 13,2\"",
+              "Som Bang & Olufsen com 8 alto-falantes",
+              "Piloto adaptativo com Stop & Go",
+              "Câmera 360°",
+              "Assistente de reboque Pro Trailer",
+              "Compartimento de 73 litros sob o banco traseiro",
+              "Teto solar elétrico",
+              "Capota marítima",
+              "Caçamba com revestimento spray-in",
+              "5 modos de condução"
+            ]
+          },
+          "fonte_url": "https://www.ford.com.br/picapes/maverick.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Lançada em out/2026 como edição limitada (imprensa Ford). Ficha técnica: coluna \"Lariat | Lariat Black\" do PDF oficial. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Maverick Tremor\"."
+        },
+        {
+          "id": "ford-maverick-lariat-black-2026",
+          "versao": "Lariat Black",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 219900,
+          "preco_obs": "Preço público sugerido à vista no site Ford, base Brasília, com frete incluso (PB e SP: consultar concessionária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 EcoBoost GTDi Turbo",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 253
+            },
+            "torque_kgfm": {
+              "gasolina": 38.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 8.4,
+            "estrada_gasolina": 10.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 5096,
+            "largura": 1979,
+            "largura_com_retrovisores": null,
+            "altura": 1733,
+            "entre_eixos": 3077,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1759,
+          "porta_malas_l": null,
+          "tanque_l": 62.4,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/55 R19",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 943,
+            "capacidade_carga_kg": 618
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 13.2,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Visual esportivo escurecido",
+              "Interior exclusivo",
+              "Central SYNC 4 de 13,2\"",
+              "Som Bang & Olufsen com 8 alto-falantes",
+              "Piloto adaptativo com Stop & Go",
+              "Câmera 360°",
+              "Assistente de reboque Pro Trailer",
+              "Compartimento de 73 litros sob o banco traseiro",
+              "Teto solar elétrico",
+              "Capota marítima",
+              "Caçamba com revestimento spray-in",
+              "5 modos de condução"
+            ]
+          },
+          "fonte_url": "https://www.ford.com.br/picapes/maverick.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica: coluna \"Lariat | Lariat Black\" do PDF oficial. No configurador aparece como \"Maverick Black\". Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Maverick Tremor\"."
+        },
+        {
+          "id": "ford-maverick-tremor-2026",
+          "versao": "Tremor",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 229900,
+          "preco_obs": "Preço público sugerido à vista no site Ford, base Brasília, com frete incluso (PB e SP: consultar concessionária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 EcoBoost GTDi Turbo",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 253
+            },
+            "torque_kgfm": {
+              "gasolina": 38.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (sem reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 8.4,
+            "estrada_gasolina": 10.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 5096,
+            "largura": 1979,
+            "largura_com_retrovisores": null,
+            "altura": 1758,
+            "entre_eixos": 3075,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1832,
+          "porta_malas_l": null,
+          "tanque_l": 62.4,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/65 R17",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 943,
+            "capacidade_carga_kg": 550
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 13.2,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Suspensão especial Tremor",
+              "Pneus all terrain 235/65 R17",
+              "Piloto automático off-road (Trail Control)",
+              "Diferencial traseiro blocante",
+              "6 modos de condução (inclui Off-Road)",
+              "Bancos dianteiros com aquecimento",
+              "Paddle shifters",
+              "Proteção inferior off-road",
+              "Ganchos de reboque laranja",
+              "Tomadas 110V na caçamba e na 2ª fileira",
+              "Estepe full size",
+              "Central SYNC 4 de 13,2\"",
+              "Som Bang & Olufsen com 8 alto-falantes",
+              "Piloto adaptativo com Stop & Go",
+              "Câmera 360°"
+            ]
+          },
+          "fonte_url": "https://www.ford.com.br/picapes/maverick-tremor.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ford denomina a tração da Tremor como 4WD (sem caixa de reduzida informada). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Maverick Tremor\"."
+        },
+        {
+          "id": "ford-maverick-hybrid-2026",
+          "versao": "Hybrid",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 229900,
+          "preco_obs": "Preço público sugerido à vista no site Ford, base Brasília, com frete incluso (PB e SP: consultar concessionária)",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.5 Atkinson híbrido (FHEV)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 163.9,
+              "combinada": 194
+            },
+            "torque_kgfm": {
+              "gasolina": 21.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 15.4,
+            "estrada_gasolina": 13.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 5096,
+            "largura": 1979,
+            "largura_com_retrovisores": null,
+            "altura": 1733,
+            "entre_eixos": 3077,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1829,
+          "porta_malas_l": null,
+          "tanque_l": 52.2,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/55 R19",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 943,
+            "capacidade_carga_kg": 584
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 13.2,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Primeira picape híbrida do mercado brasileiro",
+              "Tração AWD inteligente",
+              "Autonomia de mais de 800 km (Ford)",
+              "Central SYNC 4 de 13,2\"",
+              "Som Bang & Olufsen com 8 alto-falantes",
+              "Piloto adaptativo com Stop & Go",
+              "Câmera 360°",
+              "Assistente de reboque Pro Trailer",
+              "Compartimento de 73 litros sob o banco traseiro",
+              "Teto solar elétrico",
+              "Capota marítima",
+              "Caçamba com revestimento spray-in",
+              "5 modos de condução"
+            ]
+          },
+          "fonte_url": "https://www.ford.com.br/hibridos/maverick-hybrid.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência do motor a combustão 163,9 cv (120,8 kW) @ 5600 rpm; potência máxima combinada 194 cv. Torque informado (210 Nm) é do motor a combustão. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Maverick Lariat Hybrid\"."
+        }
+      ]
+    },
+    {
+      "id": "ford-f-150",
+      "modelo": "F-150",
+      "categoria": "Picape",
+      "subcategoria": "Picape grande",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/ford-f-150.webp",
+        "fonte_imagem": "https://imgcdn.zigwheels.ph/large/gallery/exterior/7/3404/ford-f-150-2024-side-view-426449.jpg",
+        "pagina_origem": "https://www.zigwheels.ph/new-cars/ford/f-150-2024/3-0l"
+      },
+      "fontes": [
+        {
+          "url": "https://www.ford.com.br/picapes/f-150.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.ford.com.br/picapes/f-150-tremor.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.ford.com.br/compre-o-seu/monte-o-seu-novo.html?nameplate=F-150_FBR",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.ford.com.br/content/dam/Ford/website-assets/latam/br/nameplate/2026/f-150/overview/pdf/fbr-f-150-ficha-tecnica.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.ford.com.br/content/dam/Ford/website-assets/latam/br/nameplate/2025/f-150-tremor/pdf/fbr-f-150-tremor-ficha-tecnica.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.fromtheroad.ford.com/br/pt/articles/2026/ford-anuncia-reposicionamento-de-preco-do-territory--da-maverick.html",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "ford-f-150-lariat-2026",
+          "versao": "Lariat",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 540000,
+          "preco_obs": "Preço público sugerido à vista no site Ford, base Brasília, com frete incluso (PB e SP: consultar concessionária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "5.0 V8 Coyote",
+            "cilindrada_cm3": null,
+            "cilindros": 8,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 405
+            },
+            "torque_kgfm": {
+              "gasolina": 56.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 10
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 6.5,
+            "estrada_gasolina": 8.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 5894,
+            "largura": 2089,
+            "largura_com_retrovisores": null,
+            "altura": 1958,
+            "entre_eixos": 3694,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2481,
+          "porta_malas_l": null,
+          "tanque_l": 136,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "275/60 R20",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 1495,
+            "capacidade_carga_kg": 740
+          },
+          "equipamentos": {
+            "airbags": 8,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Rodas 20\" cromadas e para-choques cromados",
+              "Head-up display",
+              "Tampa traseira multiacesso Pro-Access",
+              "Som Bang & Olufsen com 14 alto-falantes",
+              "Bancos dianteiros aquecidos e ventilados, traseiros aquecidos",
+              "Pedais com ajuste elétrico e memória",
+              "Teto solar panorâmico",
+              "Iluminação externa 360°",
+              "Tomadas 110V (cabine e caçamba)",
+              "Assistente de reboque Pro Trailer e controle de freio do reboque",
+              "7 modos de condução"
+            ]
+          },
+          "fonte_url": "https://www.ford.com.br/picapes/f-150/compare-as-versoes/lariat.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano-modelo 2026 conforme formulário de proposta e ficha 2026 do site. Tração \"integral 4x4\" (Ford) com modo Rock Crawl. Capacidade de reboque 3.492 kg. Preço reduzido em R$ 20.000 a partir de 02/10/2026 (imprensa Ford). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Nova F150 Lariat Black\"."
+        },
+        {
+          "id": "ford-f-150-lariat-black-2026",
+          "versao": "Lariat Black",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 540000,
+          "preco_obs": "Preço público sugerido à vista no site Ford, base Brasília, com frete incluso (PB e SP: consultar concessionária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "5.0 V8 Coyote",
+            "cilindrada_cm3": null,
+            "cilindros": 8,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 405
+            },
+            "torque_kgfm": {
+              "gasolina": 56.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 10
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 6.5,
+            "estrada_gasolina": 8.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 5894,
+            "largura": null,
+            "largura_com_retrovisores": 2430,
+            "altura": 1958,
+            "entre_eixos": 3694,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2481,
+          "porta_malas_l": null,
+          "tanque_l": 136,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "275/60 R20",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 1495,
+            "capacidade_carga_kg": 740
+          },
+          "equipamentos": {
+            "airbags": 8,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Visual Black: rodas 20\" escurecidas, para-choques na cor do veículo",
+              "Bancos em couro com detalhes marrons",
+              "Head-up display",
+              "Tampa traseira multiacesso Pro-Access",
+              "Som Bang & Olufsen com 14 alto-falantes",
+              "Bancos dianteiros aquecidos e ventilados, traseiros aquecidos",
+              "Pedais com ajuste elétrico e memória",
+              "Teto solar panorâmico",
+              "Iluminação externa 360°",
+              "Tomadas 110V (cabine e caçamba)",
+              "Assistente de reboque Pro Trailer e controle de freio do reboque",
+              "7 modos de condução"
+            ]
+          },
+          "fonte_url": "https://www.ford.com.br/picapes/f-150/compare-as-versoes/lariat-black.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Tração \"integral 4x4\" (Ford) com modo Rock Crawl. Capacidade de reboque 3.492 kg. Largura informada só com espelhos (2430 mm). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Nova F150 Lariat Black\"."
+        },
+        {
+          "id": "ford-f-150-tremor-2026",
+          "versao": "Tremor",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 580000,
+          "preco_obs": "Preço público sugerido à vista no site Ford, base Brasília, com frete incluso (PB e SP: consultar concessionária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "5.0 V8 Coyote",
+            "cilindrada_cm3": null,
+            "cilindros": 8,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 405
+            },
+            "torque_kgfm": {
+              "gasolina": 56.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 10
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 6,
+            "estrada_gasolina": 7.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 5880,
+            "largura": null,
+            "largura_com_retrovisores": 2430,
+            "altura": 2015,
+            "entre_eixos": 3698,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2550,
+          "porta_malas_l": null,
+          "tanque_l": 136,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "275/70 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 1495,
+            "capacidade_carga_kg": 671
+          },
+          "equipamentos": {
+            "airbags": 8,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Visual Tremor com rodas 18\" escurecidas",
+              "Pneus all terrain 275/70 R18",
+              "Protetores inferiores off-road",
+              "Caçamba com revestimento spray-in",
+              "Head-up display",
+              "Tampa traseira multiacesso Pro-Access",
+              "Som Bang & Olufsen com 14 alto-falantes",
+              "Bancos dianteiros aquecidos e ventilados, traseiros aquecidos",
+              "Pedais com ajuste elétrico e memória",
+              "Teto solar panorâmico",
+              "Iluminação externa 360°",
+              "Tomadas 110V (cabine e caçamba)",
+              "Assistente de reboque Pro Trailer e controle de freio do reboque",
+              "7 modos de condução"
+            ]
+          },
+          "fonte_url": "https://www.ford.com.br/picapes/f-150-tremor.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Tração \"integral 4x4\" (Ford) com modo Rock Crawl. Capacidade de reboque 3.945 kg. Largura informada só com espelhos (2430 mm). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Nova F150 Tremor\"."
+        }
+      ]
+    },
+    {
+      "id": "ford-territory",
+      "modelo": "Territory",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/ford-territory.webp",
+        "fonte_imagem": "https://imagecdnsa.zigwheels.ae/large/gallery/exterior/12/2345/ford-territory-side-view-162066.jpg",
+        "pagina_origem": "https://www.zigwheels.ae/new-cars/ford/territory/images"
+      },
+      "fontes": [
+        {
+          "url": "https://www.ford.com.br/suvs-e-crossovers/territory.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.ford.com.br/compre-o-seu/monte-o-seu-novo.html?nameplate=Territory_FBR",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.ford.com.br/content/dam/Ford/website-assets/latam/br/nameplate/2026/territory/pdf/fbr-territory-ficha-tecnica.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.fromtheroad.ford.com/br/pt/articles/2026/ford-anuncia-reposicionamento-de-preco-do-territory--da-maverick.html",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "ford-territory-titanium-1-5-ecoboost-at-2026",
+          "versao": "Titanium 1.5 EcoBoost AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 194900,
+          "preco_obs": "Preço público sugerido à vista no site Ford, base Brasília, com frete incluso (PB e SP: consultar concessionária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 EcoBoost Turbo",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 169
+            },
+            "torque_kgfm": {
+              "gasolina": 25.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 8.8,
+            "estrada_gasolina": 11.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4685,
+            "largura": 1935,
+            "largura_com_retrovisores": 2177,
+            "altura": 1706,
+            "entre_eixos": 2726,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1705,
+          "porta_malas_l": 448,
+          "tanque_l": 60,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/50 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto solar panorâmico elétrico",
+              "Bancos dianteiros aquecidos e refrigerados",
+              "Banco do motorista elétrico de 10 posições com lombar",
+              "Painel digital e multimídia de 12,3\"",
+              "Porta-malas elétrico com função mãos livres",
+              "Partida remota",
+              "Câmera 360° com visão aérea",
+              "Piloto adaptativo com Stop & Go e centralização em faixa",
+              "4 modos de condução",
+              "Rodas de liga leve 19\""
+            ]
+          },
+          "fonte_url": "https://www.ford.com.br/suvs-e-crossovers/territory.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas com bancos rebatidos: 1.422 L. Largura com espelhos 2177 mm. Airbags: 6 (imprensa oficial Ford). Preço reduzido em R$ 25.000 a partir de 02/10/2026. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"TERRITORY Titanium\"."
+        }
+      ]
+    },
+    {
+      "id": "ford-bronco-sport",
+      "modelo": "Bronco Sport",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/ford-bronco-sport.webp",
+        "fonte_imagem": "https://www.webmotors.com.br/imagens/prod/380053/FORD_BRONCO_SPORT_2.0_ECOBOOST_GASOLINA_BADLANDS_4X4_SELECTSHIFT_38005316001848168.webp",
+        "pagina_origem": "https://www.webmotors.com.br/ford/bronco-sport/2026"
+      },
+      "fontes": [
+        {
+          "url": "https://www.ford.com.br/suvs-e-crossovers/bronco-sport.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.ford.com.br/compre-o-seu/monte-o-seu-novo.html?nameplate=Bronco_Sport_FBR",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.ford.com.br/content/dam/Ford/website-assets/latam/br/nameplate/2025/bronco_sport/pdf/fbr-ficha-tecnica-bronco-sport.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "ford-bronco-sport-badlands-2-0-ecoboost-4wd-at-2026",
+          "versao": "Badlands 2.0L EcoBoost 4WD AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 249900,
+          "preco_obs": "Preço público sugerido à vista no site Ford, base Brasília, com frete incluso (PB e SP: consultar concessionária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 EcoBoost GTDi Turbo",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 253
+            },
+            "torque_kgfm": {
+              "gasolina": 38.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (sem reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 8.4,
+            "estrada_gasolina": 10.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4420,
+            "largura": 1888,
+            "largura_com_retrovisores": null,
+            "altura": 1814,
+            "entre_eixos": 2670,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1794,
+          "porta_malas_l": 580,
+          "tanque_l": 59.5,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/65 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 9,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 13.2,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "7 modos de condução G.O.A.T.",
+              "Diferencial traseiro blocante e vetorização de torque",
+              "Piloto automático off-road com 1 Pedal Drive",
+              "Pneus all terrain 225/65 R17",
+              "Protetores inferiores off-road",
+              "Vidro traseiro com abertura independente",
+              "Teto pintado de preto e teto solar elétrico",
+              "Som Bang & Olufsen com 10 alto-falantes e subwoofer",
+              "Painel digital de 12,3\" e multimídia de 13,2\"",
+              "Bancos dianteiros e volante com aquecimento",
+              "Paddle shifters",
+              "2 tomadas 110V"
+            ]
+          },
+          "fonte_url": "https://www.ford.com.br/suvs-e-crossovers/bronco-sport.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas: 580 L sem tampão; 1.472 L com bancos rebatidos. Ano-modelo 2026 conforme o configurador do site. Capacidade de carga 433 kg; reboque 1.000 kg. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"BRONCO SPORT Badlands\"."
+        }
+      ]
+    },
+    {
+      "id": "ford-mustang",
+      "modelo": "Mustang",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Cupê esportivo",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/ford-mustang.webp",
+        "fonte_imagem": "https://car-images.bauersecure.com/wp-images/162908/10-mustang-dark-horse-side-static.jpg",
+        "pagina_origem": "https://fity.club/lists/suggestions/ford-mustang-fantasía-humo/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.ford.com.br/performance/mustang-dark-horse/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.autoo.com.br/ford-mustang-2026-chega-ao-brasil-mais-potente-do-que-nunca-veja-preco/",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-22"
+        },
+        {
+          "url": "https://www.vrum.com.br/noticias/2025/08/7226240-ford-mustang-dark-horse-chega-ao-brasil-com-muita-potencia-e-tecnologia.html",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-22"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "ford-mustang-dark-horse-2026",
+          "versao": "Dark Horse",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 649000,
+          "preco_obs": "Preço de lançamento da linha 2026 segundo a imprensa (Autoo, Gazeta SP); o site oficial não exibe preço.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "5.0 V8 Coyote aspirado",
+            "cilindrada_cm3": null,
+            "cilindros": 8,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 507
+            },
+            "torque_kgfm": {
+              "gasolina": 57.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 10
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": 3.7,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 6.3,
+            "estrada_gasolina": 8.8
+          },
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 2,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": false,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Suspensão adaptativa MagneRide",
+              "Freios Brembo",
+              "Diferencial Torsen com arrefecimento",
+              "Spoiler traseiro",
+              "Rodas 19\" escurecidas"
+            ]
+          },
+          "fonte_url": "https://www.ford.com.br/performance/mustang-dark-horse/",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl",
+            "ano_modelo",
+            "desempenho.aceleracao_0_100_s",
+            "desempenho.velocidade_maxima_kmh"
+          ],
+          "observacoes": "Potência (507 cv), torque (567 Nm), motor V8 5.0, faróis LED e rodas 19\" do site oficial; câmbio de 10 marchas e consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Mustang Dark Horse\". Ano-modelo 2026 conforme imprensa e Tabela FIPE (o material do site ainda é identificado como 2025). Dimensões e peso não publicados no site BR."
+        }
+      ]
+    }
+  ]
+}

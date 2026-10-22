@@ -1,0 +1,746 @@
+{
+  "marca": "McLaren",
+  "slug": "mclaren",
+  "site_oficial": "https://www.mclaren.com/cars/br_pt",
+  "coletado_em": "2026-10-21",
+  "modelos": [
+    {
+      "id": "mclaren-artura",
+      "modelo": "Artura",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Superesportivo híbrido",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "Reino Unido",
+      "imagem": {
+        "arquivo": "img/carros/mclaren-artura.webp",
+        "fonte_imagem": "https://pictures.dealer.com/b/bbbsandiego/1388/e216902918562372dd651d568c798605x.jpg?impolicy=downsize_bkpt&imdensity=1&w=1024",
+        "pagina_origem": "https://www.sandiegoluxurymotors.com/new/McLaren/2026-McLaren-Artura-2a4b94feac18381be180bcc048fc8dc1.htm"
+      },
+      "fontes": [
+        {
+          "url": "https://www.mclaren.com/cars/br_pt/artura",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mclaren.com/cars/br_pt/artura-spider",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://cms-assets-production.mclaren.com/1209/Global_Artura_Product_Brochure.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mclarensaopaulo.com.br/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mclaren-artura-coupe-2026",
+          "versao": "Coupé",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 V6 biturbo (M630) + motor elétrico de fluxo axial",
+            "cilindrada_cm3": 2993,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 700
+            },
+            "torque_kgfm": {
+              "combinada": 73.4
+            },
+            "bateria_kwh": 7.4,
+            "autonomia_eletrica_km": 33,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3,
+            "velocidade_maxima_kmh": 330
+          },
+          "consumo": {
+            "cidade_gasolina": 6.5,
+            "estrada_gasolina": 8.5,
+            "cidade_eletrico_km_le": 12.3,
+            "estrada_eletrico_km_le": 16.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4539,
+            "largura": 1913,
+            "largura_com_retrovisores": null,
+            "altura": 1193,
+            "entre_eixos": 2640,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1498,
+          "porta_malas_l": 160,
+          "tanque_l": 65,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "235/35 R19 (diant.) / 295/35 R20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Rodas 19\" (diant.) / 20\" (tras.)",
+              "Portas diédricas",
+              "Ré elétrica (E-Reverse)",
+              "Monocoque de fibra de carbono (MCLA)",
+              "Bateria de 7,4 kWh"
+            ]
+          },
+          "fonte_url": "https://www.mclaren.com/cars/br_pt/artura",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Dimensões/pneus do catálogo global do Artura. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"ARTURA\". Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "mclaren-artura-spider-2026",
+          "versao": "Spider",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 V6 biturbo (M630) + motor elétrico de fluxo axial",
+            "cilindrada_cm3": 2993,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 700
+            },
+            "torque_kgfm": {
+              "combinada": 73.4
+            },
+            "bateria_kwh": 7.4,
+            "autonomia_eletrica_km": 33,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3,
+            "velocidade_maxima_kmh": 330
+          },
+          "consumo": {
+            "cidade_gasolina": 6.5,
+            "estrada_gasolina": 8.5,
+            "cidade_eletrico_km_le": 12.3,
+            "estrada_eletrico_km_le": 16.9
+          },
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1560,
+          "porta_malas_l": 160,
+          "tanque_l": 65,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Capota rígida retrátil (11 s)",
+              "Portas diédricas",
+              "Ré elétrica (E-Reverse)",
+              "Bateria de 7,4 kWh"
+            ]
+          },
+          "fonte_url": "https://www.mclaren.com/cars/br_pt/artura-spider",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"ARTURA\". Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    },
+    {
+      "id": "mclaren-gts",
+      "modelo": "GTS",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Grand tourer",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Reino Unido",
+      "imagem": {
+        "arquivo": "img/carros/mclaren-gts.webp",
+        "fonte_imagem": "https://pictures.dealer.com/m/mclarenseattle/0460/254df603f87754f012fcef7cc5684dedx.jpg?impolicy=resize&w=1024",
+        "pagina_origem": "https://www.mclarenbellevue.com/new/McLaren/2026-McLaren-GTS-5031b74eac182ff5053b2af1507363da.htm"
+      },
+      "fontes": [
+        {
+          "url": "https://www.mclaren.com/cars/br_pt/gts",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://cms-assets-production.mclaren.com/108/mclaren-GLOBAL_GTS-Product-Brochure-2023-DIGITAL-gts.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mclaren-gts-gts-2026",
+          "versao": "GTS",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo (M840T)",
+            "cilindrada_cm3": null,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 635
+            },
+            "torque_kgfm": {
+              "gasolina": 64.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.2,
+            "velocidade_maxima_kmh": 326
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4683,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1213,
+            "entre_eixos": 2675,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1520,
+          "porta_malas_l": 420,
+          "tanque_l": 72,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "225/35 R20 (diant.) / 295/30 R21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Porta-malas traseiro de 420 L + 150 L dianteiro",
+              "Elevador de suspensão (vehicle lift)",
+              "Freios carbono-cerâmica",
+              "Bancos aquecidos com memória"
+            ]
+          },
+          "fonte_url": "https://www.mclaren.com/cars/br_pt/gts",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Porta-malas: 420 L traseiro + 150 L dianteiro. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    },
+    {
+      "id": "mclaren-750s",
+      "modelo": "750S",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Superesportivo",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Reino Unido",
+      "imagem": {
+        "arquivo": "img/carros/mclaren-750s.webp",
+        "fonte_imagem": "https://imagecdn.zigwheels.ae/large/gallery/exterior/97/2187/mclaren-750s-side-view-977944.jpg?tr=w-930",
+        "pagina_origem": "https://www.zigwheels.ae/new-cars/mclaren/750s/colors"
+      },
+      "fontes": [
+        {
+          "url": "https://www.mclaren.com/cars/br_pt/750s",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mclaren.com/cars/br_pt/750s-spider",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://cms-assets-production.mclaren.com/583/750S_Product_Brochure_2023_EN_UK_correct.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mclaren-750s-coupe-2026",
+          "versao": "Coupé",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo (M840T)",
+            "cilindrada_cm3": null,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 750
+            },
+            "torque_kgfm": {
+              "gasolina": 81.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.8,
+            "velocidade_maxima_kmh": 332
+          },
+          "consumo": {
+            "cidade_gasolina": 5.9,
+            "estrada_gasolina": 7.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4569,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1196,
+            "entre_eixos": 2670,
+            "altura_livre_solo": 107
+          },
+          "peso_kg": 1389,
+          "porta_malas_l": 360,
+          "tanque_l": 72,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "245/35 R19 (diant.) / 305/30 R20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Freios carbono-cerâmica de série",
+              "Aerofólio ativo",
+              "Proactive Chassis Control III",
+              "Rodas forjadas 19\"/20\""
+            ]
+          },
+          "fonte_url": "https://www.mclaren.com/cars/br_pt/750s",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Porta-malas: 150 L dianteiro + 210 L traseiro. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"750S COUPE\". Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "mclaren-750s-spider-2026",
+          "versao": "Spider",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo (M840T)",
+            "cilindrada_cm3": null,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 750
+            },
+            "torque_kgfm": {
+              "gasolina": 81.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.8,
+            "velocidade_maxima_kmh": 332
+          },
+          "consumo": {
+            "cidade_gasolina": 5.9,
+            "estrada_gasolina": 7.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4569,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1196,
+            "entre_eixos": 2670,
+            "altura_livre_solo": 107
+          },
+          "peso_kg": 1438,
+          "porta_malas_l": 208,
+          "tanque_l": 72,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "245/35 R19 (diant.) / 305/30 R20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Capota rígida retrátil",
+              "Teto eletrocrômico (opcional)",
+              "Freios carbono-cerâmica de série",
+              "Aerofólio ativo"
+            ]
+          },
+          "fonte_url": "https://www.mclaren.com/cars/br_pt/750s-spider",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Porta-malas: 150 L dianteiro + 58 L traseiro. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"750S SPIDER\". Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    },
+    {
+      "id": "mclaren-788hs",
+      "modelo": "788HS",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Superesportivo",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Reino Unido",
+      "imagem": {
+        "arquivo": "img/carros/mclaren-788hs.webp",
+        "fonte_imagem": "https://images.autox.com/uploads/2026/07/McLaren-788HS-side-1783589274669.webp",
+        "pagina_origem": "https://www.autox.com/news/car-news/mclaren-788hs-debuts-as-the-ultimate-farewell-to-the-720s-line-124025/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.mclaren.com/cars/br_pt/788hs",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mclaren.com/cars/br_pt/788hs-spider",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mclarensaopaulo.com.br/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mclaren-788hs-coupe-2026",
+          "versao": "Coupé",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo (M840T)",
+            "cilindrada_cm3": null,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 788
+            },
+            "torque_kgfm": {
+              "gasolina": 81.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.8,
+            "velocidade_maxima_kmh": 330
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4569,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote aerodinâmico em fibra de carbono (+10% downforce vs 765LT)",
+              "Capô com S-duct",
+              "Entrada de ar no teto (exclusiva do cupê)",
+              "Escapamento quádruplo de titânio",
+              "Rodas 19\" (diant.) / 20\" (tras.)"
+            ]
+          },
+          "fonte_url": "https://www.mclaren.com/cars/br_pt/788hs",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Peso seco mínimo informado: 1.265 kg (peso em ordem de marcha não divulgado). Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "mclaren-788hs-spider-2026",
+          "versao": "Spider",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo (M840T)",
+            "cilindrada_cm3": null,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 788
+            },
+            "torque_kgfm": {
+              "gasolina": 81.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.8,
+            "velocidade_maxima_kmh": 330
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4569,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Capota rígida retrátil",
+              "Pacote aerodinâmico em fibra de carbono",
+              "Escapamento quádruplo de titânio",
+              "Rodas 19\" (diant.) / 20\" (tras.)"
+            ]
+          },
+          "fonte_url": "https://www.mclaren.com/cars/br_pt/788hs-spider",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Peso seco mínimo informado: 1.313 kg (peso em ordem de marcha não divulgado). Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    }
+  ]
+}

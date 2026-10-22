@@ -1,0 +1,1222 @@
+{
+  "marca": "Ferrari",
+  "slug": "ferrari",
+  "site_oficial": "https://saopaulo.ferraridealers.com",
+  "coletado_em": "2026-10-21",
+  "modelos": [
+    {
+      "id": "ferrari-amalfi",
+      "modelo": "Amalfi",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Grand tourer 2+",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Itália",
+      "imagem": {
+        "arquivo": "img/carros/ferrari-amalfi.webp",
+        "fonte_imagem": "https://cdn.renderhub.com/zifir3d/ferrari-amalfi-2026/ferrari-amalfi-2026-06.jpg",
+        "pagina_origem": "https://www.renderhub.com/zifir3d/ferrari-amalfi-2026"
+      },
+      "fontes": [
+        {
+          "url": "https://saopaulo.ferraridealers.com/en-GB/ferrari-amalfi",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://saopaulo.ferraridealers.com/en-GB/ferrari-amalfi-spider",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.cnnbrasil.com.br/auto/ferrari-amalfi-chega-ao-brasil-por-r-37-milhoes-veja-fotos/",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "ferrari-amalfi-coupe-2026",
+          "versao": "Coupé",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": "Marca não divulga preço; na apresentação no Brasil a imprensa reportou preço inicial de cerca de R$ 3,7 milhões.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.9 V8 biturbo",
+            "cilindrada_cm3": 3855,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 640
+            },
+            "torque_kgfm": {
+              "gasolina": 77.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.3,
+            "velocidade_maxima_kmh": 320
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4660,
+            "largura": 1974,
+            "largura_com_retrovisores": null,
+            "altura": 1301,
+            "entre_eixos": 2670,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 273,
+          "tanque_l": 80,
+          "lugares": null,
+          "portas": 2,
+          "pneus": "245/35 R20 (diant.) / 285/35 R20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Substituto da Roma",
+              "Motor V8 biturbo de 640 cv",
+              "Cockpit duplo",
+              "Rodas 20\""
+            ]
+          },
+          "fonte_url": "https://saopaulo.ferraridealers.com/en-GB/ferrari-amalfi",
+          "campos_fonte_secundaria": [
+            "preco_obs"
+          ],
+          "observacoes": "Vendido no Brasil pela Ferrari São Paulo (Grupo Via Italia, importador oficial). Preço não divulgado pela marca. Ficha técnica da página do modelo no site do concessionário oficial (ferraridealers.com). Peso a seco informado: 1470 kg (com conteúdo opcional de redução de peso); peso em ordem de marcha não divulgado. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "ferrari-amalfi-spider-2026",
+          "versao": "Spider",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": "Marca não divulga preço; na apresentação no Brasil a imprensa reportou preço inicial de cerca de R$ 3,7 milhões.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.9 V8 biturbo",
+            "cilindrada_cm3": 3855,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 640
+            },
+            "torque_kgfm": {
+              "gasolina": 77.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.3,
+            "velocidade_maxima_kmh": 320
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4660,
+            "largura": 1974,
+            "largura_com_retrovisores": null,
+            "altura": 1305,
+            "entre_eixos": 2670,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 255,
+          "tanque_l": 80,
+          "lugares": null,
+          "portas": 2,
+          "pneus": "245/35 R20 (diant.) / 285/35 R20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Capota de lona",
+              "Motor V8 biturbo de 640 cv",
+              "Cockpit duplo",
+              "Porta-malas 255 L (capota fechada) / 172 L (aberta)"
+            ]
+          },
+          "fonte_url": "https://saopaulo.ferraridealers.com/en-GB/ferrari-amalfi-spider",
+          "campos_fonte_secundaria": [
+            "preco_obs"
+          ],
+          "observacoes": "Vendido no Brasil pela Ferrari São Paulo (Grupo Via Italia, importador oficial). Preço não divulgado pela marca. Ficha técnica da página do modelo no site do concessionário oficial (ferraridealers.com). Peso a seco informado: 1556 kg (com conteúdo opcional de redução de peso); peso em ordem de marcha não divulgado. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    },
+    {
+      "id": "ferrari-296",
+      "modelo": "296",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Superesportivo híbrido",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "Itália",
+      "imagem": {
+        "arquivo": "img/carros/ferrari-296.webp",
+        "fonte_imagem": "https://www.dmeluxurycarrental.com/wp-content/uploads/2024/03/Ferrari-296-side-view.jpg",
+        "pagina_origem": "https://www.dmeluxurycarrental.com/ferrari-296-gtb-experience/"
+      },
+      "fontes": [
+        {
+          "url": "https://saopaulo.ferraridealers.com/en-GB/296-gtb",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://saopaulo.ferraridealers.com/en-GB/296-gts",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://saopaulo.ferraridealers.com/en-GB/296-speciale",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://saopaulo.ferraridealers.com/en-GB/296-speciale-a",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "ferrari-296-gtb-2026",
+          "versao": "GTB",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 V6 biturbo 120° + motor elétrico",
+            "cilindrada_cm3": 2992,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 663,
+              "combinada": 830
+            },
+            "torque_kgfm": {
+              "combinada": 75.5
+            },
+            "bateria_kwh": 7.45,
+            "autonomia_eletrica_km": 10,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.9,
+            "velocidade_maxima_kmh": 330
+          },
+          "consumo": {
+            "cidade_gasolina": 6.3,
+            "estrada_gasolina": 8.4,
+            "cidade_eletrico_km_le": 8.9,
+            "estrada_eletrico_km_le": 11.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4565,
+            "largura": 1958,
+            "largura_com_retrovisores": null,
+            "altura": 1187,
+            "entre_eixos": 2600,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": 65,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "245/35 ZR20 (diant.) / 305/35 ZR20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Híbrido plug-in de 830 cv",
+              "Bateria de 7,45 kWh",
+              "eManettino",
+              "Rodas 20\""
+            ]
+          },
+          "fonte_url": "https://saopaulo.ferraridealers.com/en-GB/296-gtb",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Ferrari São Paulo (Grupo Via Italia, importador oficial). Preço não divulgado pela marca. Ficha técnica da página do modelo no site do concessionário oficial (ferraridealers.com). Peso a seco informado: 1470 kg (com conteúdo opcional de redução de peso); peso em ordem de marcha não divulgado. Velocidade máxima informada como > 330 km/h. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"296 GTB\". Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "ferrari-296-gts-2026",
+          "versao": "GTS",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 V6 biturbo 120° + motor elétrico",
+            "cilindrada_cm3": 2992,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 663,
+              "combinada": 830
+            },
+            "torque_kgfm": {
+              "combinada": 75.5
+            },
+            "bateria_kwh": 7.45,
+            "autonomia_eletrica_km": 11,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.9,
+            "velocidade_maxima_kmh": 330
+          },
+          "consumo": {
+            "cidade_gasolina": 6,
+            "estrada_gasolina": 8,
+            "cidade_eletrico_km_le": 8.8,
+            "estrada_eletrico_km_le": 13.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4565,
+            "largura": 1958,
+            "largura_com_retrovisores": null,
+            "altura": 1191,
+            "entre_eixos": 2600,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": 65,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "245/35 ZR20 (diant.) / 305/35 ZR20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto rígido retrátil (RHT)",
+              "Híbrido plug-in de 830 cv",
+              "Bateria de 7,45 kWh",
+              "Rodas 20\""
+            ]
+          },
+          "fonte_url": "https://saopaulo.ferraridealers.com/en-GB/296-gts",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Ferrari São Paulo (Grupo Via Italia, importador oficial). Preço não divulgado pela marca. Ficha técnica da página do modelo no site do concessionário oficial (ferraridealers.com). Peso a seco informado: 1540 kg (com conteúdo opcional de redução de peso); peso em ordem de marcha não divulgado. Velocidade máxima informada como > 330 km/h. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"296 GTS\". Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "ferrari-296-speciale-2026",
+          "versao": "Speciale",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 V6 biturbo 120° + motor elétrico",
+            "cilindrada_cm3": 2992,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 700,
+              "combinada": 880
+            },
+            "torque_kgfm": {
+              "gasolina": 77
+            },
+            "bateria_kwh": 7.45,
+            "autonomia_eletrica_km": 25,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.8,
+            "velocidade_maxima_kmh": 330
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4625,
+            "largura": 1968,
+            "largura_com_retrovisores": null,
+            "altura": 1181,
+            "entre_eixos": 2600,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 169,
+          "tanque_l": 65,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "245/35 ZR20 (diant.) / 305/35 ZR20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Série especial",
+              "Híbrido plug-in de 880 cv",
+              "Freios carbono-cerâmica (CCM)",
+              "Rodas 20\""
+            ]
+          },
+          "fonte_url": "https://saopaulo.ferraridealers.com/en-GB/296-speciale",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Ferrari São Paulo (Grupo Via Italia, importador oficial). Preço não divulgado pela marca. Ficha técnica da página do modelo no site do concessionário oficial (ferraridealers.com). Peso a seco informado: 1410 kg (com conteúdo opcional de redução de peso); peso em ordem de marcha não divulgado. Série especial (não numerada). Velocidade máxima informada como > 330 km/h. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "ferrari-296-speciale-a-2026",
+          "versao": "Speciale A",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 V6 biturbo 120° + motor elétrico",
+            "cilindrada_cm3": 2992,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 700,
+              "combinada": 880
+            },
+            "torque_kgfm": {
+              "gasolina": 77
+            },
+            "bateria_kwh": 7.45,
+            "autonomia_eletrica_km": 25,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.8,
+            "velocidade_maxima_kmh": 330
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4625,
+            "largura": 1968,
+            "largura_com_retrovisores": null,
+            "altura": 1181,
+            "entre_eixos": 2600,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 169,
+          "tanque_l": 65,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "245/35 ZR20 (diant.) / 305/35 ZR20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Série especial conversível (Aperta)",
+              "Híbrido plug-in de 880 cv",
+              "Freios carbono-cerâmica (CCM)",
+              "Rodas 20\""
+            ]
+          },
+          "fonte_url": "https://saopaulo.ferraridealers.com/en-GB/296-speciale-a",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Ferrari São Paulo (Grupo Via Italia, importador oficial). Preço não divulgado pela marca. Ficha técnica da página do modelo no site do concessionário oficial (ferraridealers.com). Peso a seco informado: 1490 kg (com conteúdo opcional de redução de peso); peso em ordem de marcha não divulgado. Série especial (não numerada). Velocidade máxima informada como > 330 km/h. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    },
+    {
+      "id": "ferrari-849-testarossa",
+      "modelo": "849 Testarossa",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Superesportivo híbrido",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "Itália",
+      "imagem": {
+        "arquivo": "img/carros/ferrari-849-testarossa.webp",
+        "fonte_imagem": "https://images.dailyrevs.com/0000/v3/Ferrari/68c0ecf0387a0f734eb74a4c/2026-849-testarossa-ferrari-1w07y7777a303kibzqt11a2.jpeg",
+        "pagina_origem": "https://www.dailyrevs.com/cars/2026-ferrari-849-testarossa"
+      },
+      "fontes": [
+        {
+          "url": "https://saopaulo.ferraridealers.com/en-GB/849-testarossa",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://saopaulo.ferraridealers.com/en-GB/849-testarossa-spider",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "ferrari-849-testarossa-coupe-2026",
+          "versao": "Coupé",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo + 3 motores elétricos",
+            "cilindrada_cm3": 3990,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 830,
+              "combinada": 1050
+            },
+            "torque_kgfm": {
+              "gasolina": 85.9
+            },
+            "bateria_kwh": 7.45,
+            "autonomia_eletrica_km": 25,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.3,
+            "velocidade_maxima_kmh": 330
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4718,
+            "largura": 1999,
+            "largura_com_retrovisores": null,
+            "altura": 1225,
+            "entre_eixos": 2650,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 74,
+          "tanque_l": 68,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "265/35 R20 (diant.) / 325/30 R20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Topo da gama Ferrari",
+              "Sistema híbrido de 1.050 cv",
+              "Eixo dianteiro elétrico",
+              "Programa de manutenção de 7 anos"
+            ]
+          },
+          "fonte_url": "https://saopaulo.ferraridealers.com/en-GB/849-testarossa",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Ferrari São Paulo (Grupo Via Italia, importador oficial). Preço não divulgado pela marca. Ficha técnica da página do modelo no site do concessionário oficial (ferraridealers.com). Peso a seco informado: 1570 kg (com conteúdo opcional de redução de peso); peso em ordem de marcha não divulgado. 0-100 km/h informado como < 2,3 s; velocidade máxima > 330 km/h. Tração integral pelo eixo dianteiro elétrico. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "ferrari-849-testarossa-spider-2026",
+          "versao": "Spider",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo + 3 motores elétricos",
+            "cilindrada_cm3": 3990,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 830,
+              "combinada": 1050
+            },
+            "torque_kgfm": {
+              "gasolina": 85.9
+            },
+            "bateria_kwh": 7.45,
+            "autonomia_eletrica_km": 25,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.3,
+            "velocidade_maxima_kmh": 330
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4718,
+            "largura": 1999,
+            "largura_com_retrovisores": null,
+            "altura": 1186,
+            "entre_eixos": 2650,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 74,
+          "tanque_l": 68,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "265/35 R20 (diant.) / 325/30 R20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto rígido retrátil",
+              "Sistema híbrido de 1.050 cv",
+              "Eixo dianteiro elétrico"
+            ]
+          },
+          "fonte_url": "https://saopaulo.ferraridealers.com/en-GB/849-testarossa-spider",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Ferrari São Paulo (Grupo Via Italia, importador oficial). Preço não divulgado pela marca. Ficha técnica da página do modelo no site do concessionário oficial (ferraridealers.com). Peso a seco informado: 1660 kg (com conteúdo opcional de redução de peso); peso em ordem de marcha não divulgado. 0-100 km/h informado como < 2,3 s; velocidade máxima > 330 km/h. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    },
+    {
+      "id": "ferrari-12cilindri",
+      "modelo": "12Cilindri",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Grand tourer V12",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Itália",
+      "imagem": {
+        "arquivo": "img/carros/ferrari-12cilindri.webp",
+        "fonte_imagem": "https://aresstorageaccount.blob.core.windows.net/researchcontainer/modelyear/b3a92fe9-4186-4ae4-aa5f-ed81d947ef84.webp",
+        "pagina_origem": "https://www.newcarsforsale.com/new-car-guide/ferrari/12cilindri/2026"
+      },
+      "fontes": [
+        {
+          "url": "https://saopaulo.ferraridealers.com/en-GB/ferrari-12cilindri",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://saopaulo.ferraridealers.com/en-GB/ferrari-12cilindri-spider",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "ferrari-12cilindri-berlinetta-2026",
+          "versao": "Berlinetta",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "6.5 V12 aspirado",
+            "cilindrada_cm3": 6496,
+            "cilindros": 12,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 830
+            },
+            "torque_kgfm": {
+              "gasolina": 69.1
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.9,
+            "velocidade_maxima_kmh": 340
+          },
+          "consumo": {
+            "cidade_gasolina": 4.8,
+            "estrada_gasolina": 6.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4733,
+            "largura": 2176,
+            "largura_com_retrovisores": null,
+            "altura": 1292,
+            "entre_eixos": 2700,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": 92,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "275/35 R21 (diant.) / 315/35 R21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "V12 aspirado de 830 cv",
+              "Rotação máxima de 9.500 rpm",
+              "Rodas 21\""
+            ]
+          },
+          "fonte_url": "https://saopaulo.ferraridealers.com/en-GB/ferrari-12cilindri",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Ferrari São Paulo (Grupo Via Italia, importador oficial). Preço não divulgado pela marca. Ficha técnica da página do modelo no site do concessionário oficial (ferraridealers.com). Peso a seco informado: 1560 kg (com conteúdo opcional de redução de peso); peso em ordem de marcha não divulgado. Velocidade máxima informada como > 340 km/h. Largura informada pela marca (2.176 mm) possivelmente inclui retrovisores. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"12CILINDRI --\". Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "ferrari-12cilindri-spider-2026",
+          "versao": "Spider",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "6.5 V12 aspirado",
+            "cilindrada_cm3": 6496,
+            "cilindros": 12,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 830
+            },
+            "torque_kgfm": {
+              "gasolina": 69.1
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.95,
+            "velocidade_maxima_kmh": 340
+          },
+          "consumo": {
+            "cidade_gasolina": 4.6,
+            "estrada_gasolina": 6.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4733,
+            "largura": 2176,
+            "largura_com_retrovisores": null,
+            "altura": 1292,
+            "entre_eixos": 2700,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": 92,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "275/35 R21 (diant.) / 315/35 R21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto rígido retrátil",
+              "V12 aspirado de 830 cv",
+              "Rodas 21\""
+            ]
+          },
+          "fonte_url": "https://saopaulo.ferraridealers.com/en-GB/ferrari-12cilindri-spider",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Ferrari São Paulo (Grupo Via Italia, importador oficial). Preço não divulgado pela marca. Ficha técnica da página do modelo no site do concessionário oficial (ferraridealers.com). Peso a seco informado: 1620 kg (com conteúdo opcional de redução de peso); peso em ordem de marcha não divulgado. Velocidade máxima informada como > 340 km/h. Largura informada pela marca (2.176 mm) possivelmente inclui retrovisores. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"12CILINDRI SPI\". Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    },
+    {
+      "id": "ferrari-purosangue",
+      "modelo": "Purosangue",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV esportivo de 4 portas",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Itália",
+      "imagem": {
+        "arquivo": "img/carros/ferrari-purosangue.webp",
+        "fonte_imagem": "https://img-cdn-zw.zigwheelsksa.com/large/gallery/exterior/10/1818/ferrari-purosangue-side-view-953012.jpg",
+        "pagina_origem": "https://www.zigwheelsksa.com/new-cars/ferrari/purosangue/6-5l-v12"
+      },
+      "fontes": [
+        {
+          "url": "https://saopaulo.ferraridealers.com/en-GB/ferrari-purosangue",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "ferrari-purosangue-purosangue-2026",
+          "versao": "Purosangue",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "6.5 V12 aspirado",
+            "cilindrada_cm3": 6496,
+            "cilindros": 12,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 725
+            },
+            "torque_kgfm": {
+              "gasolina": 73
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.3,
+            "velocidade_maxima_kmh": 310
+          },
+          "consumo": {
+            "cidade_gasolina": 4.1,
+            "estrada_gasolina": 5.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4973,
+            "largura": 2028,
+            "largura_com_retrovisores": null,
+            "altura": 1589,
+            "entre_eixos": 3018,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 473,
+          "tanque_l": 100,
+          "lugares": 4,
+          "portas": 4,
+          "pneus": "255/35 R22 (diant.) / 315/30 R23 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 23,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "V12 aspirado de 725 cv",
+              "Suspensão ativa Ferrari (Active Suspension Technology)",
+              "Tração 4RM-S evo",
+              "Portas traseiras de abertura invertida",
+              "Rodas 22\" (diant.) / 23\" (tras.)"
+            ]
+          },
+          "fonte_url": "https://saopaulo.ferraridealers.com/en-GB/ferrari-purosangue",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Ferrari São Paulo (Grupo Via Italia, importador oficial). Preço não divulgado pela marca. Ficha técnica da página do modelo no site do concessionário oficial (ferraridealers.com). Peso a seco informado: 2033 kg (com conteúdo opcional de redução de peso); peso em ordem de marcha não divulgado. Velocidade máxima informada como > 310 km/h. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"PUROSANGUE --\". Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    },
+    {
+      "id": "ferrari-luce",
+      "modelo": "Luce",
+      "categoria": "Sedan",
+      "subcategoria": "GT elétrico de 4 portas",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "Itália",
+      "imagem": {
+        "arquivo": "img/carros/ferrari-luce.webp",
+        "fonte_imagem": "https://www.cauleyferrari.com/wp-content/uploads/Rectangle_60183_result.webp",
+        "pagina_origem": "https://www.cauleyferrari.com/ferrari-model-range/luce/"
+      },
+      "fontes": [
+        {
+          "url": "https://saopaulo.ferraridealers.com/en-GB/ferrari-luce",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://rossoautomobili.com/blogs/ferrari-models/2026-ferrari-luce",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "ferrari-luce-luce-2026",
+          "versao": "Luce",
+          "ano_modelo": 2026,
+          "status": "Pré-venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "4 motores elétricos (um por roda), 800 V",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 1050
+            },
+            "torque_kgfm": {
+              "eletrico": 101
+            },
+            "bateria_kwh": 122,
+            "autonomia_eletrica_km": 530,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.5,
+            "velocidade_maxima_kmh": 310
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 5026,
+            "largura": 1999,
+            "largura_com_retrovisores": null,
+            "altura": 1544,
+            "entre_eixos": 2961,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2260,
+          "porta_malas_l": 597,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": null,
+          "pneus": "265/35 R23 (diant.) / 315/30 R24 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 24,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Primeiro Ferrari 100% elétrico",
+              "Bateria de 122 kWh (bruta), 800 V",
+              "Recarga de até 350 kW",
+              "Design em parceria com LoveFrom (Jony Ive e Marc Newson)",
+              "Freios carbono-cerâmica",
+              "Rodas 23\" (diant.) / 24\" (tras.)"
+            ]
+          },
+          "fonte_url": "https://saopaulo.ferraridealers.com/en-GB/ferrari-luce",
+          "campos_fonte_secundaria": [
+            "transmissao"
+          ],
+          "observacoes": "Vendido no Brasil pela Ferrari São Paulo (Grupo Via Italia, importador oficial). Preço não divulgado pela marca. Ficha técnica da página do modelo no site do concessionário oficial (ferraridealers.com). Modelo em homologação; potência de 1.050 cv em modo Launch Control; autonomia de 530 km é estimativa da marca (em homologação). Peso com equipamentos opcionais. Redução única conforme ficha de fonte secundária (Rosso Automobili); a marca não detalha. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    }
+  ]
+}

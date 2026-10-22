@@ -1,0 +1,1408 @@
+{
+  "marca": "Peugeot",
+  "slug": "peugeot",
+  "site_oficial": "https://www.peugeot.com.br",
+  "coletado_em": "2026-10-20",
+  "modelos": [
+    {
+      "id": "peugeot-208",
+      "modelo": "208",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch compacto",
+      "propulsoes": [
+        "Combustão",
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/peugeot-208.webp",
+        "fonte_imagem": "https://cdn.motor1.com/images/mgl/6Z4Mob/s1/peugeot-208-2026.jpg",
+        "pagina_origem": "https://www.autodataar.com/nota-nuevo-peugeot-208-2026-argentino-precios--equipamiento-y-cambios-en-la-gama-64784"
+      },
+      "fontes": [
+        {
+          "url": "https://www.peugeot.com.br/gama/peugeot-208.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.peugeot.com.br/gama/peugeot-208/monte.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.peugeot.com.br/content/dam/peugeot/ficha-tecnica/208-my26/fichas-tecnicas-208-my26.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://mvs-service.k8s.fcalatam.com.br/mvs?brand=PEUGEOT&market=pt-BR&model=1PPA",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://price-service.k8s.fcalatam.com.br/price",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://part-service.k8s.fcalatam.com.br/v2/item",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "peugeot-208-active-1-0-mt-2026",
+          "versao": "Active 1.0 MT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 91990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador peugeot.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Firefly Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 75,
+              "gasolina": 71
+            },
+            "torque_kgfm": {
+              "etanol": 10.7,
+              "gasolina": 10
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 9.5,
+            "estrada_etanol": 10.8,
+            "cidade_gasolina": 13.6,
+            "estrada_gasolina": 15.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4055,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1453,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": null,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Pack Tech opcional"
+            ]
+          },
+          "fonte_url": "https://www.peugeot.com.br/gama/peugeot-208/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Versão de série 25/26 ainda ativa no configurador, sem ficha técnica publicada: motor 1.0 Firefly manual conforme API do configurador (potência/torque da ficha do mesmo motor na versão Style); consumo, desempenho, pneus e equipamentos não confirmados. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"208 ACTIVE MT\"."
+        },
+        {
+          "id": "peugeot-208-style-1-0-mt-2026",
+          "versao": "Style 1.0 MT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 106990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador peugeot.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Firefly Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 75,
+              "gasolina": 71
+            },
+            "torque_kgfm": {
+              "etanol": 10.7,
+              "gasolina": 10
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 14.1,
+            "velocidade_maxima_kmh": 161
+          },
+          "consumo": {
+            "cidade_etanol": 9.5,
+            "estrada_etanol": 10.8,
+            "cidade_gasolina": 13.6,
+            "estrada_gasolina": 15.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4055,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1453,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "195/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": true,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto panorâmico",
+              "Multimídia i-Connect de 10,3\" com espelhamento sem fio",
+              "Visiopark 180° (câmera e sensores traseiros)",
+              "Faróis em LED",
+              "Rodas de liga leve dark Style de 16\"",
+              "Ar-condicionado digital"
+            ]
+          },
+          "fonte_url": "https://www.peugeot.com.br/content/dam/peugeot/ficha-tecnica/208-my26/fichas-tecnicas-208-my26-style.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"208 ACTIVE MT\"."
+        },
+        {
+          "id": "peugeot-208-active-turbo-200-at-2026",
+          "versao": "Active Turbo 200 AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 115550,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador peugeot.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.6,
+            "velocidade_maxima_kmh": 205
+          },
+          "consumo": {
+            "cidade_etanol": 8.8,
+            "estrada_etanol": 10.1,
+            "cidade_gasolina": 12.6,
+            "estrada_gasolina": 14.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4055,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1453,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 265,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "195/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor Turbo 200 com CVT de 7 marchas simuladas",
+              "Multimídia i-Connect de 10,3\" com espelhamento sem fio",
+              "Modo de condução Sport",
+              "Rodas de liga leve de 16\"",
+              "DRL em LED"
+            ]
+          },
+          "fonte_url": "https://www.peugeot.com.br/content/dam/peugeot/ficha-tecnica/208-my26/fichas-tecnicas-208-my26-active-turbo.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"208 ACTIV T200\"."
+        },
+        {
+          "id": "peugeot-208-allure-turbo-200-at-2026",
+          "versao": "Allure Turbo 200 AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 126990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador peugeot.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.6,
+            "velocidade_maxima_kmh": 205
+          },
+          "consumo": {
+            "cidade_etanol": 8.3,
+            "estrada_etanol": 9.7,
+            "cidade_gasolina": 12,
+            "estrada_gasolina": 13.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4055,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1453,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 265,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "195/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": true,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "i-Cockpit digital 2D de 10\"",
+              "Multimídia i-Connect Advanced de 10,3\"",
+              "Chave keyless",
+              "Carregador por indução",
+              "Câmera de ré",
+              "Teto panorâmico",
+              "Rodas diamantadas de 16\""
+            ]
+          },
+          "fonte_url": "https://www.peugeot.com.br/content/dam/peugeot/ficha-tecnica/208-my26/fichas-tecnicas-208-my26-allure-turbo.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"208 ALLUR T200\"."
+        },
+        {
+          "id": "peugeot-208-gt-turbo-200-hybrid-at-2026",
+          "versao": "GT Turbo 200 Hybrid AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 138990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador peugeot.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex MHEV (12 V)",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.6,
+            "velocidade_maxima_kmh": 205
+          },
+          "consumo": {
+            "cidade_etanol": 9.1,
+            "estrada_etanol": 9.6,
+            "cidade_gasolina": 13,
+            "estrada_gasolina": 13.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4055,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1453,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 265,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/45 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema híbrido leve MHEV com e-Braking e e-Coasting",
+              "i-Cockpit 3D Hybrid de 10\"",
+              "Peugeot Driver Assist (frenagem automática, alerta e correção de faixa, detector de fadiga)",
+              "Faróis Full LED",
+              "Teto panorâmico",
+              "Visiopark 180°",
+              "Rodas diamantadas de 17\"",
+              "6 airbags"
+            ]
+          },
+          "fonte_url": "https://www.peugeot.com.br/content/dam/peugeot/ficha-tecnica/208-my26/fichas-tecnicas-208-my26-at.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"208 GT HYBRID\"."
+        },
+        {
+          "id": "peugeot-208-style-1-0-mt-2027",
+          "versao": "Style 1.0 MT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 103990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador peugeot.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Firefly Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 75,
+              "gasolina": 71
+            },
+            "torque_kgfm": {
+              "etanol": 10.7,
+              "gasolina": 10
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 14.1,
+            "velocidade_maxima_kmh": 161
+          },
+          "consumo": {
+            "cidade_etanol": 9.5,
+            "estrada_etanol": 10.8,
+            "cidade_gasolina": 13.6,
+            "estrada_gasolina": 15.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4055,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1453,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "195/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmera 150° e sensores traseiros",
+              "Multimídia i-Connect de 10,3\"",
+              "i-Cockpit TFT 3,5\"",
+              "Faróis em LED",
+              "Interior escurecido",
+              "Rodas de liga leve dark Style de 16\"",
+              "Teto panorâmico opcional"
+            ]
+          },
+          "fonte_url": "https://www.peugeot.com.br/gama/peugeot-208/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica MY27 não disponível no site (link quebrado); dados técnicos da ficha MY26 da mesma versão/motor, equipamentos conforme itens de série do configurador 2027. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"208 ACTIVE MT\"."
+        },
+        {
+          "id": "peugeot-208-allure-t200-at-2027",
+          "versao": "Allure T200 AT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 119990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador peugeot.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.6,
+            "velocidade_maxima_kmh": 205
+          },
+          "consumo": {
+            "cidade_etanol": 8.3,
+            "estrada_etanol": 9.7,
+            "cidade_gasolina": 12,
+            "estrada_gasolina": 13.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4055,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1453,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 265,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "195/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "i-Cockpit 2D de 10\"",
+              "Chave keyless",
+              "Câmera 150° e sensores traseiros",
+              "Bancos em tecido e revestimento sintético premium",
+              "Rodas Noma diamantadas de 16\"",
+              "Teto panorâmico opcional"
+            ]
+          },
+          "fonte_url": "https://www.peugeot.com.br/gama/peugeot-208/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica MY27 não disponível no site (link quebrado); dados técnicos da ficha MY26 da mesma versão/motor, equipamentos conforme itens de série do configurador 2027. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"208 ALLUR T200\"."
+        },
+        {
+          "id": "peugeot-208-gt-t200-mhev-at-2027",
+          "versao": "GT T200 MHEV AT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 134990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador peugeot.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex MHEV (12 V)",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.6,
+            "velocidade_maxima_kmh": 205
+          },
+          "consumo": {
+            "cidade_etanol": 9.1,
+            "estrada_etanol": 9.6,
+            "cidade_gasolina": 13,
+            "estrada_gasolina": 13.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4055,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1453,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 265,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/45 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema híbrido leve MHEV com e-Braking e e-Coasting",
+              "i-Cockpit 3D Hybrid de 10\"",
+              "Peugeot Driver Assist (frenagem automática, alerta e correção de faixa, detector de fadiga)",
+              "Faróis Full LED",
+              "Teto panorâmico",
+              "Visiopark 180°",
+              "Rodas diamantadas de 17\"",
+              "6 airbags"
+            ]
+          },
+          "fonte_url": "https://www.peugeot.com.br/gama/peugeot-208/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica MY27 não disponível no site (link quebrado); dados técnicos da ficha MY26 da mesma versão/motor, equipamentos conforme itens de série do configurador 2027. Configurador 2027 não lista itens de série desta versão; equipamentos da ficha MY26 (GT Hybrid). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"208 GT HYBRID\"."
+        }
+      ]
+    },
+    {
+      "id": "peugeot-2008",
+      "modelo": "2008",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão",
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/peugeot-2008.webp",
+        "fonte_imagem": "https://www.webmotors.com.br/imagens/prod/380129/PEUGEOT_2008_1.0_TURBO_200_HYBRID_GT_CVT_38012910532549774.webp",
+        "pagina_origem": "https://www.webmotors.com.br/peugeot/2008/2026/1-0-turbo-200-hybrid-gt-cvt/387684"
+      },
+      "fontes": [
+        {
+          "url": "https://www.peugeot.com.br/gama/peugeot-2008.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.peugeot.com.br/gama/peugeot-2008/monte.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.peugeot.com.br/content/dam/peugeot/ficha-tecnica/2008_MY_26_Ficha_tecnica_ACTIVE_AF.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.peugeot.com.br/content/dam/peugeot/ficha-tecnica/2008_MY_26_Ficha_tecnica_ALLURE_AF.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.peugeot.com.br/content/dam/peugeot/ficha-tecnica/2008_MY_26_Ficha_tecnica_GT_Hybrid_AF.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://mvs-service.k8s.fcalatam.com.br/mvs?brand=PEUGEOT&market=pt-BR&model=1PPC",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://price-service.k8s.fcalatam.com.br/price",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://part-service.k8s.fcalatam.com.br/v2/item",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "peugeot-2008-active-t200-at-2026",
+          "versao": "Active T200 AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 153990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador peugeot.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10,
+            "velocidade_maxima_kmh": 195
+          },
+          "consumo": {
+            "cidade_etanol": 8.5,
+            "estrada_etanol": 9.8,
+            "cidade_gasolina": 12,
+            "estrada_gasolina": 14.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4309,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1548,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 419,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": true,
+            "partida_sem_chave": false,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Multimídia i-Connect Advanced de 10,3\"",
+              "Câmera 180° (Visiopark 180°)",
+              "Carregador por indução",
+              "Freio de estacionamento elétrico",
+              "Sensor de chuva",
+              "Rodas diamantadas de 17\""
+            ]
+          },
+          "fonte_url": "https://www.peugeot.com.br/content/dam/peugeot/ficha-tecnica/2008_MY_26_Ficha_tecnica_ACTIVE_AF.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"2008 ACT T200\"."
+        },
+        {
+          "id": "peugeot-2008-allure-t200-at-2026",
+          "versao": "Allure T200 AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 168990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador peugeot.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10,
+            "velocidade_maxima_kmh": 195
+          },
+          "consumo": {
+            "cidade_etanol": 8.5,
+            "estrada_etanol": 9.8,
+            "cidade_gasolina": 12,
+            "estrada_gasolina": 14.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4309,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1548,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 419,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": null,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "i-Cockpit digital 2D de 10\"",
+              "Chave keyless",
+              "Sensores de estacionamento dianteiros e traseiros",
+              "Teto bitom preto",
+              "Bancos com revestimento sintético premium",
+              "Retrovisores com rebatimento automático"
+            ]
+          },
+          "fonte_url": "https://www.peugeot.com.br/content/dam/peugeot/ficha-tecnica/2008_MY_26_Ficha_tecnica_ALLURE_AF.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"2008 ACT T200\"."
+        },
+        {
+          "id": "peugeot-2008-gt-t200-hybrid-at-2026",
+          "versao": "GT T200 Hybrid AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 184990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador peugeot.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex MHEV (12 V)",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10,
+            "velocidade_maxima_kmh": 195
+          },
+          "consumo": {
+            "cidade_etanol": 9,
+            "estrada_etanol": 9.6,
+            "cidade_gasolina": 13,
+            "estrada_gasolina": 13.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4309,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1548,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 419,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema híbrido leve MHEV",
+              "i-Cockpit 3D Hybrid",
+              "Peugeot Driver Assist (frenagem automática, faixa, ponto cego, fadiga)",
+              "Câmera 360° (Visiopark 360°)",
+              "Teto solar panorâmico",
+              "Faróis Full LED 3D",
+              "Paddle shifts",
+              "Teto bitom preto"
+            ]
+          },
+          "fonte_url": "https://www.peugeot.com.br/content/dam/peugeot/ficha-tecnica/2008_MY_26_Ficha_tecnica_GT_Hybrid_AF.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "A ficha lista airbags laterais e de cortina além dos dianteiros (6 no total). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"2008 GT HYBRID\"."
+        },
+        {
+          "id": "peugeot-2008-active-t200-at-2027",
+          "versao": "Active T200 AT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 148990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador peugeot.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10,
+            "velocidade_maxima_kmh": 195
+          },
+          "consumo": {
+            "cidade_etanol": 8.5,
+            "estrada_etanol": 9.8,
+            "cidade_gasolina": 12,
+            "estrada_gasolina": 14.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4309,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1548,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 419,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": null,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmera 180° (Visiopark 180°)",
+              "Multimídia i-Connect Advanced de 10,3\" HD",
+              "i-Cockpit TFT 3,5\"",
+              "Freio de estacionamento eletrônico",
+              "Lanternas em LED 3D",
+              "Pintura bitom opcional"
+            ]
+          },
+          "fonte_url": "https://www.peugeot.com.br/gama/peugeot-2008/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica MY27 não disponível no site (link quebrado); dados técnicos da ficha MY26 da mesma versão/motor, equipamentos conforme itens de série do configurador 2027. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"2008 ACT T200\"."
+        },
+        {
+          "id": "peugeot-2008-allure-t200-at-2027",
+          "versao": "Allure T200 AT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 163990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador peugeot.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10,
+            "velocidade_maxima_kmh": 195
+          },
+          "consumo": {
+            "cidade_etanol": 8.5,
+            "estrada_etanol": 9.8,
+            "cidade_gasolina": 12,
+            "estrada_gasolina": 14.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4309,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1548,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 419,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmera 360° (Visiopark 360°)",
+              "Sensor de ponto cego",
+              "Sensor dianteiro de estacionamento",
+              "i-Cockpit 2D",
+              "Faróis em LED",
+              "Rodas diamantadas de 17\"",
+              "Bancos com revestimento sintético premium"
+            ]
+          },
+          "fonte_url": "https://www.peugeot.com.br/gama/peugeot-2008/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica MY27 não disponível no site (link quebrado); dados técnicos da ficha MY26 da mesma versão/motor, equipamentos conforme itens de série do configurador 2027. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"2008 ACT T200\"."
+        },
+        {
+          "id": "peugeot-2008-gt-t200-mhev-at-2027",
+          "versao": "GT T200 MHEV AT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 179990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador peugeot.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex MHEV (12 V)",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10,
+            "velocidade_maxima_kmh": 195
+          },
+          "consumo": {
+            "cidade_etanol": 9,
+            "estrada_etanol": 9.6,
+            "cidade_gasolina": 13,
+            "estrada_gasolina": 13.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4309,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1548,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 419,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema híbrido leve MHEV",
+              "i-Cockpit 3D Hybrid",
+              "Peugeot Driver Assist (frenagem automática, faixa, ponto cego, fadiga)",
+              "Câmera 360° (Visiopark 360°)",
+              "Teto solar panorâmico",
+              "Faróis Full LED 3D",
+              "Paddle shifts",
+              "Teto bitom preto",
+              "Auxílio de farol alto"
+            ]
+          },
+          "fonte_url": "https://www.peugeot.com.br/gama/peugeot-2008/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica MY27 não disponível no site (link quebrado); dados técnicos da ficha MY26 da mesma versão/motor, equipamentos conforme itens de série do configurador 2027. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"2008 GT HYBRID\"."
+        }
+      ]
+    }
+  ]
+}

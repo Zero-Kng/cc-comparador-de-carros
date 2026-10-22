@@ -1,0 +1,2131 @@
+{
+  "marca": "Mini",
+  "slug": "mini",
+  "site_oficial": "https://www.mini.com.br",
+  "coletado_em": "2026-10-21",
+  "modelos": [
+    {
+      "id": "mini-cooper-3-portas",
+      "modelo": "Cooper 3 portas",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch compacto premium",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Reino Unido",
+      "imagem": {
+        "arquivo": "img/carros/mini-cooper-3-portas.webp",
+        "fonte_imagem": "https://carroslancamentos.com.br/wp-content/uploads/2024/08/mini-cooper-hatch-3-portas.jpg",
+        "pagina_origem": "https://carroslancamentos.com.br/mini-hatch-3-portas-e-bom-avaliacao-consumo-e-problemas/mini-cooper-hatch-3-portas"
+      },
+      "fontes": [
+        {
+          "url": "https://www.mini.com.br/pt_BR/home/range/mini-cooper-3-portas.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mini.com.br/pt_BR/home/range/mini-cooper-3-portas/versoes.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mini.com.br/pt_BR/home/range/mini-cooper-3-portas/dimensoes.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mini.com.br/pt_BR/home/range/john-cooper-works/performance.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mini.com.br/content/dam/MINI/marketBR/mini_com_br/pdf/mini_tabela_de_precos_outubro_2026.pdf.asset.1791306327823.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mini.com.br/content/dam/MINI/marketBR/mini_com_br/image/gp-inspired/mini_gp_inspired_dados_tecnicos.pdf.asset.1787341719702.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mini.com.br/content/dam/MINI/marketBR/mini_com_br/image/jcw-victory-edition/descritivo_mini_victory_edition.pdf.asset.1780427290352.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0443593PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0450742PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/mini/cooper-s-sport-2-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/mini/cooper-john-works-2-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.icarros.com.br/catalogo/marcas/mini/john-cooper/2.0-john-cooper-works-gp-inspired-auto-jcw-2026-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mini-cooper-3-portas-cooper-s-exclusive-2027",
+          "versao": "Cooper S Exclusive",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 274990,
+          "preco_obs": "Preço público sugerido (tabela MINI Brasil de 01/10/2026 a 31/10/2026), sem pintura/opcionais.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 30.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.6,
+            "velocidade_maxima_kmh": 240
+          },
+          "consumo": {
+            "cidade_gasolina": 11.5,
+            "estrada_gasolina": 14.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 3864,
+            "largura": 1744,
+            "largura_com_retrovisores": null,
+            "altura": 1429,
+            "entre_eixos": 2495,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 210,
+          "tanque_l": null,
+          "lugares": 4,
+          "portas": 3,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 9.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Display central OLED circular de 240 mm",
+              "MINI Operating System 9",
+              "Driving Assistant",
+              "Parking Assistant",
+              "Teto solar panorâmico",
+              "Banco do motorista com memória e massagem",
+              "Luzes diurnas com 3 assinaturas configuráveis"
+            ]
+          },
+          "fonte_url": "https://www.mini.com.br/pt_BR/home/range/mini-cooper-3-portas.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Cooper S 3P EXCLUSIVE\"."
+        },
+        {
+          "id": "mini-cooper-3-portas-cooper-s-top-2027",
+          "versao": "Cooper S Top",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 314990,
+          "preco_obs": "Preço público sugerido (tabela MINI Brasil de 01/10/2026 a 31/10/2026), sem pintura/opcionais.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 30.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.6,
+            "velocidade_maxima_kmh": 240
+          },
+          "consumo": {
+            "cidade_gasolina": 11.5,
+            "estrada_gasolina": 14.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 3864,
+            "largura": 1744,
+            "largura_com_retrovisores": null,
+            "altura": 1429,
+            "entre_eixos": 2495,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 210,
+          "tanque_l": null,
+          "lugares": 4,
+          "portas": 3,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 9.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Driving Assistant Plus (ACC)",
+              "Parking Assistant Plus (visão 360°)",
+              "Bancos esportivos com ajuste elétrico, memória e massagem",
+              "Navegação com realidade aumentada",
+              "Teto solar panorâmico",
+              "Display central OLED circular de 240 mm"
+            ]
+          },
+          "fonte_url": "https://www.mini.com.br/pt_BR/home/range/mini-cooper-3-portas.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Cooper S 3P TOP\"."
+        },
+        {
+          "id": "mini-cooper-3-portas-cooper-s-sport-2026",
+          "versao": "Cooper S Sport",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 324990,
+          "preco_obs": "Preço público sugerido (tabela MINI Brasil de 01/10/2026 a 31/10/2026), sem pintura/opcionais.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 30.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.6,
+            "velocidade_maxima_kmh": 240
+          },
+          "consumo": {
+            "cidade_gasolina": 11.5,
+            "estrada_gasolina": 14.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 3864,
+            "largura": 1744,
+            "largura_com_retrovisores": null,
+            "altura": 1429,
+            "entre_eixos": 2495,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1285,
+          "porta_malas_l": 210,
+          "tanque_l": 44,
+          "lugares": 4,
+          "portas": 3,
+          "pneus": "215/45 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Visual com elementos de bodykit JCW",
+              "Display central OLED circular de 240 mm"
+            ]
+          },
+          "fonte_url": "https://www.mini.com.br/pt_BR/home/range/mini-cooper-3-portas.html",
+          "campos_fonte_secundaria": [
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.piloto_automatico_adaptativo",
+            "equipamentos.assistente_permanencia_faixa",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.camera_re",
+            "equipamentos.camera_360",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.ar_condicionado",
+            "equipamentos.carregador_inducao",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.bancos_couro",
+            "equipamentos.banco_motorista_eletrico",
+            "equipamentos.teto_solar",
+            "equipamentos.rodas_polegadas",
+            "peso_kg",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Versão apenas na tabela de preços/ofertas (ano/modelo 2025/2026); equipamentos detalhados vêm da ficha secundária. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Cooper S 3P SPORT\"."
+        },
+        {
+          "id": "mini-cooper-3-portas-jcw-2027",
+          "versao": "John Cooper Works",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 364990,
+          "preco_obs": "Preço público sugerido (tabela MINI Brasil de 01/10/2026 a 31/10/2026), sem pintura/opcionais.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 231
+            },
+            "torque_kgfm": {
+              "gasolina": 38.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.1,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 10.8,
+            "estrada_gasolina": 13.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 3876,
+            "largura": 1744,
+            "largura_com_retrovisores": null,
+            "altura": 1432,
+            "entre_eixos": 2495,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1330,
+          "porta_malas_l": 210,
+          "tanque_l": 44,
+          "lugares": 4,
+          "portas": 3,
+          "pneus": "215/45 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 2.0 turbo de 231 cv",
+              "Suspensão esportiva JCW",
+              "Freios JCW Performance",
+              "Volante JCW multifuncional"
+            ]
+          },
+          "fonte_url": "https://www.mini.com.br/pt_BR/home/range/john-cooper-works/performance.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.piloto_automatico_adaptativo",
+            "equipamentos.assistente_permanencia_faixa",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.camera_re",
+            "equipamentos.camera_360",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.ar_condicionado",
+            "equipamentos.carregador_inducao",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.bancos_couro",
+            "equipamentos.banco_motorista_eletrico",
+            "equipamentos.teto_solar",
+            "equipamentos.rodas_polegadas",
+            "peso_kg",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"JCW 3P\"."
+        },
+        {
+          "id": "mini-cooper-3-portas-jcw-1965-victory-edition-2027",
+          "versao": "JCW 1965 Victory Edition",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 389990,
+          "preco_obs": "Preço público sugerido (tabela MINI Brasil de 01/10/2026 a 31/10/2026), sem pintura/opcionais. O descritivo da edição (ano 2026) cita R$ 384.990.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 231
+            },
+            "torque_kgfm": {
+              "gasolina": 38.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.1,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 10.8,
+            "estrada_gasolina": 13.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 3876,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1452,
+            "entre_eixos": 2495,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1330,
+          "porta_malas_l": 210,
+          "tanque_l": 44,
+          "lugares": 4,
+          "portas": 3,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Edição especial 1965 Victory",
+              "Teto solar panorâmico",
+              "MINI Head-Up Display",
+              "Parking Assistant Plus",
+              "Comfort Access",
+              "Som de 356 W com 12 alto-falantes",
+              "Rodas 18\" JCW Lap Spoke"
+            ]
+          },
+          "fonte_url": "https://www.mini.com.br/pt_BR/home/mini-victory-edition.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica do descritivo oficial da edição (cita ano 2026); tabela de preços lista ano-modelo 2027. Consumo combinado de 17,1 km/l no descritivo (ciclo não especificado), não usado. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"JCW 3P\"."
+        },
+        {
+          "id": "mini-cooper-3-portas-jcw-gp-inspired-edition-2027",
+          "versao": "JCW GP Inspired Edition",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 394990,
+          "preco_obs": "Preço público sugerido (tabela MINI Brasil de 01/10/2026 a 31/10/2026), sem pintura/opcionais.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 231
+            },
+            "torque_kgfm": {
+              "gasolina": 38.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.1,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 10.8,
+            "estrada_gasolina": 13.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 3876,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1452,
+            "entre_eixos": 2495,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1330,
+          "porta_malas_l": 210,
+          "tanque_l": 44,
+          "lugares": 4,
+          "portas": 3,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Edição limitada (20 unidades)",
+              "Pintura Legend Grey com detalhes Chili Red",
+              "Escapamento esportivo",
+              "Spoiler traseiro JCW",
+              "MINI Head-Up Display",
+              "Parking Assistant Plus",
+              "Teto solar panorâmico",
+              "Rodas 18\" JCW Lap Spoke 2-tone"
+            ]
+          },
+          "fonte_url": "https://www.mini.com.br/pt_BR/home/mini-jcw-gp-inspired-edition.html",
+          "campos_fonte_secundaria": [
+            "consumo"
+          ],
+          "observacoes": "Edição limitada de 20 unidades lançada em 28/08/2026. Consumo combinado de 17,1 km/l no descritivo (ciclo não especificado), não usado. Consumo do catálogo iCarros (igual ao JCW 3 portas no PBEV 2026); a edição não consta nominalmente no PBEV."
+        }
+      ]
+    },
+    {
+      "id": "mini-cooper-5-portas",
+      "modelo": "Cooper 5 portas",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch compacto premium",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Reino Unido",
+      "imagem": {
+        "arquivo": "img/carros/mini-cooper-5-portas.webp",
+        "fonte_imagem": "https://www.mini.co.uk/content/dam/MINI/common/Range/new-generation/cooper/5-door/bodytype-hub/mini-F65-ICE-gallery-side-narrow.webp.asset.1755701761272.webp",
+        "pagina_origem": "https://www.mini.co.uk/en_GB/home/range/mini-cooper-5-door.html?tl=soc-meta-g5a9r-ao-miy-f65-crsl-.-.-.-ba13d50020f0&clc=2a10g01gY1b01beM"
+      },
+      "fontes": [
+        {
+          "url": "https://www.mini.com.br/pt_BR/home/range/mini-cooper-5-door.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mini.com.br/content/dam/MINI/marketBR/mini_com_br/pdf/mini_tabela_de_precos_outubro_2026.pdf.asset.1791306327823.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0445757PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/mini/cooper-s-exclusive-2-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/mini/cooper-s-top-2-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mini-cooper-5-portas-cooper-s-exclusive-2027",
+          "versao": "Cooper S 5 portas Exclusive",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 289990,
+          "preco_obs": "Preço público sugerido (tabela MINI Brasil de 01/10/2026 a 31/10/2026), sem pintura/opcionais.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 30.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.6,
+            "velocidade_maxima_kmh": 240
+          },
+          "consumo": {
+            "cidade_gasolina": 11.5,
+            "estrada_gasolina": 14.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4036,
+            "largura": 1744,
+            "largura_com_retrovisores": null,
+            "altura": 1464,
+            "entre_eixos": 2567,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1355,
+          "porta_malas_l": 275,
+          "tanque_l": 44,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/45 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Driving Assistant",
+              "Parking Assistant",
+              "Teto solar panorâmico",
+              "Display central OLED circular de 240 mm",
+              "Porta-malas de 275 a 925 L"
+            ]
+          },
+          "fonte_url": "https://www.mini.com.br/pt_BR/home/range/mini-cooper-5-door.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "equipamentos.ar_condicionado",
+            "equipamentos.carregador_inducao",
+            "equipamentos.banco_motorista_eletrico",
+            "peso_kg",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Cooper S 5P EXCLUSIVE\"."
+        },
+        {
+          "id": "mini-cooper-5-portas-cooper-s-top-2027",
+          "versao": "Cooper S 5 portas Top",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 329990,
+          "preco_obs": "Preço público sugerido (tabela MINI Brasil de 01/10/2026 a 31/10/2026), sem pintura/opcionais.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 30.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.6,
+            "velocidade_maxima_kmh": 240
+          },
+          "consumo": {
+            "cidade_gasolina": 11.5,
+            "estrada_gasolina": 14.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4036,
+            "largura": 1744,
+            "largura_com_retrovisores": null,
+            "altura": 1464,
+            "entre_eixos": 2567,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1355,
+          "porta_malas_l": 275,
+          "tanque_l": 44,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/45 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Driving Assistant Plus (ACC)",
+              "Parking Assistant Plus (visão 360°)",
+              "Teto Multitone opcional",
+              "Teto solar panorâmico",
+              "Display central OLED circular de 240 mm"
+            ]
+          },
+          "fonte_url": "https://www.mini.com.br/pt_BR/home/range/mini-cooper-5-door.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.ar_condicionado",
+            "equipamentos.carregador_inducao",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.bancos_couro",
+            "equipamentos.banco_motorista_eletrico",
+            "peso_kg",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Cooper S 5P TOP\"."
+        }
+      ]
+    },
+    {
+      "id": "mini-cooper-cabrio",
+      "modelo": "Cooper Cabrio",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Conversível compacto",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Reino Unido",
+      "imagem": {
+        "arquivo": "img/carros/mini-cooper-cabrio.webp",
+        "fonte_imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJei2MbqK4L8jGKfftjyJfbfdG7qZRlhDfKCKhyQ0m7TwyMhBe6KzjMp33QbOgVCV1BzfhzxFPhmD7oeuggogJ3QUsZoK0Tw4aJjKsrCWeRUhKzTueo53ksfvKlbbOFCmqBakVLC43P4tJ2EXsm_A9Q0o3PpfFdQ8liQ9hzlK0bAxgWWdXErdYQce90WIi/s2560/mini_cooper_s_cabrio_9250.jpg",
+        "pagina_origem": "https://www.car.blog.br/2026/01/mini-john-cooper-works-recorde-vendas-2025.html?debug=true"
+      },
+      "fontes": [
+        {
+          "url": "https://www.mini.com.br/pt_BR/home/range/mini-cooper-convertible.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mini.com.br/content/dam/MINI/marketBR/mini_com_br/pdf/mini_tabela_de_precos_outubro_2026.pdf.asset.1791306327823.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0449317PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0450742PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/mini/cooper-cabrio-s-2-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/mini/cooper-cabrio-john-works-2-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mini-cooper-cabrio-cooper-s-2026",
+          "versao": "Cooper S Cabrio",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 349990,
+          "preco_obs": "Preço público sugerido (tabela MINI Brasil de 01/10/2026 a 31/10/2026), sem pintura/opcionais.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 30.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.6,
+            "velocidade_maxima_kmh": 240
+          },
+          "consumo": {
+            "cidade_gasolina": 11.2,
+            "estrada_gasolina": 14.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 3879,
+            "largura": 1744,
+            "largura_com_retrovisores": null,
+            "altura": 1431,
+            "entre_eixos": 2495,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1380,
+          "porta_malas_l": 211,
+          "tanque_l": 44,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": "215/45 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Capota de tecido elétrica (18 s, até 30 km/h)",
+              "Som Harman Kardon (365 W, 12 alto-falantes)",
+              "Driving Assistant Plus",
+              "Parking Assistant Plus (visão 360°)",
+              "Display central OLED circular de 240 mm"
+            ]
+          },
+          "fonte_url": "https://www.mini.com.br/pt_BR/home/range/mini-cooper-convertible.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.ar_condicionado",
+            "equipamentos.carregador_inducao",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.bancos_couro",
+            "equipamentos.banco_motorista_eletrico",
+            "equipamentos.rodas_polegadas",
+            "peso_kg",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Comunicado de 03/2025 informa 0–100 km/h em 6,6 s e 240 km/h; a página atual do modelo cita 6,9 s e 237 km/h. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Cooper S CABRIO\"."
+        },
+        {
+          "id": "mini-cooper-cabrio-jcw-2026",
+          "versao": "John Cooper Works Cabrio",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 389990,
+          "preco_obs": "Preço público sugerido (tabela MINI Brasil de 01/10/2026 a 31/10/2026), sem pintura/opcionais.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 231
+            },
+            "torque_kgfm": {
+              "gasolina": 38.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.4,
+            "velocidade_maxima_kmh": 245
+          },
+          "consumo": {
+            "cidade_gasolina": 10.1,
+            "estrada_gasolina": 12.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 3879,
+            "largura": 1744,
+            "largura_com_retrovisores": null,
+            "altura": 1431,
+            "entre_eixos": 2495,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1425,
+          "porta_malas_l": 211,
+          "tanque_l": 44,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": "215/45 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 2.0 turbo de 231 cv",
+              "Capota de tecido elétrica",
+              "Suspensão esportiva JCW",
+              "Freios JCW Performance"
+            ]
+          },
+          "fonte_url": "https://www.mini.com.br/pt_BR/home/range/john-cooper-works/performance.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.piloto_automatico_adaptativo",
+            "equipamentos.assistente_permanencia_faixa",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.camera_re",
+            "equipamentos.camera_360",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.ar_condicionado",
+            "equipamentos.carregador_inducao",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.bancos_couro",
+            "equipamentos.banco_motorista_eletrico",
+            "equipamentos.rodas_polegadas",
+            "peso_kg",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"JCW CABRIO\"."
+        }
+      ]
+    },
+    {
+      "id": "mini-cooper-eletrico",
+      "modelo": "Cooper Elétrico",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch compacto elétrico",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/mini-cooper-eletrico.webp",
+        "fonte_imagem": "https://www.webmotors.com.br/imagens/prod/380073/MINI_COOPER_542_KW_ELETRICO_JOHN_COOPER_WORKS_38007309360363274.webp",
+        "pagina_origem": "https://www.webmotors.com.br/mini/cooper/2026/54-2-kw-eletrico-john-cooper-works/387467?lkid=2113"
+      },
+      "fontes": [
+        {
+          "url": "https://www.mini.com.br/pt_BR/home/range/mini-cooper-eletrico.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mini.com.br/pt_BR/home/range/mini-cooper-eletrico/technical-data.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mini.com.br/pt_BR/home/range/john-cooper-works.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mini.com.br/content/dam/MINI/marketBR/mini_com_br/pdf/mini_tabela_de_precos_outubro_2026.pdf.asset.1791306327823.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0445308PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/mini/cooper-electric-e-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/mini/cooper-electric-se-2025",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/mini/cooper-electric-john-works-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mini-cooper-eletrico-cooper-e-2026",
+          "versao": "Cooper E",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 264990,
+          "preco_obs": "Preço público sugerido (tabela MINI Brasil de 01/10/2026 a 31/10/2026), sem pintura/opcionais.",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Motor elétrico dianteiro",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 184
+            },
+            "torque_kgfm": {
+              "eletrico": 29.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": 246,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.2,
+            "velocidade_maxima_kmh": 160
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 48,
+            "estrada_eletrico_km_le": 39.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 3858,
+            "largura": 1756,
+            "largura_com_retrovisores": null,
+            "altura": 1460,
+            "entre_eixos": 2526,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1540,
+          "porta_malas_l": 210,
+          "tanque_l": null,
+          "lugares": 4,
+          "portas": 3,
+          "pneus": "205/45 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Display central OLED circular de 240 mm",
+              "MINI Operating System 9",
+              "Flex Charger incluso"
+            ]
+          },
+          "fonte_url": "https://www.mini.com.br/pt_BR/home/range/mini-cooper-eletrico.html",
+          "campos_fonte_secundaria": [
+            "desempenho.velocidade_maxima_kmh",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.camera_re",
+            "equipamentos.ar_condicionado",
+            "equipamentos.carregador_inducao",
+            "equipamentos.teto_solar",
+            "equipamentos.rodas_polegadas",
+            "peso_kg",
+            "pneus"
+          ],
+          "observacoes": "Velocidade máxima: o site informa a faixa 170–180 km/h para E/SE sem separar por versão. Bateria do Cooper E não informada pela MINI Brasil. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Cooper E\"."
+        },
+        {
+          "id": "mini-cooper-eletrico-cooper-se-2026",
+          "versao": "Cooper SE",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 314990,
+          "preco_obs": "Preço público sugerido (tabela MINI Brasil de 01/10/2026 a 31/10/2026), sem pintura/opcionais.",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Motor elétrico dianteiro",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 218
+            },
+            "torque_kgfm": {
+              "eletrico": 33.7
+            },
+            "bateria_kwh": 54.2,
+            "autonomia_eletrica_km": 303,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.7,
+            "velocidade_maxima_kmh": 160
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 46.1,
+            "estrada_eletrico_km_le": 38.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 3858,
+            "largura": 1756,
+            "largura_com_retrovisores": null,
+            "altura": 1460,
+            "entre_eixos": 2526,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1540,
+          "porta_malas_l": 210,
+          "tanque_l": null,
+          "lugares": 4,
+          "portas": 3,
+          "pneus": "205/45 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Bateria de 54,2 kWh",
+              "Display central OLED circular de 240 mm",
+              "Flex Charger incluso"
+            ]
+          },
+          "fonte_url": "https://www.mini.com.br/pt_BR/home/range/mini-cooper-eletrico.html",
+          "campos_fonte_secundaria": [
+            "desempenho.velocidade_maxima_kmh",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.piloto_automatico_adaptativo",
+            "equipamentos.assistente_permanencia_faixa",
+            "equipamentos.camera_re",
+            "equipamentos.ar_condicionado",
+            "equipamentos.carregador_inducao",
+            "equipamentos.teto_solar",
+            "equipamentos.rodas_polegadas",
+            "peso_kg",
+            "pneus"
+          ],
+          "observacoes": "Dados físicos complementares da ficha secundária do ano-modelo 2025, mesma versão. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Cooper SE\"."
+        },
+        {
+          "id": "mini-cooper-eletrico-jcw-e-2026",
+          "versao": "John Cooper Works E",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 349990,
+          "preco_obs": "Preço público sugerido (tabela MINI Brasil de 01/10/2026 a 31/10/2026), sem pintura/opcionais.",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Motor elétrico dianteiro",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 258
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": 54.46,
+            "autonomia_eletrica_km": 306,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.8,
+            "velocidade_maxima_kmh": 195
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 43.8,
+            "estrada_eletrico_km_le": 40.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 3858,
+            "largura": 1756,
+            "largura_com_retrovisores": null,
+            "altura": 1460,
+            "entre_eixos": 2526,
+            "altura_livre_solo": 124
+          },
+          "peso_kg": 1655,
+          "porta_malas_l": 210,
+          "tanque_l": null,
+          "lugares": 4,
+          "portas": 3,
+          "pneus": "225/40 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "258 cv (190 kW)",
+              "e-Power Boost",
+              "e-Launch Control",
+              "Suspensão esportiva JCW",
+              "Freios JCW Performance"
+            ]
+          },
+          "fonte_url": "https://www.mini.com.br/pt_BR/home/range/john-cooper-works.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.piloto_automatico_adaptativo",
+            "equipamentos.assistente_permanencia_faixa",
+            "equipamentos.camera_re",
+            "equipamentos.ar_condicionado",
+            "equipamentos.carregador_inducao",
+            "equipamentos.teto_solar",
+            "equipamentos.rodas_polegadas",
+            "peso_kg",
+            "pneus"
+          ],
+          "observacoes": "Autonomia de 306 km informada no site (ciclo não especificado). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"JCW-E 3P\"."
+        }
+      ]
+    },
+    {
+      "id": "mini-aceman",
+      "modelo": "Aceman",
+      "categoria": "SUV Compacto",
+      "subcategoria": "Crossover compacto elétrico",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/mini-aceman.webp",
+        "fonte_imagem": "https://cdn.autopapo.com.br/box/uploads/2024/11/14165520/mini-aceman-2025-vermelho-lateral.jpg",
+        "pagina_origem": "https://autopapo.com.br/noticia/mini-aceman-no-brasil/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.mini.com.br/pt_BR/home/range/all-electric-mini-aceman.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mini.com.br/pt_BR/home/range/all-electric-mini-aceman/dimensions.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mini.com.br/pt_BR/home/range/john-cooper-works/performance.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mini.com.br/content/dam/MINI/marketBR/mini_com_br/pdf/mini_tabela_de_precos_outubro_2026.pdf.asset.1791306327823.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0448157PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/mini/aceman-e-2025",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/mini/aceman-se-2025",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/mini/aceman-john-cooper-works-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mini-aceman-aceman-e-2026",
+          "versao": "Aceman E",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 275990,
+          "preco_obs": "Preço público sugerido (tabela MINI Brasil de 01/10/2026 a 31/10/2026), sem pintura/opcionais.",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Motor elétrico dianteiro",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 184
+            },
+            "torque_kgfm": {
+              "eletrico": 29.6
+            },
+            "bateria_kwh": 42.5,
+            "autonomia_eletrica_km": 253,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.6,
+            "velocidade_maxima_kmh": 170
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 47.6,
+            "estrada_eletrico_km_le": 40.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4079,
+            "largura": 1754,
+            "largura_com_retrovisores": null,
+            "altura": 1514,
+            "entre_eixos": 2606,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1645,
+          "porta_malas_l": 300,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/55 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Driving Assistant Plus",
+              "Parking Assistant Plus (4 câmeras, 12 sensores)",
+              "Display central OLED circular de 240 mm",
+              "Barras de teto",
+              "Rodas 18\"",
+              "Porta-malas de 300 a 1.005 L"
+            ]
+          },
+          "fonte_url": "https://www.mini.com.br/pt_BR/home/range/all-electric-mini-aceman.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "equipamentos.ar_condicionado",
+            "equipamentos.carregador_inducao",
+            "equipamentos.teto_solar",
+            "peso_kg",
+            "pneus"
+          ],
+          "observacoes": "Dados físicos complementares da ficha secundária do ano-modelo 2025, mesma versão. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Aceman E\"."
+        },
+        {
+          "id": "mini-aceman-aceman-se-2026",
+          "versao": "Aceman SE",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 325990,
+          "preco_obs": "Preço público sugerido (tabela MINI Brasil de 01/10/2026 a 31/10/2026), sem pintura/opcionais.",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Motor elétrico dianteiro",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 218
+            },
+            "torque_kgfm": {
+              "eletrico": 33.7
+            },
+            "bateria_kwh": 54.2,
+            "autonomia_eletrica_km": 270,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.1,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 40.8,
+            "estrada_eletrico_km_le": 36.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4079,
+            "largura": 1754,
+            "largura_com_retrovisores": null,
+            "altura": 1514,
+            "entre_eixos": 2606,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1710,
+          "porta_malas_l": 300,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/55 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Bateria de 54,2 kWh",
+              "Driving Assistant Plus",
+              "Parking Assistant Plus (4 câmeras, 12 sensores)",
+              "Display central OLED circular de 240 mm",
+              "Rodas 18\""
+            ]
+          },
+          "fonte_url": "https://www.mini.com.br/pt_BR/home/range/all-electric-mini-aceman.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "equipamentos.ar_condicionado",
+            "equipamentos.carregador_inducao",
+            "equipamentos.teto_solar",
+            "peso_kg",
+            "pneus"
+          ],
+          "observacoes": "Dados físicos complementares da ficha secundária do ano-modelo 2025, mesma versão. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Aceman SE\"."
+        },
+        {
+          "id": "mini-aceman-jcw-aceman-e-2026",
+          "versao": "John Cooper Works Aceman E",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 359990,
+          "preco_obs": "Preço público sugerido (tabela MINI Brasil de 01/10/2026 a 31/10/2026), sem pintura/opcionais.",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Motor elétrico dianteiro",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 258
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": 52.2,
+            "autonomia_eletrica_km": 312,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.3,
+            "velocidade_maxima_kmh": 195
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 41.2,
+            "estrada_eletrico_km_le": 39.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4079,
+            "largura": 1754,
+            "largura_com_retrovisores": null,
+            "altura": 1514,
+            "entre_eixos": 2606,
+            "altura_livre_solo": 143
+          },
+          "peso_kg": 1750,
+          "porta_malas_l": 300,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/40 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "258 cv (190 kW)",
+              "e-Power Boost",
+              "Suspensão esportiva JCW",
+              "Freios JCW Performance"
+            ]
+          },
+          "fonte_url": "https://www.mini.com.br/pt_BR/home/range/john-cooper-works/performance.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.piloto_automatico_adaptativo",
+            "equipamentos.assistente_permanencia_faixa",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.camera_re",
+            "equipamentos.camera_360",
+            "equipamentos.ar_condicionado",
+            "equipamentos.carregador_inducao",
+            "equipamentos.teto_solar",
+            "equipamentos.rodas_polegadas",
+            "peso_kg",
+            "pneus"
+          ],
+          "observacoes": "Bateria de 52,2 kWh segundo o site (a ficha secundária indica 54,2 kWh). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"JCW-E ACEMAN\"."
+        }
+      ]
+    },
+    {
+      "id": "mini-countryman",
+      "modelo": "Countryman",
+      "categoria": "SUV Compacto",
+      "subcategoria": "SUV compacto premium",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Alemanha",
+      "imagem": {
+        "arquivo": "img/carros/mini-countryman.webp",
+        "fonte_imagem": "https://assets.v3cars.com/media/content/7277032026-mini-countryman-c-side-exterior-design.webp",
+        "pagina_origem": "https://www.v3cars.com/news/2026-mini-countryman-c-launched-price-features-engine-specifications"
+      },
+      "fontes": [
+        {
+          "url": "https://www.mini.com.br/pt_BR/home/range/john-cooper-works/performance.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mini.com.br/content/dam/MINI/marketBR/mini_com_br/pdf/mini_tabela_de_precos_outubro_2026.pdf.asset.1791306327823.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.mini.com.br/pt_BR/home/mini-ofertas.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0445841PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0451503PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/mini/countryman-john-cooper-works-exclusive-all4-2-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/mini/countryman-john-cooper-works-all4-2-0-2025",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mini-countryman-jcw-all4-exclusive-2027",
+          "versao": "John Cooper Works Countryman ALL4 Exclusive",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 399990,
+          "preco_obs": "Preço público sugerido (tabela MINI Brasil de 01/10/2026 a 31/10/2026), sem pintura/opcionais.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 317
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.6,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 9.6,
+            "estrada_gasolina": 11.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4447,
+            "largura": 1843,
+            "largura_com_retrovisores": null,
+            "altura": 1645,
+            "entre_eixos": 2690,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1660,
+          "porta_malas_l": 505,
+          "tanque_l": 54,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/45 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 2.0 turbo de 317 cv",
+              "Tração integral ALL4",
+              "Som Harman Kardon (365 W)",
+              "Driving Assistant e Parking Assistant",
+              "Rodas 19\" JCW Runway Spoke pretas",
+              "Carroceria sem faixas"
+            ]
+          },
+          "fonte_url": "https://www.mini.com.br/pt_BR/home/range/john-cooper-works/performance.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "consumo.cidade_gasolina",
+            "consumo.estrada_gasolina",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.piloto_automatico_adaptativo",
+            "equipamentos.assistente_permanencia_faixa",
+            "equipamentos.camera_360",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.ar_condicionado",
+            "equipamentos.carregador_inducao",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.bancos_couro",
+            "equipamentos.banco_motorista_eletrico",
+            "equipamentos.teto_solar",
+            "peso_kg",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Lançada em 07/2025 por R$ 370.990."
+        },
+        {
+          "id": "mini-countryman-jcw-all4-2026",
+          "versao": "John Cooper Works Countryman ALL4",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 439990,
+          "preco_obs": "Preço público sugerido (tabela MINI Brasil de 01/10/2026 a 31/10/2026), sem pintura/opcionais.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 317
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.6,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 8.8,
+            "estrada_gasolina": 10.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4447,
+            "largura": 1843,
+            "largura_com_retrovisores": null,
+            "altura": 1645,
+            "entre_eixos": 2690,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1660,
+          "porta_malas_l": 505,
+          "tanque_l": 54,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/40 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 2.0 turbo de 317 cv",
+              "Tração integral ALL4",
+              "Head-Up Display",
+              "Som Harman Kardon (365 W)",
+              "Driving Assistant Plus",
+              "Parking Assistant Plus (visão 360°)",
+              "Rodas 20\""
+            ]
+          },
+          "fonte_url": "https://www.mini.com.br/pt_BR/home/range/john-cooper-works/performance.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "consumo.cidade_gasolina",
+            "consumo.estrada_gasolina",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.ar_condicionado",
+            "equipamentos.carregador_inducao",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.bancos_couro",
+            "equipamentos.banco_motorista_eletrico",
+            "equipamentos.teto_solar",
+            "peso_kg",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Comunicado oficial informa 4,43 m de comprimento, 1,65 m de altura e 2,69 m de entre-eixos; dimensões detalhadas e dados físicos vêm da ficha secundária do ano-modelo 2025."
+        }
+      ]
+    }
+  ]
+}

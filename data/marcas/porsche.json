@@ -1,0 +1,4197 @@
+{
+  "marca": "Porsche",
+  "slug": "porsche",
+  "site_oficial": "https://www.porsche.com/brazil/pt/",
+  "coletado_em": "2026-10-21",
+  "modelos": [
+    {
+      "id": "porsche-911-coupe",
+      "modelo": "911 Coupé",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Esportivo cupê",
+      "propulsoes": [
+        "Combustão",
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/porsche-911-coupe.webp",
+        "fonte_imagem": "https://www.automotorblog.com/storage/2024/12/Porsche-911-992.2-Carrera-T-Side-View-1024x577.webp",
+        "pagina_origem": "https://www.automotorblog.com/porsche-911-992-2-release-date-111960.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/911/carrera-models/911-carrera/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/9921B2",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/911/carrera-models/911-carrera-t/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/992182",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/911/carrera-models/911-carrera-gts/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/992142",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/911/911-turbo-models/911-turbo-s/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/992452",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/911/911-gt3-models/911-gt3/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/911/911-gt3-models/911-gt3-touring/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "porsche-911-coupe-carrera-2027",
+          "versao": "Carrera",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 990000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "6 cilindros boxer 3.0 biturbo",
+            "cilindrada_cm3": 2981,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 401
+            },
+            "torque_kgfm": {
+              "gasolina": 45.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.1,
+            "velocidade_maxima_kmh": 294
+          },
+          "consumo": {
+            "cidade_gasolina": 7,
+            "estrada_gasolina": 9.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4542,
+            "largura": 1852,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2450,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1520,
+          "porta_malas_l": 135,
+          "tanque_l": 63,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "245/35 ZR20 | 305/30 ZR21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "PASM (amortecimento ativo)",
+              "Sistema de som Surround BOSE"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/911/carrera-models/911-carrera/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas dianteiro: 135 l. No Brasil a versão é configurada de série com 2 lugares (bancos traseiros opcionais). Rodas de 20\" na dianteira e 21\" na traseira. Interior de série: Pacote de couro Preto. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"911 CARRERA\"."
+        },
+        {
+          "id": "porsche-911-coupe-carrera-t-2027",
+          "versao": "Carrera T",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1050000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "6 cilindros boxer 3.0 biturbo",
+            "cilindrada_cm3": 2981,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 401
+            },
+            "torque_kgfm": {
+              "gasolina": 45.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 6
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.5,
+            "velocidade_maxima_kmh": 295
+          },
+          "consumo": {
+            "cidade_gasolina": 6.9,
+            "estrada_gasolina": 9.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4542,
+            "largura": 1852,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2450,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1490,
+          "porta_malas_l": 135,
+          "tanque_l": 63,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "245/35 ZR20 | 305/30 ZR21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Eixo traseiro esterçante",
+              "PASM (amortecimento ativo)",
+              "Sistema de som Surround BOSE",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/911/carrera-models/911-carrera-t/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas dianteiro: 135 l. No Brasil a versão é configurada de série com 2 lugares (bancos traseiros opcionais). Rodas de 20\" na dianteira e 21\" na traseira. Interior de série: Interior padrão com Sport-Tex Plaid preto. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"911 CAR T MT\"."
+        },
+        {
+          "id": "porsche-911-coupe-carrera-gts-2027",
+          "versao": "Carrera GTS",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1270000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "6 cilindros boxer 3.6 com eTurbo T-Hybrid (motor elétrico no câmbio)",
+            "cilindrada_cm3": 3591,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 541
+            },
+            "torque_kgfm": {
+              "combinada": 62.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3,
+            "velocidade_maxima_kmh": 312
+          },
+          "consumo": {
+            "cidade_gasolina": 7.2,
+            "estrada_gasolina": 9.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4553,
+            "largura": 1852,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2450,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1595,
+          "porta_malas_l": 135,
+          "tanque_l": 63,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "245/35 ZR20 | 315/30 ZR21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Eixo traseiro esterçante",
+              "PASM (amortecimento ativo)",
+              "Sistema de som Surround BOSE",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/911/carrera-models/911-carrera-gts/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "0-100 km/h com Pacote Sport Chrono (de série). Porta-malas dianteiro: 135 l. No Brasil a versão é configurada de série com 2 lugares (bancos traseiros opcionais). Rodas de 20\" na dianteira e 21\" na traseira. Interior de série: Pacote de Interior em Race-Tex com itens extensivos em couro. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"911 CAR GTS CA\"."
+        },
+        {
+          "id": "porsche-911-coupe-turbo-s-2027",
+          "versao": "Turbo S",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 2160000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "6 cilindros boxer 3.6 com eTurbo T-Hybrid (motor elétrico no câmbio)",
+            "cilindrada_cm3": 3591,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 711
+            },
+            "torque_kgfm": {
+              "combinada": 81.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.5,
+            "velocidade_maxima_kmh": 322
+          },
+          "consumo": {
+            "cidade_gasolina": 6.2,
+            "estrada_gasolina": 8.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4551,
+            "largura": 1900,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2450,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1725,
+          "porta_malas_l": 128,
+          "tanque_l": 63,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "255/35 ZR20 | 325/30 ZR21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Porsche Dynamic Chassis Control (PDCC)",
+              "Freios de cerâmica PCCB",
+              "Eixo traseiro esterçante",
+              "PASM (amortecimento ativo)",
+              "Sistema de Som Surround Burmester® de Alta Qualidade",
+              "Faróis LED HD-Matrix",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/911/911-turbo-models/911-turbo-s/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "0-100 km/h com Pacote Sport Chrono (de série). Porta-malas dianteiro: 128 l. No Brasil a versão é configurada de série com 2 lugares (bancos traseiros opcionais). Rodas de 20\" na dianteira e 21\" na traseira. Interior de série: Interior em couro Preto com Pacote de Interior Turbonite. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"911 TURBO S / TURBO S CA\"."
+        },
+        {
+          "id": "porsche-911-coupe-gt3-2027",
+          "versao": "GT3",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "6 cilindros boxer 4.0 aspirado",
+            "cilindrada_cm3": 3996,
+            "cilindros": 6,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 510
+            },
+            "torque_kgfm": {
+              "gasolina": 45.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.4,
+            "velocidade_maxima_kmh": 311
+          },
+          "consumo": {
+            "cidade_gasolina": 5.6,
+            "estrada_gasolina": 6.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4570,
+            "largura": 1852,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2457,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1479,
+          "porta_malas_l": 135,
+          "tanque_l": 63,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "255/35 ZR20 | 315/30 ZR21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Freios de cerâmica PCCB",
+              "Eixo traseiro esterçante",
+              "PASM (amortecimento ativo)",
+              "Sistema de som Surround BOSE",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/911/911-gt3-models/911-gt3/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas dianteiro: 135 l. Rodas de 20\" na dianteira e 21\" na traseira. Interior de série: Interior com detalhes em couro / Race-Tex na cor Preto com detalhes contrastantes na cor GT Silver. Preço não divulgado no configurador Porsche Brasil. Câmbio manual GT de 6 marchas disponível como alternativa; dados técnicos com PDK de série. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"911 GT3\"."
+        },
+        {
+          "id": "porsche-911-coupe-gt3-pacote-touring-2027",
+          "versao": "GT3 Pacote Touring",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "6 cilindros boxer 4.0 aspirado",
+            "cilindrada_cm3": 3996,
+            "cilindros": 6,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 510
+            },
+            "torque_kgfm": {
+              "gasolina": 45.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 6
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.9,
+            "velocidade_maxima_kmh": 313
+          },
+          "consumo": {
+            "cidade_gasolina": 5.2,
+            "estrada_gasolina": 6.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4570,
+            "largura": 1852,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2457,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1461,
+          "porta_malas_l": 135,
+          "tanque_l": 63,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "255/35 ZR20 | 315/30 ZR21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Freios de cerâmica PCCB",
+              "Eixo traseiro esterçante",
+              "PASM (amortecimento ativo)",
+              "Sistema de som Surround BOSE",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/911/911-gt3-models/911-gt3-touring/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas dianteiro: 135 l. Rodas de 20\" na dianteira e 21\" na traseira. Interior de série: Interior com detalhes em couro Preto. Preço não divulgado no configurador Porsche Brasil. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"911 GT3 MANUAL\"."
+        }
+      ]
+    },
+    {
+      "id": "porsche-911-cabriolet",
+      "modelo": "911 Cabriolet",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Esportivo conversível",
+      "propulsoes": [
+        "Combustão",
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/porsche-911-cabriolet.webp",
+        "fonte_imagem": "https://www.planetcarsz.com/img/carros/galeria/2026/03/porsche-911-turbo-s-cabriolet-uk-version-2026-009-20260317101635-1280x925.jpg",
+        "pagina_origem": "https://www.planetcarsz.com/carros/porsche-911-turbo-s-cabriolet-uk-version-2026"
+      },
+      "fontes": [
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/911/carrera-cabriolet-models/911-carrera-cabriolet/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/9923B2",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/911/carrera-cabriolet-models/911-carrera-t-cabriolet/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/992382",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/911/carrera-cabriolet-models/911-carrera-gts-cabriolet/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/992342",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/911/911-turbo-models/911-turbo-s-cabriolet/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/992652",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/911/911-gt3-s-c/911-gt3-s-c/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "porsche-911-cabriolet-carrera-2027",
+          "versao": "Carrera",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1040000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "6 cilindros boxer 3.0 biturbo",
+            "cilindrada_cm3": 2981,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 401
+            },
+            "torque_kgfm": {
+              "gasolina": 45.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.3,
+            "velocidade_maxima_kmh": 291
+          },
+          "consumo": {
+            "cidade_gasolina": 7,
+            "estrada_gasolina": 9.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4542,
+            "largura": 1852,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2450,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1600,
+          "porta_malas_l": 135,
+          "tanque_l": 63,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": "245/35 ZR20 | 305/30 ZR21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "PASM (amortecimento ativo)",
+              "Sistema de som Surround BOSE"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/911/carrera-cabriolet-models/911-carrera-cabriolet/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas dianteiro: 135 l. Rodas de 20\" na dianteira e 21\" na traseira. Interior de série: Pacote de couro Preto. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"911 CARRERA\"."
+        },
+        {
+          "id": "porsche-911-cabriolet-carrera-t-2027",
+          "versao": "Carrera T",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1110000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "6 cilindros boxer 3.0 biturbo",
+            "cilindrada_cm3": 2981,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 401
+            },
+            "torque_kgfm": {
+              "gasolina": 45.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 6
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.7,
+            "velocidade_maxima_kmh": 293
+          },
+          "consumo": {
+            "cidade_gasolina": 6.9,
+            "estrada_gasolina": 9.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4542,
+            "largura": 1852,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2450,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1580,
+          "porta_malas_l": 135,
+          "tanque_l": 63,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": "245/35 ZR20 | 305/30 ZR21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Eixo traseiro esterçante",
+              "PASM (amortecimento ativo)",
+              "Sistema de som Surround BOSE",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/911/carrera-cabriolet-models/911-carrera-t-cabriolet/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas dianteiro: 135 l. Rodas de 20\" na dianteira e 21\" na traseira. Interior de série: Interior padrão com Sport-Tex Plaid preto. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"911 CAR T MT\"."
+        },
+        {
+          "id": "porsche-911-cabriolet-carrera-gts-2027",
+          "versao": "Carrera GTS",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1320000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "6 cilindros boxer 3.6 com eTurbo T-Hybrid (motor elétrico no câmbio)",
+            "cilindrada_cm3": 3591,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 541
+            },
+            "torque_kgfm": {
+              "combinada": 62.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.1,
+            "velocidade_maxima_kmh": 312
+          },
+          "consumo": {
+            "cidade_gasolina": 7.2,
+            "estrada_gasolina": 9.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4553,
+            "largura": 1852,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2450,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1675,
+          "porta_malas_l": 135,
+          "tanque_l": 63,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": "245/35 ZR20 | 315/30 ZR21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Eixo traseiro esterçante",
+              "PASM (amortecimento ativo)",
+              "Sistema de som Surround BOSE",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/911/carrera-cabriolet-models/911-carrera-gts-cabriolet/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "0-100 km/h com Pacote Sport Chrono (de série). Porta-malas dianteiro: 135 l. Rodas de 20\" na dianteira e 21\" na traseira. Interior de série: Pacote de Interior em Race-Tex com itens extensivos em couro. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"911 CAR GTS CA\"."
+        },
+        {
+          "id": "porsche-911-cabriolet-turbo-s-2027",
+          "versao": "Turbo S",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 2210000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "6 cilindros boxer 3.6 com eTurbo T-Hybrid (motor elétrico no câmbio)",
+            "cilindrada_cm3": 3591,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 711
+            },
+            "torque_kgfm": {
+              "combinada": 81.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.6,
+            "velocidade_maxima_kmh": 322
+          },
+          "consumo": {
+            "cidade_gasolina": 6.2,
+            "estrada_gasolina": 8.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4551,
+            "largura": 1900,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2450,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1810,
+          "porta_malas_l": 128,
+          "tanque_l": 63,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": "255/35 ZR20 | 325/30 ZR21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Porsche Dynamic Chassis Control (PDCC)",
+              "Freios de cerâmica PCCB",
+              "Eixo traseiro esterçante",
+              "PASM (amortecimento ativo)",
+              "Sistema de Som Surround Burmester® de Alta Qualidade",
+              "Faróis LED HD-Matrix",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/911/911-turbo-models/911-turbo-s-cabriolet/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "0-100 km/h com Pacote Sport Chrono (de série). Porta-malas dianteiro: 128 l. Rodas de 20\" na dianteira e 21\" na traseira. Interior de série: Interior em couro Preto com Pacote de Interior Turbonite. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"911 TURBO S / TURBO S CA\"."
+        },
+        {
+          "id": "porsche-911-cabriolet-gt3-sc-2027",
+          "versao": "GT3 S/C",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "6 cilindros boxer 4.0 aspirado",
+            "cilindrada_cm3": 3996,
+            "cilindros": 6,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 510
+            },
+            "torque_kgfm": {
+              "gasolina": 45.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 6
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.9,
+            "velocidade_maxima_kmh": 313
+          },
+          "consumo": {
+            "cidade_gasolina": 5.2,
+            "estrada_gasolina": 6.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4570,
+            "largura": 1852,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2457,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1497,
+          "porta_malas_l": 135,
+          "tanque_l": 63,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "255/35 ZR20 | 315/30 ZR21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Freios de cerâmica PCCB",
+              "Eixo traseiro esterçante",
+              "PASM (amortecimento ativo)",
+              "Sistema de som Surround BOSE",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/911/911-gt3-s-c/911-gt3-s-c/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas dianteiro: 135 l. Rodas de 20\" na dianteira e 21\" na traseira. Interior de série: Interior com itens extensivos em couro na cor preta, com contraste em GT Silver.. Preço não divulgado no configurador Porsche Brasil. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"911 GT3 MANUAL\"."
+        }
+      ]
+    },
+    {
+      "id": "porsche-911-targa",
+      "modelo": "911 Targa",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Esportivo targa",
+      "propulsoes": [
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/porsche-911-targa.webp",
+        "fonte_imagem": "https://imgcdn.zigwheels.my/large/gallery/exterior/28/224/porsche-911-targa-4-gts-side-view.jpg",
+        "pagina_origem": "https://www.zigwheels.my/new-cars/porsche/911-targa-4-gts"
+      },
+      "fontes": [
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/911/targa-models/911-targa-4-gts/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/992542",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "porsche-911-targa-targa-4-gts-2027",
+          "versao": "Targa 4 GTS",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1440000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "6 cilindros boxer 3.6 com eTurbo T-Hybrid (motor elétrico no câmbio)",
+            "cilindrada_cm3": 3591,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 495,
+              "combinada": 541
+            },
+            "torque_kgfm": {
+              "gasolina": 58.1,
+              "combinada": 62.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.1,
+            "velocidade_maxima_kmh": 312
+          },
+          "consumo": {
+            "cidade_gasolina": 6.9,
+            "estrada_gasolina": 9.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4553,
+            "largura": 1852,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2450,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1745,
+          "porta_malas_l": 135,
+          "tanque_l": 63,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": "245/35 ZR20 | 315/30 ZR21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Eixo traseiro esterçante",
+              "PASM (amortecimento ativo)",
+              "Sistema de som Surround BOSE",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/911/targa-models/911-targa-4-gts/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência do motor a combustão: 485 cv (ficha global) / 495 cv (\"Potência Combustível Brasil\"); adotado o valor Brasil. 0-100 km/h com Pacote Sport Chrono (de série). Porta-malas dianteiro: 135 l. Rodas de 20\" na dianteira e 21\" na traseira. Interior de série: Pacote de Interior em Race-Tex com itens extensivos em couro. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"911 TARGA 4GTS\"."
+        }
+      ]
+    },
+    {
+      "id": "porsche-taycan",
+      "modelo": "Taycan",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan esportivo elétrico",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/porsche-taycan.webp",
+        "fonte_imagem": "https://www.netcarshow.com/Porsche-Taycan-2025-Side_Profile.3e7256b7.jpg",
+        "pagina_origem": "https://www.netcarshow.com/porsche/2025-taycan/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/taycan/taycan-models/taycan-gts/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/Y1ADK1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/taycan/taycan-models/taycan-turbo-s/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/Y1AFM1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/taycan/taycan-models/taycan-turbo-gt-wp/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/Y1AFP1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "porsche-taycan-gts-2027",
+          "versao": "GTS",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1110000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico, dois motores síncronos de ímã permanente",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 605
+            },
+            "torque_kgfm": {
+              "eletrico": 80.6
+            },
+            "bateria_kwh": 105,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 2
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.3,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4963,
+            "largura": 1966,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2900,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2285,
+          "porta_malas_l": 366,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 8,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround BOSE",
+              "Porsche Electric Sport Sound",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/taycan/taycan-models/taycan-gts/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência com overboost/Launch Control: 700 cv. Torque informado é o máximo com Launch Control. 0-100 km/h com Launch Control. Porta-malas dianteiro adicional: 81 l. Interior de série: Interior Race-Tex com couro Preto.."
+        },
+        {
+          "id": "porsche-taycan-turbo-s-2027",
+          "versao": "Turbo S",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1580000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico, dois motores síncronos de ímã permanente",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 775
+            },
+            "torque_kgfm": {
+              "eletrico": 113.2
+            },
+            "bateria_kwh": 105,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 2
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.4,
+            "velocidade_maxima_kmh": 260
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4962,
+            "largura": 1966,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2900,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2295,
+          "porta_malas_l": 366,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 8,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Freios de cerâmica PCCB",
+              "Eixo traseiro esterçante",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround 3D Burmester® de Alta Qualidade",
+              "Assistente de visão noturna",
+              "Faróis LED HD-Matrix",
+              "Porsche Electric Sport Sound",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/taycan/taycan-models/taycan-turbo-s/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência com overboost/Launch Control: 952 cv. Torque informado é o máximo com Launch Control. 0-100 km/h com Launch Control. Porta-malas dianteiro adicional: 81 l. Interior de série: Interior em couro Preto com Pacote de Acabamento Interior em Turbonite.."
+        },
+        {
+          "id": "porsche-taycan-turbo-gt-pacote-weissach-2027",
+          "versao": "Turbo GT Pacote Weissach",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1690000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico, dois motores síncronos de ímã permanente",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 816
+            },
+            "torque_kgfm": {
+              "eletrico": 129.5
+            },
+            "bateria_kwh": 105,
+            "autonomia_eletrica_km": 442,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 2
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.2,
+            "velocidade_maxima_kmh": 310
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 33.7,
+            "estrada_eletrico_km_le": 29.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 5014,
+            "largura": 2046,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2900,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2235,
+          "porta_malas_l": 367,
+          "tanque_l": null,
+          "lugares": 2,
+          "portas": 4,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 8,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Freios de cerâmica PCCB",
+              "Eixo traseiro esterçante",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/taycan/taycan-models/taycan-turbo-gt-wp/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência com overboost/Launch Control: 1.034 cv. Torque informado é o máximo com Launch Control. 0-100 km/h com Launch Control. Porta-malas dianteiro adicional: 81 l. Interior de série: Pacote Interior GT com itens em Race-Tex e couro na cor preta. Dados técnicos considerando o Pacote Weissach. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"TAYCAN TURBOGT\"."
+        }
+      ]
+    },
+    {
+      "id": "porsche-taycan-cross-turismo",
+      "modelo": "Taycan Cross Turismo",
+      "categoria": "Perua/Station Wagon",
+      "subcategoria": "Perua elétrica aventureira",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/porsche-taycan-cross-turismo.webp",
+        "fonte_imagem": "https://images.caricos.com/p/porsche/2021_porsche_taycan_4s_cross_turismo/images/2560x1440/2021_porsche_taycan_4s_cross_turismo_9_2560x1440.jpg",
+        "pagina_origem": "https://www.caricos.com/cars/p/porsche/2021_porsche_taycan_4s_cross_turismo/images/9.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/taycan/taycan-cross-turismo-models/taycan-4s-cross-turismo/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/Y1BDJ1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/taycan/taycan-cross-turismo-models/taycan-turbo-cross-turismo/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/Y1BFL1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "porsche-taycan-cross-turismo-4s-2027",
+          "versao": "4S",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1080000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico, dois motores síncronos de ímã permanente",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 517
+            },
+            "torque_kgfm": {
+              "eletrico": 72.4
+            },
+            "bateria_kwh": 105,
+            "autonomia_eletrica_km": 415,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 2
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.8,
+            "velocidade_maxima_kmh": 240
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 30,
+            "estrada_eletrico_km_le": 28.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4974,
+            "largura": 1967,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2904,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2280,
+          "porta_malas_l": 446,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/55 R19 | 275/45 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 8,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround BOSE",
+              "Porsche Electric Sport Sound"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/taycan/taycan-cross-turismo-models/taycan-4s-cross-turismo/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência com overboost/Launch Control: 598 cv. Torque informado é o máximo com Launch Control. 0-100 km/h com Launch Control. Porta-malas dianteiro adicional: 81 l. Interior de série: Interior parcialmente em couro na cor Preto.. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"TAYCAN 4S BE\"."
+        },
+        {
+          "id": "porsche-taycan-cross-turismo-turbo-2027",
+          "versao": "Turbo",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1350000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico, dois motores síncronos de ímã permanente",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 707
+            },
+            "torque_kgfm": {
+              "eletrico": 90.8
+            },
+            "bateria_kwh": 105,
+            "autonomia_eletrica_km": 415,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 2
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.8,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 30,
+            "estrada_eletrico_km_le": 28.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4974,
+            "largura": 1967,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2904,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2320,
+          "porta_malas_l": 405,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 8,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround BOSE",
+              "Faróis LED HD-Matrix",
+              "Porsche Electric Sport Sound",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/taycan/taycan-cross-turismo-models/taycan-turbo-cross-turismo/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência com overboost/Launch Control: 884 cv. Torque informado é o máximo com Launch Control. 0-100 km/h com Launch Control. Porta-malas dianteiro adicional: 81 l. Interior de série: Interior em couro Preto com Pacote de Acabamento Interior em Turbonite.. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"TAYCAN TURBOCT\"."
+        }
+      ]
+    },
+    {
+      "id": "porsche-panamera",
+      "modelo": "Panamera",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan esportivo de luxo (fastback)",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/porsche-panamera.webp",
+        "fonte_imagem": "https://a.storyblok.com/f/329189/800x542/9de296080b/2026porschepanamera-exterior-02.png",
+        "pagina_origem": "https://sanluisobispo.porsche.com/en/blog/is-the-2026-porsche-panamera-a-smart-choice-for-coastal-commutes-around-pismo-beach-ca"
+      },
+      "fontes": [
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/panamera/panamera-models/panamera-4-e-hybrid/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/YAABE1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/panamera/panamera-models/panamera-4s-e-hybrid/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/YAADZ1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/panamera/panamera-models/panamera-turbo-e-hybrid/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/YAAFF1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/panamera/panamera-models/panamera-turbo-s-e-hybrid/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/YAAFH1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "porsche-panamera-4-e-hybrid-2027",
+          "versao": "4 E-Hybrid",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 990000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "V6 2.9 turbo + motor elétrico (E-Hybrid)",
+            "cilindrada_cm3": 2894,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "eletrico": 190,
+              "combinada": 470
+            },
+            "torque_kgfm": {
+              "gasolina": 42.8,
+              "eletrico": 45.9,
+              "combinada": 66.3
+            },
+            "bateria_kwh": 25.9,
+            "autonomia_eletrica_km": 63,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.1,
+            "velocidade_maxima_kmh": 280
+          },
+          "consumo": {
+            "cidade_gasolina": 8,
+            "estrada_gasolina": 9.2,
+            "cidade_eletrico_km_le": 22,
+            "estrada_eletrico_km_le": 23.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 5052,
+            "largura": 1937,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2950,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2230,
+          "porta_malas_l": 430,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "275/35 ZR21 | 325/30 ZR21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround BOSE"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/panamera/panamera-models/panamera-4-e-hybrid/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "0-100 km/h com Pacote Sport Chrono (de série). Interior de série: Interior parcialmente em couro Preto. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"PANAMERA 4EHYB\"."
+        },
+        {
+          "id": "porsche-panamera-4s-e-hybrid-2027",
+          "versao": "4S E-Hybrid",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1120000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "V6 2.9 turbo + motor elétrico (E-Hybrid)",
+            "cilindrada_cm3": 2894,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "eletrico": 190,
+              "combinada": 544
+            },
+            "torque_kgfm": {
+              "gasolina": 51,
+              "eletrico": 45.9,
+              "combinada": 76.5
+            },
+            "bateria_kwh": 25.9,
+            "autonomia_eletrica_km": 63,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.7,
+            "velocidade_maxima_kmh": 290
+          },
+          "consumo": {
+            "cidade_gasolina": 8.1,
+            "estrada_gasolina": 9.4,
+            "cidade_eletrico_km_le": 21,
+            "estrada_eletrico_km_le": 23.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 5052,
+            "largura": 1937,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2950,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2255,
+          "porta_malas_l": 430,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "275/35 ZR21 | 325/30 ZR21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround BOSE"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/panamera/panamera-models/panamera-4s-e-hybrid/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "0-100 km/h com Pacote Sport Chrono (de série). Interior de série: Interior parcialmente em couro Preto. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"PANAMERA 4SEHY\"."
+        },
+        {
+          "id": "porsche-panamera-turbo-e-hybrid-2027",
+          "versao": "Turbo E-Hybrid",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1640000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "V8 4.0 biturbo + motor elétrico (E-Hybrid)",
+            "cilindrada_cm3": 3996,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "eletrico": 190,
+              "combinada": 680
+            },
+            "torque_kgfm": {
+              "gasolina": 78.5,
+              "eletrico": 45.9,
+              "combinada": 94.8
+            },
+            "bateria_kwh": 25.9,
+            "autonomia_eletrica_km": 61,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.2,
+            "velocidade_maxima_kmh": 315
+          },
+          "consumo": {
+            "cidade_gasolina": 7,
+            "estrada_gasolina": 8.7,
+            "cidade_eletrico_km_le": 20.1,
+            "estrada_eletrico_km_le": 22.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 5054,
+            "largura": 1937,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2950,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2360,
+          "porta_malas_l": 421,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "275/35 ZR21 | 325/30 ZR21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround BOSE",
+              "Head-up display",
+              "Faróis LED HD-Matrix"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/panamera/panamera-models/panamera-turbo-e-hybrid/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "0-100 km/h com Pacote Sport Chrono (de série). Interior de série: Interior em couro Preto com Pacote de Interior Turbonite. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"PANAMERA TPHEV\"."
+        },
+        {
+          "id": "porsche-panamera-turbo-s-e-hybrid-2027",
+          "versao": "Turbo S E-Hybrid",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1870000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "V8 4.0 biturbo + motor elétrico (E-Hybrid)",
+            "cilindrada_cm3": 3996,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "eletrico": 190,
+              "combinada": 782
+            },
+            "torque_kgfm": {
+              "gasolina": 81.6,
+              "eletrico": 45.9,
+              "combinada": 102
+            },
+            "bateria_kwh": 25.9,
+            "autonomia_eletrica_km": 60,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.9,
+            "velocidade_maxima_kmh": 325
+          },
+          "consumo": {
+            "cidade_gasolina": 6.9,
+            "estrada_gasolina": 8.6,
+            "cidade_eletrico_km_le": 20.1,
+            "estrada_eletrico_km_le": 22.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 5054,
+            "largura": 1937,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2950,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2365,
+          "porta_malas_l": 421,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "275/35 ZR21 | 325/30 ZR21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Freios de cerâmica PCCB",
+              "Eixo traseiro esterçante",
+              "Sistema de som Surround High-End 3D Burmester®",
+              "Head-up display",
+              "Assistente de visão noturna",
+              "Faróis LED HD-Matrix",
+              "Ventilação dos bancos",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/panamera/panamera-models/panamera-turbo-s-e-hybrid/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "0-100 km/h com Pacote Sport Chrono (de série). Interior de série: Interior em couro Preto com Pacote de Interior Turbonite. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"PANAMERA TSEHY\"."
+        }
+      ]
+    },
+    {
+      "id": "porsche-macan-electric",
+      "modelo": "Macan Electric",
+      "categoria": "SUV Médio",
+      "subcategoria": "SUV elétrico",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/porsche-macan-electric.webp",
+        "fonte_imagem": "https://pictures.porsche.com/rtt/iris?COSY-EU-100-1711coMvsi60AAt5FwcmBEgA4qP8iBUDxPE3Cb9pNXuBuNXdMGF4tl3U0%25z8rMH1spbWvanYb%255y%25oq%25vSTmjMXD4qAZeoNBPUSfUx4RmHlCgI7ZB4x7e2HtpQDcFGIu1Ynfur3gh5yPewjbRCvNzx4KKGXoq1%25Bqr6FObWAWwRuT0R%25Cx7e2H7L%251UzQKUyMbsqYSapc0iO5MmxdHcTCkY3bKf2GLumr6FOb34wwRuT0k%25Ax7e2Hi8%251UBXCfHaYXZaiUE1MhCh0Qw9sJRzPf7KH",
+        "pagina_origem": "https://configurator.porsche.com/pt-BR/model/95BAU1"
+      },
+      "fontes": [
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/macan/macan-electric-models/macan-4-electric/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/XABBB1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/macan/macan-electric-models/macan-4s-electric/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/XABDC1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/macan/macan-electric-models/macan-gts-electric/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/XABDE1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/macan/macan-electric-models/macan-turbo-electric/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/XABFD1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "porsche-macan-electric-4-2026",
+          "versao": "4",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 690000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico, dois motores síncronos de ímã permanente",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 387
+            },
+            "torque_kgfm": {
+              "eletrico": 66.3
+            },
+            "bateria_kwh": 100,
+            "autonomia_eletrica_km": 443,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.2,
+            "velocidade_maxima_kmh": 220
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 36.5,
+            "estrada_eletrico_km_le": 31
+          },
+          "dimensoes_mm": {
+            "comprimento": 4784,
+            "largura": 1938,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2893,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2330,
+          "porta_malas_l": 540,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/55 R20 | 285/45 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Suspensão pneumática adaptativa com PASM",
+              "Porsche Digital Key"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/macan/macan-electric-models/macan-4-electric/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência com overboost/Launch Control: 408 cv. Torque informado é o máximo com Launch Control. 0-100 km/h com Launch Control. Porta-malas dianteiro adicional: 84 l. Interior de série: Interior Preto.. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"MACAN E4\"."
+        },
+        {
+          "id": "porsche-macan-electric-4s-2027",
+          "versao": "4S",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 810000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico, dois motores síncronos de ímã permanente",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 449
+            },
+            "torque_kgfm": {
+              "eletrico": 83.6
+            },
+            "bateria_kwh": 100,
+            "autonomia_eletrica_km": 438,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.1,
+            "velocidade_maxima_kmh": 240
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 36.2,
+            "estrada_eletrico_km_le": 30.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4784,
+            "largura": 1938,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2893,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2345,
+          "porta_malas_l": 540,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/55 R20 | 285/45 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 10.9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround BOSE",
+              "Porsche Digital Key"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/macan/macan-electric-models/macan-4s-electric/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência com overboost/Launch Control: 516 cv. Torque informado é o máximo com Launch Control. 0-100 km/h com Launch Control. Porta-malas dianteiro adicional: 84 l. Interior de série: Interior Preto. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"MACAN E4S\"."
+        },
+        {
+          "id": "porsche-macan-electric-gts-2027",
+          "versao": "GTS",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 880000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico, dois motores síncronos de ímã permanente",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 517
+            },
+            "torque_kgfm": {
+              "eletrico": 97.4
+            },
+            "bateria_kwh": 100,
+            "autonomia_eletrica_km": 441,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.8,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 36.1,
+            "estrada_eletrico_km_le": 30.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4784,
+            "largura": 1952,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2893,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2395,
+          "porta_malas_l": 476,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "255/45 R21 | 295/40 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 10.9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround BOSE",
+              "Porsche Digital Key",
+              "Porsche Electric Sport Sound",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/macan/macan-electric-models/macan-gts-electric/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência com overboost/Launch Control: 571 cv. Torque informado é o máximo com Launch Control. 0-100 km/h com Launch Control. Porta-malas dianteiro adicional: 84 l. Interior de série: Interior em Race-Tex com itens de couro Preto. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"MACAN EGTS\"."
+        },
+        {
+          "id": "porsche-macan-electric-turbo-2027",
+          "versao": "Turbo",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 970000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico, dois motores síncronos de ímã permanente",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 585
+            },
+            "torque_kgfm": {
+              "eletrico": 115.2
+            },
+            "bateria_kwh": 100,
+            "autonomia_eletrica_km": 435,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.3,
+            "velocidade_maxima_kmh": 260
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 36.1,
+            "estrada_eletrico_km_le": 30.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4784,
+            "largura": 1938,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2893,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2405,
+          "porta_malas_l": 480,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "255/45 R21 | 295/40 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 10.9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround BOSE",
+              "Porsche Digital Key",
+              "Porsche Electric Sport Sound",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/macan/macan-electric-models/macan-turbo-electric/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência com overboost/Launch Control: 639 cv. Torque informado é o máximo com Launch Control. 0-100 km/h com Launch Control. Porta-malas dianteiro adicional: 84 l. Interior de série: Pacote de couro Preto com pacote de interior Turbonite. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"MACAN ETURBO\"."
+        }
+      ]
+    },
+    {
+      "id": "porsche-cayenne",
+      "modelo": "Cayenne",
+      "categoria": "SUV Grande",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)",
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/porsche-cayenne.webp",
+        "fonte_imagem": "https://images.cars.com/cldstatic/wp-content/uploads/porshe-cayenne-electric-2026-29-exterior-profile-scaled.jpg",
+        "pagina_origem": "https://www.cars.com/articles/all-new-2026-porsche-cayenne-electric-is-most-powerful-porsche-in-history-518523/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-models/cayenne-e-hybrid/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/9YAAV1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-models/cayenne-s-e-hybrid/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/9YABN1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-models/cayenne-gts/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/9YABS1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-models/cayenne-turbo-e-hybrid/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/9YACT1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "porsche-cayenne-e-hybrid-2027",
+          "versao": "E-Hybrid",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 900000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "V6 3.0 turbo + motor elétrico (E-Hybrid)",
+            "cilindrada_cm3": 2995,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 310,
+              "eletrico": 176,
+              "combinada": 470
+            },
+            "torque_kgfm": {
+              "gasolina": 42.8,
+              "eletrico": 46.9,
+              "combinada": 66.3
+            },
+            "bateria_kwh": 25.9,
+            "autonomia_eletrica_km": 52,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.9,
+            "velocidade_maxima_kmh": 254
+          },
+          "consumo": {
+            "cidade_gasolina": 7.7,
+            "estrada_gasolina": 8.1,
+            "cidade_eletrico_km_le": 20.2,
+            "estrada_eletrico_km_le": 18.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4930,
+            "largura": 1983,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2895,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2425,
+          "porta_malas_l": 627,
+          "tanque_l": 70,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 10,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Suspensão pneumática adaptativa com PASM"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-models/cayenne-e-hybrid/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência do motor a combustão: 304 cv (ficha global) / 310 cv (\"Potência Combustível Brasil\"); adotado o valor Brasil. 0-100 km/h com Pacote Sport Chrono (de série). Interior de série: Interior parcialmente em couro na cor Preto. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CAYENNE PHEV\"."
+        },
+        {
+          "id": "porsche-cayenne-s-e-hybrid-2027",
+          "versao": "S E-Hybrid",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 970000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "V6 3.0 turbo + motor elétrico (E-Hybrid)",
+            "cilindrada_cm3": 2995,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 360,
+              "eletrico": 176,
+              "combinada": 519
+            },
+            "torque_kgfm": {
+              "gasolina": 51,
+              "eletrico": 46.9,
+              "combinada": 76.5
+            },
+            "bateria_kwh": 25.9,
+            "autonomia_eletrica_km": 57,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.7,
+            "velocidade_maxima_kmh": 263
+          },
+          "consumo": {
+            "cidade_gasolina": 7.8,
+            "estrada_gasolina": 8.4,
+            "cidade_eletrico_km_le": 20.6,
+            "estrada_eletrico_km_le": 21.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4930,
+            "largura": 1983,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2895,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2410,
+          "porta_malas_l": 627,
+          "tanque_l": 70,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 10,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround BOSE"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-models/cayenne-s-e-hybrid/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência do motor a combustão: 353 cv (ficha global) / 360 cv (\"Potência Combustível Brasil\"); adotado o valor Brasil. 0-100 km/h com Pacote Sport Chrono (de série). Interior de série: Interior parcialmente em couro na cor Preto. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CAYENNE S PHEV\"."
+        },
+        {
+          "id": "porsche-cayenne-gts-2027",
+          "versao": "GTS",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1080000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "V8 4.0 biturbo",
+            "cilindrada_cm3": 3996,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 510
+            },
+            "torque_kgfm": {
+              "gasolina": 67.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.7,
+            "velocidade_maxima_kmh": 275
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4930,
+            "largura": 1983,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2895,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2190,
+          "porta_malas_l": 772,
+          "tanque_l": 90,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "285/45 ZR21 | 315/40 ZR21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 10,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround BOSE",
+              "Faróis LED HD-Matrix",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-models/cayenne-gts/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência do motor a combustão: 500 cv (ficha global) / 510 cv (\"Potência Combustível Brasil\"); adotado o valor Brasil. Interior de série: Interior em Race-Tex com couro na cor Preto, em acabamento liso.."
+        },
+        {
+          "id": "porsche-cayenne-turbo-e-hybrid-2027",
+          "versao": "Turbo E-Hybrid",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1500000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "V8 4.0 biturbo + motor elétrico (E-Hybrid)",
+            "cilindrada_cm3": 3996,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 612,
+              "eletrico": 176,
+              "combinada": 739
+            },
+            "torque_kgfm": {
+              "gasolina": 81.6,
+              "eletrico": 46.9,
+              "combinada": 96.9
+            },
+            "bateria_kwh": 25.9,
+            "autonomia_eletrica_km": 57,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.7,
+            "velocidade_maxima_kmh": 295
+          },
+          "consumo": {
+            "cidade_gasolina": 7.4,
+            "estrada_gasolina": 8.1,
+            "cidade_eletrico_km_le": 20.1,
+            "estrada_eletrico_km_le": 19.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4930,
+            "largura": 1983,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2895,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2570,
+          "porta_malas_l": 621,
+          "tanque_l": 70,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 10,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Porsche Dynamic Chassis Control (PDCC)",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround BOSE",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-models/cayenne-turbo-e-hybrid/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência do motor a combustão: 599 cv (ficha global) / 612 cv (\"Potência Combustível Brasil\"); adotado o valor Brasil. 0-100 km/h com Pacote Sport Chrono (de série). Interior de série: Interior em couro Preto com Pacote de Interior Turbonite.. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CAYENNE T PHEV\"."
+        }
+      ]
+    },
+    {
+      "id": "porsche-cayenne-coupe",
+      "modelo": "Cayenne Coupé",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV cupê",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)",
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/porsche-cayenne-coupe.webp",
+        "fonte_imagem": "https://pictures.porsche.com/rtt/iris?COSY-EU-100-1711coMvsi60AAt5FwcmBEgA4qP8iBUDxPE3Cb9pNXuBuNXdMGF4tl3U0%25z8rMH1spMBvMZq6G5OtgSv31nBJaA4qh4NSEGewirQ91wRmWBi2dN7gVdcQGPUlhDflu1spAnPqsFiZJyNO7MctBvonm4f8dXFyzCPED6u6ytN9nReRcIo4y7z7bpF%25vUqE8ouWXsO91ReV6iTW7UzhRc2q0dqA7fQbmZOJUPY0IN9nReLhno4y7zQLFF%25vUqYo7uWXsOASIeVl9PBOwc9HwAVSe5iPaqiFkhg%256dBWTq",
+        "pagina_origem": "https://configurator.porsche.com/pt-BR/mode/model/9YBBS1"
+      },
+      "fontes": [
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-coupe-models/cayenne-coupe-e-hybrid/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/9YBAV1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-coupe-models/cayenne-coupe-s-e-hybrid/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/9YBBN1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-coupe-models/cayenne-coupe-gts/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/9YBBS1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-coupe-models/cayenne-coupe-turbo-e-hybrid/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/9YBCT1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-coupe-models/cayenne-coupe-turbo-gt/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/9YBCP1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "porsche-cayenne-coupe-e-hybrid-2027",
+          "versao": "E-Hybrid",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 950000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "V6 3.0 turbo + motor elétrico (E-Hybrid)",
+            "cilindrada_cm3": 2995,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 310,
+              "eletrico": 176,
+              "combinada": 470
+            },
+            "torque_kgfm": {
+              "gasolina": 42.8,
+              "eletrico": 46.9,
+              "combinada": 66.3
+            },
+            "bateria_kwh": 25.9,
+            "autonomia_eletrica_km": 52,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.9,
+            "velocidade_maxima_kmh": 254
+          },
+          "consumo": {
+            "cidade_gasolina": 7.7,
+            "estrada_gasolina": 8.1,
+            "cidade_eletrico_km_le": 20.2,
+            "estrada_eletrico_km_le": 18.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4930,
+            "largura": 1983,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2895,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2455,
+          "porta_malas_l": 434,
+          "tanque_l": 70,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 10,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Suspensão pneumática adaptativa com PASM"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-coupe-models/cayenne-coupe-e-hybrid/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência do motor a combustão: 304 cv (ficha global) / 310 cv (\"Potência Combustível Brasil\"); adotado o valor Brasil. 0-100 km/h com Pacote Sport Chrono (de série). Interior de série: Interior parcialmente em couro na cor Preto. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CAYENNE CP PHE\"."
+        },
+        {
+          "id": "porsche-cayenne-coupe-s-e-hybrid-2027",
+          "versao": "S E-Hybrid",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1010000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "V6 3.0 turbo + motor elétrico (E-Hybrid)",
+            "cilindrada_cm3": 2995,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 360,
+              "eletrico": 176,
+              "combinada": 519
+            },
+            "torque_kgfm": {
+              "gasolina": 51,
+              "eletrico": 46.9,
+              "combinada": 76.5
+            },
+            "bateria_kwh": 25.9,
+            "autonomia_eletrica_km": 57,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.7,
+            "velocidade_maxima_kmh": 263
+          },
+          "consumo": {
+            "cidade_gasolina": 7.8,
+            "estrada_gasolina": 8.4,
+            "cidade_eletrico_km_le": 20.6,
+            "estrada_eletrico_km_le": 21.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4930,
+            "largura": 1989,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2895,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2440,
+          "porta_malas_l": 434,
+          "tanque_l": 70,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 10,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround BOSE"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-coupe-models/cayenne-coupe-s-e-hybrid/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência do motor a combustão: 353 cv (ficha global) / 360 cv (\"Potência Combustível Brasil\"); adotado o valor Brasil. 0-100 km/h com Pacote Sport Chrono (de série). Interior de série: Interior parcialmente em couro na cor Preto. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CAYENNE S PHEV\"."
+        },
+        {
+          "id": "porsche-cayenne-coupe-gts-2027",
+          "versao": "GTS",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1120000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "V8 4.0 biturbo",
+            "cilindrada_cm3": 3996,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 510
+            },
+            "torque_kgfm": {
+              "gasolina": 67.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.4,
+            "velocidade_maxima_kmh": 275
+          },
+          "consumo": {
+            "cidade_gasolina": 5.9,
+            "estrada_gasolina": 8.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4930,
+            "largura": 1989,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2895,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2220,
+          "porta_malas_l": 592,
+          "tanque_l": 90,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "285/45 ZR21 | 315/40 ZR21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 10,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround BOSE",
+              "Faróis LED HD-Matrix",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-coupe-models/cayenne-coupe-gts/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência do motor a combustão: 500 cv (ficha global) / 510 cv (\"Potência Combustível Brasil\"); adotado o valor Brasil. 0-100 km/h com Pacote Sport Chrono (de série). Interior de série: Interior em Race-Tex com couro na cor Preto, em acabamento liso.. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CAYENNE GTS CP\"."
+        },
+        {
+          "id": "porsche-cayenne-coupe-turbo-e-hybrid-2027",
+          "versao": "Turbo E-Hybrid",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1540000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "V8 4.0 biturbo + motor elétrico (E-Hybrid)",
+            "cilindrada_cm3": 3996,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 612,
+              "eletrico": 176,
+              "combinada": 739
+            },
+            "torque_kgfm": {
+              "gasolina": 81.6,
+              "eletrico": 46.9,
+              "combinada": 96.9
+            },
+            "bateria_kwh": 25.9,
+            "autonomia_eletrica_km": 57,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.7,
+            "velocidade_maxima_kmh": 295
+          },
+          "consumo": {
+            "cidade_gasolina": 7.4,
+            "estrada_gasolina": 8.1,
+            "cidade_eletrico_km_le": 20.1,
+            "estrada_eletrico_km_le": 19.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4930,
+            "largura": 1989,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2895,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2595,
+          "porta_malas_l": 434,
+          "tanque_l": 70,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 10,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Porsche Dynamic Chassis Control (PDCC)",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround BOSE",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-coupe-models/cayenne-coupe-turbo-e-hybrid/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência do motor a combustão: 599 cv (ficha global) / 612 cv (\"Potência Combustível Brasil\"); adotado o valor Brasil. 0-100 km/h com Pacote Sport Chrono (de série). Interior de série: Interior em couro Preto com Pacote de Interior Turbonite.. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CAYENNE T PHEV\"."
+        },
+        {
+          "id": "porsche-cayenne-coupe-turbo-gt-2027",
+          "versao": "Turbo GT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1620000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "V8 4.0 biturbo",
+            "cilindrada_cm3": 3996,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 673
+            },
+            "torque_kgfm": {
+              "gasolina": 86.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.3,
+            "velocidade_maxima_kmh": 305
+          },
+          "consumo": {
+            "cidade_gasolina": 5.8,
+            "estrada_gasolina": 7.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4932,
+            "largura": 1995,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2895,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2245,
+          "porta_malas_l": 576,
+          "tanque_l": 90,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 10,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 22,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Porsche Dynamic Chassis Control (PDCC)",
+              "Freios de cerâmica PCCB",
+              "Eixo traseiro esterçante",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround 3D High-End Burmester®",
+              "Faróis LED HD-Matrix",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-coupe-models/cayenne-coupe-turbo-gt/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência do motor a combustão: 659 cv (ficha global) / 673 cv (\"Potência Combustível Brasil\"); adotado o valor Brasil. 0-100 km/h com Pacote Sport Chrono (de série). Interior de série: Pacote Interior GT com costura contrastante em Arctic Grey. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CAYENNE GT COUPE\"."
+        }
+      ]
+    },
+    {
+      "id": "porsche-cayenne-electric",
+      "modelo": "Cayenne Electric",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV elétrico",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/porsche-cayenne-electric.webp",
+        "fonte_imagem": "https://images.auto.pt/blog_detail/0c949a/porsche_cayenne_electric_exterior_lateral.webp",
+        "pagina_origem": "https://www.auto.pt/noticias/porsche-cayenne-electric-2026-preco"
+      },
+      "fontes": [
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-electric-models/cayenne-electric/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/X1AAA1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-electric-models/cayenne-s-electric/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/X1ABB1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-electric-models/cayenne-turbo-electric/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/X1ACD1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "porsche-cayenne-electric-base-2027",
+          "versao": "Base",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 900000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico, dois motores síncronos de ímã permanente",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 408
+            },
+            "torque_kgfm": {
+              "eletrico": 85.1
+            },
+            "bateria_kwh": 113,
+            "autonomia_eletrica_km": 493,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.8,
+            "velocidade_maxima_kmh": 230
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 35,
+            "estrada_eletrico_km_le": 29.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4985,
+            "largura": 1980,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 3023,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2525,
+          "porta_malas_l": 781,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "255/55 R20 | 305/45 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 9,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Suspensão pneumática adaptativa com PASM",
+              "Porsche Digital Key"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-electric-models/cayenne-electric/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência com overboost/Launch Control: 442 cv. Torque informado é o máximo com Launch Control. 0-100 km/h com Launch Control. Porta-malas dianteiro adicional: 90 l. Interior de série: Interior em couro parcial na cor Preto.. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CAYENNE E\"."
+        },
+        {
+          "id": "porsche-cayenne-electric-s-2027",
+          "versao": "S",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1080000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico, dois motores síncronos de ímã permanente",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 544
+            },
+            "torque_kgfm": {
+              "eletrico": 110.1
+            },
+            "bateria_kwh": 113,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.8,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4991,
+            "largura": 1980,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 3023,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2555,
+          "porta_malas_l": 781,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "275/45 R21 | 315/40 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 9,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround BOSE",
+              "Porsche Digital Key",
+              "Porsche Electric Sport Sound"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-electric-models/cayenne-s-electric/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência com overboost/Launch Control: 666 cv. Torque informado é o máximo com Launch Control. 0-100 km/h com Launch Control. Porta-malas dianteiro adicional: 90 l. Interior de série: Interior em couro parcial na cor Preto.."
+        },
+        {
+          "id": "porsche-cayenne-electric-turbo-2027",
+          "versao": "Turbo",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1410000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico, dois motores síncronos de ímã permanente",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 857
+            },
+            "torque_kgfm": {
+              "eletrico": 153
+            },
+            "bateria_kwh": 113,
+            "autonomia_eletrica_km": 481,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.5,
+            "velocidade_maxima_kmh": 260
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 34.3,
+            "estrada_eletrico_km_le": 29.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4985,
+            "largura": 1980,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 3023,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2645,
+          "porta_malas_l": 747,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "275/45 R21 | 315/40 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 9,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround BOSE",
+              "Faróis LED HD-Matrix",
+              "Porsche Digital Key",
+              "Porsche Electric Sport Sound",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-electric-models/cayenne-turbo-electric/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência com overboost/Launch Control: 1.156 cv. Torque informado é o máximo com Launch Control. 0-100 km/h com Launch Control. Porta-malas dianteiro adicional: 90 l. Interior de série: Interior em couro na cor Preto com Pacote de Interior em Turbonite.. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CAYENNE ET\"."
+        }
+      ]
+    },
+    {
+      "id": "porsche-cayenne-coupe-electric",
+      "modelo": "Cayenne Coupé Electric",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV cupê elétrico",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/porsche-cayenne-coupe-electric.webp",
+        "fonte_imagem": "https://st.arenaev.com/specs/porsche/porsche-cayenne-electric-side-2.jpg",
+        "pagina_origem": "https://www.arenaev.com/porsche_cayenne-pictures-334.php"
+      },
+      "fontes": [
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-coupe-electric-models/cayenne-coupe-electric/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/X1BAA1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-coupe-electric-models/cayenne-s-coupe-electric/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/X1BBB1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-coupe-electric-models/cayenne-turbo-coupe-electric/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://configurator.porsche.com/pt-BR/mode/model/X1BCD1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "porsche-cayenne-coupe-electric-base-2027",
+          "versao": "Base",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 950000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico, dois motores síncronos de ímã permanente",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 408
+            },
+            "torque_kgfm": {
+              "eletrico": 85.1
+            },
+            "bateria_kwh": 113,
+            "autonomia_eletrica_km": 493,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.8,
+            "velocidade_maxima_kmh": 230
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 35,
+            "estrada_eletrico_km_le": 29.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4985,
+            "largura": 1980,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 3023,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2530,
+          "porta_malas_l": 534,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "255/55 R20 | 305/45 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 9,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Eixo traseiro esterçante",
+              "Suspensão pneumática adaptativa com PASM",
+              "Porsche Digital Key"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-coupe-electric-models/cayenne-coupe-electric/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência com overboost/Launch Control: 442 cv. Torque informado é o máximo com Launch Control. 0-100 km/h com Launch Control. Porta-malas dianteiro adicional: 90 l. Interior de série: Interior em couro parcial na cor Preto.. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CAYENNE E CO\"."
+        },
+        {
+          "id": "porsche-cayenne-coupe-electric-s-2027",
+          "versao": "S",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1130000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico, dois motores síncronos de ímã permanente",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 544
+            },
+            "torque_kgfm": {
+              "eletrico": 110.1
+            },
+            "bateria_kwh": 113,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.8,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4991,
+            "largura": 1980,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 3023,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2560,
+          "porta_malas_l": 534,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "275/45 R21 | 315/40 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 9,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Eixo traseiro esterçante",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround BOSE",
+              "Porsche Digital Key",
+              "Porsche Electric Sport Sound"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-coupe-electric-models/cayenne-s-coupe-electric/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência com overboost/Launch Control: 666 cv. Torque informado é o máximo com Launch Control. 0-100 km/h com Launch Control. Porta-malas dianteiro adicional: 90 l. Interior de série: Interior em couro parcial na cor Preto.."
+        },
+        {
+          "id": "porsche-cayenne-coupe-electric-turbo-2027",
+          "versao": "Turbo",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1460000,
+          "preco_obs": "Preço público sugerido no configurador Porsche Brasil (versão básica \"Pacote Brasil\", sem frete e opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico, dois motores síncronos de ímã permanente",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 857
+            },
+            "torque_kgfm": {
+              "eletrico": 153
+            },
+            "bateria_kwh": 113,
+            "autonomia_eletrica_km": 481,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.5,
+            "velocidade_maxima_kmh": 260
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 34.3,
+            "estrada_eletrico_km_le": 29.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4985,
+            "largura": 1980,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 3023,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2650,
+          "porta_malas_l": 500,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "275/45 R21 | 315/40 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 9,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Sport Chrono",
+              "Eixo traseiro esterçante",
+              "Suspensão pneumática adaptativa com PASM",
+              "Sistema de som Surround BOSE",
+              "Faróis LED HD-Matrix",
+              "Porsche Digital Key",
+              "Porsche Electric Sport Sound",
+              "Porsche Torque Vectoring"
+            ]
+          },
+          "fonte_url": "https://www.porsche.com/brazil/pt/models/cayenne/cayenne-coupe-electric-models/cayenne-turbo-coupe-electric/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Potência com overboost/Launch Control: 1.156 cv. Torque informado é o máximo com Launch Control. 0-100 km/h com Launch Control. Porta-malas dianteiro adicional: 90 l. Interior de série: Interior em couro na cor Preto com Pacote de Interior em Turbonite.. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CAYENNE ET CO\"."
+        }
+      ]
+    }
+  ]
+}

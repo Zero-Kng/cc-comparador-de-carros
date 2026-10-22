@@ -1,0 +1,1026 @@
+{
+  "marca": "CAOA Chery",
+  "slug": "caoa-chery",
+  "site_oficial": "https://caoachery.com.br",
+  "coletado_em": "2026-10-20",
+  "modelos": [
+    {
+      "id": "caoa-chery-tiggo-5x",
+      "modelo": "Tiggo 5X",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/caoa-chery-tiggo-5x.webp",
+        "fonte_imagem": "https://diariodocomercio.com.br/wp-content/uploads/2026/02/tiggo-5X-lateral.jpeg",
+        "pagina_origem": "https://diariodocomercio.com.br/veiculos/caoa-chery-apresenta-linha-2027-tiggo-5x/"
+      },
+      "fontes": [
+        {
+          "url": "https://caoachery.com.br/novos/tiggo-5x-sport-2027",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://caoachery.com.br/novos/tiggo-5x-pro-2027",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cloudfront.alpes.one/public/6a4/809/5c4/6a48095c4d6d9693755838.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cloudfront.alpes.one/public/6a4/80a/d88/6a480ad88dc1e775494345.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "caoa-chery-tiggo-5x-sport-2027",
+          "versao": "Sport",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 124990,
+          "preco_obs": "Preço público sugerido à vista, cor preta sólida (demais cores +R$ 2.000); válido até 30/09/2026 ou enquanto durarem os estoques",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 TCI Turbo Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 143,
+              "gasolina": 143
+            },
+            "torque_kgfm": {
+              "etanol": 22.8,
+              "gasolina": 22.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": 9
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 6.6,
+            "estrada_etanol": 8,
+            "cidade_gasolina": 10,
+            "estrada_gasolina": 11.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4320,
+            "largura": 1831,
+            "largura_com_retrovisores": null,
+            "altura": 1652,
+            "entre_eixos": 2610,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 340,
+          "tanque_l": 51,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Tela integrada de 20,5\" (multimídia + painel de 10,25\")",
+              "Rodas de liga leve diamantadas 17\"",
+              "Banco do motorista com 6 ajustes elétricos",
+              "Freio de estacionamento eletrônico com Auto Hold",
+              "Console com compartimento refrigerado/aquecido",
+              "Retrovisores com rebatimento elétrico",
+              "TPMS",
+              "Garantia de 7 anos"
+            ]
+          },
+          "fonte_url": "https://caoachery.com.br/novos/tiggo-5x-sport-2027",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Tela integrada de 20,5\" que combina painel de instrumentos de 10,25\" e multimídia (registrado 10,25\"). Porta-malas 340 L (V211); 1.220 L com banco rebatido até o teto. A marca não divulga peso, desempenho nem consumo PBEV na ficha. Bancos \"em couro Sport Series\" segundo a página do modelo. Possui piloto automático convencional (sem ACC). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"TIGGO 5X PRO\"."
+        },
+        {
+          "id": "caoa-chery-tiggo-5x-pro-2027",
+          "versao": "Pro",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 139990,
+          "preco_obs": "Preço público sugerido à vista, cor preta sólida (demais cores +R$ 2.000); válido até 30/09/2026 ou enquanto durarem os estoques",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 TCI Turbo Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 143,
+              "gasolina": 143
+            },
+            "torque_kgfm": {
+              "etanol": 22.8,
+              "gasolina": 22.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": 9
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 6.6,
+            "estrada_etanol": 8,
+            "cidade_gasolina": 10,
+            "estrada_gasolina": 11.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4320,
+            "largura": 1831,
+            "largura_com_retrovisores": null,
+            "altura": 1652,
+            "entre_eixos": 2610,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 340,
+          "tanque_l": 51,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "7 airbags (inclui central)",
+              "Max Drive 2.0 (ACC, AEB, BSD, LDW, LCA, RCTA)",
+              "Câmera 360° HD",
+              "Teto panorâmico fixo com cortina elétrica",
+              "Carregador por indução 50 W",
+              "Tela integrada de 20,5\" (multimídia + painel de 10,25\")",
+              "Rodas de liga leve diamantadas 18\"",
+              "Banco do motorista com regulagem lombar elétrica",
+              "Farol alto automático"
+            ]
+          },
+          "fonte_url": "https://caoachery.com.br/novos/tiggo-5x-pro-2027",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Tela integrada de 20,5\" que combina painel de instrumentos de 10,25\" e multimídia (registrado 10,25\"). Porta-malas 340 L (V211); 1.220 L com banco rebatido até o teto. A marca não divulga peso, desempenho nem consumo PBEV na ficha. A ficha lista alerta de saída de faixa (LDW), mas não assistente ativo de permanência (LKA). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"TIGGO 5X PRO\"."
+        }
+      ]
+    },
+    {
+      "id": "caoa-chery-tiggo-7",
+      "modelo": "Tiggo 7",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão",
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/caoa-chery-tiggo-7.webp",
+        "fonte_imagem": "https://cdn.autopapo.com.br/box/uploads/2026/06/01133103/t7_phev_lateral_rigida_preto-1920x1080.jpg",
+        "pagina_origem": "https://autopapo.com.br/curta/caoa-chery7-pro-phev-2027-custa-r-189-990-e-promete-rodar-1-200-km-sem-parar/"
+      },
+      "fontes": [
+        {
+          "url": "https://caoachery.com.br/novos/tiggo-7-sport-2027",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://caoachery.com.br/novos/tiggo-7-pro-2027",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://caoachery.com.br/novos/tiggo-7-pro-plug-in-hybrid",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cloudfront.alpes.one/public/6a8/e2f/169/6a8e2f1692c75563496442.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cloudfront.alpes.one/public/6a8/e2f/d13/6a8e2fd13611d495815766.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cloudfront.alpes.one/public/6a1/dab/7e4/6a1dab7e434b1998580293.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://caoachery.com.br/noticia/caoa-chery-assume-protagonismo-nos-eletrificados-com-nova-geracao-super-hybrid",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "caoa-chery-tiggo-7-sport-2027",
+          "versao": "Sport",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 141990,
+          "preco_obs": "Preço público sugerido à vista, cor preta sólida (demais cores +R$ 2.000); válido até 30/09/2026 ou enquanto durarem os estoques",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 TCI Turbo Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 143,
+              "gasolina": 143
+            },
+            "torque_kgfm": {
+              "etanol": 22.8,
+              "gasolina": 22.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": 9
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 6.7,
+            "estrada_etanol": 8.6,
+            "cidade_gasolina": 10.4,
+            "estrada_gasolina": 12.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4553,
+            "largura": 1862,
+            "largura_com_retrovisores": null,
+            "altura": 1696,
+            "entre_eixos": 2670,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 565,
+          "tanque_l": 51,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/60 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Tela integrada curva de 24,6\" (painel 12,3\" + multimídia 12,3\")",
+              "7 airbags (inclui central)",
+              "Banco do motorista com ventilação",
+              "Carregador por indução 50 W",
+              "Retrovisor interno eletrocrômico",
+              "Para-brisa acústico",
+              "Freio de estacionamento eletrônico com Auto Hold",
+              "GPS nativo"
+            ]
+          },
+          "fonte_url": "https://caoachery.com.br/novos/tiggo-7-sport-2027",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas 565 L (V215, até o teto) / 1.396 L. Bancos com \"revestimento premium\". Sem pacote Max Drive na ficha. Peso, desempenho e consumo não divulgados. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"TIGGO 7 SPORT\"."
+        },
+        {
+          "id": "caoa-chery-tiggo-7-pro-2027",
+          "versao": "Pro",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 169990,
+          "preco_obs": "Preço público sugerido à vista, cor preta sólida (demais cores +R$ 2.000); válido até 30/09/2026 ou enquanto durarem os estoques",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "1.6 TGDI Turbo",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 180
+            },
+            "torque_kgfm": {
+              "gasolina": 28
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4553,
+            "largura": 1862,
+            "largura_com_retrovisores": null,
+            "altura": 1696,
+            "entre_eixos": 2670,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 565,
+          "tanque_l": 51,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/55 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 1.6 TGDI de 180 cv com câmbio 7DCT",
+              "Max Drive 2.0 (ACC, AEB, LKA, BSD, TJA, ICA, DOW)",
+              "Câmera 540° HD",
+              "Teto solar panorâmico elétrico",
+              "Som Sony com 8 alto-falantes",
+              "Porta-malas com abertura elétrica e sensor de aproximação",
+              "Tela integrada curva de 24,6\"",
+              "Rodas de liga leve 19\"",
+              "Ar-condicionado dual zone com filtro N95"
+            ]
+          },
+          "fonte_url": "https://caoachery.com.br/novos/tiggo-7-pro-2027",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas 565 L (V215, até o teto) / 1.396 L. Bancos com \"revestimento premium\". Peso, desempenho e consumo não divulgados."
+        },
+        {
+          "id": "caoa-chery-tiggo-7-pro-phev-2027",
+          "versao": "Pro PHEV",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 209990,
+          "preco_obs": "Preço público sugerido à vista, cor preta sólida (demais cores +R$ 2.000); válido até 30/09/2026 ou enquanto durarem os estoques",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 TGDI + 2 motores elétricos (CAOA Chery Super Hybrid)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 135,
+              "eletrico": 204,
+              "combinada": 279
+            },
+            "torque_kgfm": {
+              "gasolina": 20.4,
+              "combinada": 37.2
+            },
+            "bateria_kwh": 18.4,
+            "autonomia_eletrica_km": 68,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.8,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4553,
+            "largura": 1862,
+            "largura_com_retrovisores": null,
+            "altura": 1696,
+            "entre_eixos": 2670,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1831,
+          "porta_malas_l": 484,
+          "tanque_l": 60,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/60 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema CAOA Chery Super Hybrid (279 cv)",
+              "Recarga DC 30-80% em ~20 min",
+              "V2L 220 V",
+              "Head-up display",
+              "Câmera 540° HD",
+              "Bancos dianteiros com aquecimento e ventilação",
+              "Banco do motorista com memória",
+              "Teto solar panorâmico elétrico",
+              "Som premium Sony",
+              "Max Drive 2.0 (ACC, AEB, LKA, BSD, ELK, RCTB, DOW)"
+            ]
+          },
+          "fonte_url": "https://caoachery.com.br/novos/tiggo-7-pro-plug-in-hybrid",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Versão única. Consumo PBEV informado em km/l equivalente: 38,6 cidade / 30,3 estrada (não mapeado nas chaves de consumo). Preço de lançamento em 01/06/2026 foi R$ 189.990. Reboque 750 kg."
+        }
+      ]
+    },
+    {
+      "id": "caoa-chery-tiggo-8",
+      "modelo": "Tiggo 8",
+      "categoria": "SUV Grande",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão",
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/caoa-chery-tiggo-8.webp",
+        "fonte_imagem": "https://blog.olhonocarro.com.br/wp-content/uploads/2025/05/caoa-chery-tiggo-8-pro-1-6-2026-lateral.jpg",
+        "pagina_origem": "https://www.olhonocarro.com.br/blog/caoa-chery-tiggo-8-pro-1-6-2026-avaliacao-completa/"
+      },
+      "fontes": [
+        {
+          "url": "https://caoachery.com.br/novos/tiggo-8-pro",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://caoachery.com.br/novos/tiggo-8-pro-plug-in-hybrid",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cloudfront.alpes.one/public/69e/a3c/b48/69ea3cb48e78b041719798.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cloudfront.alpes.one/public/6ab/443/91b/6ab44391b5347907092473.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://caoachery.com.br/noticia/caoa-chery-assume-protagonismo-nos-eletrificados-com-nova-geracao-super-hybrid",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "caoa-chery-tiggo-8-pro-2027",
+          "versao": "Pro",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 196990,
+          "preco_obs": "Preço público sugerido à vista, cor preta sólida (demais cores +R$ 2.000); válido até 30/09/2026 ou enquanto durarem os estoques",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "1.6 TGDI Turbo",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 180
+            },
+            "torque_kgfm": {
+              "gasolina": 28
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 10,
+            "estrada_gasolina": 12.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4720,
+            "largura": 1860,
+            "largura_com_retrovisores": null,
+            "altura": 1705,
+            "entre_eixos": 2710,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1589,
+          "porta_malas_l": 889,
+          "tanque_l": 51,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": "235/55 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "7 lugares",
+              "Tela UltraWide Curved Screen integrada de 24,6\"",
+              "Câmeras 540° HD",
+              "Bancos dianteiros com aquecimento e ventilação",
+              "Banco do motorista com memória",
+              "Som premium Sony com 8 alto-falantes",
+              "Teto solar panorâmico elétrico",
+              "Max Drive (ACC, AEB, LKA, BSD, TJA, ICA, DOW)",
+              "4 saídas de escapamento"
+            ]
+          },
+          "fonte_url": "https://caoachery.com.br/novos/tiggo-8-pro",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas 193 L (7 lugares) / 889 L (5 lugares) / 1.930 L (2 lugares). Peso em ordem de marcha conforme ficha. Bancos com \"revestimento premium\". Desempenho e consumo não divulgados. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"TIGGO 8 16TA\"."
+        },
+        {
+          "id": "caoa-chery-tiggo-8-pro-phev-2027",
+          "versao": "Pro PHEV",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 249990,
+          "preco_obs": "Preço público sugerido à vista, cor preta sólida (demais cores +R$ 3.000); válido até 31/10/2026 ou enquanto durarem os estoques",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 TGDI + 2 motores elétricos (CAOA Chery Super Hybrid)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 135,
+              "eletrico": 204,
+              "combinada": 279
+            },
+            "torque_kgfm": {
+              "gasolina": 20.4,
+              "combinada": 37.2
+            },
+            "bateria_kwh": 18.4,
+            "autonomia_eletrica_km": 70,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.2,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 14.4,
+            "estrada_gasolina": 12.8,
+            "cidade_eletrico_km_le": 36.1,
+            "estrada_eletrico_km_le": 29.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4725,
+            "largura": 1860,
+            "largura_com_retrovisores": null,
+            "altura": 1705,
+            "entre_eixos": 2710,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1961,
+          "porta_malas_l": 650,
+          "tanque_l": 60,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": "235/50 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 9,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "7 lugares",
+              "Sistema CAOA Chery Super Hybrid (279 cv)",
+              "9 airbags (inclui joelho e laterais traseiros)",
+              "Multimídia de 15,6\" e painel de 10,25\"",
+              "Head-up display",
+              "Banco do passageiro com massagem e apoio de pernas",
+              "Som premium Sony com 12 alto-falantes",
+              "Recarga DC 30-80% em ~20 min",
+              "V2L",
+              "Câmera 540° HD"
+            ]
+          },
+          "fonte_url": "https://caoachery.com.br/novos/tiggo-8-pro-plug-in-hybrid",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Versão única. Porta-malas de 650 L conforme ficha (configuração não especificada; até 1.930 L). Consumo PBEV em km/l equivalente: 36,1 cidade / 29,6 estrada. Preço de lançamento em 01/06/2026 foi R$ 229.990. Reboque 750 kg. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"TIGGO 8 PHEV\"."
+        }
+      ]
+    },
+    {
+      "id": "caoa-chery-tiggo-9",
+      "modelo": "Tiggo 9",
+      "categoria": "SUV Grande",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão",
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/caoa-chery-tiggo-9.webp",
+        "fonte_imagem": "https://imagecdnsa.zigwheels.ae/large/gallery/color/90/2139/chery-tiggo-9-color-296541.jpg",
+        "pagina_origem": "https://www.zigwheels.ae/new-cars/chery/tiggo-9/images"
+      },
+      "fontes": [
+        {
+          "url": "https://caoachery.com.br/novos/tiggo-9-combustao",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://caoachery.com.br/novos/tiggo-9-phev",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cloudfront.alpes.one/public/6ad/75e/d83/6ad75ed8345dd620257145.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cloudfront.alpes.one/public/6ad/75f/658/6ad75f6582508123584239.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "caoa-chery-tiggo-9-2-0-tgdi-awd-2027",
+          "versao": "2.0 TGDi AWD",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 249990,
+          "preco_obs": "Preço público sugerido à vista, cor preta sólida (demais cores +R$ 3.000); válido até 31/10/2026 ou enquanto durarem os estoques",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TGDi Turbo",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 224
+            },
+            "torque_kgfm": {
+              "gasolina": 36.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.1,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 8.5,
+            "estrada_gasolina": 10.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4810,
+            "largura": 1925,
+            "largura_com_retrovisores": null,
+            "altura": 1741,
+            "entre_eixos": 2800,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1908,
+          "porta_malas_l": 448,
+          "tanque_l": 65,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": "245/50 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 10,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "7 lugares",
+              "10 airbags",
+              "Max Drive 2.5 com estacionamento automático (APA)",
+              "Head-up display de campo ampliado",
+              "Som Sony com 14 alto-falantes",
+              "Bancos dianteiros com massagem, aquecimento e ventilação",
+              "2ª fileira com ajuste elétrico, aquecimento e ventilação",
+              "Volante aquecido",
+              "Teto solar panorâmico elétrico",
+              "Câmera 540° HD"
+            ]
+          },
+          "fonte_url": "https://caoachery.com.br/novos/tiggo-9-combustao",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas 148 / 448 / 819 / 2.065 L (registrado 448 L, com a 3ª fileira rebatida). Bancos com \"revestimento premium\". Altura de 1.741 mm conforme ficha (página do modelo cita 1.705 mm). Potência de 224,4 cv na ficha. Reboque 1.500 kg com freio."
+        },
+        {
+          "id": "caoa-chery-tiggo-9-phev-2027",
+          "versao": "PHEV",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 299990,
+          "preco_obs": "Preço público sugerido à vista, cor preta sólida (demais cores +R$ 3.000); válido até 31/10/2026 ou enquanto durarem os estoques",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 TGDI + 3 motores elétricos",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 428
+            },
+            "torque_kgfm": {
+              "combinada": 59.2
+            },
+            "bateria_kwh": 34.46,
+            "autonomia_eletrica_km": 108,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": 3
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.9,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4810,
+            "largura": 1925,
+            "largura_com_retrovisores": null,
+            "altura": 1741,
+            "entre_eixos": 2800,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2255,
+          "porta_malas_l": 448,
+          "tanque_l": 70,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": "245/50 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 10,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "3 motores elétricos (428 cv combinados)",
+              "Bateria CATL de 34,46 kWh",
+              "Recarga DC 71 kW (30-80% em ~20 min)",
+              "V2L 110 V",
+              "7 lugares",
+              "10 airbags",
+              "Max Drive 2.5 com estacionamento automático (APA)",
+              "Head-up display de campo ampliado",
+              "Som Sony com 14 alto-falantes",
+              "Bancos dianteiros com massagem, aquecimento e ventilação",
+              "2ª fileira com ajuste elétrico, aquecimento e ventilação"
+            ]
+          },
+          "fonte_url": "https://caoachery.com.br/novos/tiggo-9-phev",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas 148 / 448 / 819 / 2.065 L (registrado 448 L, com a 3ª fileira rebatida). Bancos com \"revestimento premium\". Altura de 1.741 mm conforme ficha (página do modelo cita 1.705 mm). Potência combinada de 428,4 cv na ficha. Consumo PBEV em km/l equivalente: 28 cidade / 25,3 estrada. Reboque 1.500 kg com freio."
+        }
+      ]
+    }
+  ]
+}

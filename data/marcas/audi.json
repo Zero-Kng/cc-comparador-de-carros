@@ -1,0 +1,2925 @@
+{
+  "marca": "Audi",
+  "slug": "audi",
+  "site_oficial": "https://www.audi.com.br",
+  "coletado_em": "2026-10-21",
+  "modelos": [
+    {
+      "id": "audi-a3-sedan",
+      "modelo": "A3 Sedan",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan compacto premium",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/audi-a3-sedan.webp",
+        "fonte_imagem": "https://mediaservice.audi.com/media/fast/v3_xWTXWhbdRjG__11WTU5OelJSZaTHpKZkxPqJFvSZEmKjdreTGTD0rkpTI3_NGdNunyZnNSUXbgL8ZOBiE4UUXG7kU7dUPxgFj-mAx1TQUERhQleTFYRHcyhCKY3Ly8vz_PjvXiek78LV68jODB78sqWa5uvu-siQvTbQgw_JVxOr1NuDQkh5nDXGnLR3rHUthe3WDKTtPtOUi63d0ymJnNJmWnL5O5acmZfptBPFlZSSVmv-8TIwCmGhRg5IoTr1Q2OUMd6nXpbdmRje8futlvNbm3Z1iYy6XxaHszuTJdzuWw6X84UZLZQTuXK-bycyqUnd-YraZnPZf0DxGdieEAXWnNxYaFbq9gVu3vIabX7dbG5sNIo91bEpo2nuOE-jEsEnia4l-Apgm8TuoI-zcQpws8SPk34fQyB8QLRN4ieIfoNsZ-I_YU5hFnF_IOESmKaxB2I23CfRXkC7yrqrfi2EuoTeovxVYwmxgMYRzAc4l9hXUPoiO2Ie9A-QjuP34VfI_AewSnCSxg68W3Ef8Q6jduF-wRKHuUW1Cyag7-F_wyBP9Er6OfRrxJeJ-4jHiOeJS6Jv0L8S6yb8cziuYryDv5dBI8TPIf3C7zvor6GNo1WQvsA7Szad_hvwl_AP4e_R-Ao-hrGPJGfifxN5F-im4iOEt1K9EZilzF1zGOYDuaHxPdjDWGNYelYv6LcjXIC7_N4f8PXwPcSo_sY_YfwYcwpQj1CLxL6Gv04RoXIJ0Q-xfwYRcP3A4FtBO4nUCX4JME1QlFCS4QeJdogdhHrAFYT60GsZ7AuIEYQD3P9ZdzzuJdwf46njOcwnnMoCsrrKG_iPYr3W9Q7Ue9F7aA-hm8G32D20Y8R_oVxE2OVyBrRPNFlYv9hTqDtQp9HX8FQMC9gXsJ6HGUYZRz1OdR1fOtoLrSXCX4_SNojdnO51mk1G3bTKe5p7Zkp3d7qde3SrFw41K5Lx-4mHqpVnGoxPTWZSlTt2mLVKaaz2VRC1ttVWTwo6107sSAbdkcW9zqD_pRmSplSKjUQNAd9cmqD_BfnWt3axrZ7w55o2I6sSEcu253u4FicHBue2T_3PwFAm1KmAwAA?wid=1920",
+        "pagina_origem": "https://www.audiusa.com/en/models/a3/a3/2026/overview/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.audi.com.br/pt/models/a3/a3-sedan-new/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/audi-do-brasil-lanca-novo-a3-sedan-no-pais-2",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "audi-a3-sedan-advanced-2026",
+          "versao": "Advanced",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 314990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TFSI turbo",
+            "cilindrada_cm3": 1984,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 32.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.7,
+            "velocidade_maxima_kmh": 210
+          },
+          "consumo": {
+            "cidade_gasolina": 10.1,
+            "estrada_gasolina": 12.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4504,
+            "largura": null,
+            "largura_com_retrovisores": 1984,
+            "altura": 1442,
+            "entre_eixos": 2634,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1490,
+          "porta_malas_l": 425,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/40 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Audi drive select"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/a3/a3-sedan-new/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (1.984 mm) inclui retrovisores; largura sem retrovisores não divulgada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"A3 Sedan Advanced\"."
+        },
+        {
+          "id": "audi-a3-sedan-performance-2026",
+          "versao": "Performance",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 339990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TFSI turbo",
+            "cilindrada_cm3": 1984,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 32.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.7,
+            "velocidade_maxima_kmh": 210
+          },
+          "consumo": {
+            "cidade_gasolina": 10.1,
+            "estrada_gasolina": 12.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4504,
+            "largura": null,
+            "largura_com_retrovisores": 1984,
+            "altura": 1442,
+            "entre_eixos": 2634,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1490,
+          "porta_malas_l": 425,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/40 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Audi drive select"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/a3/a3-sedan-new/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (1.984 mm) inclui retrovisores; largura sem retrovisores não divulgada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"A3 Sedan Advanced\"."
+        },
+        {
+          "id": "audi-a3-sedan-performance-black-2026",
+          "versao": "Performance Black",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 369990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TFSI turbo",
+            "cilindrada_cm3": 1984,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 32.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.7,
+            "velocidade_maxima_kmh": 210
+          },
+          "consumo": {
+            "cidade_gasolina": 10.1,
+            "estrada_gasolina": 12.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4504,
+            "largura": null,
+            "largura_com_retrovisores": 1984,
+            "altura": 1442,
+            "entre_eixos": 2634,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1490,
+          "porta_malas_l": 425,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/35 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema de som SONOS premium com áudio 3D",
+              "Faróis Matrix LED",
+              "Audi drive select"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/a3/a3-sedan-new/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (1.984 mm) inclui retrovisores; largura sem retrovisores não divulgada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"A3 Sedan Advanced\"."
+        }
+      ]
+    },
+    {
+      "id": "audi-a3-sportback",
+      "modelo": "A3 Sportback",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch médio premium",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/audi-a3-sportback.webp",
+        "fonte_imagem": "https://motormania.com.mx/wp-content/uploads/2025/11/Captura-de-pantalla-2025-11-21-121955.png",
+        "pagina_origem": "https://motormania.com.mx/noticias/audi-a3-sportback-2026-precios-versiones-mx/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.audi.com.br/pt/models/a3/a3-sportback-new/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/audi-do-brasil-lanca-novo-a3-sportback-no-pais",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "audi-a3-sportback-performance-2026",
+          "versao": "Performance",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 344990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TFSI turbo",
+            "cilindrada_cm3": 1984,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 32.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.7,
+            "velocidade_maxima_kmh": 210
+          },
+          "consumo": {
+            "cidade_gasolina": 10.2,
+            "estrada_gasolina": 12.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4351,
+            "largura": null,
+            "largura_com_retrovisores": 1984,
+            "altura": 1391,
+            "entre_eixos": 2634,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1490,
+          "porta_malas_l": 380,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/40 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Audi drive select"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/a3/a3-sportback-new/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (1.984 mm) inclui retrovisores; largura sem retrovisores não divulgada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"A3 Spotback Peformance\"."
+        },
+        {
+          "id": "audi-a3-sportback-performance-black-2026",
+          "versao": "Performance Black",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 374990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TFSI turbo",
+            "cilindrada_cm3": 1984,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 32.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.7,
+            "velocidade_maxima_kmh": 210
+          },
+          "consumo": {
+            "cidade_gasolina": 10.2,
+            "estrada_gasolina": 12.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4351,
+            "largura": null,
+            "largura_com_retrovisores": 1984,
+            "altura": 1391,
+            "entre_eixos": 2634,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1490,
+          "porta_malas_l": 380,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/35 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema de som SONOS premium com áudio 3D",
+              "Faróis Matrix LED",
+              "Audi drive select"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/a3/a3-sportback-new/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (1.984 mm) inclui retrovisores; largura sem retrovisores não divulgada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"A3 Spotback Peformance\"."
+        }
+      ]
+    },
+    {
+      "id": "audi-rs-3-sedan",
+      "modelo": "RS 3 Sedan",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan esportivo",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/audi-rs-3-sedan.webp",
+        "fonte_imagem": "https://www.webmotors.com.br/imagens/prod/347469/AUDI_RS3_2.5_TFSI_GASOLINA_SEDAN_QUATTRO_STRONIC_34746916100800543.webp",
+        "pagina_origem": "https://www.webmotors.com.br/audi/rs3/2026/2-5-tfsi-gasolina-sedan-quattro-s-tronic/387832"
+      },
+      "fontes": [
+        {
+          "url": "https://www.audi.com.br/pt/models/a3/rs-3-sedan/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/audi-rs-3-chega-as-concessionarias-com-tracao-quattro",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/audi-do-brasil-lanca-o-novo-rs-3-sedan-no-brasil",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "audi-rs-3-sedan-2-5-tfsi-quattro-2026",
+          "versao": "2.5 TFSI quattro",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 659990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.5 TFSI turbo",
+            "cilindrada_cm3": 2480,
+            "cilindros": 5,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 400
+            },
+            "torque_kgfm": {
+              "gasolina": 51
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.8,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 7.3,
+            "estrada_gasolina": 9.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4533,
+            "largura": 1851,
+            "largura_com_retrovisores": null,
+            "altura": 1393,
+            "entre_eixos": 2631,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1650,
+          "porta_malas_l": 321,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/30 | 245/35 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Head-up display",
+              "Sistema de som SONOS premium com áudio 3D",
+              "Faróis Matrix LED",
+              "Bancos dianteiros com função massagem",
+              "Escapamento esportivo RS",
+              "Audi virtual cockpit plus com layout RS"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/a3/rs-3-sedan/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RS3 Sedan -\"."
+        },
+        {
+          "id": "audi-rs-3-sedan-track-2026",
+          "versao": "Track",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 714990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.5 TFSI turbo",
+            "cilindrada_cm3": 2480,
+            "cilindros": 5,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 400
+            },
+            "torque_kgfm": {
+              "gasolina": 51
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.8,
+            "velocidade_maxima_kmh": 280
+          },
+          "consumo": {
+            "cidade_gasolina": 7.3,
+            "estrada_gasolina": 9.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4533,
+            "largura": 1851,
+            "largura_com_retrovisores": null,
+            "altura": 1393,
+            "entre_eixos": 2631,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1650,
+          "porta_malas_l": 321,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/30 | 245/35 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Head-up display",
+              "Sistema de som SONOS premium com áudio 3D",
+              "Faróis Matrix LED",
+              "Escapamento esportivo RS",
+              "Audi virtual cockpit plus com layout RS",
+              "Freios de cerâmica"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/a3/rs-3-sedan/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Versão Track: freios de cerâmica e velocidade máxima de 280 km/h. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RS3 Sedan -\"."
+        }
+      ]
+    },
+    {
+      "id": "audi-a5-sedan",
+      "modelo": "A5 Sedan",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan médio premium",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/audi-a5-sedan.webp",
+        "fonte_imagem": "https://gmauthority.com/blog/wp-content/uploads/2024/07/2026-Audi-A5-Sedan-Press-Photos-Exterior-003-side.jpg",
+        "pagina_origem": "https://gmauthority.com/blog/2024/07/next-generation-audi-a5-and-s5-revealed-as-cadillac-ct5-rival/2026-audi-a5-sedan-press-photos-exterior-003-side/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.audi.com.br/pt/models/a5/a5-sedan/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/audi-do-brasil-lanca-a5-com-novos-equipamentos-na-linha-2026",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "audi-a5-sedan-s-line-2-0-tfsi-quattro-2026",
+          "versao": "S line 2.0 TFSI quattro",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 424990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TFSI turbo",
+            "cilindrada_cm3": 1984,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 272
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.9,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 8.4,
+            "estrada_gasolina": 11
+          },
+          "dimensoes_mm": {
+            "comprimento": 4829,
+            "largura": null,
+            "largura_com_retrovisores": 2099,
+            "altura": 1444,
+            "entre_eixos": 2892,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1890,
+          "porta_malas_l": 417,
+          "tanque_l": 56,
+          "lugares": 5,
+          "portas": null,
+          "pneus": "245/35 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.5,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Chave digital",
+              "Tampa do porta-malas com abertura e fechamento elétrico"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/a5/a5-sedan/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (2.099 mm) inclui retrovisores; largura sem retrovisores não divulgada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"A5 Sedan S line\"."
+        }
+      ]
+    },
+    {
+      "id": "audi-a5-avant",
+      "modelo": "A5 Avant",
+      "categoria": "Perua/Station Wagon",
+      "subcategoria": "Perua média premium",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/audi-a5-avant.webp",
+        "fonte_imagem": "https://autotijd.be/images/audi/2024/a5-avant/new/audi-a5-avant-2024-03.jpg",
+        "pagina_origem": "https://autotijd.be/en/dimensions/audi/a5-avant"
+      },
+      "fontes": [
+        {
+          "url": "https://www.audi.com.br/pt/models/a5/a-5-avant/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/a5-avant-e-a6-avant-e-tron-chegam-a-rede-de-concessionarias",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "audi-a5-avant-s-line-2-0-tfsi-quattro-2026",
+          "versao": "S line 2.0 TFSI quattro",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 474990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TFSI turbo",
+            "cilindrada_cm3": 1984,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 272
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.9,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 8.4,
+            "estrada_gasolina": 11
+          },
+          "dimensoes_mm": {
+            "comprimento": 4829,
+            "largura": null,
+            "largura_com_retrovisores": 2099,
+            "altura": 1460,
+            "entre_eixos": 2892,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1890,
+          "porta_malas_l": 448,
+          "tanque_l": 56,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/35 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.5,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Head-up display",
+              "Display MMI do passageiro de 10,9\"",
+              "Sistema de som Bang & Olufsen Premium com áudio 3D",
+              "Faróis Matrix LED",
+              "Chave digital",
+              "Tampa do porta-malas com abertura e fechamento elétrico"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/a5/a-5-avant/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (2.099 mm) inclui retrovisores; largura sem retrovisores não divulgada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"A5 Avant S line\"."
+        }
+      ]
+    },
+    {
+      "id": "audi-a6-sportback-e-tron",
+      "modelo": "A6 Sportback e-tron",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan fastback elétrico",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/audi-a6-sportback-e-tron.webp",
+        "fonte_imagem": "https://img.autonomiacocheselectricos.es/images/version/model/audi-a6-sportback-e-tron-s6-contexto-entorno-real-contexto-aparcado-exterior-lateral-derecha-1.webp",
+        "pagina_origem": "https://autonomiacocheselectricos.es/audi/a6-sportback-e-tron/s6/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.audi.com.br/pt/models/a6/a-6-e-tron/index1",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/audi-a6-sportback-e-tron-o-mais-aerodinamico-da-historia",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/audi-abre-pre-venda-do-inedito-a6-sportback-e-tron-1",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "audi-a6-sportback-e-tron-s-line-e-tron-performance-2026",
+          "versao": "S line e-tron performance",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 679990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 367
+            },
+            "torque_kgfm": {
+              "eletrico": 57.6
+            },
+            "bateria_kwh": 94.9,
+            "autonomia_eletrica_km": 445,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.4,
+            "velocidade_maxima_kmh": 210
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 36.5,
+            "estrada_eletrico_km_le": 32.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4928,
+            "largura": 1923,
+            "largura_com_retrovisores": null,
+            "altura": 1487,
+            "entre_eixos": 2946,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2280,
+          "porta_malas_l": 502,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": null,
+          "pneus": "245/40 | 275/35 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 9,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.5,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Head-up display com realidade aumentada",
+              "Display MMI do passageiro de 10,9\"",
+              "Sistema de som Bang & Olufsen Premium com áudio 3D",
+              "Faróis Matrix LED",
+              "Chave digital",
+              "Tampa do porta-malas com abertura e fechamento elétrico"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/a6/a-6-e-tron/index1/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Recarga máx. AC/DC: 11 kW / 270 kW. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"A6 e-tron S line\"."
+        }
+      ]
+    },
+    {
+      "id": "audi-a6-avant-e-tron",
+      "modelo": "A6 Avant e-tron",
+      "categoria": "Perua/Station Wagon",
+      "subcategoria": "Perua elétrica",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/audi-a6-avant-e-tron.webp",
+        "fonte_imagem": "https://p.turbosquid.com/ts-thumb/Gu/dXQxM1/H1/2025_audi_a6_avant_etron_trn/jpg/1738351693/1920x1080/turn_fit_q99/b2c24af988a5b7c0b19261a4538bedfa3519a95f/2025_audi_a6_avant_etron_trn-1.jpg",
+        "pagina_origem": "https://www.turbosquid.com/3d-models/2025-audi-a6-avant-etron-model-2348027"
+      },
+      "fontes": [
+        {
+          "url": "https://www.audi.com.br/pt/models/a6/a-6-avant-e-tron/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/a5-avant-e-a6-avant-e-tron-chegam-a-rede-de-concessionarias",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "audi-a6-avant-e-tron-s-line-e-tron-performance-2027",
+          "versao": "S line e-tron performance",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 699990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 367
+            },
+            "torque_kgfm": {
+              "eletrico": 57.6
+            },
+            "bateria_kwh": 94.9,
+            "autonomia_eletrica_km": 440,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.4,
+            "velocidade_maxima_kmh": 210
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 37,
+            "estrada_eletrico_km_le": 31.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4928,
+            "largura": null,
+            "largura_com_retrovisores": 2137,
+            "altura": 1527,
+            "entre_eixos": 2946,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2300,
+          "porta_malas_l": 502,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/40 | 275/35 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 9,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.5,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Head-up display com realidade aumentada",
+              "Display MMI do passageiro de 10,9\"",
+              "Sistema de som Bang & Olufsen Premium com áudio 3D",
+              "Faróis Matrix LED",
+              "Chave digital",
+              "Tampa do porta-malas com abertura e fechamento elétrico"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/a6/a-6-avant-e-tron/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (2.137 mm) inclui retrovisores; largura sem retrovisores não divulgada. Recarga máx. AC/DC: 11 kW / 270 kW. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"A6 Avant e-tron S line\"."
+        }
+      ]
+    },
+    {
+      "id": "audi-q3",
+      "modelo": "Q3",
+      "categoria": "SUV Compacto",
+      "subcategoria": "SUV compacto premium",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/audi-q3.webp",
+        "fonte_imagem": "https://www.motorbox.com/image/8/5/1/851581/851581-16x9-lg.jpg",
+        "pagina_origem": "https://www.motorbox.com/auto/auto-viste-e-provate/nuova-audi-q3-2025-diesel-e-non-prova-prezzi-opinioni"
+      },
+      "fontes": [
+        {
+          "url": "https://www.audi.com.br/pt/models/q3/q3-suv/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/press-release-15",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/audi-do-brasil-lanca-novos-q3-e-q3-sportback-em-luxuoso-evento",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "audi-q3-launch-edition-tfsi-quattro-2026",
+          "versao": "Launch Edition TFSI quattro",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 389990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TFSI turbo",
+            "cilindrada_cm3": 1984,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 258
+            },
+            "torque_kgfm": {
+              "gasolina": 37.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.9,
+            "velocidade_maxima_kmh": 210
+          },
+          "consumo": {
+            "cidade_gasolina": 8.2,
+            "estrada_gasolina": 9.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4531,
+            "largura": null,
+            "largura_com_retrovisores": 2087,
+            "altura": 1601,
+            "entre_eixos": 2681,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1780,
+          "porta_malas_l": 488,
+          "tanque_l": 60,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "255/45 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Tampa do porta-malas com abertura e fechamento elétrico"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/q3/q3-suv/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (2.087 mm) inclui retrovisores; largura sem retrovisores não divulgada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Q3 SUV Launch edition\"."
+        }
+      ]
+    },
+    {
+      "id": "audi-q3-sportback",
+      "modelo": "Q3 Sportback",
+      "categoria": "SUV Compacto",
+      "subcategoria": "SUV cupê",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/audi-q3-sportback.webp",
+        "fonte_imagem": "https://www.netcarshow.com/Audi-Q3_Sportback_UK-Version-2026-Side_Profile.df71f25b.jpg",
+        "pagina_origem": "https://www.netcarshow.com/audi/2026-q3_sportback_uk-version/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.audi.com.br/pt/models/q3/q3-sportback/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/press-release-15",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/audi-do-brasil-lanca-novos-q3-e-q3-sportback-em-luxuoso-evento",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "audi-q3-sportback-launch-edition-tfsi-quattro-2026",
+          "versao": "Launch Edition TFSI quattro",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 399990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TFSI turbo",
+            "cilindrada_cm3": 1984,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 258
+            },
+            "torque_kgfm": {
+              "gasolina": 37.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.9,
+            "velocidade_maxima_kmh": 210
+          },
+          "consumo": {
+            "cidade_gasolina": 8.2,
+            "estrada_gasolina": 9.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4531,
+            "largura": null,
+            "largura_com_retrovisores": 2087,
+            "altura": 1559,
+            "entre_eixos": 2681,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1780,
+          "porta_malas_l": 488,
+          "tanque_l": 60,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "255/45 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Tampa do porta-malas com abertura e fechamento elétrico"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/q3/q3-sportback/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (2.087 mm) inclui retrovisores; largura sem retrovisores não divulgada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Q3 Sportback Launch edition\"."
+        }
+      ]
+    },
+    {
+      "id": "audi-q5",
+      "modelo": "Q5",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/audi-q5.webp",
+        "fonte_imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHuKRQHJnOl8_Y-M2ltW6vHlT6Gqjyn1nvyNx3nfxJM0t6F3wP7kX_KnPyxK_ieXlR1tnQM0jPkB89QSs1fFPUihar2cYv1qDymRj8IllyvxaiDGO_xwgWhOSVc4lL44dCCoW7YecNrgYpA8hyaIcuI93HwyK9GegYKXi8jWDTni_WQ9Jo_QVj9mMETLer/s2560/Audi-Q5-híbrida-plug-in-2026 (9).jpg",
+        "pagina_origem": "https://www.car.blog.br/2025/06/novo-audi-q5-sportback-e-hybrid-com-367.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.audi.com.br/pt/models/q5/q5-suv/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/audi-do-brasil-lanca-q5-e-sq-5-2026-com-tecnologias-ineditas",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "audi-q5-dynamic-2026",
+          "versao": "Dynamic",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 449990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TFSI turbo",
+            "cilindrada_cm3": 1984,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 272
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.2,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 8.3,
+            "estrada_gasolina": 10.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4717,
+            "largura": null,
+            "largura_com_retrovisores": 2155,
+            "altura": 1647,
+            "entre_eixos": 2820,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2000,
+          "porta_malas_l": 520,
+          "tanque_l": 65,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "255/45 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.5,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Chave digital"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/q5/q5-suv/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (2.155 mm) inclui retrovisores; largura sem retrovisores não divulgada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Q5 SUV Advanced\"."
+        },
+        {
+          "id": "audi-q5-s-line-2026",
+          "versao": "S line",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 513990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TFSI turbo",
+            "cilindrada_cm3": 1984,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 272
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.2,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 8.3,
+            "estrada_gasolina": 10.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4717,
+            "largura": null,
+            "largura_com_retrovisores": 2155,
+            "altura": 1647,
+            "entre_eixos": 2820,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2000,
+          "porta_malas_l": 520,
+          "tanque_l": 65,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "255/40 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.5,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Display MMI do passageiro de 10,9\"",
+              "Sistema de som Bang & Olufsen Premium com áudio 3D",
+              "Faróis Matrix LED",
+              "Chave digital"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/q5/q5-suv/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (2.155 mm) inclui retrovisores; largura sem retrovisores não divulgada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Q5 SUV Advanced\"."
+        }
+      ]
+    },
+    {
+      "id": "audi-q5-sportback",
+      "modelo": "Q5 Sportback",
+      "categoria": "SUV Médio",
+      "subcategoria": "SUV cupê",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/audi-q5-sportback.webp",
+        "fonte_imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHuKRQHJnOl8_Y-M2ltW6vHlT6Gqjyn1nvyNx3nfxJM0t6F3wP7kX_KnPyxK_ieXlR1tnQM0jPkB89QSs1fFPUihar2cYv1qDymRj8IllyvxaiDGO_xwgWhOSVc4lL44dCCoW7YecNrgYpA8hyaIcuI93HwyK9GegYKXi8jWDTni_WQ9Jo_QVj9mMETLer/s2560/Audi-Q5-híbrida-plug-in-2026 (9).jpg",
+        "pagina_origem": "https://www.car.blog.br/2025/06/novo-audi-q5-sportback-e-hybrid-com-367.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.audi.com.br/pt/models/q5/q-5-sportback/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/audi-do-brasil-lanca-q5-e-sq-5-2026-com-tecnologias-ineditas",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "audi-q5-sportback-dynamic-2026",
+          "versao": "Dynamic",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 479990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TFSI turbo",
+            "cilindrada_cm3": 1984,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 272
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.2,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 8.3,
+            "estrada_gasolina": 10.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4717,
+            "largura": null,
+            "largura_com_retrovisores": 2155,
+            "altura": 1642,
+            "entre_eixos": 2820,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2000,
+          "porta_malas_l": 515,
+          "tanque_l": 65,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "255/45 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.5,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Chave digital"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/q5/q-5-sportback/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (2.155 mm) inclui retrovisores; largura sem retrovisores não divulgada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Q5 Sportback Advanced\"."
+        },
+        {
+          "id": "audi-q5-sportback-s-line-2026",
+          "versao": "S line",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 528990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TFSI turbo",
+            "cilindrada_cm3": 1984,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 272
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.2,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 8.3,
+            "estrada_gasolina": 10.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4717,
+            "largura": null,
+            "largura_com_retrovisores": 2155,
+            "altura": 1642,
+            "entre_eixos": 2820,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2000,
+          "porta_malas_l": 515,
+          "tanque_l": 65,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "255/40 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.5,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Display MMI do passageiro de 10,9\"",
+              "Sistema de som Bang & Olufsen Premium com áudio 3D",
+              "Faróis Matrix LED",
+              "Chave digital"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/q5/q-5-sportback/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (2.155 mm) inclui retrovisores; largura sem retrovisores não divulgada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Q5 Sportback Advanced\"."
+        }
+      ]
+    },
+    {
+      "id": "audi-sq5",
+      "modelo": "SQ5",
+      "categoria": "SUV Médio",
+      "subcategoria": "SUV esportivo",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/audi-sq5.webp",
+        "fonte_imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio20f-RlqH8oXUBmGoac-2qluBlAr3WDJjdJcYmJLqVjEY4NP2_-pi2IUjfQ0uWphEl1McZpYI7lSIhLnZD2eAHRZtD3WDABwoms5zoVg6x7fKD0EjAPy5tt_D8PLwOyNXftYSlV4F_aXbpKVZ0rrIGxMHaq6pKXi-BfCsiEX5F5TBg2YD7puXfvjGpjaw/s2560/Novo-Audo-SQ5-2026 %286%29.jpg",
+        "pagina_origem": "https://www.car.blog.br/2025/09/novos-sq5-e-sq5-sportback-audi-inicia.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.audi.com.br/pt/models/q5/sq-5-suv/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/audi-do-brasil-lanca-q5-e-sq-5-2026-com-tecnologias-ineditas",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "audi-sq5-3-0-tfsi-quattro-2026",
+          "versao": "3.0 TFSI quattro",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 644990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 TFSI V6 turbo",
+            "cilindrada_cm3": 2994,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 367
+            },
+            "torque_kgfm": {
+              "gasolina": 56.1
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.5,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 7.2,
+            "estrada_gasolina": 9.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4717,
+            "largura": null,
+            "largura_com_retrovisores": 2155,
+            "altura": 1649,
+            "entre_eixos": 2820,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2065,
+          "porta_malas_l": 520,
+          "tanque_l": 65,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "255/40 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 9,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.5,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Head-up display",
+              "Display MMI do passageiro de 10,9\"",
+              "Sistema de som Bang & Olufsen Premium com áudio 3D",
+              "Faróis Matrix LED",
+              "Bancos dianteiros com função massagem",
+              "Assistente de estacionamento remoto (via smartphone/chave)",
+              "Chave digital"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/q5/sq-5-suv/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (2.155 mm) inclui retrovisores; largura sem retrovisores não divulgada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"SQ5 SUV -\"."
+        }
+      ]
+    },
+    {
+      "id": "audi-sq5-sportback",
+      "modelo": "SQ5 Sportback",
+      "categoria": "SUV Médio",
+      "subcategoria": "SUV cupê esportivo",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/audi-sq5-sportback.webp",
+        "fonte_imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHuKRQHJnOl8_Y-M2ltW6vHlT6Gqjyn1nvyNx3nfxJM0t6F3wP7kX_KnPyxK_ieXlR1tnQM0jPkB89QSs1fFPUihar2cYv1qDymRj8IllyvxaiDGO_xwgWhOSVc4lL44dCCoW7YecNrgYpA8hyaIcuI93HwyK9GegYKXi8jWDTni_WQ9Jo_QVj9mMETLer/s2560/Audi-Q5-híbrida-plug-in-2026 (9).jpg",
+        "pagina_origem": "https://www.car.blog.br/2025/06/novo-audi-q5-sportback-e-hybrid-com-367.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.audi.com.br/pt/models/q5/sq-5-sportback/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/audi-do-brasil-lanca-q5-e-sq-5-2026-com-tecnologias-ineditas",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "audi-sq5-sportback-3-0-tfsi-quattro-2026",
+          "versao": "3.0 TFSI quattro",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 659990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 TFSI V6 turbo",
+            "cilindrada_cm3": 2994,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 367
+            },
+            "torque_kgfm": {
+              "gasolina": 56.1
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.5,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 6.9,
+            "estrada_gasolina": 8.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4717,
+            "largura": null,
+            "largura_com_retrovisores": 2155,
+            "altura": 1644,
+            "entre_eixos": 2820,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2065,
+          "porta_malas_l": 515,
+          "tanque_l": 65,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "255/40 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 9,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.5,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Head-up display",
+              "Display MMI do passageiro de 10,9\"",
+              "Sistema de som Bang & Olufsen Premium com áudio 3D",
+              "Faróis Matrix LED",
+              "Bancos dianteiros com função massagem",
+              "Assistente de estacionamento remoto (via smartphone/chave)",
+              "Chave digital"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/q5/sq-5-sportback/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (2.155 mm) inclui retrovisores; largura sem retrovisores não divulgada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"SQ5 Sportback -\"."
+        }
+      ]
+    },
+    {
+      "id": "audi-q6-e-tron",
+      "modelo": "Q6 e-tron",
+      "categoria": "SUV Médio",
+      "subcategoria": "SUV elétrico",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/audi-q6-e-tron.webp",
+        "fonte_imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFBBBEa0KjqZcGhfOmoSgeBKYnuQeA_xJRoDM_5eGHpq8i3Spf8wx85tIStLBUqtxn2NEtolt3yv4hcAAvO9I6rNFnEqSdRW9C-498B6AVnwPHKkTGbpCIsNafpDjDsOcZb6tNC3Qt2XgbLhx2O8QMuYTl8RDBysIDMiuaJ9A-scUj35wxV9v6kFwngZjS/s2560/Audi-Q6-eTron-2026 (23).jpg",
+        "pagina_origem": "https://www.car.blog.br/2026/04/audi-q6-etron-2026-preco-brasil.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.audi.com.br/pt/models/q6-e-tron/q6-e-tron/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/audi-do-brasil-anuncia-q6-e-tron-e-q6-sportback-e-tron-2026-1",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "audi-q6-e-tron-s-line-e-tron-quattro-2026",
+          "versao": "S line e-tron quattro",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 695990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico (dois motores)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 428
+            },
+            "torque_kgfm": {
+              "eletrico": 65.3
+            },
+            "bateria_kwh": 94.9,
+            "autonomia_eletrica_km": 424,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.4,
+            "velocidade_maxima_kmh": 210
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 35.3,
+            "estrada_eletrico_km_le": 30.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4771,
+            "largura": null,
+            "largura_com_retrovisores": 2193,
+            "altura": 1685,
+            "entre_eixos": 2889,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2470,
+          "porta_malas_l": 526,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "255/45 | 285/40 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 9,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.5,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Head-up display com realidade aumentada",
+              "Display MMI do passageiro de 10,9\"",
+              "Sistema de som Bang & Olufsen Premium com áudio 3D",
+              "Faróis Matrix LED",
+              "Chave digital",
+              "Tampa do porta-malas com abertura e fechamento elétrico"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/q6-e-tron/q6-e-tron/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (2.193 mm) inclui retrovisores; largura sem retrovisores não divulgada. 0-100 km/h com launch control: 5,1 s. Recarga máx. AC/DC: 11 kW / 270 kW. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Q6 e-tron Quattro S line\"."
+        }
+      ]
+    },
+    {
+      "id": "audi-q6-sportback-e-tron",
+      "modelo": "Q6 Sportback e-tron",
+      "categoria": "SUV Médio",
+      "subcategoria": "SUV cupê elétrico",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/audi-q6-sportback-e-tron.webp",
+        "fonte_imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFBBBEa0KjqZcGhfOmoSgeBKYnuQeA_xJRoDM_5eGHpq8i3Spf8wx85tIStLBUqtxn2NEtolt3yv4hcAAvO9I6rNFnEqSdRW9C-498B6AVnwPHKkTGbpCIsNafpDjDsOcZb6tNC3Qt2XgbLhx2O8QMuYTl8RDBysIDMiuaJ9A-scUj35wxV9v6kFwngZjS/s2560/Audi-Q6-eTron-2026 (23).jpg",
+        "pagina_origem": "https://www.car.blog.br/2026/04/audi-q6-etron-2026-preco-brasil.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.audi.com.br/pt/models/q6-e-tron/q-6-etron-sportback/q6-sportback-e-tron",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/audi-do-brasil-anuncia-q6-e-tron-e-q6-sportback-e-tron-2026-1",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "audi-q6-sportback-e-tron-s-line-e-tron-quattro-2026",
+          "versao": "S line e-tron quattro",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 710990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico (dois motores)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 428
+            },
+            "torque_kgfm": {
+              "eletrico": 65.3
+            },
+            "bateria_kwh": 94.9,
+            "autonomia_eletrica_km": 431,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.4,
+            "velocidade_maxima_kmh": 210
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 35.7,
+            "estrada_eletrico_km_le": 31.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4771,
+            "largura": null,
+            "largura_com_retrovisores": 2193,
+            "altura": 1648,
+            "entre_eixos": 2889,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2470,
+          "porta_malas_l": 511,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "255/45 | 285/40 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 9,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.5,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Head-up display com realidade aumentada",
+              "Display MMI do passageiro de 10,9\"",
+              "Sistema de som Bang & Olufsen Premium com áudio 3D",
+              "Faróis Matrix LED",
+              "Chave digital",
+              "Tampa do porta-malas com abertura e fechamento elétrico"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/q6-e-tron/q-6-etron-sportback/q6-sportback-e-tron/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (2.193 mm) inclui retrovisores; largura sem retrovisores não divulgada. 0-100 km/h com launch control: 5,1 s. Recarga máx. AC/DC: 11 kW / 270 kW. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Q6 Sportback e-tron Quattro S line\"."
+        }
+      ]
+    },
+    {
+      "id": "audi-sq6-sportback-e-tron",
+      "modelo": "SQ6 Sportback e-tron",
+      "categoria": "SUV Médio",
+      "subcategoria": "SUV cupê elétrico esportivo",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/audi-sq6-sportback-e-tron.webp",
+        "fonte_imagem": "https://www.netcarshow.com/Audi-SQ6_Sportback_e-tron_UK-Version-2025-Side_Profile.c23367c3.jpg",
+        "pagina_origem": "https://www.netcarshow.com/audi/2025-sq6_sportback_e-tron_uk-version/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.audi.com.br/pt/models/q6-e-tron/sq-6-sb-etron/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/audi-do-brasil-lanca-a-linha-2026-do-esportivo-sq-6-sportback-e-tron",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "audi-sq6-sportback-e-tron-e-tron-quattro-2026",
+          "versao": "e-tron quattro",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 790990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico (dois motores)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 517
+            },
+            "torque_kgfm": {
+              "eletrico": 81.1
+            },
+            "bateria_kwh": 94.9,
+            "autonomia_eletrica_km": 431,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.4,
+            "velocidade_maxima_kmh": 230
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 34.8,
+            "estrada_eletrico_km_le": 31.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4771,
+            "largura": null,
+            "largura_com_retrovisores": 2193,
+            "altura": 1628,
+            "entre_eixos": 2893,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 499,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "255/45 | 285/40 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 9,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.5,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Head-up display com realidade aumentada",
+              "Display MMI do passageiro de 10,9\"",
+              "Sistema de som Bang & Olufsen Premium com áudio 3D",
+              "Faróis Matrix LED",
+              "Bancos dianteiros com função massagem",
+              "Assistente de estacionamento remoto (via smartphone/chave)",
+              "Chave digital",
+              "Tampa do porta-malas com abertura e fechamento elétrico"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/q6-e-tron/sq-6-sb-etron/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (2.193 mm) inclui retrovisores; largura sem retrovisores não divulgada. 0-100 km/h com launch control: 4,3 s. Recarga máx. AC/DC: 11kW / 270 kW. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"SQ6 Sportback e-tron Quattro -\"."
+        }
+      ]
+    },
+    {
+      "id": "audi-q7",
+      "modelo": "Q7",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV 7 lugares",
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/audi-q7.webp",
+        "fonte_imagem": "https://pictures.dealer.com/a/audiwesleychapelsecondary/1234/40880f46494640dd86db658a43eb401e.jpg?impolicy=downsize_bkpt&w=2500",
+        "pagina_origem": "https://www.audiwesleychapel.com/2026-audi-q7.htm"
+      },
+      "fontes": [
+        {
+          "url": "https://www.audi.com.br/pt/models/q7/q7-suv-2025/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/audi-do-brasil-anuncia-pre-venda-do-novo-q7-modelo-sete-lugares-da-marca",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "audi-q7-s-line-3-0-tfsi-quattro-2026",
+          "versao": "S line 3.0 TFSI quattro",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 729990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 TFSI V6 turbo MHEV 48V",
+            "cilindrada_cm3": 2995,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 340
+            },
+            "torque_kgfm": {
+              "gasolina": 51
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.6,
+            "velocidade_maxima_kmh": 210
+          },
+          "consumo": {
+            "cidade_gasolina": 7,
+            "estrada_gasolina": 8.6
+          },
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2345,
+          "porta_malas_l": 780,
+          "tanque_l": 85,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": "285/35 R22",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 22,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema de som Bang & Olufsen Premium com áudio 3D",
+              "Faróis Matrix LED",
+              "Suspensão pneumática adaptativa",
+              "Tampa do porta-malas com abertura e fechamento elétrico",
+              "Fechamento servoassistido das portas"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/q7/q7-suv-2025/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Dimensões externas não divulgadas no site/imprensa Audi BR para a linha atual. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Q7 S Line\"."
+        }
+      ]
+    },
+    {
+      "id": "audi-q8",
+      "modelo": "Q8",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV cupê",
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/audi-q8.webp",
+        "fonte_imagem": "https://hips.hearstapps.com/mtg-prod/68cc6f5ac71b490002c9eabf/3-2026-audi-q8-side-view.jpg?w=100",
+        "pagina_origem": "https://www.motortrend.com/cars/audi/q8/2026"
+      },
+      "fontes": [
+        {
+          "url": "https://www.audi.com.br/pt/models/q8/q8-suv-2025/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/audi-q8-e-lancado-com-visual-renovado-e-novas-tecnologias",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "audi-q8-performance-black-3-0-tfsi-quattro-2026",
+          "versao": "Performance Black 3.0 TFSI quattro",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 819990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 TFSI V6 turbo MHEV 48V",
+            "cilindrada_cm3": 2995,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 340
+            },
+            "torque_kgfm": {
+              "gasolina": 51
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.6,
+            "velocidade_maxima_kmh": 210
+          },
+          "consumo": {
+            "cidade_gasolina": 6.8,
+            "estrada_gasolina": 7.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4992,
+            "largura": null,
+            "largura_com_retrovisores": 2190,
+            "altura": 1697,
+            "entre_eixos": 2998,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 604,
+          "tanque_l": 85,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "285/35 R23",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 23,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema de som Bang & Olufsen Premium com áudio 3D",
+              "Faróis Matrix LED",
+              "Suspensão pneumática adaptativa",
+              "Direção nas quatro rodas",
+              "Tampa do porta-malas com abertura e fechamento elétrico",
+              "Fechamento servoassistido das portas"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/q8/q8-suv-2025/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (2.190 mm) inclui retrovisores; largura sem retrovisores não divulgada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Q8 Sportback Performance Black\"."
+        }
+      ]
+    },
+    {
+      "id": "audi-rs-q8",
+      "modelo": "RS Q8",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV cupê esportivo",
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/audi-rs-q8.webp",
+        "fonte_imagem": "https://nar-dam.audi.com/adobe/assets/urn:aaid:aem:7f1d6e2c-54c9-44a1-ae0f-9f85c6211cec/as/1920x1920_STAGE_MY25---RS-Q8-performance---Exterior---Profile---Parked---6671.jpg",
+        "pagina_origem": "https://www.audi.ca/fr/models/q8/rsq8/2026/apercu/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.audi.com.br/pt/models/q8/rs-q-8-suv-performance/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/novo-rs-q8-performance-chega-as-concessionarias-do-brasil",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "audi-rs-q8-performance-2026",
+          "versao": "Performance",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 1339990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 TFSI V8 turbo MHEV 48V",
+            "cilindrada_cm3": 3996,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 640
+            },
+            "torque_kgfm": {
+              "gasolina": 86.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.6,
+            "velocidade_maxima_kmh": 280
+          },
+          "consumo": {
+            "cidade_gasolina": 5.3,
+            "estrada_gasolina": 7
+          },
+          "dimensoes_mm": {
+            "comprimento": 5022,
+            "largura": null,
+            "largura_com_retrovisores": 2190,
+            "altura": 1699,
+            "entre_eixos": 2998,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2465,
+          "porta_malas_l": 604,
+          "tanque_l": 85,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "295/35 R23",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 23,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Head-up display",
+              "Sistema de som Bang & Olufsen Premium com áudio 3D",
+              "Faróis Matrix LED",
+              "Direção nas quatro rodas",
+              "Escapamento esportivo RS",
+              "Audi virtual cockpit plus com layout RS",
+              "Freios de cerâmica",
+              "Tampa do porta-malas com abertura e fechamento elétrico",
+              "Fechamento servoassistido das portas"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/q8/rs-q-8-suv-performance/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (2.190 mm) inclui retrovisores; largura sem retrovisores não divulgada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RSQ8 Performance\"."
+        }
+      ]
+    },
+    {
+      "id": "audi-rs-e-tron-gt",
+      "modelo": "RS e-tron GT",
+      "categoria": "Sedan",
+      "subcategoria": "Gran turismo elétrico (4 portas)",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/audi-rs-e-tron-gt.webp",
+        "fonte_imagem": "https://noorcars.com/wp-content/uploads/2025/06/2025-audi-rs-e-tron-gt-performance-features-interior-and-exterior-youtube.jpg",
+        "pagina_origem": "https://noorcars.com/2026-audi-rs-e-tron-gt/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.audi.com.br/pt/models/e-tron-gt/new-rs-etron-gt/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.audi-imprensa.com.br/pressreleases/audi-do-brasil-lanca-rs-e-tron-gt-performance-que-sera-vendido-sob-encomenda",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "audi-rs-e-tron-gt-performance-2026",
+          "versao": "Performance",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 1334990,
+          "preco_obs": "Preço público sugerido no configurador Audi Brasil (sem opcionais)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico (dois motores)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 925
+            },
+            "torque_kgfm": {
+              "eletrico": 104.7
+            },
+            "bateria_kwh": 97,
+            "autonomia_eletrica_km": 348,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.9,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 25.2,
+            "estrada_eletrico_km_le": 25.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4997,
+            "largura": null,
+            "largura_com_retrovisores": 2158,
+            "altura": 1379,
+            "entre_eixos": 2900,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 350,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": "265/35 | 305/30 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 8,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Head-up display",
+              "Sistema de som Bang & Olufsen Premium com áudio 3D",
+              "Faróis Matrix LED com luz laser",
+              "Direção nas quatro rodas"
+            ]
+          },
+          "fonte_url": "https://www.audi.com.br/pt/models/e-tron-gt/new-rs-etron-gt/configure/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Largura divulgada pela Audi (2.158 mm) inclui retrovisores; largura sem retrovisores não divulgada. 0-100 km/h com launch control: 2,5 s. Recarga máx. AC/DC: 11 kW / 320 kW. Potência de 925 cv é a máxima com launch control/boost, conforme ficha da Audi. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RS e-tron GT Performance\"."
+        }
+      ]
+    }
+  ]
+}

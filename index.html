@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CC · Compare antes de escolher</title>
+  <meta name="description" content="Compare preços sugeridos, consumo, motorização e equipamentos dos carros vendidos no Brasil, anos-modelo 2026 e 2027.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Inter+Tight:wght@500;600;700&family=JetBrains+Mono:wght@500&display=swap">
+  <link rel="stylesheet" href="css/estilo.css">
+  <script type="module" src="js/comum.js"></script>
+  <script type="module" src="js/hero.js"></script>
+</head>
+<body>
+<header class="cabecalho">
+  <div class="conteudo">
+    <a class="logo" href="index.html" aria-current="page" aria-label="CC, página inicial">CC</a>
+    <nav class="menu" aria-label="Principal">
+      <a href="explorar.php">Explorar modelos</a>
+      <a href="como-comparamos.php">Como comparamos</a>
+      <a class="botao botao--pequeno" href="comparar.html"><span>Minha comparação (<span data-contador>0</span>)</span></a>
+    </nav>
+  </div>
+</header>
+
+<main class="hero">
+  <div class="conteudo">
+    <div class="hero__sobretitulo rotulo">
+      <span>Compare. Entenda. Escolha.</span>
+      <span>Brasil / anos-modelo 2026 e 2027</span>
+    </div>
+
+    <div class="hero__titulo">
+      <h1>Compare antes de escolher.</h1>
+      <p>Preços sugeridos, consumo, motorização e equipamentos. Compare versões e descubra o que faz sentido para você.</p>
+    </div>
+
+    <form class="busca" id="busca" role="search" autocomplete="off">
+      <label class="busca__rotulo" for="termo" id="busca-rotulo">Qual modelo você quer comparar?</label>
+      <div class="busca__caixa">
+        <input id="termo" name="termo" type="text" placeholder="Digite o modelo do carro"
+               role="combobox" aria-expanded="false" aria-controls="sugestoes" aria-autocomplete="list">
+        <button class="botao botao--limao busca__botao" type="submit">Buscar modelo →</button>
+        <ul class="sugestoes" id="sugestoes" role="listbox" aria-label="Modelos sugeridos" hidden></ul>
+      </div>
+      <p class="busca__mensagem" id="busca-mensagem" role="status" hidden></p>
+
+      <ul class="selecionados" id="selecionados" aria-label="Modelos escolhidos"></ul>
+
+      <div class="busca__rodape">
+        <p class="busca__atalhos">Experimente:
+          <button type="button" data-atalho="Fastback">Fastback</button> ·
+          <button type="button" data-atalho="Corolla">Corolla</button> ·
+          <button type="button" data-atalho="T-Cross">T-Cross</button>
+        </p>
+        <p class="busca__dica">Comece pelo modelo. Depois, escolha as versões.</p>
+        <a class="botao botao--limao busca__comparar" id="ir-comparar" href="comparar.html" hidden><span>Comparar (<span data-contador>0</span>) →</span></a>
+      </div>
+    </form>
+  </div>
+
+  <div class="palco" aria-hidden="true">
+    <div class="palco__parede"></div>
+    <div class="palco__planta palco__planta--esq"></div>
+    <div class="palco__planta palco__planta--dir"></div>
+    <div class="palco__piso"></div>
+    <img class="palco__carro palco__carro--esq" src="img/carros/volvo-ex40.webp" alt="" width="1200" height="480">
+    <img class="palco__carro palco__carro--dir" src="img/carros/bmw-serie-3.webp" alt="" width="1200" height="400">
+  </div>
+
+  <div class="conteudo hero__rodape">
+    <span>Dados das fabricantes. Fontes secundárias sempre sinalizadas.</span>
+    <span>Modelos vendidos oficialmente no Brasil.</span>
+  </div>
+</main>
+
+<footer class="rodape">
+  <div class="conteudo">
+    <span>CC · trabalho acadêmico</span>
+    <span><a href="explorar.php">Explorar modelos</a> · <a href="como-comparamos.php">Como comparamos</a></span>
+  </div>
+</footer>
+</body>
+</html>

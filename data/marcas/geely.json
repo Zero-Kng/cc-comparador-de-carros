@@ -1,0 +1,803 @@
+{
+  "marca": "Geely",
+  "slug": "geely",
+  "site_oficial": "https://www.geelybrasil.com.br",
+  "coletado_em": "2026-10-20",
+  "modelos": [
+    {
+      "id": "geely-ex2",
+      "modelo": "EX2",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/geely-ex2.webp",
+        "fonte_imagem": "https://www.estadao.com.br/resizer/v2/JK5MZW32PZC4FH6TKGHSBWV62I.jpg?quality=80&auth=28c50d5c220e5b4908fe22b7a11573dad537e8c40f147e40687c2aee929a480d&width=1200",
+        "pagina_origem": "https://www.estadao.com.br/jornal-do-carro/geely-ex2-pode-ser-produzido-no-brasil-ainda-em-2026/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.geelybrasil.com.br/ex2",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.geelybrasil.com.br/monte-o-seu-ex2/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://static.autoforce.com/plugins/files/clientes/geely-brasil/produtos/ws/Ficha_Tecnica_GEELY_EX2.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.tabelafipebrasil.com/carros/GEELY/EX5-MAX-ELETRICO/2026-Eletrico",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "geely-ex2-pro-2026",
+          "versao": "PRO",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 124600,
+          "preco_obs": "Preço sugerido pelo fabricante no configurador oficial \"Monte o seu\" (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico traseiro 116 cv",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 116
+            },
+            "torque_kgfm": {
+              "eletrico": 15.3
+            },
+            "bateria_kwh": 39.4,
+            "autonomia_eletrica_km": 289,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.2,
+            "velocidade_maxima_kmh": 140
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 60.1,
+            "estrada_eletrico_km_le": 45.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4135,
+            "largura": 1805,
+            "largura_com_retrovisores": null,
+            "altura": 1580,
+            "entre_eixos": 2650,
+            "altura_livre_solo": 160
+          },
+          "peso_kg": 1300,
+          "porta_malas_l": 375,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Tração traseira e suspensão independente nas 4 rodas",
+              "Frunk de 70 L",
+              "V2L",
+              "Recarga DC 30-80% em 21 min (70 kW)",
+              "Som com 4 alto-falantes"
+            ]
+          },
+          "fonte_url": "https://www.geelybrasil.com.br/monte-o-seu-ex2/",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Porta-malas 375 L (1.320 L rebatido) + frunk de 70 L. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"EX2 PRO\". Ano-modelo 2026 não informado no site oficial; confirmado na Tabela FIPE."
+        },
+        {
+          "id": "geely-ex2-max-2026",
+          "versao": "MAX",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 137800,
+          "preco_obs": "Preço sugerido pelo fabricante no configurador oficial \"Monte o seu\" (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico traseiro 116 cv",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 116
+            },
+            "torque_kgfm": {
+              "eletrico": 15.3
+            },
+            "bateria_kwh": 39.4,
+            "autonomia_eletrica_km": 289,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.2,
+            "velocidade_maxima_kmh": 140
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 60.1,
+            "estrada_eletrico_km_le": 45.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4135,
+            "largura": 1805,
+            "largura_com_retrovisores": null,
+            "altura": 1580,
+            "entre_eixos": 2650,
+            "altura_livre_solo": 160
+          },
+          "peso_kg": 1300,
+          "porta_malas_l": 375,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pintura bitom com teto preto",
+              "Câmera panorâmica 540°",
+              "Alerta de mudança de faixa (LDW)",
+              "Luz ambiente de 256 cores",
+              "Conectado ao App Geely (controle remoto)",
+              "Som com 6 alto-falantes",
+              "Frunk de 70 L",
+              "V2L"
+            ]
+          },
+          "fonte_url": "https://www.geelybrasil.com.br/monte-o-seu-ex2/",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Porta-malas 375 L (1.320 L rebatido) + frunk de 70 L. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"EX2 MAX\". Ano-modelo 2026 não informado no site oficial; confirmado na Tabela FIPE."
+        }
+      ]
+    },
+    {
+      "id": "geely-ex5",
+      "modelo": "EX5",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/geely-ex5.webp",
+        "fonte_imagem": "https://v12magazine.com/wp-content/uploads/2026/02/Geely-EX5-Max-Jade-Green-Side-perfil-lateral.jpg",
+        "pagina_origem": "https://v12magazine.com/lanzamientos/nacional/geely-ex5-suv-electrico-seguridad/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.geelybrasil.com.br/ex5",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.geelybrasil.com.br/monte-o-seu-ex5/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://static.autoforce.com/plugins/files/clientes/geely-brasil/produtos/ws/ficha-tecnica-geely-ex5-v2.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.tabelafipebrasil.com/carros/GEELY/EX5-MAX-ELETRICO/2026-Eletrico",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "geely-ex5-pro-2026",
+          "versao": "PRO",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 207800,
+          "preco_obs": "Preço sugerido pelo fabricante no configurador oficial \"Monte o seu\" (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico dianteiro 218 cv",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 218
+            },
+            "torque_kgfm": {
+              "eletrico": 32.6
+            },
+            "bateria_kwh": 60.22,
+            "autonomia_eletrica_km": 413,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.9,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 51,
+            "estrada_eletrico_km_le": 44.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4615,
+            "largura": 1901,
+            "largura_com_retrovisores": null,
+            "altura": 1670,
+            "entre_eixos": 2750,
+            "altura_livre_solo": 173
+          },
+          "peso_kg": 1715,
+          "porta_malas_l": 461,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 15.4,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Bancos dianteiros com ventilação",
+              "Câmera panorâmica 540°",
+              "Piloto automático (convencional)",
+              "Conexão 4G com funções remotas",
+              "V2L e V2V",
+              "Recarga DC 30-80% em 20 min (100 kW)"
+            ]
+          },
+          "fonte_url": "https://www.geelybrasil.com.br/monte-o-seu-ex5/",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Porta-malas 461 L (1.877 L rebatido). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"EX5 PRO\". Ano-modelo 2026 não informado no site oficial; confirmado na Tabela FIPE."
+        },
+        {
+          "id": "geely-ex5-max-2026",
+          "versao": "MAX",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 227800,
+          "preco_obs": "Preço sugerido pelo fabricante no configurador oficial \"Monte o seu\" (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico dianteiro 218 cv",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 218
+            },
+            "torque_kgfm": {
+              "eletrico": 32.6
+            },
+            "bateria_kwh": 60.22,
+            "autonomia_eletrica_km": 349,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.1,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 43,
+            "estrada_eletrico_km_le": 37.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4615,
+            "largura": 1901,
+            "largura_com_retrovisores": null,
+            "altura": 1670,
+            "entre_eixos": 2750,
+            "altura_livre_solo": 173
+          },
+          "peso_kg": 1765,
+          "porta_malas_l": 461,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/50 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 15.4,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "13 ADAS incluindo piloto automático inteligente (ICC)",
+              "Head-up display de 13,8\"",
+              "Som FLYME com 16 alto-falantes",
+              "Bancos dianteiros com ventilação e massagem (6 modos)",
+              "Banco do passageiro elétrico com apoio de pernas",
+              "Teto solar panorâmico com cortina elétrica",
+              "Porta-malas elétrico",
+              "Luz ambiente de 256 cores"
+            ]
+          },
+          "fonte_url": "https://www.geelybrasil.com.br/monte-o-seu-ex5/",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Porta-malas 461 L (1.877 L rebatido). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"EX5 MAX\". Ano-modelo 2026 não informado no site oficial; confirmado na Tabela FIPE."
+        }
+      ]
+    },
+    {
+      "id": "geely-ex5-em-i",
+      "modelo": "EX5 EM-i",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/geely-ex5-em-i.webp",
+        "fonte_imagem": "https://www.geely.com/-/media/project/web-portal/models/geely-ex5-em-i/exterior/geely-ex5-em-i---side-profile.jpg?h=1080&iar=0&w=1920&hash=11B3D4B31BE62F870F37111236920B7E",
+        "pagina_origem": "https://www.geely.com/en/models/geely-ex5-em-i"
+      },
+      "fontes": [
+        {
+          "url": "https://www.geelybrasil.com.br/ex5-em-i",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.geelybrasil.com.br/monte-o-seu-ex5-em-i",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://static.autoforce.com/plugins/images/clientes/geely-brasil/produtos/ws/Geely%20EX5%20EM-I/Geely%20EX5%20EM-I/Especificac%CC%A7o%CC%83es%20Geely%20EX5%20EM-i.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.geelybrasil.com.br/renault-geely-do-brasil-anuncia-o-inicio-da-producao-do-super-hibrido-geely-ex5-em-i-no-pais",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.car.blog.br/2026/04/geely-ex5-em-i-2026-hibrido-precos.html",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.tabelafipebrasil.com/carros/GEELY/EX5-MAX-ELETRICO/2026-Eletrico",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "geely-ex5-em-i-pro-2026",
+          "versao": "PRO",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 191490,
+          "preco_obs": "Preço sugerido pelo fabricante no configurador oficial \"Monte o seu\" (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 aspirado a gasolina + motor elétrico 218 cv (EM-i)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 100,
+              "eletrico": 218,
+              "combinada": 262
+            },
+            "torque_kgfm": {
+              "gasolina": 12.7,
+              "eletrico": 26.7,
+              "combinada": 38.7
+            },
+            "bateria_kwh": 18.4,
+            "autonomia_eletrica_km": 65,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.8,
+            "velocidade_maxima_kmh": 175
+          },
+          "consumo": {
+            "cidade_gasolina": 14.6,
+            "estrada_gasolina": 13.3,
+            "cidade_eletrico_km_le": 39,
+            "estrada_eletrico_km_le": 34
+          },
+          "dimensoes_mm": {
+            "comprimento": 4740,
+            "largura": 1905,
+            "largura_com_retrovisores": null,
+            "altura": 1685,
+            "entre_eixos": 2755,
+            "altura_livre_solo": 172
+          },
+          "peso_kg": 1746,
+          "porta_malas_l": 428,
+          "tanque_l": 60,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 15.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Piloto automático inteligente (ICC)",
+              "Reconhecimento de placas (TSI)",
+              "Rack de teto",
+              "V2L e V2V",
+              "Autonomia combinada NEDC 1.245 km"
+            ]
+          },
+          "fonte_url": "https://www.geelybrasil.com.br/monte-o-seu-ex5-em-i",
+          "campos_fonte_secundaria": [
+            "transmissao.tipo",
+            "ano_modelo"
+          ],
+          "observacoes": "Produção nacional iniciada em set/2026 (Renault Geely do Brasil). Porta-malas 428 L VDA (2.065 L rebatido). Tipo de transmissão não informado na ficha oficial (E-DHT segundo imprensa). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"EX5 EM-i MAX / PRO\". Ano-modelo 2026 não informado no site oficial; confirmado na Tabela FIPE."
+        },
+        {
+          "id": "geely-ex5-em-i-max-2026",
+          "versao": "MAX",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 211490,
+          "preco_obs": "Preço sugerido pelo fabricante no configurador oficial \"Monte o seu\" (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 aspirado a gasolina + motor elétrico 218 cv (EM-i)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 100,
+              "eletrico": 218,
+              "combinada": 262
+            },
+            "torque_kgfm": {
+              "gasolina": 12.7,
+              "eletrico": 26.7,
+              "combinada": 38.7
+            },
+            "bateria_kwh": 18.4,
+            "autonomia_eletrica_km": 65,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.8,
+            "velocidade_maxima_kmh": 175
+          },
+          "consumo": {
+            "cidade_gasolina": 14.6,
+            "estrada_gasolina": 13.3,
+            "cidade_eletrico_km_le": 39,
+            "estrada_eletrico_km_le": 34
+          },
+          "dimensoes_mm": {
+            "comprimento": 4740,
+            "largura": 1905,
+            "largura_com_retrovisores": null,
+            "altura": 1685,
+            "entre_eixos": 2755,
+            "altura_livre_solo": 172
+          },
+          "peso_kg": 1782,
+          "porta_malas_l": 428,
+          "tanque_l": 60,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/50 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 15.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Head-up display de 13,8\"",
+              "Som FLYME com 16 alto-falantes",
+              "Bancos dianteiros com ventilação",
+              "Banco do motorista com memória",
+              "Teto solar panorâmico com cortina elétrica",
+              "Porta-malas elétrico",
+              "Câmera panorâmica 540°",
+              "Luz ambiente de 256 cores",
+              "V2L e V2V"
+            ]
+          },
+          "fonte_url": "https://www.geelybrasil.com.br/monte-o-seu-ex5-em-i",
+          "campos_fonte_secundaria": [
+            "transmissao.tipo",
+            "ano_modelo"
+          ],
+          "observacoes": "Produção nacional iniciada em set/2026 (Renault Geely do Brasil). Porta-malas 428 L VDA (2.065 L rebatido). Tipo de transmissão não informado na ficha oficial (E-DHT segundo imprensa). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"EX5 EM-i MAX / PRO\". Ano-modelo 2026 não informado no site oficial; confirmado na Tabela FIPE."
+        },
+        {
+          "id": "geely-ex5-em-i-ultra-2026",
+          "versao": "ULTRA",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 236490,
+          "preco_obs": "Preço sugerido pelo fabricante no configurador oficial \"Monte o seu\" (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 aspirado a gasolina + motor elétrico 218 cv (EM-i)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 100,
+              "eletrico": 218,
+              "combinada": 262
+            },
+            "torque_kgfm": {
+              "gasolina": 12.7,
+              "eletrico": 26.7,
+              "combinada": 38.7
+            },
+            "bateria_kwh": 29.8,
+            "autonomia_eletrica_km": 112,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.8,
+            "velocidade_maxima_kmh": 175
+          },
+          "consumo": {
+            "cidade_gasolina": 14.8,
+            "estrada_gasolina": 13.1,
+            "cidade_eletrico_km_le": 37.1,
+            "estrada_eletrico_km_le": 31.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4740,
+            "largura": 1905,
+            "largura_com_retrovisores": null,
+            "altura": 1685,
+            "entre_eixos": 2755,
+            "altura_livre_solo": 172
+          },
+          "peso_kg": 1844,
+          "porta_malas_l": 428,
+          "tanque_l": 60,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/50 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 15.4,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Bateria de 29,8 kWh com recarga DC de 60 kW",
+              "Interior Caramel exclusivo",
+              "Autonomia combinada NEDC 1.300 km",
+              "Head-up display de 13,8\"",
+              "Som FLYME com 16 alto-falantes",
+              "Bancos dianteiros com ventilação",
+              "Banco do motorista com memória",
+              "Teto solar panorâmico com cortina elétrica",
+              "Porta-malas elétrico",
+              "Câmera panorâmica 540°"
+            ]
+          },
+          "fonte_url": "https://www.geelybrasil.com.br/monte-o-seu-ex5-em-i",
+          "campos_fonte_secundaria": [
+            "transmissao.tipo",
+            "ano_modelo"
+          ],
+          "observacoes": "Produção nacional iniciada em set/2026 (Renault Geely do Brasil). Porta-malas 428 L VDA (2.065 L rebatido). Tipo de transmissão não informado na ficha oficial (E-DHT segundo imprensa). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"EX5 EM-i ULTRA\". Ano-modelo 2026 não informado no site oficial; confirmado na Tabela FIPE."
+        }
+      ]
+    }
+  ]
+}

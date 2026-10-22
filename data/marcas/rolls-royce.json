@@ -1,0 +1,891 @@
+{
+  "marca": "Rolls-Royce",
+  "slug": "rolls-royce",
+  "site_oficial": "https://www.rolls-roycemotorcars.com/saopaolo/en_GB/showroom.html",
+  "coletado_em": "2026-10-21",
+  "modelos": [
+    {
+      "id": "rolls-royce-phantom",
+      "modelo": "Phantom",
+      "categoria": "Sedan",
+      "subcategoria": "Sedã de luxo",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Reino Unido",
+      "imagem": {
+        "arquivo": "img/carros/rolls-royce-phantom.webp",
+        "fonte_imagem": "https://cdn.autobridge.ge/autopapa/941010/941010_1.jpg",
+        "pagina_origem": "https://autobridge.ge/ka/listings/rolls-royce-phantom-2026-a18eb8d9"
+      },
+      "fontes": [
+        {
+          "url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/phantom.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/phantom-extended.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.rolls-roycemotorcars.com/saopaolo/en_GB/showroom.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "rolls-royce-phantom-phantom-2026",
+          "versao": "Phantom",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "6.75 V12 biturbo",
+            "cilindrada_cm3": null,
+            "cilindros": 12,
+            "turbo": true,
+            "potencia_cv": {},
+            "torque_kgfm": {},
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": null
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": null,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Phantom Series II",
+              "Motor V12 6.75 biturbo",
+              "Portas traseiras de abertura invertida (coach doors)",
+              "Personalização Bespoke"
+            ]
+          },
+          "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/phantom.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Phantom Series II. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "rolls-royce-phantom-phantom-extended-2026",
+          "versao": "Phantom Extended",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "6.75 V12 biturbo",
+            "cilindrada_cm3": null,
+            "cilindros": 12,
+            "turbo": true,
+            "potencia_cv": {},
+            "torque_kgfm": {},
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": null
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": null,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Entre-eixos alongado",
+              "Motor V12 6.75 biturbo",
+              "Portas traseiras de abertura invertida (coach doors)"
+            ]
+          },
+          "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/phantom-extended.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Phantom Series II. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    },
+    {
+      "id": "rolls-royce-ghost",
+      "modelo": "Ghost",
+      "categoria": "Sedan",
+      "subcategoria": "Sedã de luxo",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Reino Unido",
+      "imagem": {
+        "arquivo": "img/carros/rolls-royce-ghost.webp",
+        "fonte_imagem": "https://i.gaw.to/vehicles/photos/40/43/404341-2026-rolls-royce-ghost.jpg",
+        "pagina_origem": "https://www.guideautoweb.com/constructeurs/rolls-royce/ghost/2026/galerie/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/ghost.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/ghost-in-detail.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/ghost-extended.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/black-badge-ghost.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.hrowen.co.uk/rolls-royce/new-cars/ghost-range/ghost",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.rolls-roycemotorcars.com/saopaolo/en_GB/showroom.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "rolls-royce-ghost-ghost-2026",
+          "versao": "Ghost",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "6.75 V12 biturbo",
+            "cilindrada_cm3": null,
+            "cilindros": 12,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 571
+            },
+            "torque_kgfm": {
+              "gasolina": 86.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": null,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Ghost Series II",
+              "Esterçamento nas quatro rodas",
+              "Painel iluminado (Illuminated Fascia)",
+              "Motor V12 6.75 biturbo"
+            ]
+          },
+          "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/ghost.html",
+          "campos_fonte_secundaria": [
+            "motor.potencia_cv",
+            "motor.torque_kgfm"
+          ],
+          "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Ghost Series II, com tração e esterçamento nas quatro rodas. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "rolls-royce-ghost-ghost-extended-2026",
+          "versao": "Ghost Extended",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "6.75 V12 biturbo",
+            "cilindrada_cm3": null,
+            "cilindros": 12,
+            "turbo": true,
+            "potencia_cv": {},
+            "torque_kgfm": {},
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": null,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Entre-eixos alongado",
+              "Motor V12 6.75 biturbo",
+              "Esterçamento nas quatro rodas"
+            ]
+          },
+          "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/ghost-extended.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Ghost Series II, com tração e esterçamento nas quatro rodas. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "rolls-royce-ghost-black-badge-ghost-2026",
+          "versao": "Black Badge Ghost",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "6.75 V12 biturbo",
+            "cilindrada_cm3": null,
+            "cilindros": 12,
+            "turbo": true,
+            "potencia_cv": {},
+            "torque_kgfm": {},
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": null,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "V12 em configuração de alta potência",
+              "Acabamentos escurecidos Black Badge",
+              "Grade iluminada"
+            ]
+          },
+          "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/black-badge-ghost.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Ghost Series II, com tração e esterçamento nas quatro rodas. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    },
+    {
+      "id": "rolls-royce-cullinan",
+      "modelo": "Cullinan",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV de luxo",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Reino Unido",
+      "imagem": {
+        "arquivo": "img/carros/rolls-royce-cullinan.webp",
+        "fonte_imagem": "https://www.rollsroycelongisland.com/imagetag/4098/5/l/New-2026-Rolls-Royce-Cullinan-Series-II-1747417400.jpg",
+        "pagina_origem": "https://bentleylongisland.com/sold-inventory/2026-rolls-royce-cullinan-c-4098"
+      },
+      "fontes": [
+        {
+          "url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/cullinan.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/black-badge-cullinan.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0441740EN",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0441739EN",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.rolls-roycemotorcars.com/saopaolo/en_GB/showroom.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "rolls-royce-cullinan-cullinan-2026",
+          "versao": "Cullinan",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "6.75 V12 biturbo",
+            "cilindrada_cm3": null,
+            "cilindros": 12,
+            "turbo": true,
+            "potencia_cv": {},
+            "torque_kgfm": {},
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": null
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": null,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 23,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Cullinan Series II",
+              "Áudio Bespoke de 18 alto-falantes e 1.400 W",
+              "Entretenimento traseiro com Bluetooth",
+              "Rodas de 23\""
+            ]
+          },
+          "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/cullinan.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Cullinan Series II; rodas de 23\" disponíveis. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "rolls-royce-cullinan-black-badge-cullinan-2026",
+          "versao": "Black Badge Cullinan",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "6.75 V12 biturbo",
+            "cilindrada_cm3": null,
+            "cilindros": 12,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 600
+            },
+            "torque_kgfm": {
+              "gasolina": 91.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": null
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": null,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 23,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "V12 de 600 cv e 900 Nm",
+              "Modo Low com escapamento Black Badge",
+              "Cromados escurecidos",
+              "Rodas de 23\""
+            ]
+          },
+          "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/black-badge-cullinan.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Cullinan Series II; rodas de 23\" disponíveis. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    },
+    {
+      "id": "rolls-royce-spectre",
+      "modelo": "Spectre",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Cupê elétrico de luxo",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "Reino Unido",
+      "imagem": {
+        "arquivo": "img/carros/rolls-royce-spectre.webp",
+        "fonte_imagem": "https://www.rolls-roycemotorcarsphiladelphia.com/imagetag/20315/6/l/New-2026-Rolls-Royce-Spectre.jpg",
+        "pagina_origem": "https://www.rolls-roycemotorcarsphiladelphia.com/new-vehicle-2026-rolls-royce-spectre-c-20315/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/spectre.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/black-badge-spectre.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0458258EN",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.rolls-roycemotorcars.com/saopaolo/en_GB/showroom.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "rolls-royce-spectre-spectre-2026",
+          "versao": "Spectre",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Dois motores elétricos",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 601
+            },
+            "torque_kgfm": {
+              "eletrico": 103.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": 628,
+            "autonomia_ciclo": "WLTP"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": null
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 2,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": null,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 23,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Spectre Series II",
+              "Autonomia de até 628 km (390 milhas, WLTP)",
+              "Recarga até 14% mais rápida",
+              "Rodas forjadas de 23\""
+            ]
+          },
+          "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/spectre.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Spectre Series II: 442 kW e 1.015 Nm conforme PressClub; autonomia 390 milhas WLTP convertida para km. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "rolls-royce-spectre-black-badge-spectre-2026",
+          "versao": "Black Badge Spectre",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Dois motores elétricos",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 680
+            },
+            "torque_kgfm": {
+              "eletrico": 112.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": null
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 2,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": null,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 23,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Rolls-Royce mais potente da história",
+              "Infinity Mode (500 kW) e Spirited Mode (1.100 Nm)",
+              "Rodas Black Badge exclusivas"
+            ]
+          },
+          "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/black-badge-spectre.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Potência de 500 kW no Infinity Mode e torque de 1.100 Nm no Spirited Mode (PressClub, Series II). Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    }
+  ]
+}

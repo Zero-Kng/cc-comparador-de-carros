@@ -1,0 +1,135 @@
+{
+  "marca": "Suzuki",
+  "slug": "suzuki",
+  "site_oficial": "https://www.suzukiveiculos.com.br",
+  "coletado_em": "2026-10-20",
+  "modelos": [
+    {
+      "id": "suzuki-e-vitara",
+      "modelo": "e Vitara",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/suzuki-e-vitara.webp",
+        "fonte_imagem": "https://cdn.autopapo.com.br/box/uploads/2026/03/03150101/suzuki-e-vitara-2026-verde-brisa-lateral-em-movimento-2.jpg",
+        "pagina_origem": "https://autopapo.com.br/curta/suzuki-e-vitara-estreia-o-segmento-dos-eletricos-para-trilhas-no-brasil/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.suzukiveiculos.com.br/veiculos/evitara/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "http://www.suzukiveiculos.com.br/wp-content/uploads/2026/02/FT_eVitara__v2-1-scaled.png",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "suzuki-e-vitara-4style-4x4-2027",
+          "versao": "4Style 4x4",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 219990,
+          "preco_obs": "Preço à vista exibido no site (\"de R$ 269.990 por R$ 219.990\"), frete incluso, exceto ZFM, AC, RO, RR, ALC e MA; texto de validade indica até 31/08/2026",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Dois motores elétricos (dianteiro 174 cv + traseiro 65 cv), tração ALLGRIP-e",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 184
+            },
+            "torque_kgfm": {
+              "eletrico": 31.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": 293,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.4,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 37.8,
+            "estrada_eletrico_km_le": 31.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4275,
+            "largura": 1800,
+            "largura_com_retrovisores": null,
+            "altura": 1635,
+            "entre_eixos": 2700,
+            "altura_livre_solo": 180
+          },
+          "peso_kg": 1860,
+          "porta_malas_l": 310,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Tração 4x4 elétrica ALLGRIP-e com dois motores",
+              "Plataforma HEARTECT-e dedicada a elétricos",
+              "4 modos de condução",
+              "Recarga rápida DC de 10% a 80% em 45 minutos",
+              "Painel digital de 10,25\" integrado à multimídia de 10,1\" (IDS)",
+              "Som Infinity com 6 alto-falantes e subwoofer",
+              "Câmera 360° MultiAround",
+              "Teto solar de vidro fixo com persiana",
+              "Alerta de tráfego cruzado traseiro (RCTA)",
+              "Farol alto automático (AHS)",
+              "Bancos traseiros rebatíveis 40/20/40",
+              "Revestimento em couro e tecido"
+            ]
+          },
+          "fonte_url": "https://www.suzukiveiculos.com.br/veiculos/evitara/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano 2026/modelo 2027. Peso em ordem de marcha informado como faixa 1.860–1.899 kg (usado o menor). Potência máxima total 135 kW (184 cv). Capacidade da bateria não informada no site oficial. Bancos com revestimento em couro e tecido. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"e-Vitara 4STY 4WD\"."
+        }
+      ]
+    }
+  ]
+}

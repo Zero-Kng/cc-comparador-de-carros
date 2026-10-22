@@ -1,0 +1,2665 @@
+{
+  "marca": "BYD",
+  "slug": "byd",
+  "site_oficial": "https://www.byd.com/br",
+  "coletado_em": "2026-10-20",
+  "modelos": [
+    {
+      "id": "byd-dolphin-mini",
+      "modelo": "Dolphin Mini",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch compacto",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/byd-dolphin-mini.webp",
+        "fonte_imagem": "https://s2-autoesporte.glbimg.com/AvrCpBVSZ5FoVMeTIjBj4H2j38s=/0x0:1920x1280/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2025/F/9/5BFrJ5QwiDyWOFEhk1Zg/byd-dolphin-mini-2026-lateral.jpg",
+        "pagina_origem": "https://autoesporte.globo.com/carros/lancamentos-de-carros/noticia/2025/07/byd-dolphin-dolphin-mini-2026-preco-versoes.ghtml"
+      },
+      "fontes": [
+        {
+          "url": "https://www.byd.com/br/car/dolphin-mini",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/material/__CN/byd-site/br/fichas-tecnicas-2026/update-13-07-2026/07-13-2026---ficha-txiunica/BYD_DolphinMini_V2.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cms-api.byd.com/car/byd/br/CX013016.json",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "byd-dolphin-mini-gl-2027",
+          "versao": "GL",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 118990,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico 75 cv, bateria Blade 30,08 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 75
+            },
+            "torque_kgfm": {
+              "eletrico": 13.8
+            },
+            "bateria_kwh": 30.08,
+            "autonomia_eletrica_km": 224,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 14.9,
+            "velocidade_maxima_kmh": 130
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 60.6,
+            "estrada_eletrico_km_le": 44.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 3780,
+            "largura": 1720,
+            "largura_com_retrovisores": null,
+            "altura": 1580,
+            "entre_eixos": 2500,
+            "altura_livre_solo": 155
+          },
+          "peso_kg": 1165,
+          "porta_malas_l": 230,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "175/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Tela giratória de 10,1\"",
+              "Câmera 360°",
+              "Controle de cruzeiro",
+              "Carregamento DC 30 kW",
+              "Função V2L (VTOL)",
+              "Comandos de voz em 2 zonas",
+              "Bancos em couro ecológico"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-dolphin-mini",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Montado no Brasil (SKD, Camaçari) segundo o nome do produto no configurador. A página do modelo cita 6 airbags, mas a ficha técnica indica airbags laterais dianteiros apenas na GS (GL = 4). Consumo energético Inmetro: 0,39 MJ/km. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DOLPHIN MINI GL 5 EV\"."
+        },
+        {
+          "id": "byd-dolphin-mini-gs-2027",
+          "versao": "GS",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 119990,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico 75 cv, bateria Blade 38,88 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 75
+            },
+            "torque_kgfm": {
+              "eletrico": 13.8
+            },
+            "bateria_kwh": 38.88,
+            "autonomia_eletrica_km": 280,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 14.9,
+            "velocidade_maxima_kmh": 130
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 58.59,
+            "estrada_eletrico_km_le": 41.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 3780,
+            "largura": 1720,
+            "largura_com_retrovisores": null,
+            "altura": 1580,
+            "entre_eixos": 2500,
+            "altura_livre_solo": 155
+          },
+          "peso_kg": 1239,
+          "porta_malas_l": 230,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "175/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Tela giratória de 10,1\"",
+              "Câmera 360°",
+              "Carregador por indução",
+              "Banco do motorista elétrico (6 direções)",
+              "Volante com ajuste em 4 direções",
+              "Função \"Follow me home\"",
+              "Carregamento DC 40 kW",
+              "Função V2L (VTOL)"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-dolphin-mini",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Montado no Brasil (SKD, Camaçari) segundo o nome do produto no configurador. Consumo energético Inmetro: 0,41 MJ/km. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DOLPHIN MINI GS EV\"."
+        }
+      ]
+    },
+    {
+      "id": "byd-dolphin",
+      "modelo": "Dolphin",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch médio",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/byd-dolphin.webp",
+        "fonte_imagem": "https://s2-autoesporte.glbimg.com/AvrCpBVSZ5FoVMeTIjBj4H2j38s=/0x0:1920x1280/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2025/F/9/5BFrJ5QwiDyWOFEhk1Zg/byd-dolphin-mini-2026-lateral.jpg",
+        "pagina_origem": "https://autoesporte.globo.com/carros/lancamentos-de-carros/noticia/2025/07/byd-dolphin-dolphin-mini-2026-preco-versoes.ghtml"
+      },
+      "fontes": [
+        {
+          "url": "https://www.byd.com/br/car/dolphin",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/material/__CN/byd-site/br/fichas-tecnicas-2026/update-13-07-2026/07-13-2026---ficha-txiunica/BYD_DolphinGS_V2.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cms-api.byd.com/car/byd/br/CX002002.json",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "byd-dolphin-gs-2026",
+          "versao": "GS",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 149990,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico 95 cv, bateria Blade 44,9 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 95
+            },
+            "torque_kgfm": {
+              "eletrico": 18.4
+            },
+            "bateria_kwh": 44.9,
+            "autonomia_eletrica_km": 291,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.9,
+            "velocidade_maxima_kmh": 150
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 51.9,
+            "estrada_eletrico_km_le": 43.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4130,
+            "largura": 1770,
+            "largura_com_retrovisores": null,
+            "altura": 1570,
+            "entre_eixos": 2700,
+            "altura_livre_solo": 150
+          },
+          "peso_kg": 1405,
+          "porta_malas_l": 250,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "195/60 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Multimídia giratória de 12,8\"",
+              "Câmera 360°",
+              "Carregador por indução com ventilação",
+              "Banco do motorista elétrico (6 direções)",
+              "Rebatimento elétrico dos retrovisores",
+              "Controle de cruzeiro",
+              "Filtro de ar PM 2.5",
+              "Carregamento DC 60 kW",
+              "Função V2L (VTOL)"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-dolphin",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Configurador lista unidades 2025/2026 pelo mesmo preço. Consumo energético Inmetro: 0,42 MJ/km. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DOLPHIN GS 180EV\"."
+        },
+        {
+          "id": "byd-dolphin-gs-2027",
+          "versao": "GS",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 149990,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico 95 cv, bateria Blade 44,9 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 95
+            },
+            "torque_kgfm": {
+              "eletrico": 18.4
+            },
+            "bateria_kwh": 44.9,
+            "autonomia_eletrica_km": 291,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.9,
+            "velocidade_maxima_kmh": 150
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 51.9,
+            "estrada_eletrico_km_le": 43.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4130,
+            "largura": 1770,
+            "largura_com_retrovisores": null,
+            "altura": 1570,
+            "entre_eixos": 2700,
+            "altura_livre_solo": 150
+          },
+          "peso_kg": 1405,
+          "porta_malas_l": 250,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "195/60 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Multimídia giratória de 12,8\"",
+              "Câmera 360°",
+              "Carregador por indução com ventilação",
+              "Banco do motorista elétrico (6 direções)",
+              "Rebatimento elétrico dos retrovisores",
+              "Controle de cruzeiro",
+              "Filtro de ar PM 2.5",
+              "Carregamento DC 60 kW",
+              "Função V2L (VTOL)"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-dolphin",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Configurador lista unidades 2026/2027 pelo mesmo preço. Consumo energético Inmetro: 0,42 MJ/km. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DOLPHIN GS 180EV\"."
+        }
+      ]
+    },
+    {
+      "id": "byd-dolphin-se",
+      "modelo": "Dolphin SE",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch médio",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/byd-dolphin-se.webp",
+        "fonte_imagem": "https://bydbrasil.press/wp-content/uploads/2026/04/BYD-Dolphin-SE-bue-lateral-scaled.jpg",
+        "pagina_origem": "https://bydbrasil.press/imagens-byd-dolphin-se/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.byd.com/br/car/dolphin-se",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/material/__CN/byd-site/br/fichas-tecnicas-2026/update-13-07-2026/07-13-2026---ficha-txiunica/BYD_DolphinSE_V2.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cms-api.byd.com/car/byd/br/CX002002.json",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "byd-dolphin-se-special-edition-2027",
+          "versao": "Special Edition",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 173990,
+          "preco_obs": "Preço público sugerido no configurador do Dolphin (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico 177 cv, bateria Blade 45,12 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 177
+            },
+            "torque_kgfm": {
+              "eletrico": 29.6
+            },
+            "bateria_kwh": 45.12,
+            "autonomia_eletrica_km": 272,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8,
+            "velocidade_maxima_kmh": 160
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 45.8,
+            "estrada_eletrico_km_le": 36.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4280,
+            "largura": 1770,
+            "largura_com_retrovisores": null,
+            "altura": 1570,
+            "entre_eixos": 2700,
+            "altura_livre_solo": 150
+          },
+          "peso_kg": 1485,
+          "porta_malas_l": 250,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/50 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Google Automotive Services (GAS)",
+              "Multimídia de 12,8\"",
+              "Bancos dianteiros ventilados",
+              "Carregador por indução 50 W com ventilação",
+              "Pacote ADAS 2 (ACC, AEB, LKA, BSD, RCTA/RCTB, DOW)",
+              "Farol alto inteligente",
+              "Câmera 360°",
+              "Suspensão traseira multilink",
+              "Carregamento DC 80 kW"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/car/dolphin-se",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no configurador como \"BYD Dolphin SE\" (unidades 2026/2027). Consumo energético Inmetro: 0,49 MJ/km. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DOLPHIN SE 290EV\"."
+        }
+      ]
+    },
+    {
+      "id": "byd-atto-2",
+      "modelo": "Atto 2 DM-i",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/byd-atto-2.webp",
+        "fonte_imagem": "https://www.megautos.com/wp-content/uploads/2026/02/BYD-Atto-2-DM-i-lateral.jpg",
+        "pagina_origem": "https://www.megautos.com/byd-atto-2-dm-i-lanzamiento/byd-atto-2-dm-i-lateral/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.byd.com/br/car/atto2",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/material/__CN/byd-site/br/fichas-tecnicas-2026/update-13-07-2026/07-13-2026---ficha-txiunica/BYD_Atto2_V2.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cms-api.byd.com/car/byd/br/CX031001.json",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "byd-atto-2-gl-2027",
+          "versao": "GL",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 166660,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.5 DM-i Flex + motor elétrico (híbrido plug-in flex)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "combinada": 177
+            },
+            "torque_kgfm": {
+              "combinada": 30.6
+            },
+            "bateria_kwh": 7.85,
+            "autonomia_eletrica_km": 45,
+            "autonomia_ciclo": "NEDC"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.5,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_etanol": 11.7,
+            "estrada_etanol": 10.5,
+            "cidade_gasolina": 15.8,
+            "estrada_gasolina": 13.5,
+            "cidade_eletrico_km_le": 42.3,
+            "estrada_eletrico_km_le": 29.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4330,
+            "largura": 1830,
+            "largura_com_retrovisores": null,
+            "altura": 1670,
+            "entre_eixos": 2620,
+            "altura_livre_solo": 160
+          },
+          "peso_kg": 1510,
+          "porta_malas_l": 455,
+          "tanque_l": 45,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Híbrido plug-in flex (etanol, gasolina ou eletricidade)",
+              "Multimídia de 10,1\" (DiLink)",
+              "Câmera 360°",
+              "ACC, AEB e LKA",
+              "Reconhecimento de placas (TSR)",
+              "Rodas de liga leve 17\""
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-atto-2",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Autonomia elétrica e combinada (até 1.000 km com gasolina) no ciclo NEDC. Potência/torque informados apenas como combinados. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"ATTO 2 GL DM FLEX\"."
+        },
+        {
+          "id": "byd-atto-2-gs-2027",
+          "versao": "GS",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 169990,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.5 DM-i Flex + motor elétrico (híbrido plug-in flex)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "combinada": 197
+            },
+            "torque_kgfm": {
+              "combinada": 30.6
+            },
+            "bateria_kwh": 18.03,
+            "autonomia_eletrica_km": 110,
+            "autonomia_ciclo": "NEDC"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.4,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_etanol": 11.8,
+            "estrada_etanol": 10.7,
+            "cidade_gasolina": 15.5,
+            "estrada_gasolina": 13.9,
+            "cidade_eletrico_km_le": 43.4,
+            "estrada_eletrico_km_le": 34.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4330,
+            "largura": 1830,
+            "largura_com_retrovisores": null,
+            "altura": 1670,
+            "entre_eixos": 2620,
+            "altura_livre_solo": 160
+          },
+          "peso_kg": 1620,
+          "porta_malas_l": 455,
+          "tanque_l": 45,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Híbrido plug-in flex (etanol, gasolina ou eletricidade)",
+              "Teto panorâmico",
+              "Multimídia de 12,8\" com DiLink + Google (GAS)",
+              "Carregador por indução 50 W com ventilação",
+              "Banco do motorista elétrico",
+              "Luz ambiente",
+              "Sensor de chuva",
+              "BSD, RCTA/RCTB e DOW",
+              "Função V2L (VTOL)"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-atto-2",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Autonomia elétrica e combinada (até 1.045 km com gasolina) no ciclo NEDC. Potência/torque informados apenas como combinados. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"ATTO 2 GS DM FLEX\"."
+        }
+      ]
+    },
+    {
+      "id": "byd-yuan-pro",
+      "modelo": "Yuan Pro",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/byd-yuan-pro.webp",
+        "fonte_imagem": "https://s2-autoesporte.glbimg.com/6CghJPPnSFBnjlnJ45Rx_ILWkvU=/0x0:1920x1280/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2025/i/u/fvyXa9TKOL0oU3z36seg/byd-yuan-pro-phev-lateral.jpg",
+        "pagina_origem": "https://autoesporte.globo.com/carros/testes-de-carros/noticia/2025/12/teste-exclusivo-byd-yuan-pro-hibrido-1000-km-2026.ghtml"
+      },
+      "fontes": [
+        {
+          "url": "https://www.byd.com/br/car/yuan-pro",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/material/__CN/byd-site/br/fichas-tecnicas-2026/update-13-07-2026/07-13-2026---ficha-txiunica/BYD_YuanPro_V2.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cms-api.byd.com/car/byd/br/CX006024.json",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "byd-yuan-pro-yuan-pro-2027",
+          "versao": "Yuan Pro",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 182990,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico 177 cv, bateria Blade 45,12 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 177
+            },
+            "torque_kgfm": {
+              "eletrico": 29.6
+            },
+            "bateria_kwh": 45.12,
+            "autonomia_eletrica_km": 250,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.9,
+            "velocidade_maxima_kmh": 160
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 44,
+            "estrada_eletrico_km_le": 35.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4310,
+            "largura": 1830,
+            "largura_com_retrovisores": null,
+            "altura": 1680,
+            "entre_eixos": 2620,
+            "altura_livre_solo": 170
+          },
+          "peso_kg": 1550,
+          "porta_malas_l": 265,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Multimídia giratória de 12,8\"",
+              "Câmera 360°",
+              "Carregador por indução",
+              "Bancos dianteiros com ajuste elétrico",
+              "Iluminação ambiente",
+              "Estepe temporário",
+              "Carregamento DC 65 kW",
+              "Função V2L (VTOL)"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-yuan-pro",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica não lista controle de cruzeiro nem pacote ADAS 2. Consumo energético Inmetro: 0,51 MJ/km. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"YUAN PRO GS 290EV\"."
+        }
+      ]
+    },
+    {
+      "id": "byd-yuan-plus",
+      "modelo": "Yuan Plus",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/byd-yuan-plus.webp",
+        "fonte_imagem": "https://uploads.automaistv.com.br/2025/02/Bhy99Fsk-byd-yuan-plus-1-v2-png.webp",
+        "pagina_origem": "https://www.automaistv.com.br/novidades/byd-yuan-plus-reestilizado-e-revelado-com-mais-sistemas-adas/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.byd.com/br/car/yuan-plus",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/material/__CN/byd-site/br/fichas-tecnicas-2026/update-13-07-2026/07-13-2026---ficha-txiunica/BYD_YuanPlusAWD_V2.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cms-api.byd.com/car/byd/br/CX006005.json",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "byd-yuan-plus-awd-2027",
+          "versao": "AWD",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 269990,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Dois motores elétricos, 449 cv, bateria Blade 74,88 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 449
+            },
+            "torque_kgfm": {
+              "eletrico": 57.1
+            },
+            "bateria_kwh": 74.88,
+            "autonomia_eletrica_km": 378,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.9,
+            "velocidade_maxima_kmh": 200
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 38.3,
+            "estrada_eletrico_km_le": 32
+          },
+          "dimensoes_mm": {
+            "comprimento": 4460,
+            "largura": 1880,
+            "largura_com_retrovisores": null,
+            "altura": 1620,
+            "entre_eixos": 2720,
+            "altura_livre_solo": 170
+          },
+          "peso_kg": 1990,
+          "porta_malas_l": 490,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Tração integral, 449 cv e 0-100 km/h em 3,9 s",
+              "Head-up display",
+              "Multimídia de 15,6\" com Google (GAS)",
+              "Teto solar panorâmico",
+              "Bancos dianteiros ventilados",
+              "Porta-malas dianteiro de 101 L",
+              "Carregamento DC 205 kW",
+              "Modo Sentinela",
+              "Abertura elétrica do porta-malas"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-yuan-plus",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano-modelo 2027 conforme a página de ofertas oficial (o título da página do modelo cita \"2026\"). Consumo energético Inmetro: 0,58 MJ/km. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"YUAN PLUS GS 560EV\"."
+        }
+      ]
+    },
+    {
+      "id": "byd-song-pro",
+      "modelo": "Song Pro DM-i Flex",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/byd-song-pro.webp",
+        "fonte_imagem": "https://uploads.automaistv.com.br/2025/04/cBpWS4DJ-BYD-Song-Pro-DM-i-Lateral-1.webp",
+        "pagina_origem": "https://www.automaistv.com.br/avaliacao/byd-song-pro-combina-o-melhor-de-dois-mundos-mas-ainda-falta-alguns-pontos-avaliacao/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.byd.com/br/car/song-pro-flex",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/material/__CN/byd-site/br/product/songpro-flex/BYD_SongProFlex_Rev3_05_08_2026.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cms-api.byd.com/car/byd/br/CX005019.json",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "byd-song-pro-gl-2027",
+          "versao": "GL",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 196990,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.5 DM-i Flex (5ª geração) + motor elétrico",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "combinada": 218
+            },
+            "torque_kgfm": {
+              "combinada": 30.6
+            },
+            "bateria_kwh": 13.1,
+            "autonomia_eletrica_km": 57,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.6,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_etanol": 12.1,
+            "estrada_etanol": 10.7,
+            "cidade_gasolina": 16,
+            "estrada_gasolina": 13.9,
+            "cidade_eletrico_km_le": 43.9,
+            "estrada_eletrico_km_le": 34.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4740,
+            "largura": 1860,
+            "largura_com_retrovisores": null,
+            "altura": 1710,
+            "entre_eixos": 2710,
+            "altura_livre_solo": 160
+          },
+          "peso_kg": 1700,
+          "porta_malas_l": 530,
+          "tanque_l": 52,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/60 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Híbrido plug-in flex (etanol, gasolina ou eletricidade)",
+              "Multimídia de 12,8\" com Google (GAS)",
+              "CarPlay e Android Auto sem fio",
+              "Câmera 360°",
+              "ACC, AEB, LKA e TSR",
+              "Rodas de liga leve 18\"",
+              "Fabricado no Brasil"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-song-pro-flex",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Autonomia combinada NEDC: até 1.075 km (gasolina) / 775 km (etanol). Potência e torque iguais com etanol ou gasolina (informados como combinados). Consumo energético Inmetro: 0,53 MJ/km. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"SONG PRO GL DM FLEX\"."
+        },
+        {
+          "id": "byd-song-pro-gs-2027",
+          "versao": "GS",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 199990,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.5 DM-i Flex (5ª geração) + motor elétrico",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "combinada": 219
+            },
+            "torque_kgfm": {
+              "combinada": 30.6
+            },
+            "bateria_kwh": 18.3,
+            "autonomia_eletrica_km": 72,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.8,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_etanol": 11.7,
+            "estrada_etanol": 10.5,
+            "cidade_gasolina": 15.9,
+            "estrada_gasolina": 13.5,
+            "cidade_eletrico_km_le": 41.9,
+            "estrada_eletrico_km_le": 29.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4740,
+            "largura": 1860,
+            "largura_com_retrovisores": null,
+            "altura": 1710,
+            "entre_eixos": 2710,
+            "altura_livre_solo": 160
+          },
+          "peso_kg": 1760,
+          "porta_malas_l": 530,
+          "tanque_l": 52,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/60 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Híbrido plug-in flex (etanol, gasolina ou eletricidade)",
+              "Teto solar panorâmico elétrico com cortina",
+              "Carregador por indução 50 W ventilado",
+              "Banco do passageiro elétrico",
+              "Retrovisor interno fotocrômico",
+              "Vidros dianteiros laminados",
+              "BSD, DOW, RCTA/RCTB",
+              "Limpador automático",
+              "Fabricado no Brasil"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-song-pro-flex",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Autonomia combinada NEDC: até 1.105 km (gasolina) / 805 km (etanol). Potência e torque iguais com etanol ou gasolina (informados como combinados). Consumo energético Inmetro: 0,55 MJ/km. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"SONG PRO GS DM FLEX\"."
+        }
+      ]
+    },
+    {
+      "id": "byd-song-plus",
+      "modelo": "Song Plus DM-i",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/byd-song-plus.webp",
+        "fonte_imagem": "https://production.autoforce.com/uploads/picture/image/266976119/main_webp_comprar-song-plus-premium-dm-i-2026_cb34e45d65.jpg.webp",
+        "pagina_origem": "https://www.bydmclartymaia.com.br/novos/song-plus-premium-dm-i-2026"
+      },
+      "fontes": [
+        {
+          "url": "https://www.byd.com/br/car/song-plus-dmi",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/material/__CN/byd-site/br/fichas-tecnicas-2026/update-13-07-2026/07-13-2026---ficha-txiunica/BYD_SongPlus1.5T_V2.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cms-api.byd.com/car/byd/br/CX005012.json",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "byd-song-plus-1-5t-2027",
+          "versao": "1.5T",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 249990,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo DM-i + motor elétrico",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 240
+            },
+            "torque_kgfm": {
+              "combinada": 30.6
+            },
+            "bateria_kwh": 26.6,
+            "autonomia_eletrica_km": 99,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.1,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_gasolina": 15,
+            "estrada_gasolina": 11.2,
+            "cidade_eletrico_km_le": 39.5,
+            "estrada_eletrico_km_le": 30.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4780,
+            "largura": 1890,
+            "largura_com_retrovisores": null,
+            "altura": 1670,
+            "entre_eixos": 2770,
+            "altura_livre_solo": 180
+          },
+          "peso_kg": 1970,
+          "porta_malas_l": 552,
+          "tanque_l": 57,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/50 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Head-up display",
+              "Multimídia giratória de 15,6\"",
+              "Teto solar panorâmico elétrico",
+              "Bancos dianteiros ventilados",
+              "Som Infinity com 10 alto-falantes",
+              "Porta-malas com abertura elétrica",
+              "Pacote ADAS 2 (ACC, AEB, LKA, BSD, DOW, TSR)",
+              "Carregamento DC 18 kW"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-song-plus-dmi",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Autonomia combinada NEDC: até 1.150 km. Configurador também mostra unidades 2025/2026 (código antigo) pelo mesmo preço; registrada apenas a versão 2026/2027 do configurador atual. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"SONG PLUS GS DM\"."
+        }
+      ]
+    },
+    {
+      "id": "byd-song-plus-premium",
+      "modelo": "Song Plus Premium DM-i",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/byd-song-plus-premium.webp",
+        "fonte_imagem": "https://production.autoforce.com/uploads/picture/image/266976119/main_webp_comprar-song-plus-premium-dm-i-2026_cb34e45d65.jpg.webp",
+        "pagina_origem": "https://www.bydmclartymaia.com.br/novos/song-plus-premium-dm-i-2026"
+      },
+      "fontes": [
+        {
+          "url": "https://www.byd.com/br/car/song-plus-premium",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/material/__CN/byd-site/br/fichas-tecnicas-2026/update-13-07-2026/07-13-2026---ficha-txiunica/BYD_SongPremium_V2.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cms-api.byd.com/car/byd/br/CX005023.json",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "byd-song-plus-premium-premium-awd-2026",
+          "versao": "Premium AWD",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 299800,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo DM-i + dois motores elétricos (AWD)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 324
+            },
+            "torque_kgfm": {
+              "combinada": 56.1
+            },
+            "bateria_kwh": 26.6,
+            "autonomia_eletrica_km": 87,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.2,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_gasolina": 12.2,
+            "estrada_gasolina": 10.1,
+            "cidade_eletrico_km_le": 33.4,
+            "estrada_eletrico_km_le": 27.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4780,
+            "largura": 1890,
+            "largura_com_retrovisores": null,
+            "altura": 1670,
+            "entre_eixos": 2770,
+            "altura_livre_solo": 180
+          },
+          "peso_kg": 2060,
+          "porta_malas_l": 552,
+          "tanque_l": 57,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/50 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Tração integral, 324 cv e 0-100 km/h em 5,2 s",
+              "Head-up display",
+              "Multimídia giratória de 15,6\"",
+              "Teto solar panorâmico",
+              "Bancos dianteiros com aquecimento e ventilação",
+              "Som Infinity com 10 alto-falantes",
+              "Vidros dianteiros laminados",
+              "Limpador automático"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-song-plus-premium",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Autonomia combinada NEDC: até 1.015 km. Consumo energético Inmetro: 0,67 MJ/km. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"SONG PLUS PREM DM\"."
+        }
+      ]
+    },
+    {
+      "id": "byd-sealion-7",
+      "modelo": "Sealion 7",
+      "categoria": "SUV Médio",
+      "subcategoria": "SUV cupê",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/byd-sealion-7.webp",
+        "fonte_imagem": "https://electrek.co/wp-content/uploads/sites/3/2024/10/BYD-sealion-7-Europe-side.jpeg?resize=1024",
+        "pagina_origem": "https://electrek.co/2024/10/16/byd-unveils-new-sealion-7-electric-suv-drive-europe-expansion/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.byd.com/br/car/sealion7",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/material/__CN/byd-site/br/fichas-tecnicas-2026/update-13-07-2026/07-13-2026---ficha-txiunica/BYD_Sealion7_V2.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cms-api.byd.com/car/byd/br/CX017028.json",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "byd-sealion-7-awd-2027",
+          "versao": "AWD",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 339990,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Dois motores elétricos, 531 cv, bateria Blade 82,5 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 531
+            },
+            "torque_kgfm": {
+              "eletrico": 70.4
+            },
+            "bateria_kwh": 82.5,
+            "autonomia_eletrica_km": 360,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.5,
+            "velocidade_maxima_kmh": 215
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 33.2,
+            "estrada_eletrico_km_le": 28.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4830,
+            "largura": 1920,
+            "largura_com_retrovisores": null,
+            "altura": 1620,
+            "entre_eixos": 2930,
+            "altura_livre_solo": 169
+          },
+          "peso_kg": 2340,
+          "porta_malas_l": 500,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/45 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 9,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "531 cv e 0-100 km/h em 4,5 s",
+              "Head-up display",
+              "Som Dynaudio com 12 alto-falantes",
+              "Teto panorâmico com cortina elétrica",
+              "Bancos em couro, ventilados e aquecidos",
+              "Volante aquecido",
+              "Porta-malas com abertura por gesto (hands free)",
+              "Suspensão FSD",
+              "Carregamento AC 11 kW / DC 150 kW"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-sealion7",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo energético Inmetro: 0,66 MJ/km. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"SEALION 7 GS 690EV\"."
+        }
+      ]
+    },
+    {
+      "id": "byd-atto-8",
+      "modelo": "Atto 8",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV 7 lugares",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/byd-atto-8.webp",
+        "fonte_imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipSsNnztMRr_nA6F3dH0L8jZAIOjv_wVPlqNKI7NT2G6BjLjf14iePkq63-5eoMvCVQgSL-n7G2rJc2wTSoaxoOV8Y2llxlbx2a-gmNx19vUiGiSE8xuMun1Xl_hcmFHQ0b9jucY5g7nzFJ6GVTdw5FeO9GkokRMHtw2rgRXSyt5rQ4L4p2mHF6XSbR6M/s1614/Atto8_PC_lateral2.jpeg",
+        "pagina_origem": "https://www.autoblog.com.uy/2026/01/lanzamiento-byd-atto-8.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.byd.com/br/car/atto-8",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/material/__CN/byd-site/br/fichas-tecnicas-2026/update-13-07-2026/07-13-2026---ficha-txiunica/BYD_Atto8_V2.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cms-api.byd.com/car/byd/br/CX004036.json",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "byd-atto-8-dm-p-awd-2027",
+          "versao": "DM-p AWD",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 399990,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo DM-p + dois motores elétricos (AWD)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 488,
+              "gasolina": 150
+            },
+            "torque_kgfm": {
+              "combinada": 68.8,
+              "gasolina": 22.4
+            },
+            "bateria_kwh": 35.6,
+            "autonomia_eletrica_km": 111,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.9,
+            "velocidade_maxima_kmh": 200
+          },
+          "consumo": {
+            "cidade_gasolina": 11.4,
+            "estrada_gasolina": 10.8,
+            "cidade_eletrico_km_le": 30.1,
+            "estrada_eletrico_km_le": 27
+          },
+          "dimensoes_mm": {
+            "comprimento": 5040,
+            "largura": 2000,
+            "largura_com_retrovisores": null,
+            "altura": 1760,
+            "entre_eixos": 2950,
+            "altura_livre_solo": 184
+          },
+          "peso_kg": 2625,
+          "porta_malas_l": 270,
+          "tanque_l": 60,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": "265/45 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 9,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "7 lugares",
+              "488 cv combinados e 0-100 km/h em 4,9 s",
+              "Suspensão adaptativa DiSus-C",
+              "Head-up display",
+              "Som DiSound com 21 alto-falantes",
+              "Bancos em couro legítimo com ventilação, aquecimento e massagem (1ª e 2ª fileiras)",
+              "Ar-condicionado de 3 zonas",
+              "Teto panorâmico",
+              "Capacidade de reboque de 2 t"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-atto-8",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas: 270 L com 7 lugares, 960 L com 5 lugares. Motor 1.5T: 110 kW (150 cv) e 220 Nm (página do modelo). Autonomia combinada NEDC: 900 km. Consumo energético Inmetro: 0,71 MJ/km. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"ATTO 8 GS DM\"."
+        }
+      ]
+    },
+    {
+      "id": "byd-king",
+      "modelo": "King DM-i",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan médio",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/byd-king.webp",
+        "fonte_imagem": "https://www.byd.com/material/byd-site/br/product/king/lateral-PC.jpg",
+        "pagina_origem": "https://www.byd.com/br/car/king"
+      },
+      "fontes": [
+        {
+          "url": "https://www.byd.com/br/car/king",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/material/__CN/byd-site/br/fichas-tecnicas-2026/update-13-07-2026/07-13-2026---ficha-txiunica/BYD_King_V2.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cms-api.byd.com/car/byd/br/CX015018.json",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "byd-king-gl-2026",
+          "versao": "GL",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 172990,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 DM-i + motor elétrico",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "combinada": 209
+            },
+            "torque_kgfm": {
+              "combinada": 32.2
+            },
+            "bateria_kwh": 8.3,
+            "autonomia_eletrica_km": 35,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.9,
+            "velocidade_maxima_kmh": 185
+          },
+          "consumo": {
+            "cidade_gasolina": 17.1,
+            "estrada_gasolina": 13.6,
+            "cidade_eletrico_km_le": 43.5,
+            "estrada_eletrico_km_le": 33.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4780,
+            "largura": 1840,
+            "largura_com_retrovisores": null,
+            "altura": 1500,
+            "entre_eixos": 2720,
+            "altura_livre_solo": 170
+          },
+          "peso_kg": 1515,
+          "porta_malas_l": 450,
+          "tanque_l": 48,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/55 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Multimídia giratória de 12,8\"",
+              "Câmera 360°",
+              "Carregador por indução",
+              "Banco do motorista elétrico",
+              "Porta-malas com abertura elétrica",
+              "Fabricado no Brasil"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-king-dmi",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica: GL sem controle de cruzeiro e sem ADAS 2. Autonomia combinada NEDC: até 1.175 km. Consumo energético Inmetro: 0,53 MJ/km. Configurador lista unidades 2025/2026. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"KING GL DM\"."
+        },
+        {
+          "id": "byd-king-gs-2026",
+          "versao": "GS",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 175990,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 DM-i + motor elétrico",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "combinada": 235
+            },
+            "torque_kgfm": {
+              "combinada": 33.1
+            },
+            "bateria_kwh": 18.3,
+            "autonomia_eletrica_km": 78,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.3,
+            "velocidade_maxima_kmh": 185
+          },
+          "consumo": {
+            "cidade_gasolina": 16.4,
+            "estrada_gasolina": 12.9,
+            "cidade_eletrico_km_le": 45.6,
+            "estrada_eletrico_km_le": 37.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4780,
+            "largura": 1840,
+            "largura_com_retrovisores": null,
+            "altura": 1500,
+            "entre_eixos": 2720,
+            "altura_livre_solo": 170
+          },
+          "peso_kg": 1620,
+          "porta_malas_l": 450,
+          "tanque_l": 48,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/55 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "ACC com Stop&Go, AEB, LKA e BSD",
+              "Ar-condicionado de 2 zonas",
+              "Banco do passageiro elétrico",
+              "Iluminação ambiente",
+              "Som com 8 alto-falantes",
+              "Função V2L (VTOL)",
+              "Câmera 360°",
+              "Fabricado no Brasil"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-king-dmi",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Autonomia combinada NEDC: até 1.200 km. Consumo energético Inmetro: 0,49 MJ/km. Configurador lista unidades 2025/2026. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"KING GS DM\"."
+        },
+        {
+          "id": "byd-king-gl-2027",
+          "versao": "GL",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 172990,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 DM-i + motor elétrico",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "combinada": 209
+            },
+            "torque_kgfm": {
+              "combinada": 32.2
+            },
+            "bateria_kwh": 8.3,
+            "autonomia_eletrica_km": 35,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.9,
+            "velocidade_maxima_kmh": 185
+          },
+          "consumo": {
+            "cidade_gasolina": 17.1,
+            "estrada_gasolina": 13.6,
+            "cidade_eletrico_km_le": 43.5,
+            "estrada_eletrico_km_le": 33.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4780,
+            "largura": 1840,
+            "largura_com_retrovisores": null,
+            "altura": 1500,
+            "entre_eixos": 2720,
+            "altura_livre_solo": 170
+          },
+          "peso_kg": 1515,
+          "porta_malas_l": 450,
+          "tanque_l": 48,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/55 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Multimídia giratória de 12,8\"",
+              "Câmera 360°",
+              "Carregador por indução",
+              "Banco do motorista elétrico",
+              "Porta-malas com abertura elétrica",
+              "Fabricado no Brasil"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-king-dmi",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica: GL sem controle de cruzeiro e sem ADAS 2. Autonomia combinada NEDC: até 1.175 km. Consumo energético Inmetro: 0,53 MJ/km. Ano-modelo 2027 conforme a página de ofertas oficial. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"KING GL DM\"."
+        },
+        {
+          "id": "byd-king-gs-2027",
+          "versao": "GS",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 175990,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 DM-i + motor elétrico",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "combinada": 235
+            },
+            "torque_kgfm": {
+              "combinada": 33.1
+            },
+            "bateria_kwh": 18.3,
+            "autonomia_eletrica_km": 78,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.3,
+            "velocidade_maxima_kmh": 185
+          },
+          "consumo": {
+            "cidade_gasolina": 16.4,
+            "estrada_gasolina": 12.9,
+            "cidade_eletrico_km_le": 45.6,
+            "estrada_eletrico_km_le": 37.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4780,
+            "largura": 1840,
+            "largura_com_retrovisores": null,
+            "altura": 1500,
+            "entre_eixos": 2720,
+            "altura_livre_solo": 170
+          },
+          "peso_kg": 1620,
+          "porta_malas_l": 450,
+          "tanque_l": 48,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/55 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "ACC com Stop&Go, AEB, LKA e BSD",
+              "Ar-condicionado de 2 zonas",
+              "Banco do passageiro elétrico",
+              "Iluminação ambiente",
+              "Som com 8 alto-falantes",
+              "Função V2L (VTOL)",
+              "Câmera 360°",
+              "Fabricado no Brasil"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-king-dmi",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Autonomia combinada NEDC: até 1.200 km. Consumo energético Inmetro: 0,49 MJ/km. Ano-modelo 2027 conforme a página de ofertas oficial. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"KING GS DM\"."
+        }
+      ]
+    },
+    {
+      "id": "byd-seal",
+      "modelo": "Seal",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan médio-grande",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/byd-seal.webp",
+        "fonte_imagem": "https://img.autonomiacocheselectricos.es/images/model/model/byd-seal-contexto-entorno-real-contexto-aparcado-exterior-lateral-izquierda-2.webp",
+        "pagina_origem": "https://autonomiacocheselectricos.es/byd/seal/comfort/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.byd.com/br/car/seal",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/material/__CN/byd-site/br/fichas-tecnicas-2026/update-13-07-2026/07-13-2026---ficha-txiunica/BYD_Seal_V2.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cms-api.byd.com/car/byd/br/CX007007.json",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "byd-seal-awd-2027",
+          "versao": "AWD",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 299990,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Dois motores elétricos, 531 cv, bateria Blade 82,56 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 531
+            },
+            "torque_kgfm": {
+              "eletrico": 60.2
+            },
+            "bateria_kwh": 82.56,
+            "autonomia_eletrica_km": 372,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.8,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 34.9,
+            "estrada_eletrico_km_le": 30.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4800,
+            "largura": 1880,
+            "largura_com_retrovisores": null,
+            "altura": 1460,
+            "entre_eixos": 2920,
+            "altura_livre_solo": 158
+          },
+          "peso_kg": 2185,
+          "porta_malas_l": 400,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/45 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 8,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "531 cv e 0-100 km/h em 3,8 s",
+              "Head-up display",
+              "Som Dynaudio com 12 alto-falantes",
+              "Teto panorâmico",
+              "Bancos em couro legítimo, ventilados e aquecidos, com memória",
+              "Porta-malas dianteiro de 53 L",
+              "iTAC (controle inteligente de torque)",
+              "Carregamento DC 150 kW"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-seal",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo energético Inmetro: 0,62 MJ/km. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"SEAL AWD GS 590EV\"."
+        }
+      ]
+    },
+    {
+      "id": "byd-han",
+      "modelo": "Han",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan grande",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/byd-han.webp",
+        "fonte_imagem": "https://autotijd.be/images/byd/2023/han/model/03.jpg",
+        "pagina_origem": "https://autotijd.be/modellen/byd/han"
+      },
+      "fontes": [
+        {
+          "url": "https://www.byd.com/br/car/han",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/material/__CN/byd-site/br/fichas-tecnicas-2026/update-13-07-2026/07-13-2026---ficha-txiunica/BYD_Han_V2.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cms-api.byd.com/car/byd/br/CX003003.json",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "byd-han-ev-awd-2027",
+          "versao": "EV AWD",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 559800,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Dois motores elétricos, 517 cv, bateria Blade 85,4 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 517
+            },
+            "torque_kgfm": {
+              "eletrico": 71.4
+            },
+            "bateria_kwh": 85.4,
+            "autonomia_eletrica_km": 349,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.9,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 30.8,
+            "estrada_eletrico_km_le": 28.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4990,
+            "largura": 1910,
+            "largura_com_retrovisores": null,
+            "altura": 1500,
+            "entre_eixos": 2920,
+            "altura_livre_solo": 141
+          },
+          "peso_kg": 2250,
+          "porta_malas_l": 410,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "245/45 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 8,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "517 cv e 0-100 km/h em 3,9 s",
+              "Head-up display",
+              "Som Dynaudio com 12 alto-falantes",
+              "Bancos em couro legítimo, ventilados e aquecidos, com memória",
+              "Volante aquecido com ajuste elétrico",
+              "Encosto traseiro com inclinação elétrica",
+              "Teto solar panorâmico",
+              "Carregamento DC 120 kW"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-han-ev",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano-modelo: o configurador lista as unidades como 2026/2027, mas a página de ofertas oficial indica \"2025\" — divergência na própria fonte oficial. Consumo energético Inmetro: 0,69 MJ/km. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HAN AWD GS 680EV\"."
+        }
+      ]
+    },
+    {
+      "id": "byd-shark",
+      "modelo": "Shark",
+      "categoria": "Picape",
+      "subcategoria": "Picape média",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/byd-shark.webp",
+        "fonte_imagem": "https://imgcdn.zigwheels.ph/large/gallery/exterior/64/3494/byd-shark-6-side-view-788858.jpg",
+        "pagina_origem": "https://www.zigwheels.ph/new-cars/byd/shark-6/colors"
+      },
+      "fontes": [
+        {
+          "url": "https://www.byd.com/br/car/shark",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/material/__CN/byd-site/br/fichas-tecnicas-2026/update-13-07-2026/07-13-2026---ficha-txiunica/BYD_Shark_V2.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cms-api.byd.com/car/byd/br/CX016022.json",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.byd.com/br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "byd-shark-gs-2026",
+          "versao": "GS",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 344990,
+          "preco_obs": "Preço público sugerido no configurador do site oficial (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo DMO + dois motores elétricos (AWD)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 437
+            },
+            "torque_kgfm": {
+              "combinada": 66.3
+            },
+            "bateria_kwh": 29.6,
+            "autonomia_eletrica_km": 68,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.7,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_gasolina": 8.7,
+            "estrada_gasolina": 8.5,
+            "cidade_eletrico_km_le": 24.3,
+            "estrada_eletrico_km_le": 20.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 5460,
+            "largura": 1970,
+            "largura_com_retrovisores": null,
+            "altura": 1930,
+            "entre_eixos": 3260,
+            "altura_livre_solo": 230
+          },
+          "peso_kg": 2710,
+          "porta_malas_l": null,
+          "tanque_l": 57,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/65 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 1200,
+            "capacidade_carga_kg": 790
+          },
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "437 cv combinados e 0-100 km/h em 5,7 s",
+              "Head-up display de 12\"",
+              "Câmera 360° com transparência",
+              "Tomadas 220 V na caçamba (3) e na cabine",
+              "Bancos dianteiros ventilados e aquecidos",
+              "Modos de terreno (neve, areia, lama, montanha)",
+              "Capacidade de reboque de 2,5 t",
+              "Capacidade de imersão de 700 mm",
+              "Santo antônio"
+            ]
+          },
+          "fonte_url": "https://www.byd.com/br/order-shark",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Plataforma híbrida DMO. Autonomia combinada NEDC: 730 km. Consumo energético Inmetro: 0,91 MJ/km. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"SHARK GS DM\"."
+        }
+      ]
+    }
+  ]
+}

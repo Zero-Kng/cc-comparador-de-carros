@@ -1,0 +1,123 @@
+{
+  "marca": "Exemplo",
+  "slug": "exemplo",
+  "site_oficial": "https://www.exemplo.com.br",
+  "coletado_em": "2026-10-19",
+  "modelos": [
+    {
+      "id": "exemplo-cupe-x",
+      "modelo": "Cupê X",
+      "categoria": "SUV Compacto",
+      "subcategoria": "SUV cupê",
+      "propulsoes": [
+        "Combustão",
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": null,
+      "fontes": [
+        {
+          "url": "https://www.exemplo.com.br/cupe-x",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.exemplo.com.br/cupe-x/ficha-tecnica.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "exemplo-cupe-x-turbo-sport-2026",
+          "versao": "Turbo Sport",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 159990,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.3 Turbo Flex",
+            "cilindrada_cm3": 1332,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 185,
+              "gasolina": 180
+            },
+            "torque_kgfm": {
+              "etanol": 27.5,
+              "gasolina": 27.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.6,
+            "velocidade_maxima_kmh": 215
+          },
+          "consumo": {
+            "cidade_etanol": 7.4,
+            "estrada_etanol": 8.9,
+            "cidade_gasolina": 10.4,
+            "estrada_gasolina": 12.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4427,
+            "largura": 1774,
+            "largura_com_retrovisores": null,
+            "altura": 1545,
+            "entre_eixos": 2533,
+            "altura_livre_solo": 200
+          },
+          "peso_kg": 1380,
+          "porta_malas_l": 516,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/45 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Modo de condução Sport",
+              "Volante com paddle shifts",
+              "Escapamento esportivo",
+              "Teto pintado em preto"
+            ]
+          },
+          "fonte_url": "https://www.exemplo.com.br/cupe-x/turbo-sport",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Arquivo de EXEMPLO com valores ilustrativos — não é dado real."
+        }
+      ]
+    }
+  ]
+}

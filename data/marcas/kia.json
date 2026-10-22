@@ -1,0 +1,987 @@
+{
+  "marca": "Kia",
+  "slug": "kia",
+  "site_oficial": "https://www.kia.com.br",
+  "coletado_em": "2026-10-19",
+  "modelos": [
+    {
+      "id": "kia-sportage",
+      "modelo": "Sportage",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/kia-sportage.webp",
+        "fonte_imagem": "https://www.netcarshow.com/Kia-Sportage-2026-1280-92e30edcddddde864e00e8d0509241a664.jpg",
+        "pagina_origem": "https://www.netcarshow.com/kia/2026-sportage/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.kia.com.br/sportage",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.kia.com.br/sportage/especificacoes",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://kiasite.blob.core.windows.net/site/Fichas%20T%C3%A9cnicas/ficha-tecnica-sportage-hibrido.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://kiasite.blob.core.windows.net/site/Itens%20de%20S%C3%A9rie/itens-de-serie-sportage-hibrido.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "kia-sportage-mhev-ex-prestige-2027",
+          "versao": "MHEV EX Prestige",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 267190,
+          "preco_obs": "Preço público sugerido no site oficial, com frete, pintura sólida; válido de 01/10/2026 a 03/11/2026. Site exibe bônus promocional de R$ 20.000 (por R$ 247.190) por tempo limitado.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "Gamma II 1.6 Smartstream Turbo GDI MHEV 48V",
+            "cilindrada_cm3": 1598,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 178
+            },
+            "torque_kgfm": {
+              "combinada": 27
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 12.5,
+            "estrada_gasolina": 13.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4540,
+            "largura": 1865,
+            "largura_com_retrovisores": null,
+            "altura": 1645,
+            "entre_eixos": 2680,
+            "altura_livre_solo": 200
+          },
+          "peso_kg": 1574,
+          "porta_malas_l": 562,
+          "tanque_l": 54,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/50 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto solar panorâmico",
+              "Bancos dianteiros aquecidos e ventilados",
+              "Banco do passageiro elétrico",
+              "Volante aquecido",
+              "Smart Tailgate",
+              "Câmera de ponto cego no painel (BVM)",
+              "Sensores laterais de estacionamento",
+              "Partida remota pela chave",
+              "Câmbio rotativo shift-by-wire"
+            ]
+          },
+          "fonte_url": "https://www.kia.com.br/sportage/especificacoes",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Única versão listada. Velocidade máxima, aceleração e consumo PBEV (km/l) não divulgados no site (apenas 1,68 MJ/km). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"SPORTAGE TMHEV EX\"."
+        }
+      ]
+    },
+    {
+      "id": "kia-niro",
+      "modelo": "Niro",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/kia-niro.webp",
+        "fonte_imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIbb_ZWw3zegd7TnzMPq3UcKFZ69hMDGmoeqapcIXLy5ZGGk4GR3GQqKklhDMRCbwzfHFGkRgWN_PZ9cFZzb-nbba8QLGLfoloXWtJa7UEpuGY5gLgWvtv1yYe-iGFXBileN4yonFzT2uCAeaXcHiIn16azFW32EIUA5mlOsK6Cs2rY91RLaGk7MbNAJqq/s1911/Kia-Niro-2041.jpg",
+        "pagina_origem": "https://www.car.blog.br/2025/10/novo-kia-niro-2026-chega-com-preco.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.kia.com.br/niro",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.kia.com.br/niro/especificacoes",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://kiasite.blob.core.windows.net/site/Fichas%20T%C3%A9cnicas/ficha-tecnica-niro.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://kiasite.blob.core.windows.net/site/Itens%20de%20S%C3%A9rie/itens-de-serie-niro.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "kia-niro-hev-ex-2027",
+          "versao": "HEV EX",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 194990,
+          "preco_obs": "Preço público sugerido no site oficial, com frete, pintura sólida; válido de 01/10/2026 a 03/11/2026. Site exibe bônus promocional de R$ 20.000 (por R$ 174.990).",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "Kappa III 1.6 Smartstream GDI HEV",
+            "cilindrada_cm3": 1598,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 105,
+              "combinada": 141
+            },
+            "torque_kgfm": {
+              "gasolina": 14.7,
+              "combinada": 27
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 18.3,
+            "estrada_gasolina": 15.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4420,
+            "largura": 1825,
+            "largura_com_retrovisores": null,
+            "altura": 1545,
+            "entre_eixos": 2720,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1394,
+          "porta_malas_l": 425,
+          "tanque_l": 42,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/45 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Híbrido 1.6 de 141 cv combinados",
+              "Painel digital de 10,25\"",
+              "Multimídia de 10,25\" sem fio",
+              "Airbag de joelho",
+              "Faróis de neblina em LED",
+              "Retrovisor eletrocrômico"
+            ]
+          },
+          "fonte_url": "https://www.kia.com.br/niro/especificacoes",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Velocidade máxima, aceleração e consumo PBEV (km/l) não divulgados no site (apenas 1,21 MJ/km). Potência do motor elétrico não informada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"NIRO HEV 1.6 EX\"."
+        },
+        {
+          "id": "kia-niro-hev-sx-prestige-2027",
+          "versao": "HEV SX Prestige",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 219990,
+          "preco_obs": "Preço público sugerido no site oficial, com frete, pintura sólida; válido de 01/10/2026 a 03/11/2026. Site exibe bônus promocional de R$ 20.000 (por R$ 199.990).",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "Kappa III 1.6 Smartstream GDI HEV",
+            "cilindrada_cm3": 1598,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 105,
+              "combinada": 141
+            },
+            "torque_kgfm": {
+              "gasolina": 14.7,
+              "combinada": 27
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 18.3,
+            "estrada_gasolina": 15.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4420,
+            "largura": 1825,
+            "largura_com_retrovisores": null,
+            "altura": 1545,
+            "entre_eixos": 2720,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1394,
+          "porta_malas_l": 425,
+          "tanque_l": 42,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/45 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto solar elétrico",
+              "Faróis com projetores em LED",
+              "ACC com assistente de congestionamento",
+              "Assistente de ponto cego (BCA) e tráfego cruzado (RCCA)",
+              "Assistente de saída segura (SEA)",
+              "Smart Tailgate",
+              "Paddle shifts",
+              "Carregador por indução"
+            ]
+          },
+          "fonte_url": "https://www.kia.com.br/niro/especificacoes",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Velocidade máxima, aceleração e consumo PBEV (km/l) não divulgados no site (apenas 1,21 MJ/km). Potência do motor elétrico não informada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"NIRO HEV 1.6 EX\"."
+        }
+      ]
+    },
+    {
+      "id": "kia-ev9",
+      "modelo": "EV9",
+      "categoria": "SUV Grande",
+      "subcategoria": null,
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/kia-ev9.webp",
+        "fonte_imagem": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2026-kia-ev9-side-profile-exterior.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "pagina_origem": "https://carbuzz.com/most-innovative-features-electrification/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.kia.com.br/ev9",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.kia.com.br/ev9/especificacoes",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://kiasiteblob.kia.com.br/site/Fichas%20T%C3%A9cnicas/ficha-tecnica-ev9.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://kiasiteblob.kia.com.br/site/Itens%20de%20S%C3%A9rie/itens-de-serie-ev9.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "kia-ev9-gtl-2026",
+          "versao": "GTL",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 749990,
+          "preco_obs": "Preço público sugerido no site oficial, com frete; válido de 01/10/2026 a 03/11/2026",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Motores elétricos síncronos de ímã permanente, bateria NCM de 99,8 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 385
+            },
+            "torque_kgfm": {
+              "eletrico": 71.4
+            },
+            "bateria_kwh": 99.8,
+            "autonomia_eletrica_km": 434,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.3,
+            "velocidade_maxima_kmh": 200
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 5015,
+            "largura": 1980,
+            "largura_com_retrovisores": null,
+            "altura": 1780,
+            "entre_eixos": 3100,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2704,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 7,
+          "portas": 4,
+          "pneus": "285/45 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "7 lugares com 3ª fileira elétrica",
+              "Retrovisores externos digitais por câmera",
+              "Head-up display",
+              "Som Meridian",
+              "Teto solar duplo",
+              "Bancos dianteiros com massagem e relax Gravidade Zero",
+              "Bancos 1ª e 2ª fileiras aquecidos e ventilados",
+              "V2L e tomada 250 V",
+              "Recarga DC 30–80% em 24 min (350 kW)"
+            ]
+          },
+          "fonte_url": "https://www.kia.com.br/ev9/especificacoes",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas: o site informa 333 l (traseiro, com as 3 fileiras em uso) e 51 l (dianteiro); volume com a 3ª fileira rebatida não divulgado."
+        },
+        {
+          "id": "kia-ev9-gtl-fosco-2026",
+          "versao": "GTL Fosco",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 749990,
+          "preco_obs": "Preço público sugerido no site oficial, com frete; válido de 01/10/2026 a 03/11/2026",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Motores elétricos síncronos de ímã permanente, bateria NCM de 99,8 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 385
+            },
+            "torque_kgfm": {
+              "eletrico": 71.4
+            },
+            "bateria_kwh": 99.8,
+            "autonomia_eletrica_km": 434,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.3,
+            "velocidade_maxima_kmh": 200
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 5015,
+            "largura": 1980,
+            "largura_com_retrovisores": null,
+            "altura": 1780,
+            "entre_eixos": 3100,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2704,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 7,
+          "portas": 4,
+          "pneus": "285/45 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pintura fosca",
+              "7 lugares com 3ª fileira elétrica",
+              "Retrovisores externos digitais por câmera",
+              "Head-up display",
+              "Som Meridian",
+              "Teto solar duplo",
+              "Bancos dianteiros com massagem e relax Gravidade Zero",
+              "Bancos 1ª e 2ª fileiras aquecidos e ventilados",
+              "V2L e tomada 250 V",
+              "Recarga DC 30–80% em 24 min (350 kW)"
+            ]
+          },
+          "fonte_url": "https://www.kia.com.br/ev9/especificacoes",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Porta-malas: o site informa 333 l (traseiro, com as 3 fileiras em uso) e 51 l (dianteiro); volume com a 3ª fileira rebatida não divulgado. Mesma configuração da GTL, com pintura fosca (grade iluminada indisponível nas cores opacas)."
+        }
+      ]
+    },
+    {
+      "id": "kia-carnival",
+      "modelo": "Carnival",
+      "categoria": "Minivan",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/kia-carnival.webp",
+        "fonte_imagem": "https://insidethehood.com/wp-content/uploads/2023/12/2026-Kia-Carnival-Colors.jpg",
+        "pagina_origem": "https://insidethehood.com/2026-kia-carnival-specs/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.kia.com.br/carnival",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.kia.com.br/carnival/especificacoes",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://kiasiteblob.kia.com.br/site/Fichas%20T%C3%A9cnicas/ficha-tecnica-carnival-hibrida.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://kiasiteblob.kia.com.br/site/Itens%20de%20S%C3%A9rie/itens-serie-carnival-hibrida.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "kia-carnival-hev-ex-2027",
+          "versao": "HEV EX",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 684990,
+          "preco_obs": "Preço público sugerido no site oficial, com frete; válido de 01/10/2026 a 03/11/2026",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "Gamma II 1.6 Smartstream Turbo GDI HEV",
+            "cilindrada_cm3": 1598,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 180,
+              "eletrico": 73,
+              "combinada": 245
+            },
+            "torque_kgfm": {
+              "gasolina": 26.2,
+              "eletrico": 30.4,
+              "combinada": 37.4
+            },
+            "bateria_kwh": 1.485,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 11.9,
+            "estrada_gasolina": 10.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 5155,
+            "largura": 1995,
+            "largura_com_retrovisores": null,
+            "altura": 1750,
+            "entre_eixos": 3090,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2220,
+          "porta_malas_l": null,
+          "tanque_l": 72,
+          "lugares": 8,
+          "portas": 4,
+          "pneus": "235/55 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "8 lugares",
+              "Portas laterais corrediças elétricas (Smart Doors)",
+              "Som Bose com 12 alto-falantes",
+              "Bancos dianteiros aquecidos e ventilados",
+              "Banco do motorista com memória",
+              "2ª fileira reversível sobre trilhos",
+              "Smart Tailgate",
+              "Câmera de ponto cego no painel (BVM)",
+              "Telas de 12,3\" curvas integradas"
+            ]
+          },
+          "fonte_url": "https://www.kia.com.br/carnival/especificacoes",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Motor elétrico: 54 kW (≈73 cv). Porta-malas: 627 l com todas as fileiras em uso e 2.827 l com 2ª e 3ª rebatidas; volume com só a 3ª rebatida não divulgado. Portas: 2 dianteiras + 2 laterais corrediças elétricas. Quantidade de airbags não explicitada (frontais, central dianteiro, cortina 3 fileiras e joelho do motorista). Velocidade máxima, aceleração e consumo PBEV não divulgados. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CARNIVAL HEV EX\"."
+        }
+      ]
+    },
+    {
+      "id": "kia-sorento",
+      "modelo": "Sorento",
+      "categoria": "SUV Grande",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/kia-sorento.webp",
+        "fonte_imagem": "https://imgcdn.zigwheels.ph/large/gallery/roadtest/17/2924/kia-sorento-side-view-480770.jpg",
+        "pagina_origem": "https://www.zigwheels.ph/new-cars/videos/2023-kia-sorento-sx-review-zigwheelsph-5058"
+      },
+      "fontes": [
+        {
+          "url": "https://www.kia.com.br/sorento",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.kia.com.br/sorento/especificacoes",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://kiasiteblob.kia.com.br/site/Fichas%20T%C3%A9cnicas/ficha-tecnica-sorento.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://kiasiteblob.kia.com.br/site/Itens%20de%20S%C3%A9rie/itens-de-serie-sorento.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "kia-sorento-ex-2026",
+          "versao": "EX",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 344990,
+          "preco_obs": "Preço público sugerido no site oficial, com frete, pintura sólida; válido de 01/10/2026 a 03/11/2026",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "D4HE Smartstream 2.2 Turbo VGT diesel",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 194
+            },
+            "torque_kgfm": {
+              "diesel": 45
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.7,
+            "velocidade_maxima_kmh": 201
+          },
+          "consumo": {
+            "cidade_diesel": 11,
+            "estrada_diesel": 13.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4815,
+            "largura": 1900,
+            "largura_com_retrovisores": null,
+            "altura": 1695,
+            "entre_eixos": 2815,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1974,
+          "porta_malas_l": 608,
+          "tanque_l": 67,
+          "lugares": 7,
+          "portas": 4,
+          "pneus": "235/55 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "7 lugares",
+              "Motor diesel 2.2 com tração integral",
+              "Bancos em couro com ajustes elétricos (motorista e passageiro)",
+              "Câmera de ponto cego no painel (BVM)",
+              "Smart Tailgate",
+              "Saída de ar para a 2ª fileira",
+              "Controle de descida (DBC)"
+            ]
+          },
+          "fonte_url": "https://www.kia.com.br/sorento/especificacoes",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2026/2026. Porta-malas: 179 l (7 lugares), 608 l (3ª fileira rebatida), 1.996 l (2 lugares). Usa Arla 32 (tanque de 14 l). Consumo PBEV (km/l) não divulgado (2,23 MJ/km). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"SORENTO EX\"."
+        }
+      ]
+    },
+    {
+      "id": "kia-tasman",
+      "modelo": "Tasman",
+      "categoria": "Picape",
+      "subcategoria": "Picape média",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/kia-tasman.webp",
+        "fonte_imagem": "https://hips.hearstapps.com/hmg-prod/images/680899-6720e0d4c539d.jpg?crop=1xw:1xh;center",
+        "pagina_origem": "https://www.caranddriver.com/photos/g62748108/2026-kia-tasman-revealed-gallery/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.kia.com.br/tasman",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.kia.com.br/tasman/especificacoes",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://kiasiteblob.kia.com.br/site/Fichas%20T%C3%A9cnicas/ficha-tecnica-tasman.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://kiasiteblob.kia.com.br/site/Itens%20de%20S%C3%A9rie/itens-de-serie-tasman.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "kia-tasman-2-2-diesel-4x4-at-2027",
+          "versao": "2.2 Diesel 4x4 AT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 269990,
+          "preco_obs": "Preço público sugerido no site oficial, com frete, pintura sólida; válido de 08/10/2026 a 03/11/2026",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "D4HE Smartstream 2.2 Turbo VGT diesel",
+            "cilindrada_cm3": 2151,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 210
+            },
+            "torque_kgfm": {
+              "diesel": 45
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.7,
+            "velocidade_maxima_kmh": 201
+          },
+          "consumo": {
+            "cidade_diesel": 9.5,
+            "estrada_diesel": 10.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 5410,
+            "largura": 1930,
+            "largura_com_retrovisores": null,
+            "altura": 1870,
+            "entre_eixos": 3270,
+            "altura_livre_solo": 231
+          },
+          "peso_kg": 2248,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/65 R17",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 1173,
+            "capacidade_carga_kg": 1007
+          },
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Tração 4x4 com reduzida e bloqueio automático do diferencial",
+              "Seletor de terreno (Neve/Lama/Areia)",
+              "Caçamba de 1.173 l",
+              "Carga útil de 1.007 kg",
+              "Reboque de até 6.200 kg (CMT)",
+              "Painel 12,3\" + multimídia 12,3\" sem fio",
+              "Partida remota pela chave",
+              "Controle de descida (DBC)"
+            ]
+          },
+          "fonte_url": "https://www.kia.com.br/tasman/especificacoes",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Versão única (o site não nomeia a versão). Velocidade máxima, 0–100 km/h, retomadas e frenagem informadas na ficha da Tasman são idênticas às do Sorento — possível erro de cadastro no site. Usa Arla 32. CMT 6.200 kg; capacidade de imersão 800 mm. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"TASMAN BASIC\"."
+        }
+      ]
+    }
+  ]
+}

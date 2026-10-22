@@ -1,0 +1,1006 @@
+{
+  "marca": "Aston Martin",
+  "slug": "aston-martin",
+  "site_oficial": "https://www.astonmartinsaopaulo.com.br",
+  "coletado_em": "2026-10-21",
+  "modelos": [
+    {
+      "id": "aston-martin-db12",
+      "modelo": "DB12",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Grand tourer 2+2",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Reino Unido",
+      "imagem": {
+        "arquivo": "img/carros/aston-martin-db12.webp",
+        "fonte_imagem": "https://editorial.pxcrush.net/carsales/general/editorial/aston-martin-db12-s_04.jpg?width=1024&height=682",
+        "pagina_origem": "https://www.carsales.com.au/editorial/details/2026-aston-martin-db12-s-debuts-150564/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.astonmartinsaopaulo.com.br/modelo/db12-coupe/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.astonmartinsaopaulo.com.br/modelo/db12-volante/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.astonmartinsaopaulo.com.br/modelo/db12-s/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.astonmartin.com/en/models/db12",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.astonmartin.com/en/models/db12-volante",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.astonmartin.com/en/models/db12-s",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "aston-martin-db12-coupe-2026",
+          "versao": "Coupé",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo",
+            "cilindrada_cm3": 3982,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 680
+            },
+            "torque_kgfm": {
+              "gasolina": 81.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.6,
+            "velocidade_maxima_kmh": 325
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4725,
+            "largura": 1980,
+            "largura_com_retrovisores": null,
+            "altura": 1295,
+            "entre_eixos": 2805,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1788,
+          "porta_malas_l": 262,
+          "tanque_l": 78,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": "275/35 ZR21 (diant.) / 325/30 ZR21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Diferencial eletrônico (E-Diff)",
+              "Amortecedores adaptativos DTX",
+              "Rodas forjadas 21\"",
+              "Freios carbono-cerâmica opcionais",
+              "Câmera 3D Surround View (global)"
+            ]
+          },
+          "fonte_url": "https://www.astonmartinsaopaulo.com.br/modelo/db12-coupe/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Aston Martin São Paulo (UK Motors, representante oficial). Preço não divulgado. Ficha técnica: site do dealer oficial BR, complementada pelo site global da marca. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "aston-martin-db12-volante-2026",
+          "versao": "Volante",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo",
+            "cilindrada_cm3": 3982,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 680
+            },
+            "torque_kgfm": {
+              "gasolina": 81.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.7,
+            "velocidade_maxima_kmh": 325
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4725,
+            "largura": 1980,
+            "largura_com_retrovisores": null,
+            "altura": 1295,
+            "entre_eixos": 2805,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1898,
+          "porta_malas_l": 206,
+          "tanque_l": 78,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": "275/35 ZR21 (diant.) / 325/30 ZR21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Conversível de capota de lona",
+              "Diferencial eletrônico (E-Diff)",
+              "Rodas forjadas 21\""
+            ]
+          },
+          "fonte_url": "https://www.astonmartinsaopaulo.com.br/modelo/db12-volante/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Aston Martin São Paulo (UK Motors, representante oficial). Preço não divulgado. Ficha técnica: site do dealer oficial BR, complementada pelo site global da marca. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "aston-martin-db12-s-2026",
+          "versao": "S",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo (515 kW)",
+            "cilindrada_cm3": 3982,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 690
+            },
+            "torque_kgfm": {
+              "gasolina": 81.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.5,
+            "velocidade_maxima_kmh": 325
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4725,
+            "largura": 1980,
+            "largura_com_retrovisores": null,
+            "altura": 1290,
+            "entre_eixos": 2805,
+            "altura_livre_solo": 120
+          },
+          "peso_kg": 1820,
+          "porta_malas_l": null,
+          "tanque_l": 78,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": "275/35 ZR21 (diant.) / 325/30 ZR21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Freios carbono-cerâmica",
+              "Sensores de estacionamento dianteiros e traseiros",
+              "Apple CarPlay sem fio",
+              "Calibração esportiva de chassi"
+            ]
+          },
+          "fonte_url": "https://www.astonmartinsaopaulo.com.br/modelo/db12-s/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Aston Martin São Paulo (UK Motors, representante oficial). Preço não divulgado. Ficha técnica: site do dealer oficial BR, complementada pelo site global da marca. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    },
+    {
+      "id": "aston-martin-vantage",
+      "modelo": "Vantage",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Esportivo 2 lugares",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Reino Unido",
+      "imagem": {
+        "arquivo": "img/carros/aston-martin-vantage.webp",
+        "fonte_imagem": "https://hips.hearstapps.com/hmg-prod/images/2026-aston-martin-vantage-s-103-697ba38132371.jpg?crop=1xw:1xh;center,top",
+        "pagina_origem": "https://www.caranddriver.com/photos/g70190345/2026-aston-martin-vantage-s-drive-exterior-gallery/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.astonmartinsaopaulo.com.br/modelo/vantage/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.astonmartinsaopaulo.com.br/modelo/vantage-roadster/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.astonmartinsaopaulo.com.br/modelo/vantage-s/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.astonmartin.com/en/models/vantage-coupe",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.astonmartin.com/en/models/vantage-roadster",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.astonmartin.com/en/models/vantage-s",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "aston-martin-vantage-coupe-2026",
+          "versao": "Coupé",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo",
+            "cilindrada_cm3": 3982,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 665
+            },
+            "torque_kgfm": {
+              "gasolina": 81.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.5,
+            "velocidade_maxima_kmh": 325
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4495,
+            "largura": 1980,
+            "largura_com_retrovisores": null,
+            "altura": 1275,
+            "entre_eixos": 2705,
+            "altura_livre_solo": 94
+          },
+          "peso_kg": 1745,
+          "porta_malas_l": null,
+          "tanque_l": 73,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "275/35 ZR21 (diant.) / 325/30 ZR21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Diferencial eletrônico (E-Diff)",
+              "Câmera 360°",
+              "Rodas forjadas 21\"",
+              "Pneus Michelin Pilot Sport S 5"
+            ]
+          },
+          "fonte_url": "https://www.astonmartinsaopaulo.com.br/modelo/vantage/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Aston Martin São Paulo (UK Motors, representante oficial). Preço não divulgado. Ficha técnica: site do dealer oficial BR, complementada pelo site global da marca. O site BR informa 665 cv; o site global já indica 680 PS para o Vantage atualizado. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "aston-martin-vantage-roadster-2026",
+          "versao": "Roadster",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo",
+            "cilindrada_cm3": 3982,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 665
+            },
+            "torque_kgfm": {
+              "gasolina": 81.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.6,
+            "velocidade_maxima_kmh": 325
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4495,
+            "largura": 1980,
+            "largura_com_retrovisores": null,
+            "altura": 1275,
+            "entre_eixos": 2705,
+            "altura_livre_solo": 94
+          },
+          "peso_kg": 1805,
+          "porta_malas_l": null,
+          "tanque_l": 73,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "275/35 ZR21 (diant.) / 325/30 ZR21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Capota de lona elétrica",
+              "Diferencial eletrônico (E-Diff)",
+              "Câmera 360°",
+              "Rodas forjadas 21\""
+            ]
+          },
+          "fonte_url": "https://www.astonmartinsaopaulo.com.br/modelo/vantage-roadster/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Aston Martin São Paulo (UK Motors, representante oficial). Preço não divulgado. Ficha técnica: site do dealer oficial BR, complementada pelo site global da marca. O site BR informa 665 cv; o site global já indica 680 PS para o Vantage atualizado. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "aston-martin-vantage-s-2026",
+          "versao": "S",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo",
+            "cilindrada_cm3": 3982,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 680
+            },
+            "torque_kgfm": {
+              "gasolina": 81.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.3,
+            "velocidade_maxima_kmh": 325
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4495,
+            "largura": 1980,
+            "largura_com_retrovisores": null,
+            "altura": 1275,
+            "entre_eixos": 2705,
+            "altura_livre_solo": 94
+          },
+          "peso_kg": 1745,
+          "porta_malas_l": null,
+          "tanque_l": 73,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "275/35 ZR21 (diant.) / 325/30 ZR21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Aerofólio traseiro de largura total",
+              "Subchassi fixado diretamente",
+              "Pacote de redução de peso opcional",
+              "Diferencial eletrônico (E-Diff)"
+            ]
+          },
+          "fonte_url": "https://www.astonmartinsaopaulo.com.br/modelo/vantage-s/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Aston Martin São Paulo (UK Motors, representante oficial). Preço não divulgado. Ficha técnica: site do dealer oficial BR, complementada pelo site global da marca. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    },
+    {
+      "id": "aston-martin-vanquish",
+      "modelo": "Vanquish",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Grand tourer V12",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Reino Unido",
+      "imagem": {
+        "arquivo": "img/carros/aston-martin-vanquish.webp",
+        "fonte_imagem": "https://hips.hearstapps.com/hmg-prod/images/aston-martin-vanquish-volante-2026-side-top-down-687e95a856748.jpg?crop=1xw:0.999875015623047xh;center",
+        "pagina_origem": "https://www.roadandtrack.com/photos/g65467240/photos-2026-aston-martin-vanquish-volante/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.astonmartinsaopaulo.com.br/modelo/vanquish/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.astonmartinsaopaulo.com.br/modelo/vanquish-volante/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.astonmartin.com/en/models/vanquish",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.astonmartin.com/en/models/vanquish-volante",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "aston-martin-vanquish-coupe-2026",
+          "versao": "Coupé",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "5.2 V12 biturbo",
+            "cilindrada_cm3": 5204,
+            "cilindros": 12,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 835
+            },
+            "torque_kgfm": {
+              "gasolina": 102
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.3,
+            "velocidade_maxima_kmh": 345
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4855,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1290,
+            "entre_eixos": 2885,
+            "altura_livre_solo": 120
+          },
+          "peso_kg": 1910,
+          "porta_malas_l": 248,
+          "tanque_l": 82,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "275/35 ZR21 (diant.) / 325/30 ZR21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor V12 5.2 biturbo de 835 cv",
+              "Teto panorâmico de vidro",
+              "Freios carbono-cerâmica",
+              "Rodas forjadas 21\""
+            ]
+          },
+          "fonte_url": "https://www.astonmartinsaopaulo.com.br/modelo/vanquish/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Aston Martin São Paulo (UK Motors, representante oficial). Preço não divulgado. Ficha técnica: site do dealer oficial BR, complementada pelo site global da marca. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "aston-martin-vanquish-volante-2026",
+          "versao": "Volante",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "5.2 V12 biturbo",
+            "cilindrada_cm3": 5204,
+            "cilindros": 12,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 835
+            },
+            "torque_kgfm": {
+              "gasolina": 102
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.4,
+            "velocidade_maxima_kmh": 345
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4855,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1295,
+            "entre_eixos": 2885,
+            "altura_livre_solo": 120
+          },
+          "peso_kg": 2005,
+          "porta_malas_l": 219,
+          "tanque_l": 82,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "275/35 ZR21 (diant.) / 325/30 ZR21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Conversível de capota de lona",
+              "Motor V12 5.2 biturbo de 835 cv",
+              "Freios carbono-cerâmica",
+              "Rodas forjadas 21\""
+            ]
+          },
+          "fonte_url": "https://www.astonmartinsaopaulo.com.br/modelo/vanquish-volante/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Aston Martin São Paulo (UK Motors, representante oficial). Preço não divulgado. Ficha técnica: site do dealer oficial BR, complementada pelo site global da marca. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    },
+    {
+      "id": "aston-martin-dbx",
+      "modelo": "DBX",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV de luxo",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Reino Unido",
+      "imagem": {
+        "arquivo": "img/carros/aston-martin-dbx.webp",
+        "fonte_imagem": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/01/2026-aston-martin-dbx-s-side-profile-exterior.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "pagina_origem": "https://carbuzz.com/cars/aston-martin/dbx-s/2026/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.astonmartinsaopaulo.com.br/modelo/dbx707/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.astonmartinsaopaulo.com.br/modelo/dbx-s/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.astonmartin.com/en/models/dbx707",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.astonmartin.com/en/models/dbx-s",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "aston-martin-dbx-707-2026",
+          "versao": "707",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo",
+            "cilindrada_cm3": 3982,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 707
+            },
+            "torque_kgfm": {
+              "gasolina": 91.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.3,
+            "velocidade_maxima_kmh": 310
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 5039,
+            "largura": 1998,
+            "largura_com_retrovisores": null,
+            "altura": 1680,
+            "entre_eixos": 3060,
+            "altura_livre_solo": 190
+          },
+          "peso_kg": 2245,
+          "porta_malas_l": 638,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "285/40 YR22 (diant.) / 325/35 YR22 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 22,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmbio de 9 marchas com embreagem úmida",
+              "Suspensão a ar com altura variável",
+              "Barras estabilizadoras ativas 48V",
+              "Áudio Bowers & Wilkins",
+              "Teto panorâmico"
+            ]
+          },
+          "fonte_url": "https://www.astonmartinsaopaulo.com.br/modelo/dbx707/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Aston Martin São Paulo (UK Motors, representante oficial). Preço não divulgado. Ficha técnica: site do dealer oficial BR, complementada pelo site global da marca. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "aston-martin-dbx-s-2026",
+          "versao": "S",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo",
+            "cilindrada_cm3": 3982,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 727
+            },
+            "torque_kgfm": {
+              "gasolina": 91.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.3,
+            "velocidade_maxima_kmh": 310
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 5039,
+            "largura": 1998,
+            "largura_com_retrovisores": null,
+            "altura": 1680,
+            "entre_eixos": 3060,
+            "altura_livre_solo": 190
+          },
+          "peso_kg": 2245,
+          "porta_malas_l": 638,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "285/35 ZR23 (diant.) / 325/30 ZR23 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 23,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Turbos derivados do Valhalla",
+              "Rodas de magnésio 23\" opcionais",
+              "Teto de fibra de carbono opcional",
+              "Suspensão a ar com altura variável",
+              "Teto panorâmico"
+            ]
+          },
+          "fonte_url": "https://www.astonmartinsaopaulo.com.br/modelo/dbx-s/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Aston Martin São Paulo (UK Motors, representante oficial). Preço não divulgado. Ficha técnica: site do dealer oficial BR, complementada pelo site global da marca. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    }
+  ]
+}

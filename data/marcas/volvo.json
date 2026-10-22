@@ -1,0 +1,1542 @@
+{
+  "marca": "Volvo",
+  "slug": "volvo",
+  "site_oficial": "https://www.volvocars.com/br",
+  "coletado_em": "2026-10-21",
+  "modelos": [
+    {
+      "id": "volvo-ex30",
+      "modelo": "EX30",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/volvo-ex30.webp",
+        "fonte_imagem": "https://cdn.auto-dash.com/affinitivadvertising/vehicleimgs/jellybeans/volvo/2026-volvo-ex30-ultra-black-side.webp",
+        "pagina_origem": "https://www.crownvolvocarsfl.com/volvo-ex30-specs-st-petersburg-fl.htm"
+      },
+      "fontes": [
+        {
+          "url": "https://www.volvocars.com/br/cars/ex30-electric/specifications/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.volvocars.com/br/build/ex30-electric/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://autopapo.com.br/curta/volvo-ex30-cross-country-desembarca-no-brasil-com-tracao-integral-e-apelo-off-road/",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido, base tributação/frete SP (configurador Volvo)",
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo de energia 17 kWh/100 km (site). Carregamento DC 10-80% em 26 min (150 kW). Bancos com ajuste elétrico são opcionais na Plus. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"EX30 E40 CORE\".",
+          "ano_modelo": 2026,
+          "consumo": {
+            "cidade_eletrico_km_le": 40.1,
+            "estrada_eletrico_km_le": 33.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4233,
+            "largura": 1838,
+            "largura_com_retrovisores": null,
+            "altura": 1550,
+            "entre_eixos": 2650,
+            "altura_livre_solo": null
+          },
+          "porta_malas_l": 318,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "id": "volvo-ex30-plus-single-motor-2026",
+          "versao": "Plus Single Motor",
+          "preco_sugerido_brl": 249950,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Single Motor (traseiro) 51 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 272
+            },
+            "torque_kgfm": {
+              "eletrico": 35
+            },
+            "bateria_kwh": 51,
+            "autonomia_eletrica_km": 250,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.7,
+            "velocidade_maxima_kmh": 180
+          },
+          "peso_kg": 1840,
+          "pneus": "245/45 R19",
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pilot Assist",
+              "Tecnologia avançada de detecção",
+              "Sistema de som premium Harman Kardon",
+              "Porta-malas elétrico",
+              "Compartimento de carga dianteiro (frunk)",
+              "Medição de qualidade do ar e pré-limpeza remota da cabine",
+              "Iluminação interior padrão alto",
+              "Google integrado",
+              "Tela central de 12,3\" (sem painel de instrumentos separado)"
+            ]
+          },
+          "fonte_url": "https://www.volvocars.com/br/build/ex30-electric/"
+        },
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido, base tributação/frete SP (configurador Volvo)",
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo de energia 17,5 kWh/100 km (site). Carregamento DC 10-80% em 28 min (175 kW). Medida das rodas da versão Ultra não confirmada no site (ficha lista opções 19\" e 20\"). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"EX30 TWIN ULTRA\".",
+          "ano_modelo": 2026,
+          "consumo": {
+            "cidade_eletrico_km_le": 33.4,
+            "estrada_eletrico_km_le": 32
+          },
+          "dimensoes_mm": {
+            "comprimento": 4233,
+            "largura": 1838,
+            "largura_com_retrovisores": null,
+            "altura": 1550,
+            "entre_eixos": 2650,
+            "altura_livre_solo": null
+          },
+          "porta_malas_l": 318,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "id": "volvo-ex30-ultra-twin-motor-performance-2026",
+          "versao": "Ultra Twin Motor Performance",
+          "preco_sugerido_brl": 319950,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Twin Motor Performance (AWD) 69 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 428
+            },
+            "torque_kgfm": {
+              "eletrico": 55.4
+            },
+            "bateria_kwh": 69,
+            "autonomia_eletrica_km": 316,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.6,
+            "velocidade_maxima_kmh": 180
+          },
+          "peso_kg": 1960,
+          "pneus": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto panorâmico",
+              "Park Pilot Assist",
+              "Câmera de 360° com visualização 3D",
+              "Pilot Assist",
+              "Sistema de som premium Harman Kardon",
+              "Porta-malas elétrico",
+              "Compartimento de carga dianteiro (frunk)",
+              "Google integrado",
+              "Tração integral Twin Motor Performance"
+            ]
+          },
+          "fonte_url": "https://www.volvocars.com/br/build/ex30-electric/"
+        },
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido, base tributação/frete SP (configurador Volvo)",
+          "picape": null,
+          "campos_fonte_secundaria": [
+            "motor.potencia_cv",
+            "motor.torque_kgfm",
+            "motor.bateria_kwh",
+            "motor.autonomia_eletrica_km",
+            "desempenho.aceleracao_0_100_s",
+            "equipamentos.rodas_polegadas",
+            "equipamentos.multimidia_polegadas"
+          ],
+          "observacoes": "Edição listada no configurador oficial (preço oficial). Ficha técnica da edição não publicada no site BR; motorização e autonomia de fonte secundária (AutoPapo). Dimensões diferem da versão regular (maior altura do solo) e não foram confirmadas. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"EX30 C COUNTRY\".",
+          "ano_modelo": 2026,
+          "consumo": {
+            "cidade_eletrico_km_le": 37.3,
+            "estrada_eletrico_km_le": 33.4
+          },
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "id": "volvo-ex30-cross-country-2026",
+          "versao": "Cross Country",
+          "preco_sugerido_brl": 324950,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Twin Motor Performance (AWD) 69 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 428
+            },
+            "torque_kgfm": {
+              "eletrico": 55.4
+            },
+            "bateria_kwh": 69,
+            "autonomia_eletrica_km": 327,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.7,
+            "velocidade_maxima_kmh": null
+          },
+          "peso_kg": null,
+          "pneus": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": null,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Para-choques e detalhes em preto fosco",
+              "Rodas maiores e maior altura do solo (segundo a Volvo)",
+              "Google integrado"
+            ]
+          },
+          "fonte_url": "https://www.volvocars.com/br/build/ex30-electric/"
+        }
+      ]
+    },
+    {
+      "id": "volvo-ex40",
+      "modelo": "EX40",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "Bélgica",
+      "imagem": {
+        "arquivo": "img/carros/volvo-ex40.webp",
+        "fonte_imagem": "https://imgcdn.oto.com/large/gallery/exterior/40/2713/volvo-xc40-side-view-182975.jpg",
+        "pagina_origem": "https://www.oto.com/en/mobil-baru/volvo/xc40/warna"
+      },
+      "fontes": [
+        {
+          "url": "https://www.volvocars.com/br/cars/ex40-electric/specifications/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.volvocars.com/br/build/ex40-electric/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.volvocars.com/br/l/comprar/black-edition/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.tabelafipebrasil.com/carros/VOLVO/EX40-BLACK-EDITION-ULTRA-AWD-P8/2026-Eletrico",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido, base tributação/frete SP (configurador Volvo)",
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Carregamento DC 10-80% em 27 min (175 kW). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"EX40 6 CORE\".",
+          "ano_modelo": 2027,
+          "consumo": {
+            "cidade_eletrico_km_le": 39.4,
+            "estrada_eletrico_km_le": 34.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4440,
+            "largura": 1873,
+            "largura_com_retrovisores": null,
+            "altura": 1647,
+            "entre_eixos": 2702,
+            "altura_livre_solo": null
+          },
+          "porta_malas_l": 410,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "id": "volvo-ex40-plus-single-motor-2027",
+          "versao": "Plus Single Motor",
+          "preco_sugerido_brl": 345950,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Single Motor (traseiro) 69 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 238
+            },
+            "torque_kgfm": {
+              "eletrico": 42.8
+            },
+            "bateria_kwh": 69,
+            "autonomia_eletrica_km": 364,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.3,
+            "velocidade_maxima_kmh": 180
+          },
+          "peso_kg": 2040,
+          "pneus": "235/50 R19",
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto panorâmico",
+              "Pilot Assist",
+              "Purificador de ar e pré-limpeza remota da cabine",
+              "Banco do motorista elétrico com memória",
+              "Banco do passageiro elétrico",
+              "Entrada sem chave com porta-malas elétrico",
+              "Iluminação interior padrão alto",
+              "Google integrado",
+              "Painel do motorista de 12,3\"",
+              "Sistema de som de alta performance"
+            ]
+          },
+          "fonte_url": "https://www.volvocars.com/br/build/ex40-electric/"
+        },
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido, base tributação/frete SP (configurador Volvo)",
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Carregamento DC 10-80% em 28 min (175 kW). Medida das rodas da Ultra não confirmada (ficha lista opções 19\" e 20\"). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"EX40 PERF ULTRA\".",
+          "ano_modelo": 2027,
+          "consumo": {
+            "cidade_eletrico_km_le": 35.7,
+            "estrada_eletrico_km_le": 33
+          },
+          "dimensoes_mm": {
+            "comprimento": 4440,
+            "largura": 1873,
+            "largura_com_retrovisores": null,
+            "altura": 1647,
+            "entre_eixos": 2702,
+            "altura_livre_solo": null
+          },
+          "porta_malas_l": 410,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "id": "volvo-ex40-ultra-twin-motor-performance-2027",
+          "versao": "Ultra Twin Motor Performance",
+          "preco_sugerido_brl": 400950,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Twin Motor Performance (AWD) 82 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 442
+            },
+            "torque_kgfm": {
+              "eletrico": 68.3
+            },
+            "bateria_kwh": 82,
+            "autonomia_eletrica_km": 393,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.6,
+            "velocidade_maxima_kmh": 180
+          },
+          "peso_kg": 2170,
+          "pneus": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto panorâmico",
+              "Câmera 360°",
+              "Sistema de som premium Harman Kardon",
+              "Faróis de LED Pixel",
+              "Pilot Assist",
+              "Purificador de ar e pré-limpeza remota da cabine",
+              "Banco do motorista elétrico com memória",
+              "Entrada sem chave com porta-malas elétrico",
+              "Google integrado",
+              "Tração integral Twin Motor Performance"
+            ]
+          },
+          "fonte_url": "https://www.volvocars.com/br/build/ex40-electric/"
+        },
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido, base tributação/frete SP (configurador Volvo)",
+          "picape": null,
+          "campos_fonte_secundaria": [
+            "motor.descricao",
+            "motor.potencia_cv",
+            "motor.torque_kgfm",
+            "motor.bateria_kwh",
+            "motor.autonomia_eletrica_km",
+            "tracao",
+            "desempenho.aceleracao_0_100_s",
+            "peso_kg"
+          ],
+          "observacoes": "Edição listada no configurador oficial (preço oficial). Base Ultra Twin Motor (AWD) segundo a Tabela FIPE (\"Black Edition Ultra AWD P8\"); ficha da Ultra Twin Motor aplicada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"EX40 PERF BLACK\".",
+          "ano_modelo": 2027,
+          "consumo": {
+            "cidade_eletrico_km_le": 35.7,
+            "estrada_eletrico_km_le": 33
+          },
+          "dimensoes_mm": {
+            "comprimento": 4440,
+            "largura": 1873,
+            "largura_com_retrovisores": null,
+            "altura": 1647,
+            "entre_eixos": 2702,
+            "altura_livre_solo": null
+          },
+          "porta_malas_l": 410,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "id": "volvo-ex40-black-edition-2027",
+          "versao": "Black Edition",
+          "preco_sugerido_brl": 405950,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Twin Motor Performance (AWD) 82 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 442
+            },
+            "torque_kgfm": {
+              "eletrico": 68.3
+            },
+            "bateria_kwh": 82,
+            "autonomia_eletrica_km": 393,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.6,
+            "velocidade_maxima_kmh": 180
+          },
+          "peso_kg": 2170,
+          "pneus": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Detalhes em preto Glossy Black (grade e logotipos)",
+              "Rodas exclusivas pretas",
+              "Teto panorâmico",
+              "Câmera 360°",
+              "Sistema de som premium Harman Kardon",
+              "Faróis de LED Pixel",
+              "Pilot Assist",
+              "Purificador de ar e pré-limpeza remota da cabine"
+            ]
+          },
+          "fonte_url": "https://www.volvocars.com/br/l/comprar/black-edition/"
+        }
+      ]
+    },
+    {
+      "id": "volvo-ec40",
+      "modelo": "EC40",
+      "categoria": "SUV Compacto",
+      "subcategoria": "SUV cupê",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "Bélgica",
+      "imagem": {
+        "arquivo": "img/carros/volvo-ec40.webp",
+        "fonte_imagem": "https://imgcdn.zigwheels.my/large/gallery/exterior/12/2582/volvo-ec40-side-view-426015.jpg",
+        "pagina_origem": "https://www.zigwheels.my/new-cars/volvo/ec40/colors"
+      },
+      "fontes": [
+        {
+          "url": "https://www.volvocars.com/br/cars/ec40-electric/specifications/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.volvocars.com/br/build/ec40-electric/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.volvocars.com/br/l/comprar/black-edition/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.tabelafipebrasil.com/carros/VOLVO/EX40-BLACK-EDITION-ULTRA-AWD-P8/2026-Eletrico",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido, base tributação/frete SP (configurador Volvo)",
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Carregamento DC 10-80% em 27 min (175 kW). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"EC40 6 CORE\".",
+          "ano_modelo": 2027,
+          "consumo": {
+            "cidade_eletrico_km_le": 41.7,
+            "estrada_eletrico_km_le": 37.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4440,
+            "largura": 1873,
+            "largura_com_retrovisores": null,
+            "altura": 1591,
+            "entre_eixos": 2702,
+            "altura_livre_solo": null
+          },
+          "porta_malas_l": 404,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "id": "volvo-ec40-plus-single-motor-2027",
+          "versao": "Plus Single Motor",
+          "preco_sugerido_brl": 350950,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Single Motor (traseiro) 69 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 238
+            },
+            "torque_kgfm": {
+              "eletrico": 42.8
+            },
+            "bateria_kwh": 69,
+            "autonomia_eletrica_km": 385,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.3,
+            "velocidade_maxima_kmh": 180
+          },
+          "peso_kg": 2065,
+          "pneus": "235/50 R19",
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto panorâmico fixo",
+              "Pilot Assist",
+              "Purificador de ar e pré-limpeza remota da cabine",
+              "Banco do motorista elétrico com memória",
+              "Banco do passageiro elétrico",
+              "Entrada sem chave com porta-malas elétrico",
+              "Iluminação interior padrão alto",
+              "Google integrado",
+              "Painel do motorista de 12,3\""
+            ]
+          },
+          "fonte_url": "https://www.volvocars.com/br/build/ec40-electric/"
+        },
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido, base tributação/frete SP (configurador Volvo)",
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Carregamento DC 10-80% em 28 min (175 kW). Medida das rodas da Ultra não confirmada (ficha lista opções 19\" e 20\"). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"EC40 PERF ULTRA\".",
+          "ano_modelo": 2027,
+          "consumo": {
+            "cidade_eletrico_km_le": 36.6,
+            "estrada_eletrico_km_le": 32.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4440,
+            "largura": 1873,
+            "largura_com_retrovisores": null,
+            "altura": 1591,
+            "entre_eixos": 2702,
+            "altura_livre_solo": null
+          },
+          "porta_malas_l": 404,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "id": "volvo-ec40-ultra-twin-motor-performance-2027",
+          "versao": "Ultra Twin Motor Performance",
+          "preco_sugerido_brl": 405950,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Twin Motor Performance (AWD) 82 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 442
+            },
+            "torque_kgfm": {
+              "eletrico": 68.3
+            },
+            "bateria_kwh": 82,
+            "autonomia_eletrica_km": 404,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.6,
+            "velocidade_maxima_kmh": 180
+          },
+          "peso_kg": 2185,
+          "pneus": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto panorâmico fixo",
+              "Câmera 360°",
+              "Sistema de som premium Harman Kardon",
+              "Faróis de LED Pixel",
+              "Pilot Assist",
+              "Purificador de ar e pré-limpeza remota da cabine",
+              "Banco do motorista elétrico com memória",
+              "Entrada sem chave com porta-malas elétrico",
+              "Google integrado",
+              "Tração integral Twin Motor Performance"
+            ]
+          },
+          "fonte_url": "https://www.volvocars.com/br/build/ec40-electric/"
+        },
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido, base tributação/frete SP (configurador Volvo)",
+          "picape": null,
+          "campos_fonte_secundaria": [
+            "motor.descricao",
+            "motor.potencia_cv",
+            "motor.torque_kgfm",
+            "motor.bateria_kwh",
+            "motor.autonomia_eletrica_km",
+            "tracao",
+            "desempenho.aceleracao_0_100_s",
+            "peso_kg"
+          ],
+          "observacoes": "Edição listada no configurador oficial (preço oficial). Base Ultra Twin Motor (AWD) segundo a Tabela FIPE (\"Black Edition Ultra AWD P8\"); ficha da Ultra Twin Motor aplicada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"EC40 PERF BLACK\".",
+          "ano_modelo": 2027,
+          "consumo": {
+            "cidade_eletrico_km_le": 36.6,
+            "estrada_eletrico_km_le": 32.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4440,
+            "largura": 1873,
+            "largura_com_retrovisores": null,
+            "altura": 1591,
+            "entre_eixos": 2702,
+            "altura_livre_solo": null
+          },
+          "porta_malas_l": 404,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "id": "volvo-ec40-black-edition-2027",
+          "versao": "Black Edition",
+          "preco_sugerido_brl": 410950,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Twin Motor Performance (AWD) 82 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 442
+            },
+            "torque_kgfm": {
+              "eletrico": 68.3
+            },
+            "bateria_kwh": 82,
+            "autonomia_eletrica_km": 404,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.6,
+            "velocidade_maxima_kmh": 180
+          },
+          "peso_kg": 2185,
+          "pneus": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Detalhes em preto Glossy Black (grade e logotipos)",
+              "Rodas exclusivas pretas",
+              "Teto panorâmico fixo",
+              "Câmera 360°",
+              "Sistema de som premium Harman Kardon",
+              "Faróis de LED Pixel",
+              "Pilot Assist",
+              "Purificador de ar e pré-limpeza remota da cabine"
+            ]
+          },
+          "fonte_url": "https://www.volvocars.com/br/l/comprar/black-edition/"
+        }
+      ]
+    },
+    {
+      "id": "volvo-es90",
+      "modelo": "ES90",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan fastback",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/volvo-es90.webp",
+        "fonte_imagem": "https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt79b720b05e114c6d/690dbd549541a788865f09cc/my26_es90_ext_side_left_16x9.jpg?branch=prod_alias&quality=85&format=auto&h=3375&iar=0&w=6000",
+        "pagina_origem": "https://www.volvocars.com/uk/cars/es90-electric/?utm_source=g=&utm_campaign=brand="
+      },
+      "fontes": [
+        {
+          "url": "https://www.volvocars.com/br/cars/es90-electric/specifications/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.volvocars.com/br/build/es90-electric/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido, base tributação/frete SP (configurador Volvo)",
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Pneus traseiros mais largos que os dianteiros (medida dianteira informada). Carregamento DC 10-80% em 22 min (350 kW). Site informa que o LIDAR pode não estar disponível. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"ES90 TWIN PE ULT\".",
+          "id": "volvo-es90-ultra-twin-motor-performance-2027",
+          "versao": "Ultra Twin Motor Performance",
+          "ano_modelo": 2027,
+          "preco_sugerido_brl": 659950,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Twin Motor Performance (AWD) 106 kWh, sistema 800 V",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 680
+            },
+            "torque_kgfm": {
+              "eletrico": 88.7
+            },
+            "bateria_kwh": 106,
+            "autonomia_eletrica_km": 524,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 38.9,
+            "estrada_eletrico_km_le": 34.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 5000,
+            "largura": 1942,
+            "largura_com_retrovisores": null,
+            "altura": 1549,
+            "entre_eixos": 3102,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2610,
+          "porta_malas_l": 442,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": null,
+          "pneus": "255/40 R22",
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.5,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 22,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto panorâmico eletrocrômico",
+              "Sistema de áudio Bowers & Wilkins",
+              "Bancos ventilados em couro napa",
+              "Massagem nos bancos dianteiros",
+              "Suspensão a ar ativa",
+              "Faróis Pixel de alta definição",
+              "Head-up display",
+              "Park Pilot Assist",
+              "Câmera 360° com visualização 3D",
+              "Climatização de quatro zonas",
+              "Tecnologia avançada de detecção (LIDAR)",
+              "Chave digital",
+              "Volante aquecido"
+            ]
+          },
+          "fonte_url": "https://www.volvocars.com/br/build/es90-electric/"
+        }
+      ]
+    },
+    {
+      "id": "volvo-xc60",
+      "modelo": "XC60",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/volvo-xc60.webp",
+        "fonte_imagem": "https://blog.olhonocarro.com.br/wp-content/uploads/2024/12/volvo-xc60-plus-t8-2025-lateral-1920x1080.jpg",
+        "pagina_origem": "https://www.olhonocarro.com.br/blog/rascunho-automaticovolvo-xc60-plus-t8-2025-avaliacao-completa/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.volvocars.com/br/cars/xc60-hybrid/specifications/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.volvocars.com/br/build/xc60-hybrid/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido, base tributação/frete SP (configurador Volvo)",
+          "picape": null,
+          "campos_fonte_secundaria": [
+            "motor.cilindrada_cm3",
+            "motor.cilindros",
+            "motor.turbo"
+          ],
+          "observacoes": "O site informa torque máximo de 1.109 Nm, valor incompatível com o mesmo conjunto T8 do XC90 (709 Nm); torque deixado em branco. Massa com carga máxima 2.660 kg (peso em ordem de marcha não divulgado). CO₂ 22 g/km. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"XC60 INSC EXPRESS\".",
+          "ano_modelo": 2026,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "T8 eAWD Híbrido Plug-in (2.0 turbo a gasolina + motor elétrico traseiro)",
+            "cilindrada_cm3": 1969,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 462
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": 18.8,
+            "autonomia_eletrica_km": 48,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.8,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_gasolina": 9.5,
+            "estrada_gasolina": 9.4,
+            "cidade_eletrico_km_le": 24.4,
+            "estrada_eletrico_km_le": 22.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4708,
+            "largura": 1902,
+            "largura_com_retrovisores": null,
+            "altura": 1651,
+            "entre_eixos": 2865,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 468,
+          "tanque_l": 71,
+          "lugares": 5,
+          "portas": 5,
+          "id": "volvo-xc60-plus-t8-2026",
+          "versao": "Plus T8 eAWD",
+          "preco_sugerido_brl": 469950,
+          "pneus": "235/55 R19",
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 11.2,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto panorâmico",
+              "Pilot Assist",
+              "Google integrado",
+              "BLIS",
+              "Entrada sem chave com porta-malas elétrico",
+              "Câmbio de cristal Orrefors",
+              "Banco do motorista elétrico com memória",
+              "Sistema de qualidade do ar",
+              "Carregador sem fio"
+            ]
+          },
+          "fonte_url": "https://www.volvocars.com/br/build/xc60-hybrid/"
+        },
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido, base tributação/frete SP (configurador Volvo)",
+          "picape": null,
+          "campos_fonte_secundaria": [
+            "motor.cilindrada_cm3",
+            "motor.cilindros",
+            "motor.turbo"
+          ],
+          "observacoes": "O site informa torque máximo de 1.109 Nm, valor incompatível com o mesmo conjunto T8 do XC90 (709 Nm); torque deixado em branco. Massa com carga máxima 2.660 kg (peso em ordem de marcha não divulgado). CO₂ 22 g/km. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"XC60 INSC EXPRESS\".",
+          "ano_modelo": 2026,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "T8 eAWD Híbrido Plug-in (2.0 turbo a gasolina + motor elétrico traseiro)",
+            "cilindrada_cm3": 1969,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 462
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": 18.8,
+            "autonomia_eletrica_km": 48,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.8,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_gasolina": 9.5,
+            "estrada_gasolina": 9.4,
+            "cidade_eletrico_km_le": 24.4,
+            "estrada_eletrico_km_le": 22.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4708,
+            "largura": 1902,
+            "largura_com_retrovisores": null,
+            "altura": 1651,
+            "entre_eixos": 2865,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 468,
+          "tanque_l": 71,
+          "lugares": 5,
+          "portas": 5,
+          "id": "volvo-xc60-ultra-t8-2026",
+          "versao": "Ultra T8 eAWD",
+          "preco_sugerido_brl": 519950,
+          "pneus": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 11.2,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema de áudio Bowers & Wilkins",
+              "Câmera 360°",
+              "Head-up display",
+              "Painel personalizado",
+              "Iluminação interior padrão alto",
+              "Suporte lombar elétrico de 4 vias",
+              "Teto panorâmico",
+              "Pilot Assist",
+              "Câmbio de cristal Orrefors"
+            ]
+          },
+          "fonte_url": "https://www.volvocars.com/br/build/xc60-hybrid/"
+        }
+      ]
+    },
+    {
+      "id": "volvo-xc90",
+      "modelo": "XC90",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV 7 lugares",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "Suécia",
+      "imagem": {
+        "arquivo": "img/carros/volvo-xc90.webp",
+        "fonte_imagem": "https://s.yimg.com/lo/mysterio/api/50F6ACED75E59556E8A73C999A798D1198003E069AB5FDDB31436268A0465433/subgraphmysterio/resizefill_w1200_h600;quality_80;format_webp/https://media.zenfs.com/en/aol_car_and_driver_636/8af8ff92ac719e4383419cc7208d975b",
+        "pagina_origem": "https://www.aol.co.uk/articles/closer-look-2026-volvo-xc90-193900432.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.volvocars.com/br/cars/xc90-hybrid/specifications/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.volvocars.com/br/build/xc90-hybrid/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido, base tributação/frete SP (configurador Volvo)",
+          "picape": null,
+          "campos_fonte_secundaria": [
+            "motor.cilindrada_cm3",
+            "motor.cilindros",
+            "motor.turbo"
+          ],
+          "observacoes": "Consumo médio combinado informado no site: 24,1 km/l (sem separação cidade/estrada). Porta-malas: 650 l com a 3ª fila rebatida (244 l com 7 lugares). Massa com carga máxima 2.950 kg. CO₂ 28 g/km. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"XC90 INSC EXPRESS\".",
+          "ano_modelo": 2026,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "T8 eAWD Híbrido Plug-in (2.0 turbo a gasolina + motor elétrico traseiro)",
+            "cilindrada_cm3": 1969,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 462
+            },
+            "torque_kgfm": {
+              "combinada": 72.3
+            },
+            "bateria_kwh": 18.8,
+            "autonomia_eletrica_km": 47,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.3,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_gasolina": 9.4,
+            "estrada_gasolina": 9.3,
+            "cidade_eletrico_km_le": 24.1,
+            "estrada_eletrico_km_le": 21.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4953,
+            "largura": 1931,
+            "largura_com_retrovisores": null,
+            "altura": 1767,
+            "entre_eixos": 2984,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 650,
+          "tanque_l": 71,
+          "lugares": 7,
+          "portas": 5,
+          "id": "volvo-xc90-plus-t8-2026",
+          "versao": "Plus T8 eAWD",
+          "preco_sugerido_brl": 699950,
+          "pneus": "275/45 R20",
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 11.2,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "7 lugares",
+              "Teto panorâmico",
+              "Pilot Assist",
+              "Faróis LED Matrix",
+              "Climatização de quatro zonas",
+              "Google integrado",
+              "BLIS",
+              "Câmbio de cristal Orrefors",
+              "Carregador sem fio"
+            ]
+          },
+          "fonte_url": "https://www.volvocars.com/br/build/xc90-hybrid/"
+        },
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido, base tributação/frete SP (configurador Volvo)",
+          "picape": null,
+          "campos_fonte_secundaria": [
+            "motor.cilindrada_cm3",
+            "motor.cilindros",
+            "motor.turbo"
+          ],
+          "observacoes": "Consumo médio combinado informado no site: 24,1 km/l (sem separação cidade/estrada). Porta-malas: 650 l com a 3ª fila rebatida (244 l com 7 lugares). Massa com carga máxima 2.950 kg. CO₂ 28 g/km. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"XC90 INSC EXPRESS\".",
+          "ano_modelo": 2026,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "T8 eAWD Híbrido Plug-in (2.0 turbo a gasolina + motor elétrico traseiro)",
+            "cilindrada_cm3": 1969,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 462
+            },
+            "torque_kgfm": {
+              "combinada": 72.3
+            },
+            "bateria_kwh": 18.8,
+            "autonomia_eletrica_km": 47,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.3,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_gasolina": 9.4,
+            "estrada_gasolina": 9.3,
+            "cidade_eletrico_km_le": 24.1,
+            "estrada_eletrico_km_le": 21.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4953,
+            "largura": 1931,
+            "largura_com_retrovisores": null,
+            "altura": 1767,
+            "entre_eixos": 2984,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 650,
+          "tanque_l": 71,
+          "lugares": 7,
+          "portas": 5,
+          "id": "volvo-xc90-ultra-t8-2026",
+          "versao": "Ultra T8 eAWD",
+          "preco_sugerido_brl": 749950,
+          "pneus": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 11.2,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema de áudio Bowers & Wilkins",
+              "Câmera 360°",
+              "Head-up display",
+              "Assistente de estacionamento lateral",
+              "Filtro de ar e pré-filtragem remota da cabine",
+              "Rodas 21\" 5-multi spoke",
+              "Faróis LED Matrix",
+              "Climatização de quatro zonas",
+              "Teto panorâmico"
+            ]
+          },
+          "fonte_url": "https://www.volvocars.com/br/build/xc90-hybrid/"
+        }
+      ]
+    }
+  ]
+}

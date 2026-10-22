@@ -1,0 +1,246 @@
+{
+  "marca": "Foton",
+  "slug": "foton",
+  "site_oficial": "https://fotondobrasil.com.br",
+  "coletado_em": "2026-10-21",
+  "modelos": [
+    {
+      "id": "foton-tunland",
+      "modelo": "Tunland",
+      "categoria": "Picape",
+      "subcategoria": "Picape grande",
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/foton-tunland.webp",
+        "fonte_imagem": "https://www.automaistv.com.br/wp-content/uploads/2026/01/Foton-Tunland-V9-Lateral-Baixa-1320x743.webp",
+        "pagina_origem": null
+      },
+      "fontes": [
+        {
+          "url": "https://fotondobrasil.com.br/veiculos/tunland",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://fotondobrasil.com.br/uploads/manuais/0000037_Ficha_tecnica_Tunland_2026.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://fotondobrasil.com.br/uploads/manuais/0000009_PT_Manual de Uso e Manutenção - Linha Tunland V - 4a edição, setembro de 2025.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.automaistv.com.br/avaliacao/foton-tunland-v9-mostra-que-uma-novata-pode-incomodar-as-veteranas-avaliacao/",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "foton-tunland-v7-2026",
+          "versao": "V7",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 289900,
+          "preco_obs": "Base SP, frete incluso (outubro/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Diesel",
+            "descricao": "2.0 Turbodiesel Aucan 4F20 (VGT, common rail Bosch) + sistema híbrido Bosch 48V",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 175
+            },
+            "torque_kgfm": {
+              "combinada": 45.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 8.7,
+            "estrada_diesel": 9.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 5617,
+            "largura": 2090,
+            "largura_com_retrovisores": null,
+            "altura": 1910,
+            "entre_eixos": 3355,
+            "altura_livre_solo": 240
+          },
+          "peso_kg": 2285,
+          "porta_malas_l": null,
+          "tanque_l": 76,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/70 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 1379,
+            "capacidade_carga_kg": 1050
+          },
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "teto_solar": false,
+            "destaques": [
+              "Câmbio ZF 8HP50 com paddle shifts",
+              "Diferencial blocante",
+              "Câmera 360° com chassi transparente",
+              "Bancos dianteiros com aquecimento",
+              "Banco do motorista elétrico (8 posições)",
+              "Alerta de permanência em faixa (LKW)",
+              "Detector de fadiga (DMS)",
+              "Alerta de tráfego cruzado traseiro (RTCA)",
+              "Retrovisor interno eletrocrômico",
+              "Luz ambiente 256 cores",
+              "Capacidade de reboque 3.500 kg",
+              "6 modos de condução"
+            ]
+          },
+          "fonte_url": "https://fotondobrasil.com.br/veiculos/tunland",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica Tunland 2026. Potência (175 cv) e torque (445 Nm) informados como combinados do sistema diesel + 48V; torque convertido para kgfm. Ficha cita Apple CarPlay sem fio e app Carbit (Android Auto não citado). Tração 4x4 com diferencial blocante; reduzida (modo 4L) conforme manual oficial da linha Tunland. Bancos com \"revestimento premium\" (material não especificado). Preço base SP, frete incluso, válido em outubro/2026. Suspensão traseira por feixe de molas. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"TUNLAND V7\"."
+        },
+        {
+          "id": "foton-tunland-v9-2026",
+          "versao": "V9",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 309900,
+          "preco_obs": "Base SP, frete incluso (outubro/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Diesel",
+            "descricao": "2.0 Turbodiesel Aucan 4F20 (VGT, common rail Bosch) + sistema híbrido Bosch 48V",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 175
+            },
+            "torque_kgfm": {
+              "combinada": 45.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 8.7,
+            "estrada_diesel": 9.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 5617,
+            "largura": 2090,
+            "largura_com_retrovisores": null,
+            "altura": 1955,
+            "entre_eixos": 3355,
+            "altura_livre_solo": 240
+          },
+          "peso_kg": 2335,
+          "porta_malas_l": null,
+          "tanque_l": 76,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/70 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 1379,
+            "capacidade_carga_kg": 1000
+          },
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "teto_solar": true,
+            "destaques": [
+              "Teto solar panorâmico",
+              "ACC com Stop & Go e assistente de trânsito (TJA)",
+              "Frenagem autônoma de emergência com detecção de pedestres",
+              "Centralização em faixa (LKC)",
+              "Reconhecimento de placas de velocidade",
+              "Bancos dianteiros com aquecimento e resfriamento",
+              "Banco do motorista com memória",
+              "Suspensão traseira por molas helicoidais",
+              "Bagageiro de teto",
+              "Câmera 360° com chassi transparente"
+            ]
+          },
+          "fonte_url": "https://fotondobrasil.com.br/veiculos/tunland",
+          "campos_fonte_secundaria": [
+            "consumo"
+          ],
+          "observacoes": "Ficha técnica Tunland 2026. Potência (175 cv) e torque (445 Nm) informados como combinados do sistema diesel + 48V; torque convertido para kgfm. Ficha cita Apple CarPlay sem fio e app Carbit (Android Auto não citado). Tração 4x4 com diferencial blocante; reduzida (modo 4L) conforme manual oficial da linha Tunland. Bancos com \"revestimento premium\" (material não especificado). Preço base SP, frete incluso, válido em outubro/2026. Suspensão traseira por molas helicoidais. Consumo PBEV/Inmetro citado pela imprensa (Automais) e pela Ficha Completa; a V9 não consta na tabela PBEV de ago/2026."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,918 @@
+{
+  "marca": "Jetour",
+  "slug": "jetour",
+  "site_oficial": "https://jetourbr.com",
+  "coletado_em": "2026-10-20",
+  "modelos": [
+    {
+      "id": "jetour-t1",
+      "modelo": "T1",
+      "categoria": "SUV Médio",
+      "subcategoria": "SUV off-road",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/jetour-t1.webp",
+        "fonte_imagem": "https://cdn.autopapo.com.br/box/uploads/2026/01/28130049/jetour-t1-2026-cinza-lateral-parado-2-1-1920x1280.jpg",
+        "pagina_origem": "https://autopapo.com.br/noticia/jetour-estrea-brasil-precos-pre-venda/"
+      },
+      "fontes": [
+        {
+          "url": "https://jetourbr.com/carro/t1/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://jetourbr.com/ficha-tecnica/t1.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": null,
+          "consumo": {
+            "cidade_gasolina": 13.6,
+            "estrada_gasolina": 12.2,
+            "cidade_eletrico_km_le": 34.7,
+            "estrada_eletrico_km_le": 26.8
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "id": "jetour-t1-advance-2027",
+          "versao": "Advance",
+          "preco_sugerido_brl": 249900,
+          "ano_modelo": 2027,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo PHEV (motor a combustão 135 cv + motor elétrico 204 cv), bateria 26,7 kWh",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 135,
+              "eletrico": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 20.4,
+              "eletrico": 31.6
+            },
+            "bateria_kwh": 26.7,
+            "autonomia_eletrica_km": 88,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": 1
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": 180
+          },
+          "dimensoes_mm": {
+            "comprimento": 4705,
+            "largura": 1967,
+            "largura_com_retrovisores": null,
+            "altura": 1843,
+            "entre_eixos": 2800,
+            "altura_livre_solo": 190
+          },
+          "peso_kg": 2000,
+          "porta_malas_l": 574,
+          "tanque_l": 70,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/60 R19",
+          "fonte_url": "https://jetourbr.com/carro/t1/",
+          "observacoes": "Ficha ano-modelo 2027. Consumo PBEV divulgado só como média combinada 55%-45%: 13,0 km/l e 30,6 km/l (sem separação cidade/estrada). Alcance total declarado: até 1.200 km; autonomia elétrica não informada. Potência \"total instalada\" de 339 cv é soma simples, não simultânea. Tração não informada na ficha. Airbags: ficha lista laterais dianteiros e de cabeça/cortina (dianteiros e traseiros); somados aos frontais obrigatórios = 6. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"T1 I-DM ADVANCE\".",
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmera 540°",
+              "Piloto adaptativo com assistente de tráfego (TJA/ICA)",
+              "Bancos dianteiros ventilados",
+              "Banco do motorista elétrico (6 posições)",
+              "Banco do passageiro elétrico (4 posições)",
+              "Partida remota pela chave",
+              "Freio de estacionamento eletrônico com auto hold",
+              "Vidros dianteiros laminados",
+              "Barras de teto",
+              "Modos Economy/Comfort/Sport/Snow"
+            ]
+          }
+        },
+        {
+          "status": "À venda",
+          "preco_obs": null,
+          "consumo": {
+            "cidade_gasolina": 13.6,
+            "estrada_gasolina": 12.2,
+            "cidade_eletrico_km_le": 34.7,
+            "estrada_eletrico_km_le": 26.8
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "id": "jetour-t1-premium-2027",
+          "versao": "Premium",
+          "preco_sugerido_brl": 264900,
+          "ano_modelo": 2027,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo PHEV (motor a combustão 135 cv + motor elétrico 204 cv), bateria 26,7 kWh",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 135,
+              "eletrico": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 20.4,
+              "eletrico": 31.6
+            },
+            "bateria_kwh": 26.7,
+            "autonomia_eletrica_km": 88,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": 1
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": 180
+          },
+          "dimensoes_mm": {
+            "comprimento": 4705,
+            "largura": 1967,
+            "largura_com_retrovisores": null,
+            "altura": 1843,
+            "entre_eixos": 2800,
+            "altura_livre_solo": 190
+          },
+          "peso_kg": 2000,
+          "porta_malas_l": 574,
+          "tanque_l": 70,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/60 R19",
+          "fonte_url": "https://jetourbr.com/carro/t1/",
+          "observacoes": "Ficha ano-modelo 2027. Consumo PBEV divulgado só como média combinada 55%-45%: 13,0 km/l e 30,6 km/l (sem separação cidade/estrada). Alcance total declarado: até 1.200 km; autonomia elétrica não informada. Potência \"total instalada\" de 339 cv é soma simples, não simultânea. Tração não informada na ficha. Airbags: ficha lista laterais dianteiros e de cabeça/cortina (dianteiros e traseiros); somados aos frontais obrigatórios = 6. Disponível também na edição especial Dark Knight. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"T1 I-DM ADVANCE\".",
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto solar panorâmico",
+              "Carregador indutivo de 50 W",
+              "Som Sony",
+              "Porta-malas com fechamento automático",
+              "Banco do motorista elétrico (10 posições) com memória",
+              "Bancos dianteiros ventilados",
+              "Luzes ambiente",
+              "Projeção a laser nos retrovisores",
+              "Seletor de marchas em cristal",
+              "Câmera 540°",
+              "Edição especial Dark Knight disponível"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "jetour-t2",
+      "modelo": "T2",
+      "categoria": "SUV Médio",
+      "subcategoria": "SUV off-road",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/jetour-t2.webp",
+        "fonte_imagem": "https://www.webmotors.com.br/imagens/prod/380260/JETOUR_T2_1.5_TCI_PHEV_PREMIUM_AWD_DHT_38026011011420469.png",
+        "pagina_origem": "https://www.webmotors.com.br/jetour/t2/2026"
+      },
+      "fontes": [
+        {
+          "url": "https://jetourbr.com/carro/t2/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://jetourbr.com/carro/t2-4x4/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://jetourbr.com/ficha-tecnica/t2.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://jetourbr.com/ficha-tecnica/t2-4x4.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": null,
+          "consumo": {
+            "cidade_gasolina": 11.4,
+            "estrada_gasolina": 10.5,
+            "cidade_eletrico_km_le": 27.6,
+            "estrada_eletrico_km_le": 23.4
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "id": "jetour-t2-advance-2027",
+          "versao": "Advance",
+          "preco_sugerido_brl": 289900,
+          "ano_modelo": 2027,
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": 3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4785,
+            "largura": 2006,
+            "largura_com_retrovisores": null,
+            "altura": 1875,
+            "entre_eixos": 2800,
+            "altura_livre_solo": 205
+          },
+          "porta_malas_l": 580,
+          "tanque_l": 70,
+          "lugares": 5,
+          "portas": 5,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo PHEV com 2 motores elétricos (102 cv + 122 cv), bateria 26,7 kWh",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 135,
+              "eletrico": 224
+            },
+            "torque_kgfm": {
+              "gasolina": 20.4,
+              "eletrico": 39.7
+            },
+            "bateria_kwh": 26.7,
+            "autonomia_eletrica_km": 75,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": 7.5,
+            "velocidade_maxima_kmh": 197
+          },
+          "peso_kg": 2110,
+          "pneus": "255/60 R19",
+          "fonte_url": "https://jetourbr.com/carro/t2/",
+          "observacoes": "Ficha ano-modelo 2027. Comprimento com caixa do estepe (4.612 mm sem). Potência/torque elétricos = soma dos motores elétricos informados na ficha. Consumo PBEV divulgado só como média combinada 55%-45%. Autonomia elétrica não informada. Airbags: ficha lista laterais dianteiros e de cabeça/cortina (dianteiros e traseiros); somados aos frontais obrigatórios = 6. Consumo combinado PBEV: 11,0 km/l (gasolina) e 25,5 km/l (elétrico). Tração não informada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"T2 I-DM ADVANCE\".",
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto solar panorâmico",
+              "Carregador indutivo de 50 W",
+              "Câmera 540°",
+              "Porta-malas com fechamento automático",
+              "Bancos dianteiros ventilados",
+              "Banco do motorista elétrico (6 posições) com memória",
+              "Seletor de marchas em cristal",
+              "Recarga CC de 40 kW",
+              "Barras de teto"
+            ]
+          }
+        },
+        {
+          "status": "À venda",
+          "preco_obs": null,
+          "consumo": {
+            "cidade_gasolina": 11.4,
+            "estrada_gasolina": 10.5,
+            "cidade_eletrico_km_le": 27.6,
+            "estrada_eletrico_km_le": 23.4
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "id": "jetour-t2-premium-2027",
+          "versao": "Premium",
+          "preco_sugerido_brl": 299900,
+          "ano_modelo": 2027,
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": 3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4785,
+            "largura": 2006,
+            "largura_com_retrovisores": null,
+            "altura": 1875,
+            "entre_eixos": 2800,
+            "altura_livre_solo": 205
+          },
+          "porta_malas_l": 580,
+          "tanque_l": 70,
+          "lugares": 5,
+          "portas": 5,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo PHEV com 2 motores elétricos (102 cv + 122 cv), bateria 26,7 kWh",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 135,
+              "eletrico": 224
+            },
+            "torque_kgfm": {
+              "gasolina": 20.4,
+              "eletrico": 39.7
+            },
+            "bateria_kwh": 26.7,
+            "autonomia_eletrica_km": 75,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": 7.5,
+            "velocidade_maxima_kmh": 197
+          },
+          "peso_kg": 2110,
+          "pneus": "255/55 R20",
+          "fonte_url": "https://jetourbr.com/carro/t2/",
+          "observacoes": "Ficha ano-modelo 2027. Comprimento com caixa do estepe (4.612 mm sem). Potência/torque elétricos = soma dos motores elétricos informados na ficha. Consumo PBEV divulgado só como média combinada 55%-45%. Autonomia elétrica não informada. Airbags: ficha lista laterais dianteiros e de cabeça/cortina (dianteiros e traseiros); somados aos frontais obrigatórios = 6. Consumo combinado PBEV: 11,0 km/l (gasolina) e 25,5 km/l (elétrico). Tração não informada. Disponível na edição especial Dark Knight. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"T2 I-DM PREMIUM\".",
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Rodas aro 20",
+              "Som Sony",
+              "Luzes ambiente",
+              "Projeção a laser nos retrovisores",
+              "Logo Jetour iluminado",
+              "Soleira iluminada",
+              "Banco do motorista elétrico (10 posições) com memória",
+              "Bancos dianteiros ventilados",
+              "Teto solar panorâmico",
+              "Câmera 540°",
+              "Edição especial Dark Knight disponível"
+            ]
+          }
+        },
+        {
+          "status": "À venda",
+          "preco_obs": null,
+          "consumo": {
+            "cidade_gasolina": 10.5,
+            "estrada_gasolina": 9.3,
+            "cidade_eletrico_km_le": 26.1,
+            "estrada_eletrico_km_le": 22.1
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "id": "jetour-t2-xwd-4x4-2027",
+          "versao": "XWD 4x4",
+          "preco_sugerido_brl": 349900,
+          "ano_modelo": 2027,
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": 3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4785,
+            "largura": 2006,
+            "largura_com_retrovisores": null,
+            "altura": 1875,
+            "entre_eixos": 2800,
+            "altura_livre_solo": 205
+          },
+          "porta_malas_l": 580,
+          "tanque_l": 70,
+          "lugares": 5,
+          "portas": 5,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo PHEV com 3 motores elétricos (102 cv + 122 cv + 238 cv), bateria LFP 43,2 kWh",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 135,
+              "eletrico": 462
+            },
+            "torque_kgfm": {
+              "gasolina": 20.4,
+              "eletrico": 71.3
+            },
+            "bateria_kwh": 43.2,
+            "autonomia_eletrica_km": 106,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.5,
+            "velocidade_maxima_kmh": 197
+          },
+          "peso_kg": 2362,
+          "pneus": "255/55 R20",
+          "fonte_url": "https://jetourbr.com/carro/t2-4x4/",
+          "observacoes": "Ficha ano-modelo 2027. Comprimento com caixa do estepe (4.612 mm sem). Potência/torque elétricos = soma dos motores elétricos informados na ficha. Consumo PBEV divulgado só como média combinada 55%-45%. Autonomia elétrica não informada. Airbags: ficha lista laterais dianteiros e de cabeça/cortina (dianteiros e traseiros); somados aos frontais obrigatórios = 6. Consumo combinado PBEV: 10,0 km/l (gasolina) e 25,5 km/l (elétrico). Tração integral inteligente XWD. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"T2 I-DM PRM 4X4\".",
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Tração integral XWD com 3 motores elétricos",
+              "8 modos de condução (inclui Lama, Areia, Pedra e Modo X)",
+              "Bateria de 43,2 kWh",
+              "0-100 km/h em 5,5 s",
+              "Som Sony",
+              "Banco do passageiro elétrico (5 posições)",
+              "Banco do motorista elétrico (10 posições) com memória",
+              "Bancos dianteiros ventilados",
+              "Teto solar panorâmico",
+              "Câmera 540°",
+              "Projeção a laser nos retrovisores"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "jetour-s06",
+      "modelo": "S06",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/jetour-s06.webp",
+        "fonte_imagem": "https://revistacars.com.br/wp-content/uploads/2026/01/lateral-rodas-jetour-s06.webp",
+        "pagina_origem": "https://revistacars.com.br/jetour-s06-lancamento-brasil-preco-autonomia-hibrido/"
+      },
+      "fontes": [
+        {
+          "url": "https://jetourbr.com/carro/s06/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://jetourbr.com/ficha-tecnica/s06.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": "Site: \"POR: R$ 199.900,00\"",
+          "consumo": {
+            "cidade_gasolina": 14,
+            "estrada_gasolina": 12.6,
+            "cidade_eletrico_km_le": 36.2,
+            "estrada_eletrico_km_le": 28.9
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "id": "jetour-s06-advance-2027",
+          "versao": "Advance",
+          "preco_sugerido_brl": 199900,
+          "ano_modelo": 2027,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo PHEV (motor a combustão 135 cv + motor elétrico 204 cv), bateria 19,43 kWh",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 135,
+              "eletrico": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 20.4,
+              "eletrico": 31.6
+            },
+            "bateria_kwh": 19.43,
+            "autonomia_eletrica_km": 70,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": 1
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": 7.8,
+            "velocidade_maxima_kmh": 180
+          },
+          "dimensoes_mm": {
+            "comprimento": 4616,
+            "largura": 1910,
+            "largura_com_retrovisores": null,
+            "altura": 1690,
+            "entre_eixos": 2720,
+            "altura_livre_solo": 188
+          },
+          "porta_malas_l": 416,
+          "tanque_l": 60,
+          "lugares": 5,
+          "portas": 5,
+          "fonte_url": "https://jetourbr.com/carro/s06/",
+          "peso_kg": 1746,
+          "pneus": "235/60 R18",
+          "observacoes": "Ficha ano-modelo 2027. Consumo PBEV divulgado só como média combinada 55%-45%: 13,4 km/l e 32,5 km/l. Alcance total até 1.200 km; autonomia elétrica não informada. Tração não informada. Airbags: ficha lista laterais dianteiros e de cabeça/cortina (dianteiros e traseiros); somados aos frontais obrigatórios = 6. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"S06 DM ADVANCE\".",
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Piloto automático convencional",
+              "Câmera 360°",
+              "Carregador indutivo de 50 W",
+              "Porta-malas com fechamento automático",
+              "Painel digital de 9,2\"",
+              "Banco do motorista elétrico (6 posições)",
+              "Partida remota pela chave",
+              "Freio de estacionamento eletrônico com auto hold"
+            ]
+          }
+        },
+        {
+          "status": "À venda",
+          "preco_obs": null,
+          "consumo": {
+            "cidade_gasolina": 14,
+            "estrada_gasolina": 12.6,
+            "cidade_eletrico_km_le": 36.2,
+            "estrada_eletrico_km_le": 28.9
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "id": "jetour-s06-premium-2027",
+          "versao": "Premium",
+          "preco_sugerido_brl": 229900,
+          "ano_modelo": 2027,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo PHEV (motor a combustão 135 cv + motor elétrico 204 cv), bateria 19,43 kWh",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 135,
+              "eletrico": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 20.4,
+              "eletrico": 31.6
+            },
+            "bateria_kwh": 19.43,
+            "autonomia_eletrica_km": 70,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": 1
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": 7.8,
+            "velocidade_maxima_kmh": 180
+          },
+          "dimensoes_mm": {
+            "comprimento": 4616,
+            "largura": 1910,
+            "largura_com_retrovisores": null,
+            "altura": 1690,
+            "entre_eixos": 2720,
+            "altura_livre_solo": 188
+          },
+          "porta_malas_l": 416,
+          "tanque_l": 60,
+          "lugares": 5,
+          "portas": 5,
+          "fonte_url": "https://jetourbr.com/carro/s06/",
+          "peso_kg": 1807,
+          "pneus": "255/45 R20",
+          "observacoes": "Ficha ano-modelo 2027. Consumo PBEV divulgado só como média combinada 55%-45%: 13,4 km/l e 32,5 km/l. Alcance total até 1.200 km; autonomia elétrica não informada. Tração não informada. Airbags: ficha lista laterais dianteiros e de cabeça/cortina (dianteiros e traseiros); somados aos frontais obrigatórios = 6. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"S06 DM ADVANCE\".",
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote ADAS (ACC, TJA, AEB, LKA, BSD, RCTA, DOW)",
+              "Câmera 540°",
+              "Teto solar panorâmico",
+              "Som Sony",
+              "Bancos dianteiros aquecidos e ventilados",
+              "Banco do motorista elétrico (10 posições) com memória",
+              "Banco do passageiro elétrico",
+              "Lanternas full LED",
+              "Luzes ambiente",
+              "Vidros dianteiros laminados",
+              "Rodas aro 20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "jetour-s08",
+      "modelo": "S08",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV de 7 lugares",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/jetour-s08.webp",
+        "fonte_imagem": "https://jetour.md/wp-content/uploads/2026/01/S08-silver-09.png",
+        "pagina_origem": "https://jetour.md/avtomobili/s08_idm-ultra/"
+      },
+      "fontes": [
+        {
+          "url": "https://jetourbr.com/carro/s08/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://jetourbr.com/ficha-tecnica/s08.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://autopapo.com.br/noticia/jetour-s08-lancamento/",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": null,
+          "consumo": {
+            "cidade_gasolina": 12.4,
+            "estrada_gasolina": 10.3,
+            "cidade_eletrico_km_le": 30.5
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [
+            "consumo",
+            "motor.autonomia_eletrica_km"
+          ],
+          "id": "jetour-s08-premium-2027",
+          "versao": "Premium",
+          "ano_modelo": 2027,
+          "preco_sugerido_brl": 259900,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo PHEV (motor a combustão 135 cv + motor elétrico 204 cv), bateria LFP 18,4 kWh",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 135,
+              "eletrico": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 20.4,
+              "eletrico": 31.6
+            },
+            "bateria_kwh": 18.4,
+            "autonomia_eletrica_km": 62,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": 1
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": 8.4,
+            "velocidade_maxima_kmh": 180
+          },
+          "dimensoes_mm": {
+            "comprimento": 4810,
+            "largura": 1930,
+            "largura_com_retrovisores": null,
+            "altura": 1705,
+            "entre_eixos": 2820,
+            "altura_livre_solo": 180
+          },
+          "peso_kg": 1998,
+          "porta_malas_l": 658,
+          "tanque_l": 70,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": "235/50 R20",
+          "fonte_url": "https://jetourbr.com/carro/s08/",
+          "observacoes": "Ficha ano-modelo 2027. Porta-malas: 94 L (7 lugares), 658 L (5 lugares) e 1.708 L (2 lugares). Pneus run flat. Potência total instalada 339 cv / 510 Nm (soma simples). Consumo PBEV combinado 55%-45%: 11,5 km/l (gasolina) e 28,7 km/l (elétrico). Tração não informada. Ficha lista airbags laterais, de cabeça e de cortina sem informar a quantidade. Consumo Inmetro citado pela imprensa: modo combustão (AutoPapo) e modo elétrico só cidade (Webmotors/Canal VE).",
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "7 lugares com 3ª fileira de rebatimento elétrico",
+              "Bancos dianteiros com aquecimento, ventilação, memória e massagem",
+              "Ajuste elétrico em todos os bancos",
+              "Saídas de ar e controle individual para 2ª e 3ª fileiras",
+              "Câmera 540° com chassi transparente",
+              "Assistente de mudança de faixa (LCA)",
+              "Som com 12 alto-falantes",
+              "Caixa térmica de 6,4 L com esterilizador UV",
+              "Porta-malas com abertura e fechamento automáticos",
+              "Teto solar panorâmico",
+              "Pneus run flat"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

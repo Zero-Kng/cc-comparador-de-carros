@@ -1,0 +1,507 @@
+{
+  "marca": "Changan",
+  "slug": "changan",
+  "site_oficial": "https://caoachangan.com.br",
+  "coletado_em": "2026-10-21",
+  "modelos": [
+    {
+      "id": "changan-cs55",
+      "modelo": "CS55",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão",
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/changan-cs55.webp",
+        "fonte_imagem": "https://imgcdn.zigwheels.ph/large/gallery/exterior/138/3038/changan-cs55-plus-side-view-644092.jpg",
+        "pagina_origem": "https://www.zigwheels.ph/new-cars/changan/cs55-plus/images"
+      },
+      "fontes": [
+        {
+          "url": "https://caoachangan.com.br/novos/cs55-infinity",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://caoachangan.com.br/novos/cs55-phev",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://cloudfront.alpes.one/public/6aa/9c3/033/6aa9c303341c6865152953.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://cloudfront.alpes.one/public/6aa/9c4/833/6aa9c48332118490733693.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://autopapo.com.br/noticia/caoa-changan-cs55-infinity-positivos-e-negativos/",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": "À vista, cor preta sólida; demais cores + R$ 2.000",
+          "consumo": {
+            "cidade_etanol": 7.3,
+            "estrada_etanol": 8.3,
+            "cidade_gasolina": 10.4,
+            "estrada_gasolina": 12.1
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [
+            "consumo"
+          ],
+          "peso_kg": null,
+          "id": "changan-cs55-infinity-turbo-flex-2027",
+          "versao": "Infinity Turbo Flex",
+          "ano_modelo": 2027,
+          "preco_sugerido_brl": 154990,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 TGDI Turbo Flex, injeção direta",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 180,
+              "gasolina": 180
+            },
+            "torque_kgfm": {
+              "etanol": 29.2,
+              "gasolina": 29.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "dimensoes_mm": {
+            "comprimento": 4550,
+            "largura": 1868,
+            "largura_com_retrovisores": null,
+            "altura": 1675,
+            "entre_eixos": 2656,
+            "altura_livre_solo": null
+          },
+          "porta_malas_l": 525,
+          "tanque_l": 51,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/55 R19",
+          "fonte_url": "https://caoachangan.com.br/novos/cs55-infinity",
+          "observacoes": "Ano/modelo 2026/2027. Ficha informa valor único de potência (180 cv) e torque (29,2 kgfm) para o motor flex, sem separar etanol/gasolina; repetido nas duas chaves. Bancos com \"revestimento premium\" (material não especificado). Preço na cor preta sólida; demais cores + R$ 2.000. Consumo Inmetro citado pela imprensa (AutoPapo/Webmotors); não consta na tabela PBEV 2026.",
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmera 540° com chassi transparente",
+              "Piloto automático adaptativo integrado (IACC)",
+              "Assistente de mudança de faixa (LCA)",
+              "Banco do motorista com aquecimento, ventilação, memória e ajuste lombar",
+              "Banco do passageiro elétrico com aquecimento e ventilação",
+              "Som Pioneer com 8 alto-falantes",
+              "Teto solar panorâmico elétrico",
+              "Porta-malas elétrico",
+              "Partida remota e manobra Straight-in/out pela chave",
+              "App Changan Connect",
+              "Iluminação ambiente 256 cores",
+              "Console refrigerado/aquecido"
+            ]
+          }
+        },
+        {
+          "status": "Pré-venda",
+          "preco_obs": "À vista, cor preta sólida; demais cores + R$ 2.000",
+          "consumo": {},
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "peso_kg": 1676,
+          "id": "changan-cs55-ultra-hybrid-phev-flex-2027",
+          "versao": "Ultra-Hybrid PHEV Flex",
+          "ano_modelo": 2027,
+          "preco_sugerido_brl": 189990,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Flex",
+            "descricao": "1.5 TGDI Turbo Flex + 1 motor elétrico; bateria 18,4 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 143,
+              "gasolina": 143,
+              "eletrico": 234,
+              "combinada": 286
+            },
+            "torque_kgfm": {
+              "etanol": 21.9,
+              "gasolina": 21.9,
+              "combinada": 47
+            },
+            "bateria_kwh": 18.4,
+            "autonomia_eletrica_km": 76,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.2,
+            "velocidade_maxima_kmh": null
+          },
+          "dimensoes_mm": {
+            "comprimento": 4550,
+            "largura": 1868,
+            "largura_com_retrovisores": null,
+            "altura": 1675,
+            "entre_eixos": 2656,
+            "altura_livre_solo": null
+          },
+          "porta_malas_l": 525,
+          "tanque_l": 51,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/55 R19",
+          "fonte_url": "https://caoachangan.com.br/novos/cs55-phev",
+          "observacoes": "Ano/modelo 2026/2027; site informa que está \"disponível exclusivamente para reserva\". Ficha informa consumo de 42,2 km/l (cidade) e 33,5 km/l (estrada) em \"km/L e\" (equivalente, modo híbrido), não incluído em consumo por não ser km/l de combustível puro. Potência/torque do motor a combustão informados como valor único para o flex. Sistema V2L 220 V.",
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Autonomia elétrica de 76 km (PBEV)",
+              "Sistema V2L 220 V",
+              "Câmera 540° com chassi transparente",
+              "Piloto automático adaptativo integrado (IACC)",
+              "Reconhecimento de placas (TSR)",
+              "Bancos dianteiros elétricos com aquecimento e ventilação",
+              "Vidros acústicos",
+              "Som Pioneer com 8 alto-falantes",
+              "Teto solar panorâmico elétrico",
+              "Logo traseiro iluminado",
+              "Acabamento interno preto e marrom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "changan-cs75",
+      "modelo": "CS75",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/changan-cs75.webp",
+        "fonte_imagem": "https://s2-autoesporte.glbimg.com/lCE07Z1g18fW3vMUgUUxoydwT-o=/1600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/i/D/1HDzKwQpyZfsfS8WBfrA/caoa-changan-cs75-2027-lateral.jpg",
+        "pagina_origem": "https://autoesporte.globo.com/carros/lancamentos-de-carros/noticia/2026/06/caoa-changan-cs75-precos-versoes-equipamentos-consumo.ghtml"
+      },
+      "fontes": [
+        {
+          "url": "https://caoachangan.com.br/novos/cs75",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://cloudfront.alpes.one/public/6a2/c20/a4d/6a2c20a4d0251571794161.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.vrum.com.br/avaliacoes/2026/06/7442775-caoa-changan-cs75-o-preco-compensa-o-consumo-compare-os-numeros.html",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": "À vista, cor preta sólida; demais cores + R$ 2.000",
+          "consumo": {
+            "cidade_etanol": 7.2,
+            "estrada_etanol": 8.5,
+            "cidade_gasolina": 10.5,
+            "estrada_gasolina": 12.3
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [
+            "consumo"
+          ],
+          "peso_kg": null,
+          "id": "changan-cs75-infinity-2027",
+          "versao": "Infinity",
+          "ano_modelo": 2027,
+          "preco_sugerido_brl": 179990,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 TGDI Turbo Flex, injeção direta",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 180,
+              "gasolina": 180
+            },
+            "torque_kgfm": {
+              "etanol": 29.2,
+              "gasolina": 29.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "dimensoes_mm": {
+            "comprimento": 4770,
+            "largura": 1910,
+            "largura_com_retrovisores": null,
+            "altura": 1705,
+            "entre_eixos": 2800,
+            "altura_livre_solo": null
+          },
+          "porta_malas_l": 610,
+          "tanque_l": 58,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/50 R20",
+          "fonte_url": "https://caoachangan.com.br/novos/cs75",
+          "observacoes": "Ano/modelo 2026/2027. Porta-malas 610 L (725 L com assoalho rebaixado). Ficha não lista alerta de ponto cego por radar, apenas monitor de ponto cego pela câmera 540°. Ficha informa valor único de potência (180 cv) e torque (29,2 kgfm) para o motor flex, sem separar etanol/gasolina; repetido nas duas chaves. Bancos com \"revestimento premium\" (material não especificado). Preço na cor preta sólida; demais cores + R$ 2.000. Consumo Inmetro/PBEV citado pela imprensa (Vrum e outras); não consta na tabela PBEV de ago/2026.",
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Tela de 12,3\" dedicada ao passageiro",
+              "Som Pioneer com 14 alto-falantes e alto-falantes no encosto do motorista",
+              "Banco do passageiro Zero Gravity com 14 ajustes, massagem e apoio de pernas",
+              "Bancos dianteiros e traseiros com aquecimento e ventilação",
+              "Câmera 540° com chassi transparente",
+              "Assistente de congestionamento (TJA)",
+              "Farol adaptativo",
+              "Maçanetas escamoteáveis",
+              "Teto solar panorâmico elétrico",
+              "Porta-malas elétrico"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "changan-uni-t",
+      "modelo": "Uni-T",
+      "categoria": "SUV Compacto",
+      "subcategoria": "SUV cupê",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/changan-uni-t.webp",
+        "fonte_imagem": "https://www.dubicars.com/images/6cf921/r_960x540/generations/generation_6494362773689_changan-uni-t-exterior-side-profile.jpg?6",
+        "pagina_origem": "https://www.dubicars.com/new-cars/changan/uni-t/15t-sport"
+      },
+      "fontes": [
+        {
+          "url": "https://caoachangan.com.br/novos/uni-t",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://cloudfront.alpes.one/public/6a0/f56/45b/6a0f5645be6b8348074689.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": "À vista, cor preta sólida; demais cores + R$ 2.000",
+          "consumo": {
+            "cidade_etanol": 7.1,
+            "estrada_etanol": 8.6,
+            "cidade_gasolina": 10.5,
+            "estrada_gasolina": 12.4
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [],
+          "peso_kg": null,
+          "id": "changan-uni-t-infinity-2026",
+          "versao": "Infinity",
+          "ano_modelo": 2026,
+          "preco_sugerido_brl": 174990,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 TGDI Turbo Flex, injeção direta",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 180,
+              "gasolina": 180
+            },
+            "torque_kgfm": {
+              "etanol": 29.2,
+              "gasolina": 29.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.4,
+            "velocidade_maxima_kmh": null
+          },
+          "dimensoes_mm": {
+            "comprimento": 4535,
+            "largura": 1870,
+            "largura_com_retrovisores": null,
+            "altura": 1565,
+            "entre_eixos": 2710,
+            "altura_livre_solo": null
+          },
+          "porta_malas_l": 425,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/45 R20",
+          "fonte_url": "https://caoachangan.com.br/novos/uni-t",
+          "observacoes": "Ano-modelo 2026. Frenagem autônoma de emergência consta nos itens inclusos da página (a ficha lista \"alerta de frenagem de emergência\"). Pacote SVP apenas em cadastro de interesse, não incluído. Ficha informa valor único de potência (180 cv) e torque (29,2 kgfm) para o motor flex, sem separar etanol/gasolina; repetido nas duas chaves. Bancos com \"revestimento premium\" (material não especificado). Preço na cor preta sólida; demais cores + R$ 2.000. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Uni-T INFINITY (LEV4)\".",
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Painel de 12,3\" + multimídia de 12,8\"",
+              "Launch Control e Drive Mode Select",
+              "Pneus Pirelli P Zero 245/45 R20",
+              "Bancos dianteiros esportivos com aquecimento e ventilação",
+              "Som com 11 alto-falantes e alto-falantes no encosto do motorista",
+              "Monitor de fadiga (DMS)",
+              "Assistente de congestionamento (TJA)",
+              "Teto panorâmico fixo",
+              "Maçanetas escamoteáveis",
+              "Perfume ambiente",
+              "Suspensão traseira multilink"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

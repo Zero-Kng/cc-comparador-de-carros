@@ -1,0 +1,1165 @@
+{
+  "marca": "Omoda & Jaecoo",
+  "slug": "omoda-jaecoo",
+  "site_oficial": "https://www.omodajaecoo.com.br",
+  "coletado_em": "2026-10-20",
+  "modelos": [
+    {
+      "id": "omoda-jaecoo-omoda-5",
+      "modelo": "Omoda 5",
+      "categoria": "SUV Compacto",
+      "subcategoria": "SUV cupê",
+      "propulsoes": [
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/omoda-jaecoo-omoda-5.webp",
+        "fonte_imagem": "https://www.autossegredos.com.br/wp-content/uploads/2025/10/Novo-Omoda-5-HEV-2026-4.webp",
+        "pagina_origem": "https://www.autossegredos.com.br/lancamentos/omoda-jaecoo-lanca-os-suvs-hibridos-omoda-5-hev-e-omoda-7-shs/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.omodajaecoo.com.br/omoda-5-shs-h",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.omodajaecoo.com.br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cms.omodajaecoo.com.br/manual/pdf/OMODA5-completo-v2.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.omodajaecoo.com.br/noticias/omoda-jaecoo-brasil-lanca-modelos-omoda-5-shs-h-e-omoda-7-shs-p-no-mercado-brasileiro",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.olx.com.br/autos-e-pecas/carros-vans-e-utilitarios/omoda/5/2027/all",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "omoda-jaecoo-omoda-5-shs-h-luxury-2027",
+          "versao": "SHS-H Luxury",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 164990,
+          "preco_obs": "Preço \"a partir de\" da página do modelo (sem a redução promocional da página de ofertas, válida até 04/11/2026) (oferta R$ 159.990)",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 TGDI + motor elétrico (SHS-H)",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 141,
+              "eletrico": 201,
+              "combinada": 224
+            },
+            "torque_kgfm": {
+              "gasolina": 21.9,
+              "eletrico": 31.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.9,
+            "velocidade_maxima_kmh": 175
+          },
+          "consumo": {
+            "cidade_gasolina": 15.1,
+            "estrada_gasolina": 13.2
+          },
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1588,
+            "entre_eixos": null,
+            "altura_livre_solo": 145
+          },
+          "peso_kg": 1546,
+          "porta_malas_l": null,
+          "tanque_l": 51,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 1.5 TGDI HEV (SHS-H) com 224 cv combinados",
+              "Painel digital flutuante de 24,6\" (2 telas de 12,3\")",
+              "7 airbags (inclui central dianteiro)",
+              "Chip Qualcomm 8155",
+              "Faróis Full LED"
+            ]
+          },
+          "fonte_url": "https://www.omodajaecoo.com.br/omoda-5-shs-h",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Comprimento, largura, entre-eixos e porta-malas não confirmados (as medidas do manual oficial do Omoda 5 repetem as do Jaecoo 7, por isso foram descartadas). Potências conforme manual (motor 141 cv líquidos, elétrico 201 cv) e comunicado (165 kW = 224 cv combinados). Consumo PBEV não divulgado. Itens de ADAS da versão Luxury não detalhados pela marca. Ano-modelo 2027 conforme anúncios de revendas (a marca não informa). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"5 HEV COMFORT\"."
+        },
+        {
+          "id": "omoda-jaecoo-omoda-5-shs-h-prestige-2027",
+          "versao": "SHS-H Prestige",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 184990,
+          "preco_obs": "Preço \"a partir de\" da página do modelo (sem a redução promocional da página de ofertas, válida até 04/11/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 TGDI + motor elétrico (SHS-H)",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 141,
+              "eletrico": 201,
+              "combinada": 224
+            },
+            "torque_kgfm": {
+              "gasolina": 21.9,
+              "eletrico": 31.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.9,
+            "velocidade_maxima_kmh": 175
+          },
+          "consumo": {
+            "cidade_gasolina": 15.1,
+            "estrada_gasolina": 13.2
+          },
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1588,
+            "entre_eixos": null,
+            "altura_livre_solo": 145
+          },
+          "peso_kg": 1546,
+          "porta_malas_l": null,
+          "tanque_l": 51,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": null,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote ADAS 2.5 com 15 recursos (ACC, AEB, TJA, BSD, RCTA, LCA)",
+              "Som premium Sony com 8 alto-falantes",
+              "Carregador por indução 50 W com refrigeração",
+              "Porta-malas elétrico com sensor de presença",
+              "Bancos dianteiros com ajustes elétricos, ventilação e aquecimento",
+              "Painel digital flutuante de 24,6\"",
+              "7 airbags (inclui central dianteiro)"
+            ]
+          },
+          "fonte_url": "https://www.omodajaecoo.com.br/omoda-5-shs-h",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Comprimento, largura, entre-eixos e porta-malas não confirmados (as medidas do manual oficial do Omoda 5 repetem as do Jaecoo 7, por isso foram descartadas). Potências conforme manual (motor 141 cv líquidos, elétrico 201 cv) e comunicado (165 kW = 224 cv combinados). Consumo PBEV não divulgado. Ano-modelo 2027 conforme anúncios de revendas (a marca não informa). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"5 HEV COMFORT\"."
+        }
+      ]
+    },
+    {
+      "id": "omoda-jaecoo-omoda-7",
+      "modelo": "Omoda 7",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/omoda-jaecoo-omoda-7.webp",
+        "fonte_imagem": "https://www.tanoto.com.tr/storage/app/media/2026 Mayıs - Dekupeler/Omoda Jaecoo/Omoda7.webp",
+        "pagina_origem": "https://www.tanoto.com.tr/omodajaecoo-fiyat-listesi/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.omodajaecoo.com.br/omoda-7-shs-p",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.omodajaecoo.com.br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cms.omodajaecoo.com.br/manual/pdf/OMODA7-completo-v2.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.omodajaecoo.com.br/noticias/omoda-jaecoo-brasil-lanca-modelos-omoda-5-shs-h-e-omoda-7-shs-p-no-mercado-brasileiro",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.webmotors.com.br/carros-novos/df-brasilia/omoda/7",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "omoda-jaecoo-omoda-7-shs-p-luxury-2027",
+          "versao": "SHS-P Luxury",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 254990,
+          "preco_obs": "Preço \"a partir de\" da página do modelo (sem a redução promocional da página de ofertas, válida até 04/11/2026) (oferta R$ 244.990)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 TGDI + motor elétrico (SHS-P)",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 135,
+              "eletrico": 204,
+              "combinada": 279
+            },
+            "torque_kgfm": {
+              "gasolina": 21.9,
+              "eletrico": 31.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": 60,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.4,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_gasolina": 14,
+            "estrada_gasolina": 11.9,
+            "cidade_eletrico_km_le": 33.4,
+            "estrada_eletrico_km_le": 28.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4660,
+            "largura": 1875,
+            "largura_com_retrovisores": null,
+            "altura": 1670,
+            "entre_eixos": 2720,
+            "altura_livre_solo": 154
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": 60,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Central multimídia de 15,6\" Ultra HD 2.5K",
+              "ADAS 2.5 com 18 funções",
+              "Teto solar Wide Panorama",
+              "Carregador por indução 50 W com refrigeração",
+              "Porta-malas com acionamento elétrico",
+              "Chip Qualcomm Snapdragon 8155"
+            ]
+          },
+          "fonte_url": "https://www.omodajaecoo.com.br/omoda-7-shs-p",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Potência combinada 205 kW (279 cv); motor a combustão de 99 kW e elétrico de 150 kW/310 Nm conforme comunicado. Autonomia elétrica 60 km (Inmetro). Peso em ordem de marcha de 1.855 a 1.870 kg conforme configuração (manual). Porta-malas e consumo PBEV não divulgados. Ano-modelo 2026/2027 conforme anúncios de concessionárias (Webmotors). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"7 PHEV LUXURY\"."
+        },
+        {
+          "id": "omoda-jaecoo-omoda-7-shs-p-prestige-2027",
+          "versao": "SHS-P Prestige",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 279990,
+          "preco_obs": "Preço da página do modelo / comunicado de lançamento (versão não listada na página de ofertas de out/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 TGDI + motor elétrico (SHS-P)",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 135,
+              "eletrico": 204,
+              "combinada": 279
+            },
+            "torque_kgfm": {
+              "gasolina": 21.9,
+              "eletrico": 31.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": 60,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.4,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_gasolina": 14,
+            "estrada_gasolina": 11.9,
+            "cidade_eletrico_km_le": 33.4,
+            "estrada_eletrico_km_le": 28.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4660,
+            "largura": 1875,
+            "largura_com_retrovisores": null,
+            "altura": 1670,
+            "entre_eixos": 2720,
+            "altura_livre_solo": 154
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": 60,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 8,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 15.6,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "8 airbags (inclui central dianteiro)",
+              "Central multimídia de 15,6\" deslizante (sliding screen)",
+              "Som Sony Concert com 12 alto-falantes (390 W)",
+              "Sistema de fragrâncias L'Essence",
+              "Banco do passageiro com aquecimento, massagem e função relax (gravidade zero)",
+              "Rodas de liga leve de 20\"",
+              "HUD colorido",
+              "Teto solar Wide Panorama"
+            ]
+          },
+          "fonte_url": "https://www.omodajaecoo.com.br/omoda-7-shs-p",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Potência combinada 205 kW (279 cv); motor a combustão de 99 kW e elétrico de 150 kW/310 Nm conforme comunicado. Autonomia elétrica 60 km (Inmetro). Peso em ordem de marcha de 1.855 a 1.870 kg conforme configuração (manual). Porta-malas e consumo PBEV não divulgados. Ano-modelo 2026/2027 conforme anúncios de concessionárias (Webmotors). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"7 PHEV LUXURY\"."
+        }
+      ]
+    },
+    {
+      "id": "omoda-jaecoo-omoda-e5",
+      "modelo": "Omoda E5",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/omoda-jaecoo-omoda-e5.webp",
+        "fonte_imagem": "https://www.omodajaecoo.co.nz/sites/default/files/styles/accelerator_landscape_crop_16_9/public/2024-09/E5-Gallery-1-HD.jpg?h=67930c8a&itok=BJlTFLjr",
+        "pagina_origem": "https://www.omodajaecoo.co.nz/models/omoda-e5"
+      },
+      "fontes": [
+        {
+          "url": "https://www.omodajaecoo.com.br/omoda-e5",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.omodajaecoo.com.br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cms.omodajaecoo.com.br/manual/pdf/Website-Spec-Sheet-Omoda-E5.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.omodajaecoo.com.br/noticias/novo-omoda-e5-e-apresentado-no-festival-interlagos-com-design-renovado-e-maior-potencia",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.webmotors.com.br/omoda/e5/2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "omoda-jaecoo-omoda-e5-ev-2026",
+          "versao": "EV",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 209990,
+          "preco_obs": "Preço da página do modelo; página de ofertas cita \"de R$ 209.000 por R$ 199.000\" até 04/11/2026",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Motor elétrico síncrono de ímã permanente",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 204
+            },
+            "torque_kgfm": {
+              "eletrico": 34.7
+            },
+            "bateria_kwh": 61.1,
+            "autonomia_eletrica_km": 345,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 44.7,
+            "estrada_eletrico_km_le": 35.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4424,
+            "largura": 1830,
+            "largura_com_retrovisores": null,
+            "altura": 1588,
+            "entre_eixos": 2630,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1710,
+          "porta_malas_l": 340,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "HUD colorido",
+              "Bancos dianteiros elétricos e ventilados",
+              "Som Sony com 8 alto-falantes",
+              "Porta-malas elétrico (smart tailgate)",
+              "Câmera 360°",
+              "ADAS (ACC, AEB, BSD, LDP, ELK, LCA, TJA, DOW, DMS)",
+              "Painel e multimídia de 12,3\""
+            ]
+          },
+          "fonte_url": "https://www.omodajaecoo.com.br/omoda-e5",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Dados da página do modelo e da ficha oficial (versão 61,1 kWh, 204 cv). Ano-modelo 2026 conforme Webmotors (a marca não informa). O novo E5 (210 cv, baterias de 50,6/60,9 kWh) foi apresentado em ago/2026, mas ainda não tem preço/versões publicados no site. Bancos em \"material premium sintético\". Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"E5 --\"."
+        }
+      ]
+    },
+    {
+      "id": "omoda-jaecoo-jaecoo-5",
+      "modelo": "Jaecoo 5",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/omoda-jaecoo-jaecoo-5.webp",
+        "fonte_imagem": "https://www.carbase.my/upload/81/634/1023/exterior/s13-1775981314-9414-jaecoo-j5.jpg",
+        "pagina_origem": "https://www.carbase.my/jaecoo/j5/mk1/exterior/204020"
+      },
+      "fontes": [
+        {
+          "url": "https://www.omodajaecoo.com.br/jaecoo-5",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.omodajaecoo.com.br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.omodajaecoo.com.br/noticias/jaecoo-5-chega-ao-brasil-a-partir-de-r-154990-para-democratizar-o-acesso-a-tecnologia-hibrida-da-omoda-jaecoo-no-pais",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.webmotors.com.br/carros/estoque/jaecoo/5/de.2027",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "omoda-jaecoo-jaecoo-5-shs-h-comfort-2027",
+          "versao": "SHS-H Comfort",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 159990,
+          "preco_obs": "Preço após o lote de lançamento; preço de lançamento R$ 154.990 (ofertas até 04/11/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 TGDI turbo + motor elétrico (SHS-H)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 224
+            },
+            "torque_kgfm": {
+              "combinada": 30.1
+            },
+            "bateria_kwh": 1.83,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.9,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 15.5,
+            "estrada_gasolina": 13.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4380,
+            "largura": 1860,
+            "largura_com_retrovisores": null,
+            "altura": 1650,
+            "entre_eixos": 2620,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 410,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": null,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema SHS-H com 224 cv combinados",
+              "Consumo urbano de 15,5 km/l (Inmetro)",
+              "Partida sem botão (Contactless Power-On)",
+              "Freio de estacionamento eletrônico com Auto Hold",
+              "Garantia de 7 anos (bateria 8 anos)"
+            ]
+          },
+          "fonte_url": "https://www.omodajaecoo.com.br/jaecoo-5",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Lançado em 01/10/2026; preço de lançamento (lote de 3.600 unidades) R$ 5.000 menor. Porta-malas 410 L (1.214 L rebatido). Painel de instrumentos e peso não informados. Bancos em tecido; sem pacote ADAS. Ano-modelo 2026/2027 conforme anúncios (Webmotors)."
+        },
+        {
+          "id": "omoda-jaecoo-jaecoo-5-shs-h-prestige-2027",
+          "versao": "SHS-H Prestige",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 184990,
+          "preco_obs": "Preço após o lote de lançamento; preço de lançamento R$ 179.990 (ofertas até 04/11/2026)",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 TGDI turbo + motor elétrico (SHS-H)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 224
+            },
+            "torque_kgfm": {
+              "combinada": 30.1
+            },
+            "bateria_kwh": 1.83,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.9,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 15.5,
+            "estrada_gasolina": 13.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4380,
+            "largura": 1860,
+            "largura_com_retrovisores": null,
+            "altura": 1650,
+            "entre_eixos": 2620,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 410,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 13.2,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote ADAS 2.5 com 17 recursos",
+              "Câmera 540°",
+              "Teto panorâmico Sky Screen de 1,45 m²",
+              "Som premium Sony com 8 alto-falantes",
+              "Bancos dianteiros elétricos e ventilados",
+              "Bancos pet-friendly em organossilicone",
+              "Porta-malas elétrico",
+              "Multimídia de 13,2\" com karaokê",
+              "Faróis Full LED"
+            ]
+          },
+          "fonte_url": "https://www.omodajaecoo.com.br/jaecoo-5",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Lançado em 01/10/2026; preço de lançamento (lote de 3.600 unidades) R$ 5.000 menor. Porta-malas 410 L (1.214 L rebatido). Painel de instrumentos e peso não informados. Bancos em \"material premium sintético\". Ano-modelo 2026/2027 conforme anúncios (Webmotors)."
+        }
+      ]
+    },
+    {
+      "id": "omoda-jaecoo-jaecoo-7",
+      "modelo": "Jaecoo 7",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/omoda-jaecoo-jaecoo-7.webp",
+        "fonte_imagem": "https://www.todosobreautos.com/content/images/2025/03/jeacoo-7-side-view_11zon.webp",
+        "pagina_origem": "https://www.todosobreautos.com/jaecoo-7-phev-suv-hibrido-enchufable/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.omodajaecoo.com.br/jaecoo-7",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.omodajaecoo.com.br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://cms.omodajaecoo.com.br/manual/pdf/Website-Spec-Sheet-Jaecoo-7.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.vrum.com.br/mercado/2026/07/7454426-jaecoo-7-2027-estreia-novas-versoes-e-parte-de-rs-189.html",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "omoda-jaecoo-jaecoo-7-shs-p-elite-2027",
+          "versao": "SHS-P Elite",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 189990,
+          "preco_obs": "Preço da página do modelo / ofertas",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 TGDI + motor elétrico (SHS-P)",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 135,
+              "eletrico": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 20.4,
+              "eletrico": 31.6
+            },
+            "bateria_kwh": 18.4,
+            "autonomia_eletrica_km": 79,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 15.1,
+            "estrada_gasolina": 13.5,
+            "cidade_eletrico_km_le": 37,
+            "estrada_eletrico_km_le": 30.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4500,
+            "largura": 1865,
+            "largura_com_retrovisores": null,
+            "altura": 1670,
+            "entre_eixos": 2672,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 500,
+          "tanque_l": 60,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/50 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 13.2,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote ADAS (IHC, FCW, AEB, LDW, ACC, DAI, TJA, CSA)",
+              "Porta-malas elétrico com sensor de presença",
+              "Carregador por indução com refrigeração",
+              "Maçanetas retráteis",
+              "Iluminação ambiente",
+              "Freio de estacionamento eletrônico com Auto Hold",
+              "GPS nativo"
+            ]
+          },
+          "fonte_url": "https://www.omodajaecoo.com.br/jaecoo-7",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Linha 2027 (Elite, Luxury, Prestige). Dimensões, peso, porta-malas e pneus da ficha oficial do site (Luxury/Prestige). Bateria de 18,4 kWh na página atual (ficha antiga cita 18,3 kWh). Consumo rodoviário de 13,5 km/l informado pela imprensa. Bancos em \"material premium sintético\". Peso da versão Elite não informado. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"7 PRESTIGE\"."
+        },
+        {
+          "id": "omoda-jaecoo-jaecoo-7-shs-p-luxury-2027",
+          "versao": "SHS-P Luxury",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 234990,
+          "preco_obs": "Preço \"a partir de\" da página do modelo (sem a redução promocional da página de ofertas, válida até 04/11/2026) (oferta R$ 224.990)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 TGDI + motor elétrico (SHS-P)",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 135,
+              "eletrico": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 20.4,
+              "eletrico": 31.6
+            },
+            "bateria_kwh": 18.4,
+            "autonomia_eletrica_km": 79,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 15.1,
+            "estrada_gasolina": 13.5,
+            "cidade_eletrico_km_le": 37,
+            "estrada_eletrico_km_le": 30.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4500,
+            "largura": 1865,
+            "largura_com_retrovisores": null,
+            "altura": 1670,
+            "entre_eixos": 2672,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1795,
+          "porta_malas_l": 500,
+          "tanque_l": 60,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/50 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 13.2,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmera 540°",
+              "Teto solar panorâmico elétrico",
+              "Bancos dianteiros com ventilação",
+              "Airbag de joelho para o motorista",
+              "Aplicativo (IOV) e atualizações OTA",
+              "Pacote ADAS (ACC, AEB, TJA, CSA)",
+              "Porta-malas elétrico com sensor de presença"
+            ]
+          },
+          "fonte_url": "https://www.omodajaecoo.com.br/jaecoo-7",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Linha 2027 (Elite, Luxury, Prestige). Dimensões, peso, porta-malas e pneus da ficha oficial do site (Luxury/Prestige). Bateria de 18,4 kWh na página atual (ficha antiga cita 18,3 kWh). Consumo rodoviário de 13,5 km/l informado pela imprensa. Bancos em \"material premium sintético\". Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"7 PRESTIGE\"."
+        },
+        {
+          "id": "omoda-jaecoo-jaecoo-7-shs-p-prestige-2027",
+          "versao": "SHS-P Prestige",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 256990,
+          "preco_obs": "Preço \"a partir de\" da página do modelo (sem a redução promocional da página de ofertas, válida até 04/11/2026) (oferta R$ 246.990)",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 TGDI + motor elétrico (SHS-P)",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 135,
+              "eletrico": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 20.4,
+              "eletrico": 31.6
+            },
+            "bateria_kwh": 18.4,
+            "autonomia_eletrica_km": 79,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 15.1,
+            "estrada_gasolina": 13.5,
+            "cidade_eletrico_km_le": 37,
+            "estrada_eletrico_km_le": 30.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4500,
+            "largura": 1865,
+            "largura_com_retrovisores": null,
+            "altura": 1670,
+            "entre_eixos": 2672,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1795,
+          "porta_malas_l": 500,
+          "tanque_l": 60,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/50 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote ADAS 2.5 (BSD, ELK, LCA, RCTB, RCW, DOW, DMS)",
+              "Head-up display colorido",
+              "Som Sony com 8 alto-falantes",
+              "Bancos dianteiros aquecidos e ventilados",
+              "Banco do motorista com memória e função Welcome",
+              "Multimídia de 14,8\"",
+              "Câmera 540°",
+              "Teto solar panorâmico elétrico"
+            ]
+          },
+          "fonte_url": "https://www.omodajaecoo.com.br/jaecoo-7",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Linha 2027 (Elite, Luxury, Prestige). Dimensões, peso, porta-malas e pneus da ficha oficial do site (Luxury/Prestige). Bateria de 18,4 kWh na página atual (ficha antiga cita 18,3 kWh). Consumo rodoviário de 13,5 km/l informado pela imprensa. Bancos em \"material premium sintético\". Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"7 PRESTIGE\"."
+        }
+      ]
+    }
+  ]
+}

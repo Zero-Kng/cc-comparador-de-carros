@@ -1,0 +1,2226 @@
+{
+  "marca": "Citroën",
+  "slug": "citroen",
+  "site_oficial": "https://www.citroen.com.br",
+  "coletado_em": "2026-10-20",
+  "modelos": [
+    {
+      "id": "citroen-c3",
+      "modelo": "C3",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch compacto",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/citroen-c3.webp",
+        "fonte_imagem": "https://imgcdn.oto.com/large/gallery/exterior/158/2675/citroen-c3-side-view-378596.jpg",
+        "pagina_origem": "https://www.oto.com/en/mobil-baru/citroen/c3"
+      },
+      "fontes": [
+        {
+          "url": "https://www.citroen.com.br/veiculos-passeio/c3.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.citroen.com.br/monte-o-seu/c3.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://mvs-service.k8s.fcalatam.com.br/mvs?brand=CITROEN&market=pt-BR&model=1CSB",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://price-service.k8s.fcalatam.com.br/price",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://part-service.k8s.fcalatam.com.br/v2/item",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "citroen-c3-live-go-1-0-mt-2026",
+          "versao": "Live Go 1.0 MT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 87450,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Firefly Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 75
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 9.5,
+            "estrada_etanol": 10.4,
+            "cidade_gasolina": 13.4,
+            "estrada_gasolina": 14.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 3981,
+            "largura": 1734,
+            "largura_com_retrovisores": null,
+            "altura": 1605,
+            "entre_eixos": 2540,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1020,
+          "porta_malas_l": null,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "195/65 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 2,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": null,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": null,
+            "destaques": []
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/c3.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSBSUE5I5GCA0B7 (26/26). A marca informa apenas a potência com etanol (75 cv) para o 1.0 Firefly; torque não divulgado no site. Consumo Inmetro não divulgado no site da marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"C3 LIVE GO 1.0\"."
+        },
+        {
+          "id": "citroen-c3-live-plus-1-0-mt-2026",
+          "versao": "Live Plus 1.0 MT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 93590,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Firefly Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 75
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 9.5,
+            "estrada_etanol": 10.4,
+            "cidade_gasolina": 13.4,
+            "estrada_gasolina": 14.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 3981,
+            "largura": 1734,
+            "largura_com_retrovisores": null,
+            "altura": 1605,
+            "entre_eixos": 2540,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1020,
+          "porta_malas_l": null,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "195/65 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 2,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": null,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": null,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Citroën Connect touchsreen 10\" + espelhamento espelhamento Android Auto e Apple CarPlay sem fio"
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/c3.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSBSUF5I5GCA0B7 (26/26). A marca informa apenas a potência com etanol (75 cv) para o 1.0 Firefly; torque não divulgado no site. Consumo Inmetro não divulgado no site da marca. Comprimento corrigido para 3.981 mm (a API informa 3.891 mm para esta versão, divergente das demais). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"C3 LIVE PLUS 1.0\"."
+        },
+        {
+          "id": "citroen-c3-feel-plus-1-0-mt-2026",
+          "versao": "Feel Plus 1.0 MT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 97590,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Firefly Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 75
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 9.5,
+            "estrada_etanol": 10.4,
+            "cidade_gasolina": 13.4,
+            "estrada_gasolina": 14.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 3981,
+            "largura": 1734,
+            "largura_com_retrovisores": null,
+            "altura": 1605,
+            "entre_eixos": 2540,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1026,
+          "porta_malas_l": 315,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "195/65 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 2,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": null,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmera traseira",
+              "Citroën Connect touchsreen 10\" + espelhamento espelhamento Android Auto e Apple CarPlay sem fio",
+              "Painel de instrumentos digital 7",
+              "Rodas em liga leve 15\" diamantadas"
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/c3.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSBSUH5I5GCA0B7 (26/26). A marca informa apenas a potência com etanol (75 cv) para o 1.0 Firefly; torque não divulgado no site. Consumo Inmetro não divulgado no site da marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"C3 FEEL PLUS 1.0\"."
+        },
+        {
+          "id": "citroen-c3-xtr-1-0-mt-2026",
+          "versao": "XTR 1.0 MT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 100590,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Firefly Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 75
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 9.5,
+            "estrada_etanol": 10.3,
+            "cidade_gasolina": 13,
+            "estrada_gasolina": 14.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 3981,
+            "largura": 1734,
+            "largura_com_retrovisores": null,
+            "altura": 1605,
+            "entre_eixos": 2540,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1046,
+          "porta_malas_l": 315,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/60 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 2,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": null,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Ar-condicionado automático e digital",
+              "Bancos com revestimento premium com costura na cor \"light green\"",
+              "Bancos traseiros com revestimento premium com costura verde e encosto rebatível",
+              "Câmera traseira",
+              "Citroën Connect touchsreen 10\" + espelhamento espelhamento Android Auto e Apple CarPlay sem fio",
+              "Emblema \"XTR\"",
+              "Faróis de neblina",
+              "Interior escurecido",
+              "Pneu de uso misto (pirelli scorpion ATR )",
+              "Painel de instrumentos digital 7"
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/c3.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSBSUG5I5GC63B7 (26/26). A marca informa apenas a potência com etanol (75 cv) para o 1.0 Firefly; torque não divulgado no site. Consumo Inmetro não divulgado no site da marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"C3 XTR 1.0\"."
+        },
+        {
+          "id": "citroen-c3-you-turbo-200-at-2026",
+          "versao": "You! Turbo 200 AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 112590,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.1,
+            "estrada_etanol": 8.9,
+            "cidade_gasolina": 11.5,
+            "estrada_gasolina": 12.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 3981,
+            "largura": 1734,
+            "largura_com_retrovisores": null,
+            "altura": 1605,
+            "entre_eixos": 2540,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1122,
+          "porta_malas_l": 315,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "195/65 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 2,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": null,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Ar-condicionado automático e digital",
+              "Bancos dianteiros com revestimento premium com costura azul",
+              "Bancos traseiros com revestimento premium com costura azul",
+              "Câmera traseira",
+              "Citroën Connect touchsreen 10\" + espelhamento espelhamento Android Auto e Apple CarPlay sem fio",
+              "Emblemas YOU!",
+              "Faróis de neblina",
+              "Interior escurecido",
+              "Moldura do farol de neblina em emerald blue",
+              "Painel de instrumentos digital 7"
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/c3.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSBSUH5OOGCB4B7 (26/26). Potência/torque do motor Turbo 200 conforme ficha técnica oficial Citroën (C3 Aircross MY25) e API do configurador (130 cv / 200 Nm). Consumo Inmetro não divulgado no site da marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"C3 YOU 1.0T CVT\"."
+        },
+        {
+          "id": "citroen-c3-live-go-1-0-mt-2027",
+          "versao": "Live Go 1.0 MT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 88990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Firefly Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 75
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 9.5,
+            "estrada_etanol": 10.4,
+            "cidade_gasolina": 13.4,
+            "estrada_gasolina": 14.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 3981,
+            "largura": 1734,
+            "largura_com_retrovisores": null,
+            "altura": 1605,
+            "entre_eixos": 2540,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1020,
+          "porta_malas_l": 315,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "195/65 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 2,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Rodas em aço 15\" com calotas"
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/c3.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSBSUE5I5GCA0B8 (26/27). A marca informa apenas a potência com etanol (75 cv) para o 1.0 Firefly; torque não divulgado no site. Consumo Inmetro não divulgado no site da marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"C3 LIVE GO 1.0\"."
+        },
+        {
+          "id": "citroen-c3-live-plus-1-0-mt-2027",
+          "versao": "Live Plus 1.0 MT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 94990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Firefly Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 75
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 9.5,
+            "estrada_etanol": 10.4,
+            "cidade_gasolina": 13.4,
+            "estrada_gasolina": 14.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 3981,
+            "largura": 1734,
+            "largura_com_retrovisores": null,
+            "altura": 1605,
+            "entre_eixos": 2540,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1020,
+          "porta_malas_l": 315,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "195/65 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 2,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": null,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Citroën Connect touchsreen 10\" + espelhamento espelhamento Android Auto e Apple CarPlay sem fio",
+              "Rodas em aço 15\" com calotas"
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/c3.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSBSUF5I5GC9QB8 (26/27). A marca informa apenas a potência com etanol (75 cv) para o 1.0 Firefly; torque não divulgado no site. Consumo Inmetro não divulgado no site da marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"C3 LIVE PLUS 1.0\"."
+        },
+        {
+          "id": "citroen-c3-feel-plus-1-0-mt-2027",
+          "versao": "Feel Plus 1.0 MT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 98990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Firefly Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 75
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 9.5,
+            "estrada_etanol": 10.4,
+            "cidade_gasolina": 13.4,
+            "estrada_gasolina": 14.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 3981,
+            "largura": 1734,
+            "largura_com_retrovisores": null,
+            "altura": 1605,
+            "entre_eixos": 2540,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1020,
+          "porta_malas_l": 315,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "195/65 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 2,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmera traseira",
+              "Citroën Connect touchsreen 10\" + espelhamento espelhamento Android Auto e Apple CarPlay sem fio",
+              "Painel de instrumentos digital 7",
+              "Rodas em liga leve 15\" diamantadas"
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/c3.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSBSUH5I5GCA0B8 (26/27). A marca informa apenas a potência com etanol (75 cv) para o 1.0 Firefly; torque não divulgado no site. Consumo Inmetro não divulgado no site da marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"C3 FEEL PLUS 1.0\"."
+        },
+        {
+          "id": "citroen-c3-xtr-1-0-mt-2027",
+          "versao": "XTR 1.0 MT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 101990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Firefly Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 75
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 9.5,
+            "estrada_etanol": 10.3,
+            "cidade_gasolina": 13,
+            "estrada_gasolina": 14.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 3981,
+            "largura": 1734,
+            "largura_com_retrovisores": null,
+            "altura": 1605,
+            "entre_eixos": 2540,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1046,
+          "porta_malas_l": 315,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/60 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 2,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Ar-condicionado automático e digital",
+              "Bancos com revestimento premium com costura na cor \"light green\"",
+              "Bancos traseiros com revestimento premium com costura verde e encosto rebatível",
+              "Câmera traseira",
+              "Citroën Connect touchsreen 10\" + espelhamento espelhamento Android Auto e Apple CarPlay sem fio",
+              "Emblema \"XTR\"",
+              "Faróis de neblina",
+              "Interior escurecido",
+              "Pneu de uso misto (pirelli scorpion ATR )",
+              "Painel de instrumentos digital 7"
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/c3.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSBSUG5I5GC63B8 (26/27). A marca informa apenas a potência com etanol (75 cv) para o 1.0 Firefly; torque não divulgado no site. Consumo Inmetro não divulgado no site da marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"C3 XTR 1.0\"."
+        },
+        {
+          "id": "citroen-c3-you-turbo-200-at-2027",
+          "versao": "You! Turbo 200 AT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 116990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.1,
+            "estrada_etanol": 8.9,
+            "cidade_gasolina": 11.5,
+            "estrada_gasolina": 12.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 3981,
+            "largura": 1734,
+            "largura_com_retrovisores": null,
+            "altura": 1605,
+            "entre_eixos": 2540,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1122,
+          "porta_malas_l": 315,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "195/65 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 2,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Ar-condicionado automático e digital",
+              "Bancos dianteiros com revestimento premium com costura azul",
+              "Bancos traseiros com revestimento premium com costura azul",
+              "Câmera traseira",
+              "Citroën Connect touchsreen 10\" + espelhamento espelhamento Android Auto e Apple CarPlay sem fio",
+              "Emblemas YOU!",
+              "Faróis de neblina",
+              "Interior escurecido",
+              "Moldura do farol de neblina em emerald blue",
+              "Painel de instrumentos digital 7"
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/c3.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSBSUH5OOGCB4B8 (26/27). Potência/torque do motor Turbo 200 conforme ficha técnica oficial Citroën (C3 Aircross MY25) e API do configurador (130 cv / 200 Nm). Consumo Inmetro não divulgado no site da marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"C3 YOU 1.0T CVT\"."
+        }
+      ]
+    },
+    {
+      "id": "citroen-basalt",
+      "modelo": "Basalt",
+      "categoria": "SUV Compacto",
+      "subcategoria": "SUV cupê",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/citroen-basalt.webp",
+        "fonte_imagem": "https://s2-autoesporte.glbimg.com/hXb9V33WQR5QH301Mv9Wi5T3LpY=/0x0:1613x1024/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2025/x/d/2HwqwVTMycxcLW9yNVOw/rdur7948-1-.jpg",
+        "pagina_origem": "https://autoesporte.globo.com/setor-automotivo/mercado-automotivo/noticia/2025/09/citroen-basalt-2026-precos-versoes-equipamentos-consumo.ghtml"
+      },
+      "fontes": [
+        {
+          "url": "https://www.citroen.com.br/veiculos-passeio/basalt.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.citroen.com.br/monte-o-seu/basalt.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://mvs-service.k8s.fcalatam.com.br/mvs?brand=CITROEN&market=pt-BR&model=1CSF",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://price-service.k8s.fcalatam.com.br/price",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://part-service.k8s.fcalatam.com.br/v2/item",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "citroen-basalt-feel-1-0-mt-2026",
+          "versao": "Feel 1.0 MT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 105950,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Firefly Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 75
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 9.2,
+            "estrada_etanol": 10.1,
+            "cidade_gasolina": 13.2,
+            "estrada_gasolina": 14.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4343,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1585,
+            "entre_eixos": 2645,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1120,
+          "porta_malas_l": 490,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/60 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": null,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "4 airbags: frontal condutor e passageiro e laterais dianteiros",
+              "Câmera traseira",
+              "Multimídia Citroën Connect touchscreen 10\" + espelhamento Android Auto e Apple CarPlay sem fio",
+              "Painel de instrumentos digital TFT 7\"",
+              "Rodas de liga leve 16\" - tipo \"urban\" pintadas de cinza",
+              "Sensores de estacionamento traseiro"
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/basalt.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSFA5H5I5GCA0B2 (26/26). A marca informa apenas a potência com etanol (75 cv) para o 1.0 Firefly; torque não divulgado no site. Consumo Inmetro não divulgado no site da marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"BASALT FEEL 1.0\"."
+        },
+        {
+          "id": "citroen-basalt-feel-turbo-200-at-2026",
+          "versao": "Feel Turbo 200 AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 117990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.4,
+            "estrada_etanol": 9.6,
+            "cidade_gasolina": 12.1,
+            "estrada_gasolina": 13.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4343,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1585,
+            "entre_eixos": 2645,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1182,
+          "porta_malas_l": 490,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/60 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": null,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "4 airbags: frontal condutor e passageiro e laterais dianteiros",
+              "Ar-condicionado automático e digital",
+              "Câmera traseira",
+              "Multimídia Citroën Connect touchscreen 10\" + espelhamento Android Auto e Apple CarPlay sem fio",
+              "Painel de instrumentos digital TFT 7\"",
+              "Rodas de liga leve 16\" - tipo \"urban\" pintadas de cinza",
+              "Sensores de estacionamento traseiro"
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/basalt.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSFA5H5OOGCA0B2 (26/26). Potência/torque do motor Turbo 200 conforme ficha técnica oficial Citroën (C3 Aircross MY25) e API do configurador (130 cv / 200 Nm). Consumo Inmetro não divulgado no site da marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"BASALT SHINE T200\"."
+        },
+        {
+          "id": "citroen-basalt-shine-turbo-200-at-2026",
+          "versao": "Shine Turbo 200 AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 128890,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.4,
+            "estrada_etanol": 9.6,
+            "cidade_gasolina": 12.1,
+            "estrada_gasolina": 13.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4343,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1585,
+            "entre_eixos": 2645,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1184,
+          "porta_malas_l": 490,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/60 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": null,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "4 airbags: frontal condutor e passageiro e laterais dianteiros",
+              "Ar-condicionado automático e digital",
+              "Bancos com revestimento premium na cor cinza",
+              "Câmera traseira",
+              "Faróis de neblina",
+              "Interior escurecido",
+              "Multimídia Citroën Connect touchscreen 10\" + espelhamento Android Auto e Apple CarPlay sem fio",
+              "Painel de instrumentos digital TFT 7\"",
+              "Piloto automático (limitador e regulador de velocidade)",
+              "Painel de bordo com revestimento premium"
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/basalt.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSFA5K5OOGCA0B2 (26/26). Potência/torque do motor Turbo 200 conforme ficha técnica oficial Citroën (C3 Aircross MY25) e API do configurador (130 cv / 200 Nm). Consumo Inmetro não divulgado no site da marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"BASALT SHINE T200\"."
+        },
+        {
+          "id": "citroen-basalt-dark-edition-turbo-200-at-2026",
+          "versao": "Dark Edition Turbo 200 AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 129890,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.4,
+            "estrada_etanol": 9.6,
+            "cidade_gasolina": 12.1,
+            "estrada_gasolina": 13.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4343,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1585,
+            "entre_eixos": 2645,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1184,
+          "porta_malas_l": 490,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/60 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": null,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "4 airbags: frontal condutor e passageiro e laterais dianteiros",
+              "Ar-condicionado automático e digital",
+              "Bancos com revestimento premium na cor preta",
+              "Câmera traseira",
+              "Faróis de neblina",
+              "Interior escurecido",
+              "Logotipo \"dark edition\"",
+              "Multimídia Citroën Connect touchscreen 10\" + espelhamento Android Auto e Apple CarPlay sem fio",
+              "Painel de instrumentos digital TFT 7\"",
+              "Piloto automático (limitador e regulador de velocidade)"
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/basalt.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSFA5J5OOGCQLB2 (26/26). Potência/torque do motor Turbo 200 conforme ficha técnica oficial Citroën (C3 Aircross MY25) e API do configurador (130 cv / 200 Nm). Consumo Inmetro não divulgado no site da marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"BASALT SHINE T200\"."
+        },
+        {
+          "id": "citroen-basalt-feel-1-0-mt-2027",
+          "versao": "Feel 1.0 MT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 104990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Firefly Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 75
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 9.2,
+            "estrada_etanol": 10.1,
+            "cidade_gasolina": 13.2,
+            "estrada_gasolina": 14.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4343,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1585,
+            "entre_eixos": 2645,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1120,
+          "porta_malas_l": 490,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/60 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": null,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "4 airbags: frontal condutor e passageiro e laterais dianteiros",
+              "Câmera traseira",
+              "Multimídia Citroën Connect touchscreen 10\" + espelhamento Android Auto e Apple CarPlay sem fio",
+              "Painel de instrumentos digital TFT 7\"",
+              "Sensores de estacionamento traseiro",
+              "Rodas de aço 16\""
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/basalt.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSFA5H5I5GCA0B4 (26/27). A marca informa apenas a potência com etanol (75 cv) para o 1.0 Firefly; torque não divulgado no site. Consumo Inmetro não divulgado no site da marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"BASALT FEEL 1.0\"."
+        },
+        {
+          "id": "citroen-basalt-feel-turbo-200-at-2027",
+          "versao": "Feel Turbo 200 AT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 117990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.4,
+            "estrada_etanol": 9.6,
+            "cidade_gasolina": 12.1,
+            "estrada_gasolina": 13.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4343,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1585,
+            "entre_eixos": 2645,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1120,
+          "porta_malas_l": 490,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/60 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": null,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "4 airbags: frontal condutor e passageiro e laterais dianteiros",
+              "Ar-condicionado automático e digital",
+              "Câmera traseira",
+              "Multimídia Citroën Connect touchscreen 10\" + espelhamento Android Auto e Apple CarPlay sem fio",
+              "Painel de instrumentos digital TFT 7\"",
+              "Sensores de estacionamento traseiro",
+              "Rodas de aço 16\""
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/basalt.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSFA5H5OOGCA0B4 (26/27). Potência/torque do motor Turbo 200 conforme ficha técnica oficial Citroën (C3 Aircross MY25) e API do configurador (130 cv / 200 Nm). Consumo Inmetro não divulgado no site da marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"BASALT SHINE T200\"."
+        },
+        {
+          "id": "citroen-basalt-shine-turbo-200-at-2027",
+          "versao": "Shine Turbo 200 AT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 119990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.4,
+            "estrada_etanol": 9.6,
+            "cidade_gasolina": 12.1,
+            "estrada_gasolina": 13.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4343,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1585,
+            "entre_eixos": 2645,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1184,
+          "porta_malas_l": 490,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/60 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": null,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "4 airbags: frontal condutor e passageiro e laterais dianteiros",
+              "Ar-condicionado automático e digital",
+              "Bancos com revestimento premium na cor cinza",
+              "Câmera traseira",
+              "Faróis de neblina",
+              "Interior escurecido",
+              "Multimídia Citroën Connect touchscreen 10\" + espelhamento Android Auto e Apple CarPlay sem fio",
+              "Painel de instrumentos digital TFT 7\"",
+              "Piloto automático (limitador e regulador de velocidade)",
+              "Painel de bordo com revestimento premium"
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/basalt.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSFA5K5OOGCA0B4 (26/27). Potência/torque do motor Turbo 200 conforme ficha técnica oficial Citroën (C3 Aircross MY25) e API do configurador (130 cv / 200 Nm). Consumo Inmetro não divulgado no site da marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"BASALT SHINE T200\"."
+        },
+        {
+          "id": "citroen-basalt-dark-edition-1-0-mt-2027",
+          "versao": "Dark Edition 1.0 MT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 110990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Firefly Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 75
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 9.2,
+            "estrada_etanol": 10.1,
+            "cidade_gasolina": 13.2,
+            "estrada_gasolina": 14.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4343,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1585,
+            "entre_eixos": 2645,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1120,
+          "porta_malas_l": 490,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/60 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": null,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "4 airbags: frontal condutor e passageiro e laterais dianteiros",
+              "Bancos com revestimento premium na cor preta",
+              "Câmera traseira",
+              "Interior escurecido",
+              "Logotipo \"dark edition\"",
+              "Multimídia Citroën Connect touchscreen 10\" + espelhamento Android Auto e Apple CarPlay sem fio",
+              "Painel de instrumentos digital TFT 7\"",
+              "Painel de bordo com revestimento premium na cor preta",
+              "Protetor de soleira exclusiva \"dark edition\"",
+              "Rodas de liga leve 16\" - tipo \"urban\" pintadas de preto"
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/basalt.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSFA5J5I5GCQLB4 (26/27). A marca informa apenas a potência com etanol (75 cv) para o 1.0 Firefly; torque não divulgado no site. Consumo Inmetro não divulgado no site da marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"BASALT FEEL 1.0\"."
+        },
+        {
+          "id": "citroen-basalt-dark-edition-turbo-200-at-2027",
+          "versao": "Dark Edition Turbo 200 AT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 131990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.4,
+            "estrada_etanol": 9.6,
+            "cidade_gasolina": 12.1,
+            "estrada_gasolina": 13.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4343,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1585,
+            "entre_eixos": 2645,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1184,
+          "porta_malas_l": 490,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/60 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": null,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "4 airbags: frontal condutor e passageiro e laterais dianteiros",
+              "Ar-condicionado automático e digital",
+              "Bancos com revestimento premium na cor preta",
+              "Câmera traseira",
+              "Faróis de neblina",
+              "Interior escurecido",
+              "Logotipo \"dark edition\"",
+              "Multimídia Citroën Connect touchscreen 10\" + espelhamento Android Auto e Apple CarPlay sem fio",
+              "Painel de instrumentos digital TFT 7\"",
+              "Piloto automático (limitador e regulador de velocidade)"
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/basalt.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSFA5J5OOGCQLB4 (26/27). Potência/torque do motor Turbo 200 conforme ficha técnica oficial Citroën (C3 Aircross MY25) e API do configurador (130 cv / 200 Nm). Consumo Inmetro não divulgado no site da marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"BASALT SHINE T200\"."
+        }
+      ]
+    },
+    {
+      "id": "citroen-aircross",
+      "modelo": "Aircross",
+      "categoria": "SUV Compacto",
+      "subcategoria": "SUV compacto de 7 lugares",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/citroen-aircross.webp",
+        "fonte_imagem": "https://images.carexpert.com.au/resize/3000/-/app/uploads/2024/04/citroen-c3-aircross-2.jpg",
+        "pagina_origem": "https://www.carexpert.com.au/car-news/2025-citroen-c3-aircross-unveiled-with-more-aggressive-styling"
+      },
+      "fontes": [
+        {
+          "url": "https://www.citroen.com.br/veiculos-passeio/aircross.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.citroen.com.br/monte-o-seu/aircross.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://mvs-service.k8s.fcalatam.com.br/mvs?brand=CITROEN&market=pt-BR&model=1CSL",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://price-service.k8s.fcalatam.com.br/price",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://part-service.k8s.fcalatam.com.br/v2/item",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.citroen.com.br/content/dam/citroen/products/ficha-t%C3%A9cnica/Ficha-Tecnica-Aircross-Shine-CY25-PL8.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "citroen-aircross-feel-turbo-200-at-2026",
+          "versao": "Feel Turbo 200 AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 119990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.5,
+            "velocidade_maxima_kmh": 197
+          },
+          "consumo": {
+            "cidade_etanol": 7.9,
+            "estrada_etanol": 9.1,
+            "cidade_gasolina": 11.2,
+            "estrada_gasolina": 13
+          },
+          "dimensoes_mm": {
+            "comprimento": 4320,
+            "largura": 1796,
+            "largura_com_retrovisores": 2019,
+            "altura": 1678,
+            "entre_eixos": 2675,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1257,
+          "porta_malas_l": 493,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/65 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 2,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": null,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Citroën Connect touchsreen 10\" + espelhamento AA/CP sem fio",
+              "Painel de instrumentos digital lcd 3,5\"",
+              "Rodas de aço 16? - tipo trio com calotas"
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/aircross.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSLSUD5OOGCA0B5 (26/26). Potência/torque do motor Turbo 200 conforme ficha técnica oficial Citroën (C3 Aircross MY25) e API do configurador (130 cv / 200 Nm). Consumo Inmetro não divulgado no site da marca. Desempenho conforme ficha técnica oficial do C3 Aircross Turbo 200 (MY25). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AIRCROSS FL\". Largura com espelhos (2.019 mm) da ficha oficial C3 Aircross MY25 (mesma carroceria)."
+        },
+        {
+          "id": "citroen-aircross-7-feel-turbo-200-at-2026",
+          "versao": "7 Feel Turbo 200 AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 130790,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.5,
+            "velocidade_maxima_kmh": 197
+          },
+          "consumo": {
+            "cidade_etanol": 7.9,
+            "estrada_etanol": 9.1,
+            "cidade_gasolina": 11.2,
+            "estrada_gasolina": 13
+          },
+          "dimensoes_mm": {
+            "comprimento": 4320,
+            "largura": 1796,
+            "largura_com_retrovisores": 2019,
+            "altura": 1667,
+            "entre_eixos": 2675,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1257,
+          "porta_malas_l": 493,
+          "tanque_l": 47,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": "205/65 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 2,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": null,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "3ª fileira com 2 bancos individuais, rebatíveis e removíveis",
+              "Citroën Connect touchsreen 10\" + espelhamento AA/CP sem fio",
+              "Painel de instrumentos digital TFT 7",
+              "Porta celular na 3ª fileira",
+              "Rodas de aço 16? - tipo trio com calotas"
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/aircross.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSLSUD5OOGC9QB5 (26/26). Potência/torque do motor Turbo 200 conforme ficha técnica oficial Citroën (C3 Aircross MY25) e API do configurador (130 cv / 200 Nm). Consumo Inmetro não divulgado no site da marca. Desempenho conforme ficha técnica oficial do C3 Aircross Turbo 200 (MY25). Porta-malas informado sem distinguir configuração de 5/7 lugares. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AIRCROSS 7 FL\". Largura com espelhos (2.019 mm) da ficha oficial C3 Aircross MY25 (mesma carroceria)."
+        },
+        {
+          "id": "citroen-aircross-7-shine-turbo-200-at-2026",
+          "versao": "7 Shine Turbo 200 AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 154490,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.5,
+            "velocidade_maxima_kmh": 197
+          },
+          "consumo": {
+            "cidade_etanol": 7.9,
+            "estrada_etanol": 9.1,
+            "cidade_gasolina": 11.2,
+            "estrada_gasolina": 13
+          },
+          "dimensoes_mm": {
+            "comprimento": 4320,
+            "largura": 1796,
+            "largura_com_retrovisores": 2019,
+            "altura": 1678,
+            "entre_eixos": 2675,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1257,
+          "porta_malas_l": 493,
+          "tanque_l": 47,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": null,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "3ª fileira com 2 bancos individuais, rebatíveis e removíveis",
+              "4 airbags: frontal condutor, passageiro e laterais dianteiro",
+              "Ar-condicionado automático digital",
+              "Bancos com revestimento premium com costura vermelha",
+              "Câmera traseira",
+              "Citroën Connect touchsreen 10\" + espelhamento AA/CP sem fio",
+              "Faróis de neblina",
+              "Interior escurecido",
+              "Painel de instrumentos digital TFT 7",
+              "Porta celular na 3ª fileira"
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/aircross.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSLSUH5OOGCA0B5 (26/26). Potência/torque do motor Turbo 200 conforme ficha técnica oficial Citroën (C3 Aircross MY25) e API do configurador (130 cv / 200 Nm). Consumo Inmetro não divulgado no site da marca. Desempenho conforme ficha técnica oficial do C3 Aircross Turbo 200 (MY25). Porta-malas informado sem distinguir configuração de 5/7 lugares. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AIRCROSS 7 SH\". Largura com espelhos (2.019 mm) da ficha oficial C3 Aircross MY25 (mesma carroceria)."
+        },
+        {
+          "id": "citroen-aircross-7-xtr-turbo-200-at-2026",
+          "versao": "7 XTR Turbo 200 AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 156490,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador citroen.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 200 Flex",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 130,
+              "gasolina": 125
+            },
+            "torque_kgfm": {
+              "etanol": 20.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 9.5,
+            "velocidade_maxima_kmh": 197
+          },
+          "consumo": {
+            "cidade_etanol": 7.6,
+            "estrada_etanol": 8.9,
+            "cidade_gasolina": 11,
+            "estrada_gasolina": 12.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4320,
+            "largura": 1796,
+            "largura_com_retrovisores": 2019,
+            "altura": 1645,
+            "entre_eixos": 2675,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1272,
+          "porta_malas_l": 493,
+          "tanque_l": 47,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 4,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": null,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "3ª fileira com 2 bancos individuais, rebatíveis e removíveis",
+              "4 airbags: frontal condutor, passageiro e laterais dianteiro",
+              "Ar-condicionado automático digital",
+              "Bancos com revestimento premium com costura na cor \"light green\"",
+              "Câmera traseira",
+              "Citroën Connect touchsreen 10\" + espelhamento AA/CP sem fio",
+              "Emblema \"XTR\"",
+              "Faróis de neblina",
+              "Interior escurecido",
+              "Painel de instrumentos digital TFT 7"
+            ]
+          },
+          "fonte_url": "https://www.citroen.com.br/monte-o-seu/aircross.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Código MVS 1CSLSUG5OOGC63B5 (26/26). Potência/torque do motor Turbo 200 conforme ficha técnica oficial Citroën (C3 Aircross MY25) e API do configurador (130 cv / 200 Nm). Consumo Inmetro não divulgado no site da marca. Desempenho conforme ficha técnica oficial do C3 Aircross Turbo 200 (MY25). Porta-malas informado sem distinguir configuração de 5/7 lugares. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AIRCROSS XTR 7\". Largura com espelhos (2.019 mm) da ficha oficial C3 Aircross MY25 (mesma carroceria)."
+        }
+      ]
+    }
+  ]
+}

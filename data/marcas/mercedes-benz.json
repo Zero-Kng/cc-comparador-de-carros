@@ -1,0 +1,3661 @@
+{
+  "marca": "Mercedes-Benz",
+  "slug": "mercedes-benz",
+  "site_oficial": "https://www.mercedes-benz.com.br",
+  "coletado_em": "2026-10-21",
+  "modelos": [
+    {
+      "id": "mercedes-benz-classe-a",
+      "modelo": "Classe A",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch médio esportivo",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mercedes-benz-classe-a.webp",
+        "fonte_imagem": "https://imgcdn.oto.com.sg/large/gallery/exterior/8/42/mercedes-benz-a-class-side-view-223646.jpg",
+        "pagina_origem": "https://www.oto.com.sg/new-cars/mercedes-benz/a-class"
+      },
+      "fontes": [
+        {
+          "url": "https://www2.mercedes-benz.com.br/passengercars/models/hatchback/a-class/amg.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://api.oneweb.mercedes-benz.com/pi-api/api/v2/vehicle-data/market/pt_BR/model-series/W177-fl/initial",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www2.mercedes-benz.com.br/content/dam/brazil/passengercars/informative/PBEV_Mercedes-Benz.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mercedes-benz-classe-a-amg-a-45-s-4matic-2026",
+          "versao": "AMG A 45 S 4MATIC",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 619900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 4 cilindros turbo",
+            "cilindrada_cm3": 1991,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 421
+            },
+            "torque_kgfm": {
+              "gasolina": 51
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.9,
+            "velocidade_maxima_kmh": 270
+          },
+          "consumo": {
+            "cidade_gasolina": 8.3,
+            "estrada_gasolina": 10.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4453,
+            "largura": null,
+            "largura_com_retrovisores": 1992,
+            "altura": 1414,
+            "entre_eixos": 2729,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1680,
+          "porta_malas_l": 370,
+          "tanque_l": 51,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/35 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Direção direta (relação variável)",
+              "Teto solar panorâmico",
+              "Som Burmester 3D Surround",
+              "DYNAMIC SELECT (modos de condução)",
+              "Proteção GUARD 360°",
+              "Volante AMG em Nappa/MICROCUT",
+              "Teclas AMG no volante"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/hatchback/a-class/amg.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AMG A45S 4M\"."
+        }
+      ]
+    },
+    {
+      "id": "mercedes-benz-cla",
+      "modelo": "CLA",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan cupê (4 portas)",
+      "propulsoes": [
+        "Híbrido leve (MHEV)",
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mercedes-benz-cla.webp",
+        "fonte_imagem": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mercedes-Benz/Mercedes-Benz-CLA-2020/6730/1547115020136/side-view-(left)-90.jpg?imwidth=890&impolicy=resize",
+        "pagina_origem": "https://www.cardekho.com/mercedes-benz/cla-2020/pictures"
+      },
+      "fontes": [
+        {
+          "url": "https://www2.mercedes-benz.com.br/passengercars/models/coupe/cla/overview.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://api.oneweb.mercedes-benz.com/pi-api/api/v2/vehicle-data/market/pt_BR/model-series/C118-fl/initial",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www2.mercedes-benz.com.br/content/dam/brazil/passengercars/informative/PBEV_Mercedes-Benz.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mercedes-benz-cla-200-amg-line-2026",
+          "versao": "200 AMG Line",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 329900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.3 4 cilindros turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 1332,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 163
+            },
+            "torque_kgfm": {
+              "gasolina": 27.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": 8.4,
+            "velocidade_maxima_kmh": 229
+          },
+          "consumo": {
+            "cidade_gasolina": 12,
+            "estrada_gasolina": 14
+          },
+          "dimensoes_mm": {
+            "comprimento": 4688,
+            "largura": null,
+            "largura_com_retrovisores": 1999,
+            "altura": 1427,
+            "entre_eixos": 2729,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1505,
+          "porta_malas_l": 440,
+          "tanque_l": 43,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/45 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Linha AMG Line",
+              "Teto solar panorâmico",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "DYNAMIC SELECT (modos de condução)",
+              "Proteção GUARD 360°",
+              "Som esportivo do motor"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/coupe/cla/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CLA200 AMG LINE\"."
+        },
+        {
+          "id": "mercedes-benz-cla-amg-cla-35-4matic-2026",
+          "versao": "AMG CLA 35 4MATIC",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 511900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 4 cilindros turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 1991,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 306
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.9,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 8.1,
+            "estrada_gasolina": 11.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4692,
+            "largura": null,
+            "largura_com_retrovisores": 1999,
+            "altura": 1402,
+            "entre_eixos": 2729,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1680,
+          "porta_malas_l": 460,
+          "tanque_l": 51,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "245/35 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Direção direta (relação variável)",
+              "Teto solar panorâmico",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "DYNAMIC SELECT (modos de condução)",
+              "Proteção GUARD 360°",
+              "Teclas AMG no volante"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/coupe/cla/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "O site informa 5 portas para esta versão; registrado 4 (carroceria sedã de 4 portas). Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AMG CLA35 4M\"."
+        },
+        {
+          "id": "mercedes-benz-cla-amg-cla-45-s-4matic-2026",
+          "versao": "AMG CLA 45 S 4MATIC",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 648900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 4 cilindros turbo",
+            "cilindrada_cm3": 1991,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 421
+            },
+            "torque_kgfm": {
+              "gasolina": 51
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.1,
+            "velocidade_maxima_kmh": 270
+          },
+          "consumo": {
+            "cidade_gasolina": 8.1,
+            "estrada_gasolina": 10.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4701,
+            "largura": null,
+            "largura_com_retrovisores": 1999,
+            "altura": 1413,
+            "entre_eixos": 2729,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1720,
+          "porta_malas_l": 460,
+          "tanque_l": 51,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "255/35 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Direção direta (relação variável)",
+              "Teto solar panorâmico",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "DYNAMIC SELECT (modos de condução)",
+              "Proteção GUARD 360°",
+              "Volante AMG em Nappa/MICROCUT",
+              "Teclas AMG no volante"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/coupe/cla/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "O site informa 5 portas para esta versão; registrado 4 (carroceria sedã de 4 portas). Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AMG CLA45S 4M\"."
+        }
+      ]
+    },
+    {
+      "id": "mercedes-benz-classe-c",
+      "modelo": "Classe C",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan médio",
+      "propulsoes": [
+        "Híbrido leve (MHEV)",
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mercedes-benz-classe-c.webp",
+        "fonte_imagem": "https://imgcdn.oto.com.sg/large/gallery/exterior/8/122/mercedes-benz-c-class-saloon-side-view-650457.jpg",
+        "pagina_origem": "https://www.oto.com.sg/new-cars/mercedes-benz/c-class-saloon"
+      },
+      "fontes": [
+        {
+          "url": "https://www2.mercedes-benz.com.br/passengercars/models/saloon/c-class/overview.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://api.oneweb.mercedes-benz.com/pi-api/api/v2/vehicle-data/market/pt_BR/model-series/W206/initial",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www2.mercedes-benz.com.br/content/dam/brazil/passengercars/informative/PBEV_Mercedes-Benz.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.mercedes-benz.it/download/bf3f6364-b981-485f-b334-c88fdcd842de/factsheet_technicaldata_classec.docx",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mercedes-benz-classe-c-c-200-amg-line-2026",
+          "versao": "C 200 AMG Line",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 396900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 4 cilindros turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 1496,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 30.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": 246
+          },
+          "consumo": {
+            "cidade_gasolina": 11.4,
+            "estrada_gasolina": 14.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4751,
+            "largura": null,
+            "largura_com_retrovisores": 2033,
+            "altura": 1437,
+            "entre_eixos": 2865,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1650,
+          "porta_malas_l": null,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/40 R19 (diant.) / 255/35 R19 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Linha AMG Line",
+              "Teto solar panorâmico",
+              "Sistema de som avançado",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "Proteção GUARD 360°",
+              "Som esportivo do motor"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/saloon/c-class/overview.html",
+          "campos_fonte_secundaria": [
+            "tracao"
+          ],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"C200 AMG LINE\". Tração traseira conforme ficha técnica oficial europeia da Classe C (ago/2026)."
+        },
+        {
+          "id": "mercedes-benz-classe-c-c-300-amg-line-2026",
+          "versao": "C 300 AMG Line",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 459900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 4 cilindros turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 1999,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 258
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 10.8,
+            "estrada_gasolina": 13.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4751,
+            "largura": null,
+            "largura_com_retrovisores": 2033,
+            "altura": 1438,
+            "entre_eixos": 2865,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1715,
+          "porta_malas_l": null,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/40 R19 (diant.) / 255/35 R19 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Linha AMG Line",
+              "PRE-SAFE Impulse Side",
+              "Faróis DIGITAL LIGHT",
+              "Teto solar panorâmico",
+              "Head-up display",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "Proteção GUARD 360°",
+              "Som esportivo do motor"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/saloon/c-class/overview.html",
+          "campos_fonte_secundaria": [
+            "tracao"
+          ],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"C300 AMG LINE\". Tração traseira conforme ficha técnica oficial europeia da Classe C (ago/2026)."
+        },
+        {
+          "id": "mercedes-benz-classe-c-amg-c-63-s-e-performance-2026",
+          "versao": "AMG C 63 S E PERFORMANCE",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 928900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 4 cilindros turbo + motor elétrico (plug-in)",
+            "cilindrada_cm3": 1991,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 680
+            },
+            "torque_kgfm": {
+              "combinada": 104
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": 9,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.4,
+            "velocidade_maxima_kmh": 280
+          },
+          "consumo": {
+            "cidade_gasolina": 7.2,
+            "estrada_gasolina": 8.1,
+            "cidade_eletrico_km_le": 10.7,
+            "estrada_eletrico_km_le": 11.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4842,
+            "largura": null,
+            "largura_com_retrovisores": 2033,
+            "altura": 1437,
+            "entre_eixos": 2875,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2165,
+          "porta_malas_l": 280,
+          "tanque_l": 60,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/35 R20 (diant.) / 275/35 R20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "PRE-SAFE Impulse Side",
+              "Faróis DIGITAL LIGHT",
+              "Teto solar panorâmico",
+              "Head-up display",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "Proteção GUARD 360°",
+              "Volante AMG em Nappa/MICROCUT",
+              "Teclas AMG no volante"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/saloon/c-class/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "O site informa 5 portas para esta versão; registrado 4 (carroceria sedã de 4 portas). Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AMG C63S EP F1\"."
+        }
+      ]
+    },
+    {
+      "id": "mercedes-benz-classe-e",
+      "modelo": "Classe E",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan grande",
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mercedes-benz-classe-e.webp",
+        "fonte_imagem": "https://mercedesbenzoforangeparkblog.com/wp-content/uploads/sites/511/2026/01/2026-mercedes-benz-E-class-side-view-lifestyle-1140x768.png",
+        "pagina_origem": "https://mercedesbenzoforangeparkblog.com/2026/01/16/why-the-2026-mercedes-benz-e-class-sedan-still-leads-its-segment/"
+      },
+      "fontes": [
+        {
+          "url": "https://www2.mercedes-benz.com.br/passengercars/models/saloon/e-class/overview.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://api.oneweb.mercedes-benz.com/pi-api/api/v2/vehicle-data/market/pt_BR/model-series/W214/initial",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www2.mercedes-benz.com.br/content/dam/brazil/passengercars/informative/PBEV_Mercedes-Benz.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mercedes-benz-classe-e-e-300-exclusive-2027",
+          "versao": "E 300 Exclusive",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 629900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 4 cilindros turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 1999,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 258
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": 6.3,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 9.9,
+            "estrada_gasolina": 12.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4949,
+            "largura": null,
+            "largura_com_retrovisores": 2065,
+            "altura": 1469,
+            "entre_eixos": 2961,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1855,
+          "porta_malas_l": 540,
+          "tanque_l": 66,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "245/40 R20 (diant.) / 275/35 R20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Linha Exclusive",
+              "PRE-SAFE Impulse Side",
+              "Airbag central",
+              "Teto solar panorâmico",
+              "Head-up display",
+              "Câmera de monitoramento do motorista",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "Proteção GUARD 360°"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/saloon/e-class/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"E300 EXCLUSIVE\"."
+        }
+      ]
+    },
+    {
+      "id": "mercedes-benz-classe-s",
+      "modelo": "Classe S",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan grande (longo)",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mercedes-benz-classe-s.webp",
+        "fonte_imagem": "https://www.razaoautomovel.com/wp-content/uploads/2026/01/Mercedes-Benz-Classe-S-06.webp",
+        "pagina_origem": "https://www.razaoautomovel.com/noticias/apresentacao-mercedes-benz-classe-s-2026/"
+      },
+      "fontes": [
+        {
+          "url": "https://www2.mercedes-benz.com.br/passengercars/models/saloon/s-class/amg.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://api.oneweb.mercedes-benz.com/pi-api/api/v2/vehicle-data/market/pt_BR/model-series/V223/initial",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www2.mercedes-benz.com.br/content/dam/brazil/passengercars/informative/PBEV_Mercedes-Benz.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mercedes-benz-classe-s-amg-s-63-4matic-e-performance-2026",
+          "versao": "AMG S 63 4MATIC E PERFORMANCE",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 1731900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo + motor elétrico (plug-in)",
+            "cilindrada_cm3": 3982,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 802
+            },
+            "torque_kgfm": {
+              "combinada": 145.8
+            },
+            "bateria_kwh": 10.36,
+            "autonomia_eletrica_km": 25,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.3,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 6.5,
+            "estrada_gasolina": 7.8,
+            "cidade_eletrico_km_le": 15.4,
+            "estrada_eletrico_km_le": 19.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 5336,
+            "largura": null,
+            "largura_com_retrovisores": 2109,
+            "altura": 1515,
+            "entre_eixos": 3216,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2595,
+          "porta_malas_l": 305,
+          "tanque_l": 76,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "255/40 R21 (diant.) / 285/35 R21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "PRE-SAFE Impulse Side",
+              "Airbags traseiros",
+              "Airbags nos cintos traseiros",
+              "Faróis DIGITAL LIGHT",
+              "Airbag central",
+              "Teto solar panorâmico",
+              "Head-up display",
+              "Volante aquecido",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "Proteção GUARD 360°",
+              "Teclas AMG no volante"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/saloon/s-class/amg.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AMG S63 EP\"."
+        }
+      ]
+    },
+    {
+      "id": "mercedes-benz-gla",
+      "modelo": "GLA",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mercedes-benz-gla.webp",
+        "fonte_imagem": "https://di-uploads-pod14.dealerinspire.com/waltersautomotivegroup1/uploads/2026/05/2026-Mercedes-Benz-GLA.png",
+        "pagina_origem": "https://www.waltersautogroup.com/2026-model-lineup/2026-mercedes-benz-gla/"
+      },
+      "fontes": [
+        {
+          "url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/gla/overview.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://api.oneweb.mercedes-benz.com/pi-api/api/v2/vehicle-data/market/pt_BR/model-series/H247-fl/initial",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www2.mercedes-benz.com.br/content/dam/brazil/passengercars/informative/PBEV_Mercedes-Benz.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://consultadeplaca.net/blog/ficha-tecnica-gla-200",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mercedes-benz-gla-200-progressive-2027",
+          "versao": "200 Progressive",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 362900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.3 4 cilindros turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 1332,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 163
+            },
+            "torque_kgfm": {
+              "gasolina": 27.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.9,
+            "velocidade_maxima_kmh": 210
+          },
+          "consumo": {
+            "cidade_gasolina": 11.4,
+            "estrada_gasolina": 12.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4412,
+            "largura": null,
+            "largura_com_retrovisores": 2020,
+            "altura": 1616,
+            "entre_eixos": 2729,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1570,
+          "porta_malas_l": 425,
+          "tanque_l": 43,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/50 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Linha Progressive",
+              "Direção direta (relação variável)",
+              "Teto solar panorâmico",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "DYNAMIC SELECT (modos de condução)",
+              "Proteção GUARD 360°"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/gla/overview.html",
+          "campos_fonte_secundaria": [
+            "tracao"
+          ],
+          "observacoes": "O site informa 7 lugares; registrado 5 (GLA tem 5 lugares). Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GLA200 AMG LINE\". Tração dianteira conforme ficha técnica de fonte secundária."
+        },
+        {
+          "id": "mercedes-benz-gla-200-amg-line-2027",
+          "versao": "200 AMG Line",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 387900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.3 4 cilindros turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 1332,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 163
+            },
+            "torque_kgfm": {
+              "gasolina": 27.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.9,
+            "velocidade_maxima_kmh": 210
+          },
+          "consumo": {
+            "cidade_gasolina": 11.4,
+            "estrada_gasolina": 12.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4412,
+            "largura": null,
+            "largura_com_retrovisores": 2020,
+            "altura": 1616,
+            "entre_eixos": 2729,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1570,
+          "porta_malas_l": 425,
+          "tanque_l": 43,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/45 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Linha AMG Line",
+              "Direção direta (relação variável)",
+              "Teto solar panorâmico",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "DYNAMIC SELECT (modos de condução)",
+              "Proteção GUARD 360°",
+              "Som esportivo do motor"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/gla/overview.html",
+          "campos_fonte_secundaria": [
+            "tracao"
+          ],
+          "observacoes": "O site informa 7 lugares; registrado 5 (GLA tem 5 lugares). Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GLA200 AMG LINE\". Tração dianteira conforme ficha técnica de fonte secundária."
+        },
+        {
+          "id": "mercedes-benz-gla-amg-gla-35-4matic-2027",
+          "versao": "AMG GLA 35 4MATIC",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 552900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 4 cilindros turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 1991,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 306
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.2,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 8.8,
+            "estrada_gasolina": 10.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4436,
+            "largura": null,
+            "largura_com_retrovisores": 2020,
+            "altura": 1590,
+            "entre_eixos": 2729,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1750,
+          "porta_malas_l": 435,
+          "tanque_l": 51,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "255/35 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Direção direta (relação variável)",
+              "Teto solar panorâmico",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "DYNAMIC SELECT (modos de condução)",
+              "Proteção GUARD 360°",
+              "Teclas AMG no volante"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/gla/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "O site informa 7 lugares; registrado 5 (GLA tem 5 lugares). Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AMG GLA35 4M\"."
+        }
+      ]
+    },
+    {
+      "id": "mercedes-benz-glb",
+      "modelo": "GLB",
+      "categoria": "SUV Médio",
+      "subcategoria": "SUV de 7 lugares",
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mercedes-benz-glb.webp",
+        "fonte_imagem": "https://imgcdn.oto.com.sg/large/gallery/exterior/8/292/mercedes-benz-glb-class-side-view-223019.jpg",
+        "pagina_origem": "https://www.oto.com.sg/new-cars/mercedes-benz/glb-class"
+      },
+      "fontes": [
+        {
+          "url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/glb/overview.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://api.oneweb.mercedes-benz.com/pi-api/api/v2/vehicle-data/market/pt_BR/model-series/X247-fl/initial",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www2.mercedes-benz.com.br/content/dam/brazil/passengercars/informative/PBEV_Mercedes-Benz.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mercedes-benz-glb-220-4matic-progressive-2026",
+          "versao": "220 4MATIC Progressive",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 381900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 4 cilindros turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 1991,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 190
+            },
+            "torque_kgfm": {
+              "gasolina": 30.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.9,
+            "velocidade_maxima_kmh": 214
+          },
+          "consumo": {
+            "cidade_gasolina": 10.4,
+            "estrada_gasolina": 13
+          },
+          "dimensoes_mm": {
+            "comprimento": 4634,
+            "largura": null,
+            "largura_com_retrovisores": 2020,
+            "altura": 1692,
+            "entre_eixos": 2829,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1765,
+          "porta_malas_l": 565,
+          "tanque_l": 60,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": "235/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Linha Progressive",
+              "Teto solar panorâmico",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "DYNAMIC SELECT (modos de condução)",
+              "Proteção GUARD 360°",
+              "7 lugares"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/glb/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GLB220 4M PROGRESSIVE\"."
+        },
+        {
+          "id": "mercedes-benz-glb-220-4matic-amg-line-2026",
+          "versao": "220 4MATIC AMG Line",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 411900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 4 cilindros turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 1991,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 190
+            },
+            "torque_kgfm": {
+              "gasolina": 30.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.9,
+            "velocidade_maxima_kmh": 214
+          },
+          "consumo": {
+            "cidade_gasolina": 10.4,
+            "estrada_gasolina": 13
+          },
+          "dimensoes_mm": {
+            "comprimento": 4634,
+            "largura": null,
+            "largura_com_retrovisores": 2020,
+            "altura": 1692,
+            "entre_eixos": 2829,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1765,
+          "porta_malas_l": 565,
+          "tanque_l": 60,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": "235/50 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Linha AMG Line",
+              "Teto solar panorâmico",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "DYNAMIC SELECT (modos de condução)",
+              "Proteção GUARD 360°",
+              "Som esportivo do motor",
+              "7 lugares"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/glb/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GLB220 4M AMG LINE\"."
+        },
+        {
+          "id": "mercedes-benz-glb-220-4matic-night-edition-2026",
+          "versao": "220 4MATIC Night Edition",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 416900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 4 cilindros turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 1991,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 190
+            },
+            "torque_kgfm": {
+              "gasolina": 30.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.9,
+            "velocidade_maxima_kmh": 214
+          },
+          "consumo": {
+            "cidade_gasolina": 10.4,
+            "estrada_gasolina": 13
+          },
+          "dimensoes_mm": {
+            "comprimento": 4634,
+            "largura": null,
+            "largura_com_retrovisores": 2020,
+            "altura": 1692,
+            "entre_eixos": 2829,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1765,
+          "porta_malas_l": 565,
+          "tanque_l": 60,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": "235/50 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Linha Night Edition",
+              "Teto solar panorâmico",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "DYNAMIC SELECT (modos de condução)",
+              "Proteção GUARD 360°",
+              "Som esportivo do motor",
+              "7 lugares"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/glb/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Mesmo código de modelo (baumuster 247645) do GLB 220 4MATIC; o site nomeia a versão \"GLB 220 Night Edition\". Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GLB220 4M AMG LINE\"."
+        },
+        {
+          "id": "mercedes-benz-glb-amg-glb-35-4matic-2026",
+          "versao": "AMG GLB 35 4MATIC",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 562900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 4 cilindros turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 1991,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 306
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.5,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 8.39,
+            "estrada_gasolina": 9.79
+          },
+          "dimensoes_mm": {
+            "comprimento": 4650,
+            "largura": null,
+            "largura_com_retrovisores": 2020,
+            "altura": 1665,
+            "entre_eixos": 2829,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1820,
+          "porta_malas_l": 570,
+          "tanque_l": 60,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": "255/35 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Direção direta (relação variável)",
+              "Teto solar panorâmico",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "DYNAMIC SELECT (modos de condução)",
+              "Proteção GUARD 360°",
+              "Teclas AMG no volante",
+              "7 lugares"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/glb/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca."
+        }
+      ]
+    },
+    {
+      "id": "mercedes-benz-glc",
+      "modelo": "GLC",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mercedes-benz-glc.webp",
+        "fonte_imagem": "https://www.netcarshow.com/Mercedes-Benz-GLC_EV-2026-Side_Profile.675ad462.jpg",
+        "pagina_origem": "https://www.netcarshow.com/mercedes-benz/2026-glc_ev/"
+      },
+      "fontes": [
+        {
+          "url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/glc/overview.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://api.oneweb.mercedes-benz.com/pi-api/api/v2/vehicle-data/market/pt_BR/model-series/X254/initial",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www2.mercedes-benz.com.br/content/dam/brazil/passengercars/informative/PBEV_Mercedes-Benz.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mercedes-benz-glc-300-4matic-amg-line-2027",
+          "versao": "300 4MATIC AMG Line",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 532900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 4 cilindros turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 1999,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 258
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.2,
+            "velocidade_maxima_kmh": 240
+          },
+          "consumo": {
+            "cidade_gasolina": 9.5,
+            "estrada_gasolina": 11.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4716,
+            "largura": null,
+            "largura_com_retrovisores": 2075,
+            "altura": 1640,
+            "entre_eixos": 2888,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1910,
+          "porta_malas_l": 620,
+          "tanque_l": 62,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "255/45 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Linha AMG Line",
+              "PRE-SAFE Impulse Side",
+              "Airbag central",
+              "Teto solar panorâmico",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "DYNAMIC SELECT (modos de condução)",
+              "Proteção GUARD 360°",
+              "Som esportivo do motor"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/glc/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GLC300 4M\"."
+        },
+        {
+          "id": "mercedes-benz-glc-amg-glc-43-4matic-2026",
+          "versao": "AMG GLC 43 4MATIC",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 699900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 4 cilindros turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 1991,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 421
+            },
+            "torque_kgfm": {
+              "gasolina": 51
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.8,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 6.8,
+            "estrada_gasolina": 8.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4749,
+            "largura": null,
+            "largura_com_retrovisores": 2076,
+            "altura": 1635,
+            "entre_eixos": 2888,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1975,
+          "porta_malas_l": 620,
+          "tanque_l": 62,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "265/45 R20 (diant.) / 295/40 R20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "PRE-SAFE Impulse Side",
+              "Airbag central",
+              "Teto solar panorâmico",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "DYNAMIC SELECT (modos de condução)",
+              "Proteção GUARD 360°",
+              "Teclas AMG no volante"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/glc/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "O PBEV 2026 lista duas linhas para o AMG GLC 43 SUV com consumos diferentes; consumo deixado em branco. Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AMG GLC43\"."
+        },
+        {
+          "id": "mercedes-benz-glc-amg-glc-53-4matic-2027",
+          "versao": "AMG GLC 53 4MATIC+",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 729900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 6 cilindros em linha turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 2998,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 449
+            },
+            "torque_kgfm": {
+              "gasolina": 61.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.2,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4749,
+            "largura": null,
+            "largura_com_retrovisores": 2076,
+            "altura": 1635,
+            "entre_eixos": 2888,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2065,
+          "porta_malas_l": 620,
+          "tanque_l": 62,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "265/45 R20 (diant.) / 295/40 R20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "PRE-SAFE Impulse Side",
+              "Airbag central",
+              "Teto solar panorâmico",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "DYNAMIC SELECT (modos de condução)",
+              "Proteção GUARD 360°",
+              "Teclas AMG no volante"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/glc/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Lançamento recente (ainda não consta no PBEV 2026 publicado pela marca). Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado."
+        }
+      ]
+    },
+    {
+      "id": "mercedes-benz-glc-coupe",
+      "modelo": "GLC Coupé",
+      "categoria": "SUV Médio",
+      "subcategoria": "SUV cupê",
+      "propulsoes": [
+        "Híbrido leve (MHEV)",
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mercedes-benz-glc-coupe.webp",
+        "fonte_imagem": "https://img-cdn-zw.zigwheelsksa.com/large/gallery/exterior/26/807/mercedes-benz-glc-class-coupe-side-view-314181.jpg",
+        "pagina_origem": "https://www.zigwheelsksa.com/new-cars/mercedes-benz/glc-class-coupe/200-4matic"
+      },
+      "fontes": [
+        {
+          "url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/glc-coupe/overview.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://api.oneweb.mercedes-benz.com/pi-api/api/v2/vehicle-data/market/pt_BR/model-series/C254/initial",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www2.mercedes-benz.com.br/content/dam/brazil/passengercars/informative/PBEV_Mercedes-Benz.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mercedes-benz-glc-coupe-300-4matic-amg-line-2026",
+          "versao": "300 4MATIC AMG Line",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 547900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 4 cilindros turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 1999,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 258
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.3,
+            "velocidade_maxima_kmh": 246
+          },
+          "consumo": {
+            "cidade_gasolina": 9.5,
+            "estrada_gasolina": 11.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4764,
+            "largura": null,
+            "largura_com_retrovisores": 2075,
+            "altura": 1605,
+            "entre_eixos": 2888,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1930,
+          "porta_malas_l": 545,
+          "tanque_l": 62,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "255/45 R20 (diant.) / 285/40 R20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Linha AMG Line",
+              "PRE-SAFE Impulse Side",
+              "Airbag central",
+              "Teto solar panorâmico",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "DYNAMIC SELECT (modos de condução)",
+              "Proteção GUARD 360°",
+              "Som esportivo do motor"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/glc-coupe/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GLC300 4M CO\"."
+        },
+        {
+          "id": "mercedes-benz-glc-coupe-amg-glc-43-4matic-2026",
+          "versao": "AMG GLC 43 4MATIC",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 720900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 4 cilindros turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 1991,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 421
+            },
+            "torque_kgfm": {
+              "gasolina": 51
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.5,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 7.3,
+            "estrada_gasolina": 9.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4792,
+            "largura": null,
+            "largura_com_retrovisores": 2076,
+            "altura": 1603,
+            "entre_eixos": 2888,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1995,
+          "porta_malas_l": 545,
+          "tanque_l": 62,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "265/45 R20 (diant.) / 295/40 R20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "PRE-SAFE Impulse Side",
+              "Airbag central",
+              "Teto solar panorâmico",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "DYNAMIC SELECT (modos de condução)",
+              "Teclas AMG no volante"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/glc-coupe/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AMG GLC43 CO\"."
+        },
+        {
+          "id": "mercedes-benz-glc-coupe-amg-glc-53-4matic-2027",
+          "versao": "AMG GLC 53 4MATIC+",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 749900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 6 cilindros em linha turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 2999,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 449
+            },
+            "torque_kgfm": {
+              "gasolina": 61.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.2,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4792,
+            "largura": null,
+            "largura_com_retrovisores": 2076,
+            "altura": 1603,
+            "entre_eixos": 2888,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2080,
+          "porta_malas_l": 545,
+          "tanque_l": 62,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "265/45 R20 (diant.) / 295/40 R20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "PRE-SAFE Impulse Side",
+              "Airbag central",
+              "Teto solar panorâmico",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "DYNAMIC SELECT (modos de condução)",
+              "Proteção GUARD 360°",
+              "Teclas AMG no volante"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/glc-coupe/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Lançamento recente (ainda não consta no PBEV 2026 publicado pela marca). O site informa ano-modelo pelo código 807 (2027). Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado."
+        },
+        {
+          "id": "mercedes-benz-glc-coupe-amg-glc-63-s-4matic-e-performance-2026",
+          "versao": "AMG GLC 63 S 4MATIC E PERFORMANCE",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 968900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 4 cilindros turbo + motor elétrico (plug-in)",
+            "cilindrada_cm3": 1991,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 680
+            },
+            "torque_kgfm": {
+              "combinada": 104
+            },
+            "bateria_kwh": 4.84,
+            "autonomia_eletrica_km": 18,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.5,
+            "velocidade_maxima_kmh": 275
+          },
+          "consumo": {
+            "cidade_gasolina": 7.2,
+            "estrada_gasolina": 7.8,
+            "cidade_eletrico_km_le": 6.3,
+            "estrada_eletrico_km_le": 7.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4792,
+            "largura": null,
+            "largura_com_retrovisores": 2076,
+            "altura": 1603,
+            "entre_eixos": 2888,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2310,
+          "porta_malas_l": 390,
+          "tanque_l": 65,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "265/40 R21 (diant.) / 295/35 R21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "PRE-SAFE Impulse Side",
+              "Airbag central",
+              "Teto solar panorâmico",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "DYNAMIC SELECT (modos de condução)",
+              "Teclas AMG no volante"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/glc-coupe/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AMG GLC63S EP\"."
+        }
+      ]
+    },
+    {
+      "id": "mercedes-benz-gle",
+      "modelo": "GLE",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV de 7 lugares",
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mercedes-benz-gle.webp",
+        "fonte_imagem": "https://imgcdn.zigwheels.ph/large/gallery/exterior/22/2100/mercedes-benz-gle-class-side-view-563277.jpg",
+        "pagina_origem": "https://www.zigwheels.ph/new-cars/mercedes-benz/gle-class"
+      },
+      "fontes": [
+        {
+          "url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/gle/overview.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://api.oneweb.mercedes-benz.com/pi-api/api/v2/vehicle-data/market/pt_BR/model-series/V167-fl/initial",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www2.mercedes-benz.com.br/content/dam/brazil/passengercars/informative/PBEV_Mercedes-Benz.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mercedes-benz-gle-450-d-4matic-amg-line-2026",
+          "versao": "450 d 4MATIC AMG Line",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 784900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Diesel",
+            "descricao": "3.0 6 cilindros em linha turbo diesel + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 2989,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 367
+            },
+            "torque_kgfm": {
+              "diesel": 76.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.6,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_diesel": 10.6,
+            "estrada_diesel": 13
+          },
+          "dimensoes_mm": {
+            "comprimento": 4924,
+            "largura": null,
+            "largura_com_retrovisores": 2157,
+            "altura": 1797,
+            "entre_eixos": 2995,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2425,
+          "porta_malas_l": 630,
+          "tanque_l": 85,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": "275/45 R21 (diant.) / 315/40 R21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Linha AMG Line",
+              "Teto solar panorâmico",
+              "Head-up display",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "Proteção GUARD 360°",
+              "7 lugares"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/gle/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GLE450D AMGL\"."
+        },
+        {
+          "id": "mercedes-benz-gle-amg-gle-53-4matic-2026",
+          "versao": "AMG GLE 53 4MATIC+",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 921900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 6 cilindros em linha turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 2999,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 435
+            },
+            "torque_kgfm": {
+              "gasolina": 57.1
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 7.3,
+            "estrada_gasolina": 8.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4937,
+            "largura": null,
+            "largura_com_retrovisores": 2157,
+            "altura": 1782,
+            "entre_eixos": 2995,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2375,
+          "porta_malas_l": 630,
+          "tanque_l": 85,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": "275/45 R21 (diant.) / 315/40 R21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto solar panorâmico",
+              "Head-up display",
+              "Faróis MULTIBEAM LED",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "Escapamento AMG Performance",
+              "Proteção GUARD 360°",
+              "Teclas AMG no volante",
+              "7 lugares"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/gle/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AMG GLE53 4M\"."
+        }
+      ]
+    },
+    {
+      "id": "mercedes-benz-gle-coupe",
+      "modelo": "GLE Coupé",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV cupê",
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mercedes-benz-gle-coupe.webp",
+        "fonte_imagem": "https://cdn-ds.com/blogs-media/sites/177/2025/11/03152331/2026_GLE_Coupe_A1_O.jpg",
+        "pagina_origem": "https://www.arrowheadmb.com/blog/2026-mercedes-benz-gle-coupe-review/"
+      },
+      "fontes": [
+        {
+          "url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/gle-coupe/overview.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://api.oneweb.mercedes-benz.com/pi-api/api/v2/vehicle-data/market/pt_BR/model-series/C167-fl/initial",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www2.mercedes-benz.com.br/content/dam/brazil/passengercars/informative/PBEV_Mercedes-Benz.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mercedes-benz-gle-coupe-450-d-4matic-amg-line-2026",
+          "versao": "450 d 4MATIC AMG Line",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 859900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Diesel",
+            "descricao": "3.0 6 cilindros em linha turbo diesel + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 2989,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 367
+            },
+            "torque_kgfm": {
+              "diesel": 76.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.6,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_diesel": 10.6,
+            "estrada_diesel": 13
+          },
+          "dimensoes_mm": {
+            "comprimento": 4941,
+            "largura": null,
+            "largura_com_retrovisores": 2157,
+            "altura": 1716,
+            "entre_eixos": 2935,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2475,
+          "porta_malas_l": 655,
+          "tanque_l": 85,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "285/40 R22 (diant.) / 325/35 R22 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 22,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Linha AMG Line",
+              "Teto solar panorâmico",
+              "Head-up display",
+              "Faróis MULTIBEAM LED",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "Proteção GUARD 360°"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/gle-coupe/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GLE450D AMGL\"."
+        },
+        {
+          "id": "mercedes-benz-gle-coupe-amg-gle-63-s-4matic-2026",
+          "versao": "AMG GLE 63 S 4MATIC+",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 1332900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 3982,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 612
+            },
+            "torque_kgfm": {
+              "gasolina": 86.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.9,
+            "velocidade_maxima_kmh": 280
+          },
+          "consumo": {
+            "cidade_gasolina": 5.9,
+            "estrada_gasolina": 7.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4954,
+            "largura": null,
+            "largura_com_retrovisores": 2157,
+            "altura": 1720,
+            "entre_eixos": 2935,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2505,
+          "porta_malas_l": 655,
+          "tanque_l": 85,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 22,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "PRE-SAFE Impulse Side",
+              "Teto solar panorâmico",
+              "Head-up display",
+              "Diferencial eletrônico AMG",
+              "Faróis MULTIBEAM LED",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "Escapamento AMG Performance",
+              "Proteção GUARD 360°",
+              "Volante AMG em Nappa/MICROCUT",
+              "Teclas AMG no volante"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/gle-coupe/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AMG GLE63 S CO Coupé\"."
+        }
+      ]
+    },
+    {
+      "id": "mercedes-benz-gls",
+      "modelo": "GLS",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV de 7 lugares",
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mercedes-benz-gls.webp",
+        "fonte_imagem": "https://estaticos-cdn.prensaiberica.es/clip/38e3139f-77d5-4d2a-9236-e0ca92286aef_alta-libre-aspect-ratio_default_0_x600y225.jpg",
+        "pagina_origem": "https://www.elperiodico.com/es/motor/20260406/mercedes-benz-gls-2026-novedades-equipamiento-128774736"
+      },
+      "fontes": [
+        {
+          "url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/gls/overview.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://api.oneweb.mercedes-benz.com/pi-api/api/v2/vehicle-data/market/pt_BR/model-series/X167-fl/initial",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www2.mercedes-benz.com.br/content/dam/brazil/passengercars/informative/PBEV_Mercedes-Benz.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mercedes-benz-gls-450-4matic-amg-line-2026",
+          "versao": "450 4MATIC AMG Line",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 1070900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 6 cilindros em linha turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 2999,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 381
+            },
+            "torque_kgfm": {
+              "gasolina": 51
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.1,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 7.5,
+            "estrada_gasolina": 9
+          },
+          "dimensoes_mm": {
+            "comprimento": 5209,
+            "largura": null,
+            "largura_com_retrovisores": 2157,
+            "altura": 1823,
+            "entre_eixos": 3135,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2550,
+          "porta_malas_l": 355,
+          "tanque_l": 90,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": "285/40 R23 (diant.) / 325/35 R23 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 23,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Linha AMG Line",
+              "Teto solar panorâmico",
+              "Head-up display",
+              "Faróis MULTIBEAM LED",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "Proteção GUARD 360°",
+              "7 lugares"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/gls/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GLS450 4M AMG L\"."
+        }
+      ]
+    },
+    {
+      "id": "mercedes-benz-classe-g",
+      "modelo": "Classe G",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV off-road",
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mercedes-benz-classe-g.webp",
+        "fonte_imagem": "https://cms-assets.autoscout24.com/uaddx06iwzdz/52qlacRUOwVcW72UYYh0rT/85af37f71e577213250426001d2b67f3/Mercedes-Benz-G-Class-2026-28.png?w=1100",
+        "pagina_origem": "https://www.autotrader.ca/research/mercedes-benz/g-class/2026/"
+      },
+      "fontes": [
+        {
+          "url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/g-class/amg.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://api.oneweb.mercedes-benz.com/pi-api/api/v2/vehicle-data/market/pt_BR/model-series/W465/initial",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www2.mercedes-benz.com.br/content/dam/brazil/passengercars/informative/PBEV_Mercedes-Benz.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mercedes-benz-classe-g-amg-g-63-2027",
+          "versao": "AMG G 63",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 2153900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 3982,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 585
+            },
+            "torque_kgfm": {
+              "gasolina": 86.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.4,
+            "velocidade_maxima_kmh": 220
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4873,
+            "largura": null,
+            "largura_com_retrovisores": 2187,
+            "altura": 1976,
+            "entre_eixos": 2890,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2640,
+          "porta_malas_l": 640,
+          "tanque_l": 100,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 22,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto solar elétrico",
+              "Faróis MULTIBEAM LED",
+              "Som Burmester 3D Surround",
+              "Iluminação ambiente 64 cores",
+              "Marcha reduzida",
+              "3 bloqueios de diferencial 100%",
+              "Proteção GUARD 360°",
+              "Pacote de Tecnologia (assistentes)",
+              "Teclas AMG no volante"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/g-class/amg.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo: o PBEV 2026 traz \"AMG G63 4M GRD\" e \"AMG G63 MFKT\"; não foi possível associar com segurança a linha GRD a esta versão. Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado."
+        },
+        {
+          "id": "mercedes-benz-classe-g-amg-g-63-manufaktur-2026",
+          "versao": "AMG G 63 MANUFAKTUR",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 2337900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 3982,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 585
+            },
+            "torque_kgfm": {
+              "gasolina": 86.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.4,
+            "velocidade_maxima_kmh": 220
+          },
+          "consumo": {
+            "cidade_gasolina": 5.33,
+            "estrada_gasolina": 6.03
+          },
+          "dimensoes_mm": {
+            "comprimento": 4873,
+            "largura": null,
+            "largura_com_retrovisores": 2187,
+            "altura": 1976,
+            "entre_eixos": 2890,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2640,
+          "porta_malas_l": 640,
+          "tanque_l": 100,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "275/50 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": null,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Linha MANUFAKTUR",
+              "Carregador por indução",
+              "Pacote AMG Offroad PRO",
+              "Bancos multicontorno ativos",
+              "Pacote ENERGIZING Plus",
+              "Linha interna SUPERIOR (MANUFAKTUR)",
+              "Proteção GUARD 360°",
+              "Estepe na porta traseira",
+              "Pacote de Tecnologia (assistentes)"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/suv/g-class/amg.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca."
+        }
+      ]
+    },
+    {
+      "id": "mercedes-benz-amg-gt-coupe",
+      "modelo": "AMG GT Coupé",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Cupê 2+2",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mercedes-benz-amg-gt-coupe.webp",
+        "fonte_imagem": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mercedes-Benz/AMG-GT-Coupe/11053/1692612348939/side-view-(left)-90.jpg?imwidth=890&impolicy=resize",
+        "pagina_origem": "https://www.cardekho.com/mercedes-benz/amg-gt-coupe/pictures"
+      },
+      "fontes": [
+        {
+          "url": "https://www2.mercedes-benz.com.br/passengercars/models/coupe/amg-gt-2-door/overview.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://api.oneweb.mercedes-benz.com/pi-api/api/v2/vehicle-data/market/pt_BR/model-series/C192/initial",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www2.mercedes-benz.com.br/content/dam/brazil/passengercars/informative/PBEV_Mercedes-Benz.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mercedes-benz-amg-gt-coupe-amg-gt-63-e-performance-2026",
+          "versao": "AMG GT 63 E PERFORMANCE",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 1735900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo + motor elétrico (plug-in)",
+            "cilindrada_cm3": 3982,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 816
+            },
+            "torque_kgfm": {
+              "combinada": 144.8
+            },
+            "bateria_kwh": 4.84,
+            "autonomia_eletrica_km": 9,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.8,
+            "velocidade_maxima_kmh": 320
+          },
+          "consumo": {
+            "cidade_gasolina": 6.45,
+            "estrada_gasolina": 7.65,
+            "cidade_eletrico_km_le": 11,
+            "estrada_eletrico_km_le": 11
+          },
+          "dimensoes_mm": {
+            "comprimento": 4728,
+            "largura": null,
+            "largura_com_retrovisores": 2100,
+            "altura": 1354,
+            "entre_eixos": 2700,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2195,
+          "porta_malas_l": 182,
+          "tanque_l": 70,
+          "lugares": 4,
+          "portas": 3,
+          "pneus": "295/35 R20 (diant.) / 305/35 R20 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Faróis DIGITAL LIGHT",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "Pacote AMG DYNAMIC PLUS",
+              "Proteção GUARD 360°",
+              "Teclas AMG no volante"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/coupe/amg-gt-2-door/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "O site informa 3 portas (carroceria com tampa traseira). No PBEV 2026 a versão aparece como \"AMG GT63S EP 2P\". Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca."
+        }
+      ]
+    },
+    {
+      "id": "mercedes-benz-sl",
+      "modelo": "SL Roadster",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Roadster (capota de tecido)",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mercedes-benz-sl.webp",
+        "fonte_imagem": "https://img-cdn-zw.zigwheelsksa.com/large/gallery/exterior/26/2487/mercedes-benz-amg-sl-2026-side-view-469046.jpg",
+        "pagina_origem": "https://www.zigwheelsksa.com/new-cars/mercedes-benz/amg-sl-2026/43-roadster"
+      },
+      "fontes": [
+        {
+          "url": "https://www2.mercedes-benz.com.br/passengercars/models/cabriolet-roadster/sl/overview.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://api.oneweb.mercedes-benz.com/pi-api/api/v2/vehicle-data/market/pt_BR/model-series/R232/initial",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www2.mercedes-benz.com.br/content/dam/brazil/passengercars/informative/PBEV_Mercedes-Benz.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mercedes-benz-sl-amg-sl-63-s-e-performance-2026",
+          "versao": "AMG SL 63 S E PERFORMANCE",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 1755900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo + motor elétrico (plug-in)",
+            "cilindrada_cm3": 3982,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 816
+            },
+            "torque_kgfm": {
+              "combinada": 144.8
+            },
+            "bateria_kwh": 4.84,
+            "autonomia_eletrica_km": 9,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.9,
+            "velocidade_maxima_kmh": 317
+          },
+          "consumo": {
+            "cidade_gasolina": 6.2,
+            "estrada_gasolina": 7.4,
+            "cidade_eletrico_km_le": 7.8,
+            "estrada_eletrico_km_le": 10.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4705,
+            "largura": null,
+            "largura_com_retrovisores": 2100,
+            "altura": 1354,
+            "entre_eixos": 2700,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2195,
+          "porta_malas_l": 110,
+          "tanque_l": 70,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": "275/35 R21 (diant.) / 305/30 R21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": false,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Faróis DIGITAL LIGHT",
+              "Head-up display",
+              "Volante aquecido",
+              "Capota de tecido",
+              "Som Burmester 3D Surround",
+              "HANDS-FREE ACCESS (porta-malas por gesto)",
+              "Pacote AMG DYNAMIC PLUS",
+              "Faróis escurecidos",
+              "Teclas AMG no volante"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/cabriolet-roadster/sl/overview.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Consumo da tabela PBEV 2026 publicada pela marca. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AMG SL63S EP\"."
+        }
+      ]
+    },
+    {
+      "id": "mercedes-benz-classe-v",
+      "modelo": "Classe V",
+      "categoria": "Minivan",
+      "subcategoria": "Van de luxo",
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mercedes-benz-classe-v.webp",
+        "fonte_imagem": "https://imgcdn.oto.com.sg/large/gallery/exterior/8/295/mercedes-benz-v-class-side-view-178648.jpg",
+        "pagina_origem": "https://www.oto.com.sg/new-cars/mercedes-benz/v-class"
+      },
+      "fontes": [
+        {
+          "url": "https://www2.mercedes-benz.com.br/passengercars/models/van/v-class/overview.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://api.oneweb.mercedes-benz.com/pi-api/api/v2/vehicle-data/market/pt_BR/model-series/V447-fl2/initial",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.itatiaia.com.br/auto/mercedes-benz-lanca-no-brasil-minivan-de-luxo-com-preco-de-apartamento/",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mercedes-benz-classe-v-v-300-avantgarde-2027",
+          "versao": "V 300 Avantgarde",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 729900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 4 cilindros turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 1999,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 231
+            },
+            "torque_kgfm": {
+              "gasolina": 37.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 5370,
+            "largura": null,
+            "largura_com_retrovisores": 2249,
+            "altura": 1901,
+            "entre_eixos": 3430,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": 70,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Linha Avantgarde",
+              "Som Burmester Surround",
+              "Faróis MULTIBEAM LED",
+              "Iluminação ambiente 64 cores",
+              "Volante aquecido",
+              "Portas laterais deslizantes elétricas",
+              "Suspensão AGILITY CONTROL"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/van/v-class/overview.html",
+          "campos_fonte_secundaria": [
+            "tracao"
+          ],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Tração traseira conforme imprensa (Itatiaia, car.blog.br)."
+        },
+        {
+          "id": "mercedes-benz-classe-v-v-300-elegance-2027",
+          "versao": "V 300 Elegance",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 834900,
+          "preco_obs": "Preço público sugerido no site/configurador Mercedes-Benz Brasil; não contempla frete.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 4 cilindros turbo + sistema 48V (EQ Boost)",
+            "cilindrada_cm3": 1999,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 231
+            },
+            "torque_kgfm": {
+              "gasolina": 37.7
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 5370,
+            "largura": null,
+            "largura_com_retrovisores": 2249,
+            "altura": 1901,
+            "entre_eixos": 3430,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": 70,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Linha Elegance",
+              "Som Burmester Surround",
+              "Faróis MULTIBEAM LED",
+              "Iluminação ambiente 64 cores",
+              "Volante aquecido",
+              "Portas laterais deslizantes elétricas",
+              "Suspensão AGILITY CONTROL"
+            ]
+          },
+          "fonte_url": "https://www2.mercedes-benz.com.br/passengercars/models/van/v-class/overview.html",
+          "campos_fonte_secundaria": [
+            "tracao"
+          ],
+          "observacoes": "Equipamentos: só itens confirmados na configuração de série do configurador; null = não confirmado. Tração traseira conforme imprensa (Itatiaia, car.blog.br)."
+        }
+      ]
+    }
+  ]
+}

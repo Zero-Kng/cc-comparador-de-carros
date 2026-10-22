@@ -1,0 +1,1124 @@
+{
+  "marca": "Nissan",
+  "slug": "nissan",
+  "site_oficial": "https://www.nissan.com.br",
+  "coletado_em": "2026-10-19",
+  "modelos": [
+    {
+      "id": "nissan-kait",
+      "modelo": "Kait",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/nissan-kait.webp",
+        "fonte_imagem": "https://motorshow.com.br/wp-content/uploads/sites/2/2026/01/2502-lateral-rigida-lado-motorista-scaled-1-e1768786088121.jpg",
+        "pagina_origem": "https://motorshow.com.br/avaliacao-nissan-kait-2026"
+      },
+      "fontes": [
+        {
+          "url": "https://www.nissan.com.br/veiculos/modelos/kait.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/Kait-my27/documentos/FICHA_T%C3%89CNICA_KAIT_MY27.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://garagem360.com.br/?p=297201",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "nissan-kait-active-2027",
+          "versao": "Active",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 117990,
+          "preco_obs": "Preço público sugerido, com frete incluso, válido para todo o território nacional.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.6 16V CVVTCS Flex",
+            "cilindrada_cm3": 1598,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 113,
+              "gasolina": 110
+            },
+            "torque_kgfm": {
+              "etanol": 15.2,
+              "gasolina": 14.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 7.8,
+            "estrada_etanol": 9.4,
+            "cidade_gasolina": 11.3,
+            "estrada_gasolina": 13.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4304,
+            "largura": 1760,
+            "largura_com_retrovisores": null,
+            "altura": 1611,
+            "entre_eixos": 2620,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1139,
+          "porta_malas_l": 432,
+          "tanque_l": 41,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/55 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Faróis full LED",
+              "Chave presencial (I-Key)",
+              "Sensor de estacionamento traseiro",
+              "Piloto automático",
+              "Bancos Zero Gravity"
+            ]
+          },
+          "fonte_url": "https://www.nissan.com.br/veiculos/modelos/kait.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica traz dois pesos (1.139 kg e 1.157 kg) sem indicar a versão; atribuído pelo padrão de rodas (Active/Sense e Advance/Exclusive). Ficha não lista central multimídia nesta versão. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Kait ACTIVE CVT\"."
+        },
+        {
+          "id": "nissan-kait-sense-2027",
+          "versao": "Sense",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 129990,
+          "preco_obs": "Preço público sugerido, com frete incluso, válido para todo o território nacional.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.6 16V CVVTCS Flex",
+            "cilindrada_cm3": 1598,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 113,
+              "gasolina": 110
+            },
+            "torque_kgfm": {
+              "etanol": 15.2,
+              "gasolina": 14.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 7.8,
+            "estrada_etanol": 9.4,
+            "cidade_gasolina": 11.3,
+            "estrada_gasolina": 13.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4304,
+            "largura": 1760,
+            "largura_com_retrovisores": null,
+            "altura": 1611,
+            "entre_eixos": 2620,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1139,
+          "porta_malas_l": 432,
+          "tanque_l": 41,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/55 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Com fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Multimídia Nissan Connect 8\"",
+              "Alto-falantes traseiros",
+              "Cobertura do porta-malas",
+              "Câmera de ré"
+            ]
+          },
+          "fonte_url": "https://www.nissan.com.br/veiculos/modelos/kait.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica traz dois pesos (1.139 kg e 1.157 kg) sem indicar a versão; atribuído pelo padrão de rodas (Active/Sense e Advance/Exclusive). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Kait SENSE\"."
+        },
+        {
+          "id": "nissan-kait-advance-2027",
+          "versao": "Advance",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 136990,
+          "preco_obs": "Preço público sugerido, com frete incluso, válido para todo o território nacional.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.6 16V CVVTCS Flex",
+            "cilindrada_cm3": 1598,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 113,
+              "gasolina": 110
+            },
+            "torque_kgfm": {
+              "etanol": 15.2,
+              "gasolina": 14.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 7.8,
+            "estrada_etanol": 9.4,
+            "cidade_gasolina": 11.3,
+            "estrada_gasolina": 13.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4304,
+            "largura": 1760,
+            "largura_com_retrovisores": null,
+            "altura": 1611,
+            "entre_eixos": 2620,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1157,
+          "porta_malas_l": 432,
+          "tanque_l": 41,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/55 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Multimídia Pioneer 9\" com CarPlay/Android Auto sem fio",
+              "Painel digital 7\"",
+              "Rodas diamantadas",
+              "Rack de teto",
+              "Vidros one touch nas 4 portas"
+            ]
+          },
+          "fonte_url": "https://www.nissan.com.br/veiculos/modelos/kait.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica traz dois pesos (1.139 kg e 1.157 kg) sem indicar a versão; atribuído pelo padrão de rodas (Active/Sense e Advance/Exclusive). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Kait ADVANCE\"."
+        },
+        {
+          "id": "nissan-kait-exclusive-2027",
+          "versao": "Exclusive",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 149990,
+          "preco_obs": "Preço público sugerido, com frete incluso, válido para todo o território nacional.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.6 16V CVVTCS Flex",
+            "cilindrada_cm3": 1598,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 113,
+              "gasolina": 110
+            },
+            "torque_kgfm": {
+              "etanol": 15.2,
+              "gasolina": 14.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 7.5,
+            "estrada_etanol": 8.7,
+            "cidade_gasolina": 11,
+            "estrada_gasolina": 12.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4304,
+            "largura": 1760,
+            "largura_com_retrovisores": null,
+            "altura": 1611,
+            "entre_eixos": 2620,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1157,
+          "porta_malas_l": 432,
+          "tanque_l": 41,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "205/55 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Visão 360° com detecção de objetos",
+              "Frenagem autônoma com detecção de pedestres",
+              "Controle de cruzeiro adaptativo",
+              "Alerta de ponto cego e tráfego cruzado",
+              "Prevenção de saída de faixa",
+              "Retrovisor eletrocrômico",
+              "Revestimento premium (sintético)"
+            ]
+          },
+          "fonte_url": "https://www.nissan.com.br/veiculos/modelos/kait.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica traz dois pesos (1.139 kg e 1.157 kg) sem indicar a versão; atribuído pelo padrão de rodas (Active/Sense e Advance/Exclusive). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Kait EXCLUSIVE\"."
+        }
+      ]
+    },
+    {
+      "id": "nissan-kicks",
+      "modelo": "Kicks",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/nissan-kicks.webp",
+        "fonte_imagem": "https://dezeroacem.com.br/wp-content/uploads/2025/07/Novo-Nissan-Kicks-Sense-2026-lateral.jpg",
+        "pagina_origem": "https://dezeroacem.com.br/2025/07/com-muitas-qualidades-novo-nissan-kicks-2026-quer-ser-o-novo-rei-do-pedaco-vai-conseguir/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.nissan.com.br/veiculos/modelos/novo-kicks.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/kicks-my27/documentos/AF_NNA02626A_FT_Padrao_Kicks_2027.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.portalin.com.br/road-in/novo-kicks-chega-super-mudado-e-com-cinco-versoes/",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "nissan-kicks-sense-2027",
+          "versao": "Sense",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 159990,
+          "preco_obs": "Preço público sugerido, com frete incluso, válido para todo o território nacional.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 12V Flex com injeção direta",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 125,
+              "gasolina": 120
+            },
+            "torque_kgfm": {
+              "etanol": 22.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.3,
+            "estrada_etanol": 9.9,
+            "cidade_gasolina": 11.7,
+            "estrada_gasolina": 14.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4365,
+            "largura": 1800,
+            "largura_com_retrovisores": null,
+            "altura": 1625,
+            "entre_eixos": 2655,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 470,
+          "tanque_l": 48,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 1.0 turbo com câmbio DCT de 6 marchas",
+              "Controle de cruzeiro adaptativo",
+              "Frenagem autônoma com detecção de pedestres",
+              "Multimídia 12,3\" com CarPlay/Android Auto sem fio",
+              "Painel digital 7\"",
+              "Freio de estacionamento eletrônico com Auto Hold",
+              "Paddle shifts"
+            ]
+          },
+          "fonte_url": "https://www.nissan.com.br/veiculos/modelos/novo-kicks.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Kicks SENSE AT\"."
+        },
+        {
+          "id": "nissan-kicks-advance-2027",
+          "versao": "Advance",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 169990,
+          "preco_obs": "Preço público sugerido, com frete incluso, válido para todo o território nacional.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 12V Flex com injeção direta",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 125,
+              "gasolina": 120
+            },
+            "torque_kgfm": {
+              "etanol": 22.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.3,
+            "estrada_etanol": 9.9,
+            "cidade_gasolina": 11.7,
+            "estrada_gasolina": 14.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4365,
+            "largura": 1800,
+            "largura_com_retrovisores": null,
+            "altura": 1625,
+            "entre_eixos": 2655,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 470,
+          "tanque_l": 48,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Partida remota do motor",
+              "Frenagem automática traseira (RAEB)",
+              "Sensor de estacionamento traseiro",
+              "Rodas diamantadas",
+              "Revestimento premium (sintético)",
+              "Rack de teto"
+            ]
+          },
+          "fonte_url": "https://www.nissan.com.br/veiculos/modelos/novo-kicks.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Kicks SENSE AT\"."
+        },
+        {
+          "id": "nissan-kicks-exclusive-2027",
+          "versao": "Exclusive",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 179990,
+          "preco_obs": "Preço público sugerido, com frete incluso, válido para todo o território nacional.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 12V Flex com injeção direta",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 125,
+              "gasolina": 120
+            },
+            "torque_kgfm": {
+              "etanol": 22.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.3,
+            "estrada_etanol": 9.9,
+            "cidade_gasolina": 11.7,
+            "estrada_gasolina": 14.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4365,
+            "largura": 1800,
+            "largura_com_retrovisores": null,
+            "altura": 1625,
+            "entre_eixos": 2655,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 470,
+          "tanque_l": 48,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/45 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Visão 360° com detecção de objetos",
+              "Painel digital HD 12,3\"",
+              "Rodas de 19\"",
+              "Retrovisores com rebatimento automático",
+              "Retrovisor eletrocrômico",
+              "Revestimento premium \"plus\""
+            ]
+          },
+          "fonte_url": "https://www.nissan.com.br/veiculos/modelos/novo-kicks.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Kicks SENSE AT\"."
+        },
+        {
+          "id": "nissan-kicks-platinum-2027",
+          "versao": "Platinum",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 189990,
+          "preco_obs": "Preço público sugerido, com frete incluso, válido para todo o território nacional.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.0 Turbo 12V Flex com injeção direta",
+            "cilindrada_cm3": 999,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 125,
+              "gasolina": 120
+            },
+            "torque_kgfm": {
+              "etanol": 22.4,
+              "gasolina": 20.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.3,
+            "estrada_etanol": 9.9,
+            "cidade_gasolina": 11.7,
+            "estrada_gasolina": 14.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4365,
+            "largura": 1800,
+            "largura_com_retrovisores": null,
+            "altura": 1625,
+            "entre_eixos": 2655,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 470,
+          "tanque_l": 48,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/45 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "ProPILOT (assistência de condução nível 2)",
+              "Teto solar panorâmico",
+              "Som Bose com 10 alto-falantes",
+              "Alerta de ponto cego com intervenção",
+              "Faróis full LED com projetores",
+              "Centralização de faixa (LKA)",
+              "Iluminação ambiente"
+            ]
+          },
+          "fonte_url": "https://www.nissan.com.br/veiculos/modelos/novo-kicks.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Kicks SENSE AT\"."
+        }
+      ]
+    },
+    {
+      "id": "nissan-versa",
+      "modelo": "Versa",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan compacto",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "México",
+      "imagem": {
+        "arquivo": "img/carros/nissan-versa.webp",
+        "fonte_imagem": "https://images.caricos.com/n/nissan/2020_nissan_versa/images/2560x1440/2020_nissan_versa_30_2560x1440.jpg",
+        "pagina_origem": "https://www.caricos.com/cars/n/nissan/2020_nissan_versa/images/30.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.nissan.com.br/veiculos/modelos/versa.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/versa-my27/documentos/ficha_tecnica_versa_my27.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/versa-my27/documentos/etiquetas_nissan.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "nissan-versa-sense-2027",
+          "versao": "Sense",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 119990,
+          "preco_obs": "Preço público sugerido, com frete incluso, válido para todo o território nacional.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.6 16V CVVTCS Flex",
+            "cilindrada_cm3": 1598,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 113,
+              "gasolina": 110
+            },
+            "torque_kgfm": {
+              "etanol": 15.2,
+              "gasolina": 14.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 7.9,
+            "estrada_etanol": 10.5,
+            "cidade_gasolina": 11.5,
+            "estrada_gasolina": 15
+          },
+          "dimensoes_mm": {
+            "comprimento": 4495,
+            "largura": 1740,
+            "largura_com_retrovisores": null,
+            "altura": 1475,
+            "entre_eixos": 2620,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": 41,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "195/65 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 7,
+            "carplay_android_auto": null,
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Frenagem autônoma de emergência",
+              "Piloto automático",
+              "Sensor de estacionamento traseiro",
+              "Chave presencial (I-Key)",
+              "Faróis de neblina"
+            ]
+          },
+          "fonte_url": "https://www.nissan.com.br/veiculos/modelos/versa.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha informa porta-malas de 466 ou 482 litros sem indicar a versão; dimensões referentes à versão Exclusive. Painel com TFT de 7\" (Advance/Exclusive) é multifuncional, não um painel totalmente digital. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Versa SENSE CVT\"."
+        },
+        {
+          "id": "nissan-versa-advance-2027",
+          "versao": "Advance",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 129990,
+          "preco_obs": "Preço público sugerido, com frete incluso, válido para todo o território nacional.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.6 16V CVVTCS Flex",
+            "cilindrada_cm3": 1598,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 113,
+              "gasolina": 110
+            },
+            "torque_kgfm": {
+              "etanol": 15.2,
+              "gasolina": 14.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 7.9,
+            "estrada_etanol": 10.5,
+            "cidade_gasolina": 11.5,
+            "estrada_gasolina": 15
+          },
+          "dimensoes_mm": {
+            "comprimento": 4495,
+            "largura": 1740,
+            "largura_com_retrovisores": null,
+            "altura": 1475,
+            "entre_eixos": 2620,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": 41,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "205/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 7,
+            "carplay_android_auto": null,
+            "painel_digital": false,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Visão 360° com detecção de objetos",
+              "Carregador sem fio",
+              "TFT de 7\" no painel",
+              "Banco traseiro bipartido",
+              "Rodas diamantadas de 16\""
+            ]
+          },
+          "fonte_url": "https://www.nissan.com.br/veiculos/modelos/versa.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha informa porta-malas de 466 ou 482 litros sem indicar a versão; dimensões referentes à versão Exclusive. Painel com TFT de 7\" (Advance/Exclusive) é multifuncional, não um painel totalmente digital. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Versa SENSE CVT\"."
+        },
+        {
+          "id": "nissan-versa-exclusive-2027",
+          "versao": "Exclusive",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 148290,
+          "preco_obs": "Preço público sugerido, com frete incluso, válido para todo o território nacional.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.6 16V CVVTCS Flex",
+            "cilindrada_cm3": 1598,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 113,
+              "gasolina": 110
+            },
+            "torque_kgfm": {
+              "etanol": 15.2,
+              "gasolina": 14.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 7.9,
+            "estrada_etanol": 10.5,
+            "cidade_gasolina": 11.5,
+            "estrada_gasolina": 15
+          },
+          "dimensoes_mm": {
+            "comprimento": 4495,
+            "largura": 1740,
+            "largura_com_retrovisores": null,
+            "altura": 1475,
+            "entre_eixos": 2620,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": 41,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "205/50 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": null,
+            "painel_digital": false,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Faróis em LED",
+              "Alerta de ponto cego e de tráfego cruzado",
+              "Alerta de atenção do motorista",
+              "Revestimento premium (sintético)",
+              "Rodas diamantadas de 17\"",
+              "Aerofólio traseiro",
+              "2 tweeters"
+            ]
+          },
+          "fonte_url": "https://www.nissan.com.br/veiculos/modelos/versa.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha informa porta-malas de 466 ou 482 litros sem indicar a versão; dimensões referentes à versão Exclusive. Painel com TFT de 7\" (Advance/Exclusive) é multifuncional, não um painel totalmente digital. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Versa SENSE CVT\"."
+        }
+      ]
+    }
+  ]
+}

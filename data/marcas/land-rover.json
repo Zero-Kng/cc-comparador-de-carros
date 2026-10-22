@@ -1,0 +1,1629 @@
+{
+  "marca": "Land Rover",
+  "slug": "land-rover",
+  "site_oficial": "https://www.landrover.com.br",
+  "coletado_em": "2026-10-21",
+  "modelos": [
+    {
+      "id": "land-rover-defender-90",
+      "modelo": "Defender 90",
+      "categoria": "SUV Médio",
+      "subcategoria": "SUV off-road 3 portas",
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": "Eslováquia",
+      "imagem": {
+        "arquivo": "img/carros/land-rover-defender-90.webp",
+        "fonte_imagem": "https://cdn-images.motor.es/image/m/1320w/fotos-noticias/2025/05/land-rover-defender-2026-2025108399-1748432860_7.jpg",
+        "pagina_origem": "https://www.motor.es/noticias/land-rover-defender-2026-2025108399.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.landrover.com.br/defender/defender/models-and-specifications.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://rules.config.landrover.com/rc/lr/pt_br/l663_k26/4d40b",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido no configurador oficial Land Rover Brasil",
+          "consumo": {
+            "cidade_diesel": 9.1,
+            "estrada_diesel": 10.6
+          },
+          "picape": null,
+          "pneus": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Comprimento sem estepe (4.583 mm com estepe). Altura 1.974 mm (suspensão helicoidal) ou 1.969 mm (a ar); vão livre 225 mm (helicoidal) ou 216 mm (a ar) — tipo de suspensão de série não informado. Peso DIN (sem motorista). Porta-malas 297 l (VDA) atrás da 2ª fileira. Largura sem retrovisores não divulgada (site informa apenas largura com retrovisores abertos/rebatidos). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DEFENDER 90 D350 HSE XD\".",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Diesel",
+            "descricao": "D350 3.0 Ingenium 6 cilindros biturbo diesel, híbrido leve",
+            "cilindrada_cm3": 2997,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 350
+            },
+            "torque_kgfm": {
+              "diesel": 71.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "tanque_l": 89,
+          "id": "land-rover-defender-90-x-dynamic-hse-d350-2026",
+          "versao": "X-Dynamic HSE D350",
+          "ano_modelo": 2026,
+          "preco_sugerido_brl": 799490,
+          "desempenho": {
+            "aceleracao_0_100_s": 6.2,
+            "velocidade_maxima_kmh": 191
+          },
+          "dimensoes_mm": {
+            "comprimento": 4323,
+            "largura": null,
+            "largura_com_retrovisores": 2105,
+            "altura": null,
+            "entre_eixos": 2587,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2241,
+          "porta_malas_l": 297,
+          "lugares": 5,
+          "portas": 3,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 13.1,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto panorâmico elétrico",
+              "Faróis Matrix LED com DRL",
+              "Sistema de som Meridian",
+              "Bancos em couro Windsor com aquecimento, resfriamento e memória",
+              "Coluna de direção com ajuste elétrico",
+              "Retrovisor interno ClearSight",
+              "Câmera Surround 3D",
+              "Terrain Response 2 configurável",
+              "Caixa de transferência com reduzida",
+              "Wade Sensing",
+              "Pivi Pro conectado"
+            ]
+          },
+          "fonte_url": "https://rules.config.landrover.com/rc/lr/pt_br/l663_k26/4d40b/a-90_a-d350_a-xdyn-hse_d"
+        }
+      ]
+    },
+    {
+      "id": "land-rover-defender-110",
+      "modelo": "Defender 110",
+      "categoria": "SUV Grande",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": "Eslováquia",
+      "imagem": {
+        "arquivo": "img/carros/land-rover-defender-110.webp",
+        "fonte_imagem": "https://pictures.dealer.com/z/zeiglerjlrschaumburgdms/1505/8dbe1618ea715dae25a6002eb2af925bx.jpg?impolicy=resize&w=1024",
+        "pagina_origem": "https://www.zeigler.com/new/Land-Rover/2026-Land-Rover-Defender-110-b7a3807bac18028b6a02e97da103a267.htm"
+      },
+      "fontes": [
+        {
+          "url": "https://www.landrover.com.br/defender/defender/models-and-specifications.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://rules.config.landrover.com/rc/lr/pt_br/l663_k26/4d40b",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido no configurador oficial Land Rover Brasil",
+          "consumo": {
+            "cidade_diesel": 9.1,
+            "estrada_diesel": 10.6
+          },
+          "picape": null,
+          "pneus": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Comprimento sem estepe (5.018 mm com estepe). Altura 1.972 mm (helicoidal) ou 1.967 mm (a ar); vão livre 228 mm (helicoidal) ou 218 mm (a ar). Peso DIN 5+2 lugares. Porta-malas 743 l (VDA, 7 lugares, atrás da 2ª fileira). Largura sem retrovisores não divulgada (site informa apenas largura com retrovisores abertos/rebatidos). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DEFENDER 110 D350 TROPHY\".",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Diesel",
+            "descricao": "D350 3.0 Ingenium 6 cilindros biturbo diesel, híbrido leve",
+            "cilindrada_cm3": 2997,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 350
+            },
+            "torque_kgfm": {
+              "diesel": 71.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "tanque_l": 89,
+          "id": "land-rover-defender-110-x-dynamic-hse-d350-2026",
+          "versao": "X-Dynamic HSE D350",
+          "ano_modelo": 2026,
+          "preco_sugerido_brl": 844990,
+          "desempenho": {
+            "aceleracao_0_100_s": 6.4,
+            "velocidade_maxima_kmh": 191
+          },
+          "dimensoes_mm": {
+            "comprimento": 4758,
+            "largura": null,
+            "largura_com_retrovisores": 2105,
+            "altura": null,
+            "entre_eixos": 3022,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2431,
+          "porta_malas_l": 743,
+          "lugares": 7,
+          "portas": 5,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 13.1,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "5+2 assentos",
+              "Teto panorâmico elétrico e teto fixo na 3ª fileira",
+              "Faróis Matrix LED com DRL",
+              "Sistema de som Meridian",
+              "Bancos em couro Windsor com aquecimento, resfriamento e memória",
+              "Climatização de três zonas",
+              "Purificação do ar da cabine Pro",
+              "Câmera Surround 3D",
+              "Caixa de transferência com reduzida",
+              "Wade Sensing"
+            ]
+          },
+          "fonte_url": "https://rules.config.landrover.com/rc/lr/pt_br/l663_k26/4d40b/a-110_a-d350-110_a-xdyn-hse_d"
+        },
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido no configurador oficial Land Rover Brasil",
+          "consumo": {
+            "cidade_diesel": 9.1,
+            "estrada_diesel": 10.6
+          },
+          "picape": null,
+          "pneus": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Comprimento sem estepe. Peso DIN 5+2 lugares. Largura sem retrovisores não divulgada (site informa apenas largura com retrovisores abertos/rebatidos). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DEFENDER 110 D350 TROPHY\".",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Diesel",
+            "descricao": "D350 3.0 Ingenium 6 cilindros biturbo diesel, híbrido leve",
+            "cilindrada_cm3": 2997,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 350
+            },
+            "torque_kgfm": {
+              "diesel": 71.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "tanque_l": 89,
+          "id": "land-rover-defender-110-x-d350-2026",
+          "versao": "X D350",
+          "ano_modelo": 2026,
+          "preco_sugerido_brl": 909990,
+          "desempenho": {
+            "aceleracao_0_100_s": 6.4,
+            "velocidade_maxima_kmh": 191
+          },
+          "dimensoes_mm": {
+            "comprimento": 4758,
+            "largura": null,
+            "largura_com_retrovisores": 2105,
+            "altura": 1967,
+            "entre_eixos": 3022,
+            "altura_livre_solo": 218
+          },
+          "peso_kg": 2431,
+          "porta_malas_l": 743,
+          "lugares": 7,
+          "portas": 5,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 13.1,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": null,
+            "rodas_polegadas": 22,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema de som Meridian Surround",
+              "Bancos em couro Windsor e Kvadrat com apoios de cabeça \"winged\"",
+              "Upgrade de interior Signature",
+              "Pinças de freio laranja",
+              "Acabamentos em Preto Narvik",
+              "Rodas de 22\"",
+              "Suspensão a ar (vão livre 218 mm)",
+              "Câmera Surround 3D",
+              "Climatização de três zonas"
+            ]
+          },
+          "fonte_url": "https://rules.config.landrover.com/rc/lr/pt_br/l663_k26/4d40b/a-110_a-d350-110_a-x_d"
+        },
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido no configurador oficial Land Rover Brasil",
+          "consumo": {
+            "cidade_diesel": 9.1,
+            "estrada_diesel": 10.6
+          },
+          "picape": null,
+          "pneus": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendida em duas versões de cor (Deep Sandglow Yellow e Keswick Green), mesmo preço; registrada como uma versão. 5 lugares. Peso DIN 5 lugares; porta-malas 786 l (VDA). Largura sem retrovisores não divulgada (site informa apenas largura com retrovisores abertos/rebatidos). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DEFENDER 110 D350 TROPHY\".",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Diesel",
+            "descricao": "D350 3.0 Ingenium 6 cilindros biturbo diesel, híbrido leve",
+            "cilindrada_cm3": 2997,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 350
+            },
+            "torque_kgfm": {
+              "diesel": 71.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "tanque_l": 89,
+          "id": "land-rover-defender-110-trophy-edition-d350-2026",
+          "versao": "Trophy Edition D350",
+          "ano_modelo": 2026,
+          "preco_sugerido_brl": 899990,
+          "desempenho": {
+            "aceleracao_0_100_s": 6.4,
+            "velocidade_maxima_kmh": 191
+          },
+          "dimensoes_mm": {
+            "comprimento": 4758,
+            "largura": null,
+            "largura_com_retrovisores": 2105,
+            "altura": null,
+            "entre_eixos": 3022,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2361,
+          "porta_malas_l": 786,
+          "lugares": 5,
+          "portas": 5,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 13.1,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Edição especial Trophy Edition",
+              "Cores Amarelo Deep Sandglow ou Verde Keswick",
+              "Teto e capô contrastantes pretos",
+              "Rodas de 20\" Estilo 9013 Gloss Black",
+              "Painel com gráfico Trophy Edition gravado a laser",
+              "Bancos em couro Windsor",
+              "Câmera Surround 3D",
+              "Climatização de três zonas"
+            ]
+          },
+          "fonte_url": "https://rules.config.landrover.com/rc/lr/pt_br/l663_k26/4d40b/a-110_a-d350-110_a-le17_d"
+        }
+      ]
+    },
+    {
+      "id": "land-rover-defender-130",
+      "modelo": "Defender 130",
+      "categoria": "SUV Grande",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": "Eslováquia",
+      "imagem": {
+        "arquivo": "img/carros/land-rover-defender-130.webp",
+        "fonte_imagem": "https://di-uploads-pod20.dealerinspire.com/landroverranchomirage/uploads/2025/07/DEF_130_25MY_080524_11_STATIC.webp",
+        "pagina_origem": "https://www.landroverriverside.com/2026-defender-130/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.landrover.com.br/defender/defender/models-and-specifications.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://rules.config.landrover.com/rc/lr/pt_br/l663_k26/4d40b",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido no configurador oficial Land Rover Brasil",
+          "consumo": {
+            "cidade_diesel": 9.2,
+            "estrada_diesel": 10.9
+          },
+          "picape": null,
+          "pneus": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Comprimento sem estepe (5.358 mm com estepe). Vão livre 218,5 mm (suspensão a ar). Peso DIN 7 lugares. Porta-malas 1.012 l (VDA, 7 lugares, atrás da 2ª fileira); 290 l atrás da 3ª. Largura sem retrovisores não divulgada (site informa apenas largura com retrovisores abertos/rebatidos). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DEFENDER 130 D350 X\".",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Diesel",
+            "descricao": "D350 3.0 Ingenium 6 cilindros biturbo diesel, híbrido leve",
+            "cilindrada_cm3": 2997,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 350
+            },
+            "torque_kgfm": {
+              "diesel": 71.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "tanque_l": 89,
+          "id": "land-rover-defender-130-x-d350-2026",
+          "versao": "X D350",
+          "ano_modelo": 2026,
+          "preco_sugerido_brl": 969990,
+          "desempenho": {
+            "aceleracao_0_100_s": 6.8,
+            "velocidade_maxima_kmh": 191
+          },
+          "dimensoes_mm": {
+            "comprimento": 5099,
+            "largura": null,
+            "largura_com_retrovisores": 2105,
+            "altura": 1970,
+            "entre_eixos": 3022,
+            "altura_livre_solo": 218
+          },
+          "peso_kg": 2552,
+          "porta_malas_l": 1012,
+          "lugares": 7,
+          "portas": 5,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 13.1,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 22,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "7 lugares com Captain Chairs na 2ª fileira (8 lugares opcional)",
+              "Teto panorâmico elétrico e teto fixo na 3ª fileira",
+              "Ar-condicionado de quatro zonas",
+              "Sistema de som Meridian Surround",
+              "Bancos em couro Windsor e Kvadrat",
+              "Faróis Matrix LED",
+              "Rodas de 22\"",
+              "Pinças de freio laranja",
+              "Câmera Surround 3D"
+            ]
+          },
+          "fonte_url": "https://rules.config.landrover.com/rc/lr/pt_br/l663_k26/4d40b/a-130_a-d350-130_a-x_d"
+        }
+      ]
+    },
+    {
+      "id": "land-rover-discovery",
+      "modelo": "Discovery",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV 7 lugares",
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": "Eslováquia",
+      "imagem": {
+        "arquivo": "img/carros/land-rover-discovery.webp",
+        "fonte_imagem": "https://ahcarsale.com/wp-content/uploads/2026/04/Side-view-of-the-2026-Land-Rover-Discovery.jpg",
+        "pagina_origem": "https://ahcarsale.com/blog/2026-land-rover-discovery-review/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.landrover.com.br/discovery/discovery/models-and-specifications.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://rules.config.landrover.com/rc/lr/pt_br/l462_k26/4d404",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido no configurador oficial Land Rover Brasil",
+          "consumo": {
+            "cidade_diesel": 9.5,
+            "estrada_diesel": 11.8
+          },
+          "picape": null,
+          "pneus": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Peso DIN (7 lugares). Porta-malas 922 l (VDA, atrás da 2ª fileira, 3ª fileira rebatida); 172 l atrás da 3ª fileira. Tanque não informado. Largura sem retrovisores não divulgada (site informa apenas largura com retrovisores abertos/rebatidos). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DISCOVERY D350 LE\".",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Diesel",
+            "descricao": "D350 3.0 Ingenium 6 cilindros biturbo diesel, híbrido leve",
+            "cilindrada_cm3": 2997,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 350
+            },
+            "torque_kgfm": {
+              "diesel": 71.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.3,
+            "velocidade_maxima_kmh": 209
+          },
+          "dimensoes_mm": {
+            "comprimento": 4956,
+            "largura": null,
+            "largura_com_retrovisores": 2220,
+            "altura": 1888,
+            "entre_eixos": 2923,
+            "altura_livre_solo": 207
+          },
+          "peso_kg": 2367,
+          "porta_malas_l": 922,
+          "tanque_l": null,
+          "lugares": 7,
+          "portas": 5,
+          "ano_modelo": 2026,
+          "id": "land-rover-discovery-metropolitan-edition-d350-2026",
+          "versao": "Metropolitan Edition D350",
+          "preco_sugerido_brl": 797990,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 11.4,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 22,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Rodas de 22\" Estilo 5124 diamantadas",
+              "Head-up Display",
+              "Faróis Matrix LED",
+              "Ar-condicionado de quatro zonas",
+              "Sistema de som Meridian Surround",
+              "Suspensão a ar eletrônica",
+              "Bancos dianteiros com aquecimento e resfriamento",
+              "Câmera 3D",
+              "Caixa de transferência com reduzida"
+            ]
+          },
+          "fonte_url": "https://rules.config.landrover.com/rc/lr/pt_br/l462_k26/4d404/a-d350_a-le7_a-std-wb_d"
+        },
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido no configurador oficial Land Rover Brasil",
+          "consumo": {
+            "cidade_diesel": 9.5,
+            "estrada_diesel": 11.8
+          },
+          "picape": null,
+          "pneus": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Peso DIN (7 lugares). Porta-malas 922 l (VDA, atrás da 2ª fileira, 3ª fileira rebatida); 172 l atrás da 3ª fileira. Tanque não informado. Largura sem retrovisores não divulgada (site informa apenas largura com retrovisores abertos/rebatidos). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DISCOVERY D350 LE\".",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Diesel",
+            "descricao": "D350 3.0 Ingenium 6 cilindros biturbo diesel, híbrido leve",
+            "cilindrada_cm3": 2997,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 350
+            },
+            "torque_kgfm": {
+              "diesel": 71.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.3,
+            "velocidade_maxima_kmh": 209
+          },
+          "dimensoes_mm": {
+            "comprimento": 4956,
+            "largura": null,
+            "largura_com_retrovisores": 2220,
+            "altura": 1888,
+            "entre_eixos": 2923,
+            "altura_livre_solo": 207
+          },
+          "peso_kg": 2367,
+          "porta_malas_l": 922,
+          "tanque_l": null,
+          "lugares": 7,
+          "portas": 5,
+          "ano_modelo": 2026,
+          "id": "land-rover-discovery-tempest-d350-2026",
+          "versao": "Tempest D350",
+          "preco_sugerido_brl": 817990,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 11.4,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 22,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Rodas de 22\" Gloss Black com verniz Copper Tinted",
+              "Teto contrastante Petra Copper",
+              "Película protetora fosca",
+              "Head-up Display",
+              "Faróis Matrix LED",
+              "Ar-condicionado de quatro zonas",
+              "Sistema de som Meridian Surround",
+              "Suspensão a ar eletrônica",
+              "Câmera 3D"
+            ]
+          },
+          "fonte_url": "https://rules.config.landrover.com/rc/lr/pt_br/l462_k26/4d404/a-d350_a-le9_a-std-wb_d"
+        }
+      ]
+    },
+    {
+      "id": "land-rover-discovery-sport",
+      "modelo": "Discovery Sport",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/land-rover-discovery-sport.webp",
+        "fonte_imagem": "https://cdn.auto-dash.com/affinitivadvertising/vehicleimgs/jellybeans/land-rover/2026-land-rover-discovery-sport-landmark-black-side.webp",
+        "pagina_origem": "https://www.landrovertampa.com/discover-sport/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.landrover.com.br/discovery/discovery-sport/models-and-specifications.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://rules.config.landrover.com/rc/lr/pt_br/l550_k265/4d404",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido no configurador oficial Land Rover Brasil",
+          "consumo": {
+            "cidade_etanol": 5.1,
+            "estrada_etanol": 6.6,
+            "cidade_gasolina": 7.2,
+            "estrada_gasolina": 9.6
+          },
+          "picape": null,
+          "pneus": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano-modelo 2026.5 no configurador (MY26.5). Site informa 249 cv e 365 Nm sem separar etanol/gasolina (mesmo valor aplicado aos dois). Número de marchas não informado no site BR. Peso DIN 5 lugares; porta-malas 963 l (VDA, medido até o teto). Largura sem retrovisores não divulgada (site informa apenas largura com retrovisores abertos/rebatidos). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DISCOVERY SPORT P250FF LE\".",
+          "id": "land-rover-discovery-sport-landmark-p250-2026",
+          "versao": "Landmark P250",
+          "ano_modelo": 2026,
+          "preco_sugerido_brl": 471990,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "P250 2.0 Ingenium turbo Flex",
+            "cilindrada_cm3": 1997,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 249,
+              "gasolina": 249
+            },
+            "torque_kgfm": {
+              "etanol": 37.2,
+              "gasolina": 37.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.8,
+            "velocidade_maxima_kmh": 225
+          },
+          "dimensoes_mm": {
+            "comprimento": 4597,
+            "largura": null,
+            "largura_com_retrovisores": 2173,
+            "altura": 1727,
+            "entre_eixos": 2741,
+            "altura_livre_solo": 210
+          },
+          "peso_kg": 1864,
+          "porta_malas_l": 963,
+          "tanque_l": 67,
+          "lugares": 5,
+          "portas": 5,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 11.4,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto panorâmico fixo",
+              "Faróis de LED com DRL",
+              "Sistema de som Meridian",
+              "Bancos em couro Duoleather",
+              "Bancos dianteiros elétricos com memória",
+              "Câmera Surround 3D",
+              "Tela interativa do motorista",
+              "Saídas de ar na 2ª fileira",
+              "Pacote de 3ª fileira (5+2) opcional"
+            ]
+          },
+          "fonte_url": "https://rules.config.landrover.com/rc/lr/pt_br/l550_k265/4d404/a-p249_a-rdyn-se_a-swb_p"
+        }
+      ]
+    },
+    {
+      "id": "land-rover-range-rover",
+      "modelo": "Range Rover",
+      "categoria": "SUV Grande",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "Reino Unido",
+      "imagem": {
+        "arquivo": "img/carros/land-rover-range-rover.webp",
+        "fonte_imagem": "https://imagecdnsa.zigwheels.ae/large/gallery/exterior/21/1095/land-rover-range-rover-side-view-902150.jpg",
+        "pagina_origem": "https://www.zigwheels.ae/new-cars/land-rover/range-rover/images"
+      },
+      "fontes": [
+        {
+          "url": "https://www.rangerover.com/pt-br/range-rover/models-and-specifications.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://rules.config.landrover.com/rc/lr/pt_br/l460_k27/4d41x",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido no configurador oficial Land Rover Brasil",
+          "consumo": {
+            "cidade_gasolina": 7.5,
+            "estrada_gasolina": 8.4,
+            "cidade_eletrico_km_le": 17.5,
+            "estrada_eletrico_km_le": 19
+          },
+          "picape": null,
+          "pneus": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Autonomia elétrica WLTP 116 km (\"autonomia real\" informada: 90 km). Recarga 0-80% em 40 min (carregador rápido). Peso DIN. Porta-malas 818 l (VDA). Vão livre 209 mm (284 mm em modo off-road). Largura sem retrovisores não divulgada (site informa apenas largura com retrovisores abertos/rebatidos). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RANGE ROVER PHEV SV\".",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "P550e 3.0 Ingenium 6 cilindros turbo + motor elétrico (PHEV)",
+            "cilindrada_cm3": 2996,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 550
+            },
+            "torque_kgfm": {
+              "combinada": 81.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": 116,
+            "autonomia_ciclo": "WLTP"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "ano_modelo": 2027,
+          "peso_kg": 2735,
+          "porta_malas_l": 818,
+          "tanque_l": 71.5,
+          "lugares": 5,
+          "portas": 5,
+          "id": "land-rover-range-rover-autobiography-p550e-2027",
+          "versao": "Autobiography P550e",
+          "preco_sugerido_brl": 1773950,
+          "desempenho": {
+            "aceleracao_0_100_s": 5,
+            "velocidade_maxima_kmh": 242
+          },
+          "dimensoes_mm": {
+            "comprimento": 5052,
+            "largura": null,
+            "largura_com_retrovisores": 2209,
+            "altura": 1868,
+            "entre_eixos": 2997,
+            "altura_livre_solo": 209
+          },
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 22,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Faróis de LED Digitais com projeção de imagem",
+              "Teto panorâmico elétrico",
+              "Sistema de som Meridian Signature",
+              "Bancos dianteiros climatizados com massagem Hot-Stone e 24 ajustes",
+              "Bancos traseiros Executive Comfort Plus",
+              "Ar-condicionado de quatro zonas",
+              "Suspensão a ar eletrônica com Dynamic Response Pro",
+              "Rodas traseiras direcionais",
+              "Fechamento das portas por sucção",
+              "Tampa do porta-malas por gestos",
+              "Caixa de transferência com reduzida"
+            ]
+          },
+          "fonte_url": "https://rules.config.landrover.com/rc/lr/pt_br/l460_k27/4d41x/a-ab_a-si6-550_a-swb_h"
+        },
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido no configurador oficial Land Rover Brasil",
+          "consumo": {
+            "cidade_gasolina": 7.5,
+            "estrada_gasolina": 8.4,
+            "cidade_eletrico_km_le": 17.5,
+            "estrada_eletrico_km_le": 19
+          },
+          "picape": null,
+          "pneus": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Autonomia elétrica WLTP 116 km (\"autonomia real\" informada: 87 km). Recarga 0-80% em 40 min (carregador rápido). Peso DIN. Porta-malas 818 l (VDA). Vão livre 209 mm (284 mm em modo off-road). Largura sem retrovisores não divulgada (site informa apenas largura com retrovisores abertos/rebatidos). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RANGE ROVER PHEV SV\".",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "P550e 3.0 Ingenium 6 cilindros turbo + motor elétrico (PHEV)",
+            "cilindrada_cm3": 2996,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 550
+            },
+            "torque_kgfm": {
+              "combinada": 81.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": 116,
+            "autonomia_ciclo": "WLTP"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "ano_modelo": 2027,
+          "peso_kg": 2735,
+          "porta_malas_l": 818,
+          "tanque_l": 71.5,
+          "lugares": 5,
+          "portas": 5,
+          "id": "land-rover-range-rover-sv-p550e-2027",
+          "versao": "SV P550e",
+          "preco_sugerido_brl": 2137950,
+          "desempenho": {
+            "aceleracao_0_100_s": 5.1,
+            "velocidade_maxima_kmh": 242
+          },
+          "dimensoes_mm": {
+            "comprimento": 5058,
+            "largura": null,
+            "largura_com_retrovisores": 2209,
+            "altura": 1868,
+            "entre_eixos": 2997,
+            "altura_livre_solo": 209
+          },
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 22,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Bancos em couro semianilina SV",
+              "Bancos dianteiros com 24 ajustes, ventilação e massagem Hot-Stone",
+              "Bancos traseiros Executive Comfort Plus",
+              "Ar-condicionado de quatro zonas",
+              "Suspensão a ar eletrônica com Dynamic Response Pro",
+              "Rodas traseiras direcionais",
+              "Caixa de transferência com reduzida"
+            ]
+          },
+          "fonte_url": "https://rules.config.landrover.com/rc/lr/pt_br/l460_k27/4d41x/a-si6-550_a-sv_a-swb_h"
+        }
+      ]
+    },
+    {
+      "id": "land-rover-range-rover-sport",
+      "modelo": "Range Rover Sport",
+      "categoria": "SUV Grande",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "Reino Unido",
+      "imagem": {
+        "arquivo": "img/carros/land-rover-range-rover-sport.webp",
+        "fonte_imagem": "https://cdn.auto-dash.com/affinitivadvertising/vehicleimgs/jellybeans/land-rover/2026-land-rover-range-rover-sport-autobiography-black-side.webp",
+        "pagina_origem": "https://www.landrovertampa.com/range-rover-sport-specs-tampa-fl/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.rangerover.com/pt-br/new-range-rover-sport/models-and-specifications.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://rules.config.landrover.com/rc/lr/pt_br/l461_k27/4d41g",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido no configurador oficial Land Rover Brasil",
+          "consumo": {
+            "cidade_gasolina": 7.5,
+            "estrada_gasolina": 8.4,
+            "cidade_eletrico_km_le": 17.5,
+            "estrada_eletrico_km_le": 19
+          },
+          "picape": null,
+          "pneus": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Autonomia elétrica informada como \"autonomia real\" (91 km), sem indicação de ciclo. Recarga 0-80% em 40 min (50 kW). Peso DIN. Porta-malas 647 l (VDA). Largura sem retrovisores não divulgada (site informa apenas largura com retrovisores abertos/rebatidos). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RANGE ROVER SPORT PHEV S\".",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "P550e 3.0 Ingenium 6 cilindros turbo + motor elétrico (PHEV)",
+            "cilindrada_cm3": 2996,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 550
+            },
+            "torque_kgfm": {
+              "combinada": 81.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": 91,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "ano_modelo": 2027,
+          "desempenho": {
+            "aceleracao_0_100_s": 4.9,
+            "velocidade_maxima_kmh": 242
+          },
+          "dimensoes_mm": {
+            "comprimento": 4946,
+            "largura": null,
+            "largura_com_retrovisores": 2209,
+            "altura": 1822,
+            "entre_eixos": 2997,
+            "altura_livre_solo": 211
+          },
+          "peso_kg": 2735,
+          "porta_malas_l": 647,
+          "tanque_l": 71.5,
+          "lugares": 5,
+          "portas": 5,
+          "id": "land-rover-range-rover-sport-dynamic-se-p550e-2027",
+          "versao": "Dynamic SE P550e",
+          "preco_sugerido_brl": 1040750,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 13.1,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote Exterior Dynamic",
+              "Persiana do teto elétrica",
+              "Purificação do ar da cabine Pro",
+              "Tampa do porta-malas por gestos",
+              "Vidros laterais laminados",
+              "Tela touchscreen de 13,1\" Pivi Pro",
+              "Caixa de transferência com reduzida",
+              "Adaptive Dynamics"
+            ]
+          },
+          "fonte_url": "https://rules.config.landrover.com/rc/lr/pt_br/l461_k27/4d41g/a-dyn-se_a-e550_a-swb_h"
+        },
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido no configurador oficial Land Rover Brasil",
+          "consumo": {
+            "cidade_gasolina": 7.5,
+            "estrada_gasolina": 8.4,
+            "cidade_eletrico_km_le": 17.5,
+            "estrada_eletrico_km_le": 19
+          },
+          "picape": null,
+          "pneus": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Autonomia elétrica informada como \"autonomia real\" (91 km), sem indicação de ciclo. Recarga 0-80% em 40 min (50 kW). Peso DIN. Porta-malas 647 l (VDA). Largura sem retrovisores não divulgada (site informa apenas largura com retrovisores abertos/rebatidos). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RANGE ROVER SPORT PHEV S\".",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "P550e 3.0 Ingenium 6 cilindros turbo + motor elétrico (PHEV)",
+            "cilindrada_cm3": 2996,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 550
+            },
+            "torque_kgfm": {
+              "combinada": 81.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": 91,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "ano_modelo": 2027,
+          "desempenho": {
+            "aceleracao_0_100_s": 4.9,
+            "velocidade_maxima_kmh": 242
+          },
+          "dimensoes_mm": {
+            "comprimento": 4946,
+            "largura": null,
+            "largura_com_retrovisores": 2209,
+            "altura": 1822,
+            "entre_eixos": 2997,
+            "altura_livre_solo": 211
+          },
+          "peso_kg": 2735,
+          "porta_malas_l": 647,
+          "tanque_l": 71.5,
+          "lugares": 5,
+          "portas": 5,
+          "id": "land-rover-range-rover-sport-autobiography-p550e-2027",
+          "versao": "Autobiography P550e",
+          "preco_sugerido_brl": 1282850,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 13.1,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Faróis de LED Digitais com projeção de imagem",
+              "Bancos dianteiros com 22 ajustes, aquecimento, ventilação, massagem e memória",
+              "Head-up Display",
+              "Persiana do teto elétrica",
+              "Tela touchscreen de 13,1\" Pivi Pro",
+              "Caixa de transferência com reduzida"
+            ]
+          },
+          "fonte_url": "https://rules.config.landrover.com/rc/lr/pt_br/l461_k27/4d41g/a-ab_a-e550_a-swb_h"
+        }
+      ]
+    },
+    {
+      "id": "land-rover-range-rover-velar",
+      "modelo": "Range Rover Velar",
+      "categoria": "SUV Médio",
+      "subcategoria": "SUV cupê",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "Reino Unido",
+      "imagem": {
+        "arquivo": "img/carros/land-rover-range-rover-velar.webp",
+        "fonte_imagem": "https://cdn.auto-dash.com/affinitivadvertising/vehicleimgs/jellybeans/land-rover/2026-land-rover-range-rover-velar-s-blue-side.webp",
+        "pagina_origem": "https://www.landrovertampa.com/range-rover-velar-specs-info/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.rangerover.com/pt-br/range-rover-velar/models-and-specifications.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://rules.config.landrover.com/rc/lr/pt_br/l560_k265/4d406",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido no configurador oficial Land Rover Brasil",
+          "consumo": {
+            "cidade_gasolina": 8.3,
+            "estrada_gasolina": 9.3,
+            "cidade_eletrico_km_le": 20.6,
+            "estrada_eletrico_km_le": 24.1
+          },
+          "picape": null,
+          "pneus": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano-modelo 2026.5 no configurador (MY26.5). Autonomia elétrica informada como \"autonomia real\" (49 km). Recarga 0-80% em 30 min (35 kW). Peso DIN. Porta-malas 503 l (seco/VDA). Largura sem retrovisores não divulgada (site informa apenas largura com retrovisores abertos/rebatidos). Lista de equipamentos de série desta versão não publicada no site (apenas no configurador interativo); itens não confirmados ficaram nulos. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"VELAR PHEV AB\".",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "P400e 2.0 Ingenium 4 cilindros turbo + motor elétrico (PHEV)",
+            "cilindrada_cm3": 1997,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 404
+            },
+            "torque_kgfm": {
+              "combinada": 65.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": 49,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "ano_modelo": 2026,
+          "desempenho": {
+            "aceleracao_0_100_s": 5.4,
+            "velocidade_maxima_kmh": 209
+          },
+          "dimensoes_mm": {
+            "comprimento": 4797,
+            "largura": null,
+            "largura_com_retrovisores": 2147,
+            "altura": 1683,
+            "entre_eixos": 2874,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2205,
+          "porta_malas_l": 503,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "id": "land-rover-range-rover-velar-s-p400e-2026",
+          "versao": "S P400e",
+          "preco_sugerido_brl": 649049,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 11.4,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacotes opcionais: Comfort, Assistência ao Motorista, Tecnologia e Climas Frios"
+            ]
+          },
+          "fonte_url": "https://rules.config.landrover.com/rc/lr/pt_br/l560_k265/4d406/a-p404_a-l560_a-swb_h"
+        },
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido no configurador oficial Land Rover Brasil",
+          "consumo": {
+            "cidade_gasolina": 8.3,
+            "estrada_gasolina": 9.3,
+            "cidade_eletrico_km_le": 20.6,
+            "estrada_eletrico_km_le": 24.1
+          },
+          "picape": null,
+          "pneus": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano-modelo 2026.5 no configurador (MY26.5). Autonomia elétrica informada como \"autonomia real\" (49 km). Recarga 0-80% em 30 min (35 kW). Peso DIN. Porta-malas 503 l (seco/VDA). Largura sem retrovisores não divulgada (site informa apenas largura com retrovisores abertos/rebatidos). Lista de equipamentos de série desta versão não publicada no site (apenas no configurador interativo); itens não confirmados ficaram nulos. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"VELAR PHEV AB\".",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "P400e 2.0 Ingenium 4 cilindros turbo + motor elétrico (PHEV)",
+            "cilindrada_cm3": 1997,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 404
+            },
+            "torque_kgfm": {
+              "combinada": 65.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": 49,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "ano_modelo": 2026,
+          "desempenho": {
+            "aceleracao_0_100_s": 5.4,
+            "velocidade_maxima_kmh": 209
+          },
+          "dimensoes_mm": {
+            "comprimento": 4797,
+            "largura": null,
+            "largura_com_retrovisores": 2147,
+            "altura": 1683,
+            "entre_eixos": 2874,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2205,
+          "porta_malas_l": 503,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "id": "land-rover-range-rover-velar-dynamic-se-p400e-2026",
+          "versao": "Dynamic SE P400e",
+          "preco_sugerido_brl": 703413,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 11.4,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacotes opcionais: Comfort, Assistência ao Motorista, Tecnologia e Climas Frios"
+            ]
+          },
+          "fonte_url": "https://rules.config.landrover.com/rc/lr/pt_br/l560_k265/4d406/a-p404_a-vdyn_a-swb_h"
+        },
+        {
+          "status": "À venda",
+          "preco_obs": "Preço público sugerido no configurador oficial Land Rover Brasil",
+          "consumo": {
+            "cidade_gasolina": 8.3,
+            "estrada_gasolina": 9.3,
+            "cidade_eletrico_km_le": 20.6,
+            "estrada_eletrico_km_le": 24.1
+          },
+          "picape": null,
+          "pneus": null,
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano-modelo 2026.5 no configurador (MY26.5). Autonomia elétrica informada como \"autonomia real\" (49 km). Recarga 0-80% em 30 min (35 kW). Peso DIN. Porta-malas 503 l (seco/VDA). Largura sem retrovisores não divulgada (site informa apenas largura com retrovisores abertos/rebatidos). Suspensão helicoidal de série. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"VELAR PHEV AB\".",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "P400e 2.0 Ingenium 4 cilindros turbo + motor elétrico (PHEV)",
+            "cilindrada_cm3": 1997,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 404
+            },
+            "torque_kgfm": {
+              "combinada": 65.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": 49,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "ano_modelo": 2026,
+          "desempenho": {
+            "aceleracao_0_100_s": 5.4,
+            "velocidade_maxima_kmh": 209
+          },
+          "dimensoes_mm": {
+            "comprimento": 4797,
+            "largura": null,
+            "largura_com_retrovisores": 2147,
+            "altura": 1683,
+            "entre_eixos": 2874,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 2205,
+          "porta_malas_l": 503,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "id": "land-rover-range-rover-velar-autobiography-p400e-2026",
+          "versao": "Autobiography P400e",
+          "preco_sugerido_brl": 769769,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 11.4,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": null,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Rodas de 21\" Estilo 5109 diamantadas",
+              "Faróis Pixel LED com DRL",
+              "Sistema de som Meridian Surround 3D",
+              "Bancos dianteiros com 20 ajustes e memória",
+              "Reclinação elétrica do banco traseiro",
+              "Interior em couro Windsor estendido",
+              "Câmera 3D",
+              "Controle de cruzeiro adaptativo com assistência à direção"
+            ]
+          },
+          "fonte_url": "https://rules.config.landrover.com/rc/lr/pt_br/l560_k265/4d406/a-p404_a-sa_a-swb_h"
+        }
+      ]
+    }
+  ]
+}

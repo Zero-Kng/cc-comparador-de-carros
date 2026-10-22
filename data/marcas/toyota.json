@@ -1,0 +1,3581 @@
+{
+  "marca": "Toyota",
+  "slug": "toyota",
+  "site_oficial": "https://www.toyota.com.br",
+  "coletado_em": "2026-10-19",
+  "modelos": [
+    {
+      "id": "toyota-yaris-cross",
+      "modelo": "Yaris Cross",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão",
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/toyota-yaris-cross.webp",
+        "fonte_imagem": "https://tabelacarros.com/imagens/upload/2025-11-29/028_toyota-yaris-cross-xrx-lateral-azul.webp",
+        "pagina_origem": "https://tabelacarros.com/post/toyota-yaris-cross-2026-precos-e-versoes-do-novo-suv"
+      },
+      "fontes": [
+        {
+          "url": "https://www.toyota.com.br/modelos/yaris-cross",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyota.com.br/modelos/yaris-cross-hybrid",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.toyota.com.br/49776946-9e94-4272-818c-ab5edd8a2bba.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.toyota.com.br/173965ca-3a5f-40fc-be96-02ecac114b91.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyotacomunica.com.br/toyota-lanca-yaris-cross-o-primeiro-suv-compacto-hibrido-flex-full-do-brasil-ja-disponivel-para-pre-venda/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyotacomunica.com.br/toyota-yaris-cross-estreia-versao-xr-e-amplia-presenca-do-suv-compacto-no-segmento/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "toyota-yaris-cross-xr-2027",
+          "versao": "XR",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 149990,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 Dual VVT-i 16V DOHC Flex com injeção direta",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 122
+            },
+            "torque_kgfm": {
+              "etanol": 15.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.8,
+            "estrada_etanol": 10.2,
+            "cidade_gasolina": 12.6,
+            "estrada_gasolina": 14.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4310,
+            "largura": 1770,
+            "largura_com_retrovisores": null,
+            "altura": 1655,
+            "entre_eixos": 2620,
+            "altura_livre_solo": 208
+          },
+          "peso_kg": 1170,
+          "porta_malas_l": 400,
+          "tanque_l": 42,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Faróis full LED",
+              "Partida por botão",
+              "Sensor de estacionamento traseiro",
+              "Computador de bordo TFT de 4,2\"",
+              "Freio de estacionamento eletrônico com Auto Hold"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/yaris-cross",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Versão de entrada (lançada inicialmente para PCD/frotas, hoje listada no site). Consumo PBEV divulgado pela Toyota para a XR. Ficha técnica oficial identificada como MY26; site e tabela de preços listam ano/modelo 2026/2027. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"YARIS CROSS FLEX XR FLEX\"."
+        },
+        {
+          "id": "toyota-yaris-cross-xre-2027",
+          "versao": "XRE",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 161390,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 Dual VVT-i 16V DOHC Flex com injeção direta",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 122
+            },
+            "torque_kgfm": {
+              "etanol": 15.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.8,
+            "estrada_etanol": 10.2,
+            "cidade_gasolina": 12.6,
+            "estrada_gasolina": 14.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4310,
+            "largura": 1770,
+            "largura_com_retrovisores": null,
+            "altura": 1655,
+            "entre_eixos": 2620,
+            "altura_livre_solo": 208
+          },
+          "peso_kg": 1185,
+          "porta_malas_l": 400,
+          "tanque_l": 42,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Toyota Safety Sense (PCS, ACC, LKC, AHB)",
+              "Smart Entry",
+              "Painel TFT de 7\"",
+              "Faróis de neblina de LED",
+              "Freio de estacionamento eletrônico com Auto Hold"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/yaris-cross",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica oficial identificada como MY26; site e tabela de preços listam ano/modelo 2026/2027. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"YARIS CROSS FLEX XR FLEX\"."
+        },
+        {
+          "id": "toyota-yaris-cross-xrx-2027",
+          "versao": "XRX",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 178990,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "1.5 Dual VVT-i 16V DOHC Flex com injeção direta",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 122
+            },
+            "torque_kgfm": {
+              "etanol": 15.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.8,
+            "estrada_etanol": 10.2,
+            "cidade_gasolina": 12.6,
+            "estrada_gasolina": 14.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4310,
+            "largura": 1770,
+            "largura_com_retrovisores": null,
+            "altura": 1655,
+            "entre_eixos": 2620,
+            "altura_livre_solo": 208
+          },
+          "peso_kg": 1210,
+          "porta_malas_l": 400,
+          "tanque_l": 42,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto panorâmico fixo com cortina elétrica",
+              "Câmera 360° (PVM)",
+              "Monitor de ponto cego e alerta de tráfego traseiro (RCTA)",
+              "Tampa do porta-malas elétrica com sensor de movimento",
+              "Iluminação ambiente",
+              "Serviços Conectados Toyota",
+              "Paddle shift (versão a combustão)"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/yaris-cross",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica oficial identificada como MY26; site e tabela de preços listam ano/modelo 2026/2027. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"YARIS CROSS FLEX XR FLEX\"."
+        },
+        {
+          "id": "toyota-yaris-cross-xre-hybrid-2027",
+          "versao": "XRE Hybrid",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 172390,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Flex",
+            "descricao": "1.5 Dual VVT-i 16V DOHC Flex + 2 motores elétricos (híbrido flex)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 91,
+              "eletrico": 80,
+              "combinada": 111
+            },
+            "torque_kgfm": {
+              "etanol": 12.3,
+              "eletrico": 14.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 13.2,
+            "estrada_etanol": 10.7,
+            "cidade_gasolina": 17.9,
+            "estrada_gasolina": 15.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4310,
+            "largura": 1770,
+            "largura_com_retrovisores": null,
+            "altura": 1655,
+            "entre_eixos": 2620,
+            "altura_livre_solo": 211
+          },
+          "peso_kg": 1270,
+          "porta_malas_l": 391,
+          "tanque_l": 36,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema híbrido flex (Hybrid Transaxle) com modo EV",
+              "Toyota Safety Sense (PCS, ACC, LKC, AHB)",
+              "Smart Entry",
+              "Painel TFT de 7\"",
+              "Faróis de neblina de LED",
+              "Freio de estacionamento eletrônico com Auto Hold"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/yaris-cross-hybrid",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro (gasolina) divulgado pela Toyota para o Yaris Cross híbrido. Ficha técnica oficial identificada como MY26; site e tabela listam 2026/2027. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"YARIS CROSS XRX-HYBRID\"."
+        },
+        {
+          "id": "toyota-yaris-cross-xrx-hybrid-2027",
+          "versao": "XRX Hybrid",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 189990,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Flex",
+            "descricao": "1.5 Dual VVT-i 16V DOHC Flex + 2 motores elétricos (híbrido flex)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 91,
+              "eletrico": 80,
+              "combinada": 111
+            },
+            "torque_kgfm": {
+              "etanol": 12.3,
+              "eletrico": 14.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 13.2,
+            "estrada_etanol": 10.7,
+            "cidade_gasolina": 17.9,
+            "estrada_gasolina": 15.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4310,
+            "largura": 1770,
+            "largura_com_retrovisores": null,
+            "altura": 1655,
+            "entre_eixos": 2620,
+            "altura_livre_solo": 211
+          },
+          "peso_kg": 1295,
+          "porta_malas_l": 391,
+          "tanque_l": 36,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema híbrido flex (Hybrid Transaxle) com modo EV",
+              "Teto panorâmico fixo com cortina elétrica",
+              "Câmera 360° (PVM)",
+              "Monitor de ponto cego e alerta de tráfego traseiro (RCTA)",
+              "Tampa do porta-malas elétrica com sensor de movimento",
+              "Iluminação ambiente",
+              "Serviços Conectados Toyota"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/yaris-cross-hybrid",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro (gasolina) divulgado pela Toyota para o Yaris Cross híbrido. Ficha técnica oficial identificada como MY26; site e tabela listam 2026/2027. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"YARIS CROSS XRX-HYBRID\"."
+        }
+      ]
+    },
+    {
+      "id": "toyota-corolla-cross",
+      "modelo": "Corolla Cross",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão",
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/toyota-corolla-cross.webp",
+        "fonte_imagem": "https://autoagora.com.br/wp-content/uploads/2025/01/3_avaliacao_toyota_corolla_cross_xrx_2026_autoagora_com_br_lateral_DSC01808-768x420.jpg",
+        "pagina_origem": "https://autoagora.com.br/avaliacao-toyota-corolla-cross-xrx-2026/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.toyota.com.br/modelos/corolla-cross",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyota.com.br/modelos/corolla-cross-hybrid",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyota.com.br/modelos/corolla-cross-gr-sport",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.toyota.com.br/725ae8c4-b012-4789-93eb-3fc968b2889c.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.toyota.com.br/e8fefdb5-f77b-412b-b398-ca52840359bb.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyotacomunica.com.br/wp-content/uploads/2024/04/Corolla-Cross-2025_Ficha-Tecnica.pdf",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.toyota.com.br/173965ca-3a5f-40fc-be96-02ecac114b91.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyotacomunica.com.br/toyota-corolla-cross-e-atualizado-para-linha-2027-e-versao-gr-sport-do-suv-traz-novo-visual/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyotacomunica.com.br/corolla-cross-ganha-versao-xrv-hybrid-e-amplia-opcoes-da-toyota-no-segmento-dos-suvs-hibridos-no-brasil/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "toyota-corolla-cross-xr-2027",
+          "versao": "XR",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 194090,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "2.0 Dynamic Force Dual VVT-iE 16V DOHC Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 175
+            },
+            "torque_kgfm": {
+              "etanol": 21.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 7.9,
+            "estrada_etanol": 9.2,
+            "cidade_gasolina": 11.5,
+            "estrada_gasolina": 13.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4460,
+            "largura": 1825,
+            "largura_com_retrovisores": null,
+            "altura": 1620,
+            "entre_eixos": 2640,
+            "altura_livre_solo": 161
+          },
+          "peso_kg": 1420,
+          "porta_malas_l": 440,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Toyota Safety Sense (PCS, ACC, assistente de faixa, AHB)",
+              "Painel digital de 7\"",
+              "Retrovisores com rebatimento automático",
+              "Bancos em tecido",
+              "TPMS (monitoramento da pressão dos pneus)"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/corolla-cross",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Versão de entrada listada no site e na tabela nacional (oferta destacada para taxistas). Equipamentos somente do site; itens não citados ficaram null. Linha 2027. Dimensões/capacidades da ficha técnica oficial do Corolla Cross 2025 (mesma carroceria); equipamentos da ficha MY26 e dos releases da linha 2027 (novo console, TPMS de série). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COROLLA CROSS XR 20\"."
+        },
+        {
+          "id": "toyota-corolla-cross-xre-2027",
+          "versao": "XRE",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 194790,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "2.0 Dynamic Force Dual VVT-iE 16V DOHC Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 175
+            },
+            "torque_kgfm": {
+              "etanol": 21.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 7.9,
+            "estrada_etanol": 9.2,
+            "cidade_gasolina": 11.5,
+            "estrada_gasolina": 13.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4460,
+            "largura": 1825,
+            "largura_com_retrovisores": null,
+            "altura": 1620,
+            "entre_eixos": 2640,
+            "altura_livre_solo": 161
+          },
+          "peso_kg": 1420,
+          "porta_malas_l": 440,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Toyota Safety Sense (PCS, ACC, LTA, AHB)",
+              "Painel digital TFT de 12,3\"",
+              "Smart Entry",
+              "Paddle shift e modo Sport",
+              "Serviços Conectados Toyota (novidade 2027)",
+              "TPMS"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/corolla-cross",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Linha 2027. Dimensões/capacidades da ficha técnica oficial do Corolla Cross 2025 (mesma carroceria); equipamentos da ficha MY26 e dos releases da linha 2027 (novo console, TPMS de série). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COROLLA CROSS XR 20\"."
+        },
+        {
+          "id": "toyota-corolla-cross-xrx-2027",
+          "versao": "XRX",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 211790,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "2.0 Dynamic Force Dual VVT-iE 16V DOHC Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 175
+            },
+            "torque_kgfm": {
+              "etanol": 21.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 7.9,
+            "estrada_etanol": 9.2,
+            "cidade_gasolina": 11.5,
+            "estrada_gasolina": 13.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4460,
+            "largura": 1825,
+            "largura_com_retrovisores": null,
+            "altura": 1620,
+            "entre_eixos": 2640,
+            "altura_livre_solo": 161
+          },
+          "peso_kg": 1420,
+          "porta_malas_l": 440,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/50 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto solar elétrico",
+              "Câmera 360° (PVM)",
+              "Alerta de ponto cego (BSM)",
+              "Banco do motorista elétrico (8 ajustes)",
+              "Ar digital dual zone S-Flow",
+              "Tampa traseira elétrica com sensor de movimento",
+              "Suporte à frenagem de estacionamento (PKSB)"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/corolla-cross",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Linha 2027. Dimensões/capacidades da ficha técnica oficial do Corolla Cross 2025 (mesma carroceria); equipamentos da ficha MY26 e dos releases da linha 2027 (novo console, TPMS de série). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COROLLA CROSS XR 20\"."
+        },
+        {
+          "id": "toyota-corolla-cross-gr-sport-2027",
+          "versao": "GR-Sport",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 218490,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "2.0 Dynamic Force Dual VVT-iE 16V DOHC Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 175
+            },
+            "torque_kgfm": {
+              "etanol": 21.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 7.9,
+            "estrada_etanol": 9.2,
+            "cidade_gasolina": 11.5,
+            "estrada_gasolina": 13.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4460,
+            "largura": 1825,
+            "largura_com_retrovisores": null,
+            "altura": 1620,
+            "entre_eixos": 2640,
+            "altura_livre_solo": 161
+          },
+          "peso_kg": 1420,
+          "porta_malas_l": 440,
+          "tanque_l": 47,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/50 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Visual GR-Sport 2027 (para-choques e grade exclusivos)",
+              "Teto e retrovisores em preto",
+              "Bancos com couro, material sintético e ultrasuede",
+              "Pedais esportivos",
+              "Teto solar elétrico",
+              "Câmera 360° (PVM)",
+              "Alerta de ponto cego"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/corolla-cross-gr-sport",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Dimensões e capacidades da ficha técnica oficial Corolla Cross GR-S MY26; equipamentos da ficha MY26 e do release da linha 2027. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COROLLA CROSS XR 20\"."
+        },
+        {
+          "id": "toyota-corolla-cross-xrv-hybrid-2027",
+          "versao": "XRV Hybrid",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 213990,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Flex",
+            "descricao": "1.8 VVT-i 16V Flex (ciclo Atkinson) + 2 motores elétricos (híbrido flex)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 101,
+              "gasolina": 98,
+              "eletrico": 72,
+              "combinada": 122
+            },
+            "torque_kgfm": {
+              "etanol": 14.5,
+              "gasolina": 14.5,
+              "eletrico": 16.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 11.6,
+            "estrada_etanol": 9.9,
+            "cidade_gasolina": 16.6,
+            "estrada_gasolina": 14
+          },
+          "dimensoes_mm": {
+            "comprimento": 4460,
+            "largura": 1825,
+            "largura_com_retrovisores": null,
+            "altura": 1620,
+            "entre_eixos": 2640,
+            "altura_livre_solo": 161
+          },
+          "peso_kg": null,
+          "porta_malas_l": 440,
+          "tanque_l": 36,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/50 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema híbrido flex com modo EV",
+              "Monitor de ponto cego e alerta de tráfego traseiro (RCTA)",
+              "Retrovisores com inclinação automática em marcha à ré",
+              "Painel digital de 12,3\"",
+              "Rodas diamantadas de 18\"",
+              "Serviços Conectados Toyota"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/corolla-cross-hybrid",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Nova versão (out/2026) baseada na XRE. Consumo PBEV (gasolina) informado na ficha técnica oficial para XRX/XRV Hybrid. Linha 2027. Dimensões/capacidades da ficha técnica oficial do Corolla Cross 2025 (mesma carroceria); equipamentos da ficha MY26 e dos releases da linha 2027 (novo console, TPMS de série). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COROLLA CROSS XRV HYBRID\"."
+        },
+        {
+          "id": "toyota-corolla-cross-xrx-hybrid-2027",
+          "versao": "XRX Hybrid",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 223790,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Flex",
+            "descricao": "1.8 VVT-i 16V Flex (ciclo Atkinson) + 2 motores elétricos (híbrido flex)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 101,
+              "gasolina": 98,
+              "eletrico": 72,
+              "combinada": 122
+            },
+            "torque_kgfm": {
+              "etanol": 14.5,
+              "gasolina": 14.5,
+              "eletrico": 16.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 11.6,
+            "estrada_etanol": 9.9,
+            "cidade_gasolina": 16.6,
+            "estrada_gasolina": 14
+          },
+          "dimensoes_mm": {
+            "comprimento": 4460,
+            "largura": 1825,
+            "largura_com_retrovisores": null,
+            "altura": 1620,
+            "entre_eixos": 2640,
+            "altura_livre_solo": 161
+          },
+          "peso_kg": null,
+          "porta_malas_l": 440,
+          "tanque_l": 36,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/50 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.1,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema híbrido flex com modo EV",
+              "Teto solar elétrico",
+              "Câmera 360° (PVM)",
+              "Banco do motorista elétrico (8 ajustes)",
+              "Ar digital dual zone S-Flow",
+              "Tampa traseira elétrica com sensor de movimento",
+              "Setas sequenciais"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/corolla-cross-hybrid",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV (gasolina) da ficha técnica oficial. Linha 2027. Dimensões/capacidades da ficha técnica oficial do Corolla Cross 2025 (mesma carroceria); equipamentos da ficha MY26 e dos releases da linha 2027 (novo console, TPMS de série). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COROLLA CROSS XRV HYBRID\"."
+        }
+      ]
+    },
+    {
+      "id": "toyota-corolla",
+      "modelo": "Corolla",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan médio",
+      "propulsoes": [
+        "Combustão",
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/toyota-corolla.webp",
+        "fonte_imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGOELawpGW-CUnTdhivE0w-9KYiwMIqkJT8vyDkhYnPuFhaYWPB2K2pNCF-xKR68JCiEgiCU_x0SxpflgmCvsc_eDuDlJjk2jFZKHbyPcGvrYrL0M1gS6v4w87BbY3XDqKN_u25yKX2S0sK6Q4KX7EL-g8o-dohKd3szkfPWIAURG_vIUHGQ3Kuo4uUApu/s2560/Toyota-Corolla-2026 (6).jpg",
+        "pagina_origem": "https://www.car.blog.br/2025/12/toyota-corolla-2026-estreia-nova-cor.html?debug=true"
+      },
+      "fontes": [
+        {
+          "url": "https://www.toyota.com.br/modelos/corolla",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyota.com.br/modelos/corolla-hybrid",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyota.com.br/modelos/corolla-gr-sport",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.toyota.com.br/4e5d6f6f-e991-4ddc-b4b9-74de903a5fa7.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.toyota.com.br/173965ca-3a5f-40fc-be96-02ecac114b91.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyotacomunica.com.br/toyota-corolla-recebe-atualizacoes-na-linha-2025-e-novo-design-na-versao-gr-sport/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyotacomunica.com.br/toyota-corolla-gli-hybrid-estreia-no-brasil-com-tecnologia-hibrida-flex-full-e-foco-no-segmento-small-business/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyotacomunica.com.br/corolla-seda-celebra-60-anos-com-linha-completa-novamente-disponivel-nas-concessionarias-toyota/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "toyota-corolla-xei-2026",
+          "versao": "XEi",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 178990,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "2.0 Dynamic Force Dual VVT-iE 16V DOHC Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 175,
+              "gasolina": 167
+            },
+            "torque_kgfm": {
+              "etanol": 21.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.3,
+            "estrada_etanol": 10.1,
+            "cidade_gasolina": 11.6,
+            "estrada_gasolina": 14.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4630,
+            "largura": 1780,
+            "largura_com_retrovisores": null,
+            "altura": 1455,
+            "entre_eixos": 2700,
+            "altura_livre_solo": 148
+          },
+          "peso_kg": 1415,
+          "porta_malas_l": 470,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/50 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": false,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Toyota Safety Sense (PCS, ACC full speed, LTA, AHB)",
+              "Painel digital TFT de 12,3\"",
+              "Câmera 360° (PVM)",
+              "Sensores de estacionamento dianteiros e traseiros",
+              "Paddle shift e modo Sport",
+              "Smart Entry"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/corolla",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica e lista de equipamentos oficiais identificadas como Corolla MY25 (linha vendida como 2026/2026 em out/2026). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COROLLA COROLLA ALTIS 20\"."
+        },
+        {
+          "id": "toyota-corolla-altis-premium-2026",
+          "versao": "Altis Premium",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 208990,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "2.0 Dynamic Force Dual VVT-iE 16V DOHC Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 175,
+              "gasolina": 167
+            },
+            "torque_kgfm": {
+              "etanol": 21.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.3,
+            "estrada_etanol": 10.1,
+            "cidade_gasolina": 11.6,
+            "estrada_gasolina": 14.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4630,
+            "largura": 1780,
+            "largura_com_retrovisores": null,
+            "altura": 1455,
+            "entre_eixos": 2700,
+            "altura_livre_solo": 148
+          },
+          "peso_kg": 1410,
+          "porta_malas_l": 470,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/50 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto solar elétrico",
+              "Faróis full LED",
+              "Alerta de ponto cego e tráfego cruzado traseiro",
+              "Banco do motorista elétrico (8 ajustes)",
+              "Ar digital dual zone S-Flow",
+              "Interior bege e marrom",
+              "Serviços Conectados Toyota"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/corolla",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica e lista de equipamentos oficiais identificadas como Corolla MY25 (linha vendida como 2026/2026 em out/2026). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COROLLA COROLLA ALTIS 20\"."
+        },
+        {
+          "id": "toyota-corolla-gr-sport-2026",
+          "versao": "GR-Sport",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 208990,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "2.0 Dynamic Force Dual VVT-iE 16V DOHC Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 175,
+              "gasolina": 167
+            },
+            "torque_kgfm": {
+              "etanol": 21.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 8.3,
+            "estrada_etanol": 10.1,
+            "cidade_gasolina": 11.6,
+            "estrada_gasolina": 14.6
+          },
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Visual GAZOO Racing (para-choque, saias e lanternas escurecidas)",
+              "Suspensão e reforços estruturais esportivos",
+              "Bancos com couro, material sintético e ultrasuede com costura vermelha",
+              "Teto solar elétrico",
+              "Alerta de ponto cego e RCTA",
+              "Serviços Conectados Toyota"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/corolla-gr-sport",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica da versão não disponível no site; dados do site e do release da linha 2025. Dimensões, peso, pneus e tanque não confirmados (null). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COROLLA COROLLA ALTIS 20\"."
+        },
+        {
+          "id": "toyota-corolla-gli-hybrid-2026",
+          "versao": "GLi Hybrid",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 196990,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Flex",
+            "descricao": "1.8 VVT-i 16V Flex (ciclo Atkinson) + 2 motores elétricos (híbrido flex)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 101,
+              "gasolina": 98,
+              "eletrico": 72,
+              "combinada": 122
+            },
+            "torque_kgfm": {
+              "etanol": 14.5,
+              "gasolina": 14.5,
+              "eletrico": 16.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 12.5,
+            "estrada_etanol": 10.7,
+            "cidade_gasolina": 17.5,
+            "estrada_gasolina": 15.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4630,
+            "largura": 1780,
+            "largura_com_retrovisores": null,
+            "altura": 1455,
+            "entre_eixos": 2700,
+            "altura_livre_solo": 148
+          },
+          "peso_kg": 1425,
+          "porta_malas_l": 470,
+          "tanque_l": 43,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "205/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": false,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema híbrido flex com modo EV",
+              "Toyota Safety Sense (PCS, ACC, LTA, AHB)",
+              "Painel TFT de 7\"",
+              "Câmera 360° (PVM)",
+              "Sensores de estacionamento dianteiros e traseiros"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/corolla-hybrid",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Chamada de \"GLi HEV\" no site. Lançada para venda direta (PCD/táxi), hoje listada no site para o público. Ficha técnica e lista de equipamentos oficiais identificadas como Corolla MY25 (linha vendida como 2026/2026 em out/2026). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COROLLA ALTIS HV\"."
+        },
+        {
+          "id": "toyota-corolla-altis-hybrid-premium-2026",
+          "versao": "Altis Hybrid Premium",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 211990,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Flex",
+            "descricao": "1.8 VVT-i 16V Flex (ciclo Atkinson) + 2 motores elétricos (híbrido flex)",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 101,
+              "gasolina": 98,
+              "eletrico": 72,
+              "combinada": 122
+            },
+            "torque_kgfm": {
+              "etanol": 14.5,
+              "gasolina": 14.5,
+              "eletrico": 16.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_etanol": 12.5,
+            "estrada_etanol": 10.7,
+            "cidade_gasolina": 17.5,
+            "estrada_gasolina": 15.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4630,
+            "largura": 1780,
+            "largura_com_retrovisores": null,
+            "altura": 1455,
+            "entre_eixos": 2700,
+            "altura_livre_solo": 148
+          },
+          "peso_kg": 1450,
+          "porta_malas_l": 470,
+          "tanque_l": 43,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/50 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema híbrido flex com modo EV",
+              "Teto solar elétrico",
+              "Faróis full LED",
+              "Alerta de ponto cego e RCTA",
+              "Banco do motorista elétrico (8 ajustes)",
+              "Ar digital dual zone S-Flow",
+              "Serviços Conectados Toyota"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/corolla-hybrid",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Chamada de \"Altis Premium\" na página Corolla Hybrid do site. Ficha técnica e lista de equipamentos oficiais identificadas como Corolla MY25 (linha vendida como 2026/2026 em out/2026). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COROLLA ALTIS HV\"."
+        }
+      ]
+    },
+    {
+      "id": "toyota-hilux",
+      "modelo": "Hilux",
+      "categoria": "Picape",
+      "subcategoria": "Picape média",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Argentina",
+      "imagem": {
+        "arquivo": "img/carros/toyota-hilux.webp",
+        "fonte_imagem": "https://www.autosrodando.com/wp-content/uploads/2025/11/toyota-hilux-2026-oficial-006-1200x675.jpg",
+        "pagina_origem": "https://www.autosrodando.com/toyota-hilux-2026-ya-es-oficial-diesel-hibrida-electrica-y-hasta-a-hidrogeno/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.toyota.com.br/modelos/hilux-cabine-dupla",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyota.com.br/modelos/hilux-cabine-simples",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.toyota.com.br/d400f124-b3ac-4d73-a885-5d6828812f11.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.toyota.com.br/bbefe1bc-18f4-4372-ad0c-0b8fb653a641.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.toyota.com.br/173965ca-3a5f-40fc-be96-02ecac114b91.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://artear-eltrece-prod.cdn.arcpublishing.com/noticias/informe-automotor/toyota-exporta-la-unidad-numero-un-millon_134420",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "toyota-hilux-std-power-pack-mt-2026",
+          "versao": "STD Power Pack MT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 282390,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.8 16V Turbo Diesel Intercooler (turbo de geometria variável)",
+            "cilindrada_cm3": 2755,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 204
+            },
+            "torque_kgfm": {
+              "diesel": 42.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.7,
+            "estrada_diesel": 11.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 5325,
+            "largura": 1855,
+            "largura_com_retrovisores": null,
+            "altura": 1815,
+            "entre_eixos": 3085,
+            "altura_livre_solo": 286
+          },
+          "peso_kg": 2125,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/65 R17",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1005
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Cabine dupla 4x4 com reduzida",
+              "Bloqueio do diferencial traseiro",
+              "Multimídia 9\" com CarPlay/Android Auto sem fio",
+              "Rodas de aço 17\"",
+              "Bancos em material sintético"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/hilux-cabine-dupla",
+          "campos_fonte_secundaria": [
+            "pais_fabricacao"
+          ],
+          "observacoes": "Consta na ficha técnica e na tabela nacional de preços, mas não aparece no configurador do site. Revestimento dos bancos em \"material sintético\" (PVC). Tração 4x2/4x4/4x4 reduzida com acionamento eletrônico e bloqueio do diferencial traseiro. Caçamba: 1.569 x 1.645 x 481 mm (volume em litros não divulgado). Toyota Safety Sense da Hilux usa alerta de mudança de faixa (LDA), sem assistente de permanência. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HILUX DIESEL 4X4 MT POWER PACK MT\"."
+        },
+        {
+          "id": "toyota-hilux-std-power-pack-at-2026",
+          "versao": "STD Power Pack AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 292790,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.8 16V Turbo Diesel Intercooler (turbo de geometria variável)",
+            "cilindrada_cm3": 2755,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 204
+            },
+            "torque_kgfm": {
+              "diesel": 50.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.3,
+            "estrada_diesel": 10
+          },
+          "dimensoes_mm": {
+            "comprimento": 5325,
+            "largura": 1855,
+            "largura_com_retrovisores": null,
+            "altura": 1815,
+            "entre_eixos": 3085,
+            "altura_livre_solo": 286
+          },
+          "peso_kg": 2130,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/65 R17",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1000
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Cabine dupla 4x4 com reduzida",
+              "Câmbio automático de 6 marchas",
+              "Bloqueio do diferencial traseiro",
+              "Multimídia 9\" com CarPlay/Android Auto sem fio",
+              "Rodas de aço 17\""
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/hilux-cabine-dupla",
+          "campos_fonte_secundaria": [
+            "pais_fabricacao"
+          ],
+          "observacoes": "Revestimento dos bancos em \"material sintético\" (PVC). Tração 4x2/4x4/4x4 reduzida com acionamento eletrônico e bloqueio do diferencial traseiro. Caçamba: 1.569 x 1.645 x 481 mm (volume em litros não divulgado). Toyota Safety Sense da Hilux usa alerta de mudança de faixa (LDA), sem assistente de permanência. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HILUX DIESEL 4X4 AT CHASSI AT\"."
+        },
+        {
+          "id": "toyota-hilux-sr-at-2026",
+          "versao": "SR AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 310090,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.8 16V Turbo Diesel Intercooler (turbo de geometria variável)",
+            "cilindrada_cm3": 2755,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 204
+            },
+            "torque_kgfm": {
+              "diesel": 50.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.3,
+            "estrada_diesel": 10
+          },
+          "dimensoes_mm": {
+            "comprimento": 5325,
+            "largura": 1855,
+            "largura_com_retrovisores": null,
+            "altura": 1815,
+            "entre_eixos": 3085,
+            "altura_livre_solo": 286
+          },
+          "peso_kg": 2115,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/65 R17",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1015
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": false,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Ar digital duas zonas",
+              "Câmera de ré",
+              "Sensores de estacionamento dianteiros e traseiros",
+              "Piloto automático (convencional)",
+              "Assistente de descida (DAC)",
+              "Rodas de liga leve 17\""
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/hilux-cabine-dupla",
+          "campos_fonte_secundaria": [
+            "pais_fabricacao"
+          ],
+          "observacoes": "Tração 4x2/4x4/4x4 reduzida com acionamento eletrônico e bloqueio do diferencial traseiro. Caçamba: 1.569 x 1.645 x 481 mm (volume em litros não divulgado). Toyota Safety Sense da Hilux usa alerta de mudança de faixa (LDA), sem assistente de permanência. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HILUX DIESEL 4X4 AT CHASSI AT\"."
+        },
+        {
+          "id": "toyota-hilux-srv-at-2026",
+          "versao": "SRV AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 314690,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.8 16V Turbo Diesel Intercooler (turbo de geometria variável)",
+            "cilindrada_cm3": 2755,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 204
+            },
+            "torque_kgfm": {
+              "diesel": 50.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.3,
+            "estrada_diesel": 10
+          },
+          "dimensoes_mm": {
+            "comprimento": 5325,
+            "largura": 1855,
+            "largura_com_retrovisores": null,
+            "altura": 1815,
+            "entre_eixos": 3085,
+            "altura_livre_solo": 286
+          },
+          "peso_kg": 2125,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/60 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1005
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Faróis de LED",
+              "Smart Entry e partida por botão",
+              "Bancos em couro e material sintético",
+              "Banco do motorista com ajuste elétrico",
+              "Capota marítima",
+              "Serviços Conectados Toyota",
+              "Rodas de liga leve 18\""
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/hilux-cabine-dupla",
+          "campos_fonte_secundaria": [
+            "pais_fabricacao"
+          ],
+          "observacoes": "Tração 4x2/4x4/4x4 reduzida com acionamento eletrônico e bloqueio do diferencial traseiro. Caçamba: 1.569 x 1.645 x 481 mm (volume em litros não divulgado). Toyota Safety Sense da Hilux usa alerta de mudança de faixa (LDA), sem assistente de permanência. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HILUX DIESEL 4X4 AT CHASSI AT\"."
+        },
+        {
+          "id": "toyota-hilux-srx-at-2026",
+          "versao": "SRX AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 346890,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.8 16V Turbo Diesel Intercooler (turbo de geometria variável)",
+            "cilindrada_cm3": 2755,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 204
+            },
+            "torque_kgfm": {
+              "diesel": 50.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.3,
+            "estrada_diesel": 10
+          },
+          "dimensoes_mm": {
+            "comprimento": 5325,
+            "largura": 1855,
+            "largura_com_retrovisores": null,
+            "altura": 1815,
+            "entre_eixos": 3085,
+            "altura_livre_solo": 286
+          },
+          "peso_kg": 2125,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/60 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1005
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Toyota Safety Sense (PCS, ACC, LDA)",
+              "Câmera 360° (PVM)",
+              "Bancos dianteiros ventilados",
+              "Som JBL com subwoofer",
+              "Banco do motorista elétrico",
+              "Suspensão traseira Light Duty"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/hilux-cabine-dupla",
+          "campos_fonte_secundaria": [
+            "pais_fabricacao"
+          ],
+          "observacoes": "Tração 4x2/4x4/4x4 reduzida com acionamento eletrônico e bloqueio do diferencial traseiro. Caçamba: 1.569 x 1.645 x 481 mm (volume em litros não divulgado). Toyota Safety Sense da Hilux usa alerta de mudança de faixa (LDA), sem assistente de permanência. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HILUX DIESEL 4X4 AT CHASSI AT\"."
+        },
+        {
+          "id": "toyota-hilux-srx-plus-at-2026",
+          "versao": "SRX Plus AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 357890,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.8 16V Turbo Diesel Intercooler (turbo de geometria variável)",
+            "cilindrada_cm3": 2755,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 204
+            },
+            "torque_kgfm": {
+              "diesel": 50.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.3,
+            "estrada_diesel": 10
+          },
+          "dimensoes_mm": {
+            "comprimento": 5325,
+            "largura": 2020,
+            "largura_com_retrovisores": null,
+            "altura": 1830,
+            "entre_eixos": 3085,
+            "altura_livre_solo": 323
+          },
+          "peso_kg": 2175,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/60 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1005
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Santantônio e molduras exclusivas nas caixas de roda",
+              "Toyota Safety Sense (PCS, ACC, LDA)",
+              "Câmera 360° (PVM)",
+              "Bancos dianteiros ventilados",
+              "Som JBL com subwoofer",
+              "Freios a disco nas 4 rodas"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/hilux-cabine-dupla",
+          "campos_fonte_secundaria": [
+            "pais_fabricacao"
+          ],
+          "observacoes": "Tração 4x2/4x4/4x4 reduzida com acionamento eletrônico e bloqueio do diferencial traseiro. Caçamba: 1.569 x 1.645 x 481 mm (volume em litros não divulgado). Toyota Safety Sense da Hilux usa alerta de mudança de faixa (LDA), sem assistente de permanência. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HILUX DIESEL 4X4 AT CHASSI AT\"."
+        },
+        {
+          "id": "toyota-hilux-cabine-simples-mt-2026",
+          "versao": "Cabine Simples MT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 265390,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.8 16V Turbo Diesel Intercooler (turbo de geometria variável)",
+            "cilindrada_cm3": 2755,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 204
+            },
+            "torque_kgfm": {
+              "diesel": 42.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.3,
+            "estrada_diesel": 10.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 5325,
+            "largura": 1800,
+            "largura_com_retrovisores": null,
+            "altura": 1795,
+            "entre_eixos": 3085,
+            "altura_livre_solo": 269
+          },
+          "peso_kg": 2025,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": null,
+          "portas": 2,
+          "pneus": "225/70 R17",
+          "picape": {
+            "cabine": "Simples",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1005
+          },
+          "equipamentos": {
+            "airbags": 3,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": "Não",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Cabine simples 4x4 com reduzida",
+              "Bloqueio do diferencial traseiro",
+              "Caçamba com 12 ganchos externos",
+              "Rodas de aço 17\""
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/hilux-cabine-simples",
+          "campos_fonte_secundaria": [
+            "pais_fabricacao"
+          ],
+          "observacoes": "Caçamba: 2.315 x 1.575 x 481 mm (volume em litros não divulgado). Sem central multimídia (rádio com 2 alto-falantes). Bancos em material sintético. Lugares não informados na ficha (cabine simples). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HILUX DIESEL 4X4 MT CABINE SIMPLES MT\"."
+        },
+        {
+          "id": "toyota-hilux-cabine-simples-at-2026",
+          "versao": "Cabine Simples AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 275290,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.8 16V Turbo Diesel Intercooler (turbo de geometria variável)",
+            "cilindrada_cm3": 2755,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 204
+            },
+            "torque_kgfm": {
+              "diesel": 50.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.3,
+            "estrada_diesel": 10
+          },
+          "dimensoes_mm": {
+            "comprimento": 5325,
+            "largura": 1800,
+            "largura_com_retrovisores": null,
+            "altura": 1795,
+            "entre_eixos": 3085,
+            "altura_livre_solo": 269
+          },
+          "peso_kg": 1990,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": null,
+          "portas": 2,
+          "pneus": "225/70 R17",
+          "picape": {
+            "cabine": "Simples",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1010
+          },
+          "equipamentos": {
+            "airbags": 3,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": "Não",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Cabine simples 4x4 com reduzida",
+              "Câmbio automático de 6 marchas",
+              "Bloqueio do diferencial traseiro",
+              "Rodas de aço 17\""
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/hilux-cabine-simples",
+          "campos_fonte_secundaria": [
+            "pais_fabricacao"
+          ],
+          "observacoes": "Caçamba: 2.315 x 1.575 x 481 mm (volume em litros não divulgado). Sem central multimídia (rádio com 2 alto-falantes). Bancos em material sintético. Lugares não informados na ficha (cabine simples). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HILUX DIESEL 4X4 AT CHASSI AT\"."
+        }
+      ]
+    },
+    {
+      "id": "toyota-sw4",
+      "modelo": "SW4",
+      "categoria": "SUV Grande",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Argentina",
+      "imagem": {
+        "arquivo": "img/carros/toyota-sw4.webp",
+        "fonte_imagem": "https://media.lmneuquen.com/p/e523ecf15d1174eed4e61c42322694ed/adjuntos/195/imagenes/008/034/0008034231/770x0/smart/toyota-sw4.jpg",
+        "pagina_origem": "https://www.lmneuquen.com/autos/cuanto-sale-un-toyota-sw4-0-kilometro-valor-actualizado-enero-2026-n1226997"
+      },
+      "fontes": [
+        {
+          "url": "https://www.toyota.com.br/modelos/sw4",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.toyota.com.br/b6277337-cf0b-44e3-98ce-4f827784384a.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.toyota.com.br/173965ca-3a5f-40fc-be96-02ecac114b91.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://artear-eltrece-prod.cdn.arcpublishing.com/noticias/informe-automotor/toyota-exporta-la-unidad-numero-un-millon_134420",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "toyota-sw4-srx-platinum-5-lugares-2026",
+          "versao": "SRX Platinum 5 lugares",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 417590,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.8 16V Turbo Diesel Intercooler (turbo de geometria variável)",
+            "cilindrada_cm3": 2755,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 204
+            },
+            "torque_kgfm": {
+              "diesel": 50.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.3,
+            "estrada_diesel": 10.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4795,
+            "largura": 1855,
+            "largura_com_retrovisores": null,
+            "altura": 1835,
+            "entre_eixos": 2745,
+            "altura_livre_solo": 279
+          },
+          "peso_kg": 2205,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/60 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Toyota Safety Sense (PCS, ACC, LDA)",
+              "Câmera 360° (PVM)",
+              "Bancos dianteiros ventilados e elétricos",
+              "Som JBL com subwoofer",
+              "Alerta de ponto cego e RCTA",
+              "Tampa traseira elétrica",
+              "Serviços Conectados Toyota"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/sw4",
+          "campos_fonte_secundaria": [
+            "pais_fabricacao"
+          ],
+          "observacoes": "Volume do porta-malas não divulgado na ficha técnica. Tração 4x4 e 4x4 reduzida com acionamento eletrônico; TSS com alerta de mudança de faixa (LDA). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"SW4 DIESEL 4X4 DIAMOND AT\"."
+        },
+        {
+          "id": "toyota-sw4-srx-platinum-7-lugares-2026",
+          "versao": "SRX Platinum 7 lugares",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 424590,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.8 16V Turbo Diesel Intercooler (turbo de geometria variável)",
+            "cilindrada_cm3": 2755,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 204
+            },
+            "torque_kgfm": {
+              "diesel": 50.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.3,
+            "estrada_diesel": 10.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4795,
+            "largura": 1855,
+            "largura_com_retrovisores": null,
+            "altura": 1835,
+            "entre_eixos": 2745,
+            "altura_livre_solo": 279
+          },
+          "peso_kg": 2205,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 7,
+          "portas": 4,
+          "pneus": "265/60 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Toyota Safety Sense (PCS, ACC, LDA)",
+              "Câmera 360° (PVM)",
+              "Bancos dianteiros ventilados e elétricos",
+              "Som JBL com subwoofer",
+              "Alerta de ponto cego e RCTA",
+              "Terceira fileira rebatível (one touch)"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/sw4",
+          "campos_fonte_secundaria": [
+            "pais_fabricacao"
+          ],
+          "observacoes": "Volume do porta-malas não divulgado na ficha técnica. Tração 4x4 e 4x4 reduzida com acionamento eletrônico; TSS com alerta de mudança de faixa (LDA). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"SW4 DIESEL 4X4 DIAMOND AT\"."
+        },
+        {
+          "id": "toyota-sw4-diamond-2026",
+          "versao": "Diamond",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 475990,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.8 16V Turbo Diesel Intercooler (turbo de geometria variável)",
+            "cilindrada_cm3": 2755,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 204
+            },
+            "torque_kgfm": {
+              "diesel": 50.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.3,
+            "estrada_diesel": 10.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4795,
+            "largura": 1855,
+            "largura_com_retrovisores": null,
+            "altura": 1835,
+            "entre_eixos": 2745,
+            "altura_livre_solo": 279
+          },
+          "peso_kg": 2200,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 7,
+          "portas": 4,
+          "pneus": "265/60 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Interior em couro perfurado bege",
+              "Carregador por indução",
+              "Tampa traseira com sensor de presença",
+              "Difusores de ar no teto para 2ª e 3ª fileiras",
+              "Câmera 360° (PVM)",
+              "Toyota Safety Sense (PCS, ACC, LDA)",
+              "7 lugares"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/sw4",
+          "campos_fonte_secundaria": [
+            "pais_fabricacao"
+          ],
+          "observacoes": "Volume do porta-malas não divulgado na ficha técnica. Tração 4x4 e 4x4 reduzida com acionamento eletrônico; TSS com alerta de mudança de faixa (LDA). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"SW4 DIESEL 4X4 DIAMOND AT\"."
+        }
+      ]
+    },
+    {
+      "id": "toyota-rav4",
+      "modelo": "RAV4",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido (HEV)",
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/toyota-rav4.webp",
+        "fonte_imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlaGq8JNdBTZWph_T_lxUfB4y89wKWA1lpXgc1Oq836eNxpB7Zt8_ZrgWJ_YOobl8QFsRnn9Bbh673Pf-xzO6SJnSA-Ny41EQil-4JXxoJPaW3CJhIL8eHXomWotSc0UqWSMlwCyj0exTzQjyVQCH6OPeSmVtcRQgrDyatuOvY8jYisQ07nfhdV-D_I6dl/s2560/Novo_Toyota_RAV4_2026 (7).jpg",
+        "pagina_origem": "https://www.car.blog.br/2026/04/novo-toyota-rav4-precos-versoes-brasil.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.toyota.com.br/modelos/rav4",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.toyota.com.br/816f3b05-1ce9-49fc-98cc-935aa1dea606.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.toyota.com.br/173965ca-3a5f-40fc-be96-02ecac114b91.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyotacomunica.com.br/novo-toyota-rav4-estreia-no-brasil-com-duas-versoes-hibridas-full-mais-tecnologia-e-preco-a-partir-de-r-317-mil/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyotacomunica.com.br/toyota-lanca-rav4-plug-in-hybrid-no-brasil-e-amplia-oferta-de-veiculos-eletrificados/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "toyota-rav4-s-hybrid-2026",
+          "versao": "S Hybrid",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 317190,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.5 Dual VVT-iE 16V DOHC + 3 motores elétricos (dianteiro 136 cv / traseiro 54 cv), AWD elétrico E-Four",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 186,
+              "eletrico": 136,
+              "combinada": 239
+            },
+            "torque_kgfm": {
+              "gasolina": 22.5,
+              "eletrico": 21.2
+            },
+            "bateria_kwh": 1.1,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.3,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_gasolina": 15.3,
+            "estrada_gasolina": 14.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4600,
+            "largura": 1855,
+            "largura_com_retrovisores": null,
+            "altura": 1695,
+            "entre_eixos": 2690,
+            "altura_livre_solo": 201
+          },
+          "peso_kg": 1755,
+          "porta_malas_l": 514,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/50 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.5,
+            "carplay_android_auto": "Com fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Nova geração (lançada em 2026)",
+              "Toyota Safety Sense (PCS, ACC, LTA, RSA)",
+              "Bancos dianteiros aquecidos e ventilados",
+              "Banco do motorista elétrico com memória",
+              "Painel digital de 12,3\"",
+              "Tampa traseira elétrica",
+              "Seletor multiterreno"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/rav4",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Chamada de \"S Híbrido\" no site e \"4WD S\" na tabela de preços. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RAV4 SX CONNECT\"."
+        },
+        {
+          "id": "toyota-rav4-sx-hybrid-2026",
+          "versao": "SX Hybrid",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 349290,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.5 Dual VVT-iE 16V DOHC + 3 motores elétricos (dianteiro 136 cv / traseiro 54 cv), AWD elétrico E-Four",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 186,
+              "eletrico": 136,
+              "combinada": 239
+            },
+            "torque_kgfm": {
+              "gasolina": 22.5,
+              "eletrico": 21.2
+            },
+            "bateria_kwh": 1.1,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.3,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_gasolina": 15.3,
+            "estrada_gasolina": 14.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4600,
+            "largura": 1855,
+            "largura_com_retrovisores": null,
+            "altura": 1695,
+            "entre_eixos": 2690,
+            "altura_livre_solo": 201
+          },
+          "peso_kg": 1770,
+          "porta_malas_l": 456,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/50 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto solar panorâmico",
+              "Multimídia 12,9\" com som JBL e navegação",
+              "Head-up display",
+              "Câmera 360° (PVM)",
+              "Park Assist",
+              "Farol alto adaptativo (AHS)",
+              "Banco traseiro aquecido",
+              "Tampa traseira com sensor de movimento"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/rav4",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Chamada de \"SX Híbrido\" no site e \"4WD SX\" na tabela de preços. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RAV4 SX CONNECT\"."
+        },
+        {
+          "id": "toyota-rav4-xse-plug-in-hybrid-2026",
+          "versao": "XSE Plug-in Hybrid",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 399990,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.5 Dual VVT-iE 16V DOHC + 3 motores elétricos (dianteiro 206 cv / traseiro 55 cv), AWD elétrico",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 189,
+              "eletrico": 206,
+              "combinada": 329
+            },
+            "torque_kgfm": {
+              "gasolina": 24.2,
+              "eletrico": 27.7
+            },
+            "bateria_kwh": 22.7,
+            "autonomia_eletrica_km": 61,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "e-CVT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.7,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4600,
+            "largura": 1855,
+            "largura_com_retrovisores": null,
+            "altura": 1700,
+            "entre_eixos": 2690,
+            "altura_livre_solo": 201
+          },
+          "peso_kg": 2040,
+          "porta_malas_l": 421,
+          "tanque_l": 55,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/50 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Híbrido plug-in com 61 km de autonomia elétrica (Inmetro)",
+              "Recarga AC 11 kW e DC 50 kW (CCS2)",
+              "Pintura bi-tone",
+              "Volante aquecido",
+              "Multimídia 12,9\" com JBL",
+              "Head-up display",
+              "Câmera 360° (PVM)",
+              "Teto solar panorâmico"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/rav4",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV não divulgado nas fontes oficiais consultadas."
+        }
+      ]
+    },
+    {
+      "id": "toyota-bz4x",
+      "modelo": "bZ4X",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/toyota-bz4x.webp",
+        "fonte_imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZEDbEqysNAau_35m6K2ZoMdb_hyphenhyphenYYOoO_9Dycwj7Pv3xBupjcw_276gjOQoi8FsLiZ3wFIgLmJrUjS_-QXUbxUXQ-VVYiB80_tui5tQ6dFz5z-_dghc8tKmrlCaMXQkkCywExduGHRGgUm_OrcdtQll6Fn_SgxPI8X5AdsgaKZxrnVYH2IFL1JdF5Yyd1/s2560/Novo-Toyota bZ4X-2026 (27).jpg",
+        "pagina_origem": "https://www.car.blog.br/2025/12/novo-toyota-bz4x-2026-nova-geracao-do.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.toyota.com.br/modelos/bz4x",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.toyota.com.br/cbc6a472-67c2-4901-846d-655f98dab383.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.toyota.com.br/173965ca-3a5f-40fc-be96-02ecac114b91.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyotacomunica.com.br/toyota-estreia-bz4x-e-amplia-portfolio-de-eletrificados-com-seu-primeiro-modelo-100-eletrico-no-brasil/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.automaistv.com.br/novidades/confira-a-autonomia-do-primeiro-carro-eletrico-da-toyota-no-brasil/",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "toyota-bz4x-bev-awd-2026",
+          "versao": "BEV AWD",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 419990,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Dois motores elétricos (dianteiro 227 cv / 27,4 kgfm; traseiro 120 cv / 17,3 kgfm)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 343
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": 73.1,
+            "autonomia_eletrica_km": 361,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 42.3,
+            "estrada_eletrico_km_le": 34.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4690,
+            "largura": 1860,
+            "largura_com_retrovisores": null,
+            "altura": 1650,
+            "entre_eixos": 2850,
+            "altura_livre_solo": 180
+          },
+          "peso_kg": 2110,
+          "porta_malas_l": 452,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/50 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 8,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Recarga AC 22 kW e DC 150 kW (CCS2)",
+              "Multimídia 14\" com som JBL e navegação",
+              "Bancos dianteiros aquecidos e ventilados; traseiro aquecido",
+              "Volante aquecido",
+              "Retrovisor interno digital",
+              "Assistente de auto-estacionamento",
+              "Assistente de saída segura (SEA)",
+              "Farol alto adaptativo (AHS)"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/bz4x",
+          "campos_fonte_secundaria": [
+            "consumo"
+          ],
+          "observacoes": "Lote inicial restrito a 99 unidades. Torque informado por motor (sem valor combinado). Tabela de preços lista acabamentos Mono Tone e Dual Tone pelo mesmo preço. Consumo e autonomia PBEV/Inmetro citados pela imprensa (Auto+); o bZ4X não consta na tabela PBEV de ago/2026."
+        }
+      ]
+    },
+    {
+      "id": "toyota-gr-yaris",
+      "modelo": "GR Yaris",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch esportivo",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Japão",
+      "imagem": {
+        "arquivo": "img/carros/toyota-gr-yaris.webp",
+        "fonte_imagem": "https://carwow-es-wp-2.imgix.net/gryarisaeropack-vistalateral.jpg?auto=format&cs=tinysrgb&fit=crop&h=&ixlib=rb-1.1.0&q=60&w=1600",
+        "pagina_origem": "https://www.carwow.es/toyota/gr-yaris/noticias/7362/toyota-gr-yaris-2026-aero-pack-precio-caracteristicas"
+      },
+      "fontes": [
+        {
+          "url": "https://www.toyota.com.br/modelos/gr-yaris",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.toyota.com.br/173965ca-3a5f-40fc-be96-02ecac114b91.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyotacomunica.com.br/gr-yaris-chega-ao-brasil-com-dna-de-competicao-e-preco-unico-de-r-354-990-para-versoes-manual-e-automatica/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyotacomunica.com.br/gr-yaris-chega-as-lojas-com-primeiro-lote-totalmente-vendido-antes-mesmo-da-estreia-no-brasil/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.icarros.com.br/catalogo/marcas/toyota/gr-yaris",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.vrum.com.br/noticias/2025/11/7296288-oficial-gr-yaris-chega-ao-brasil-em-2026-com-cambio-manual-e-automatico.html",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "toyota-gr-yaris-mt-2026",
+          "versao": "MT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 359990,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "1.6 turbo 3 cilindros com injeção D-4ST",
+            "cilindrada_cm3": null,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 304
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 6
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.1,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 8.6,
+            "estrada_gasolina": 10.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 3995,
+            "largura": 1805,
+            "largura_com_retrovisores": null,
+            "altura": 1455,
+            "entre_eixos": 2560,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1305,
+          "porta_malas_l": null,
+          "tanque_l": 50,
+          "lugares": null,
+          "portas": null,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 8,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": null,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Tração integral GR-Four com 2 diferenciais Torsen",
+              "Teto em fibra de carbono",
+              "Rodas forjadas de 18\"",
+              "Painel digital de 12,3\"",
+              "Interior em suede com detalhes em couro",
+              "Câmbio manual iMT de 6 marchas",
+              "ACC acima de 40 km/h e alerta de tráfego traseiro (RCTA)"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/gr-yaris",
+          "campos_fonte_secundaria": [
+            "motor.combustivel",
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "tanque_l",
+            "pais_fabricacao"
+          ],
+          "observacoes": "Ano-modelo 2026 conforme configurador do site (a tabela de preços out/2026 indica 2026/2027). Dimensões, tanque e combustível de fonte secundária (iCarros); o configurador do site rotula o combustível como \"Flex\", sem confirmação em ficha técnica. 0-100 km/h oficial informado pela Toyota para a versão iMT (manual). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GR YARIS 6MT\"."
+        },
+        {
+          "id": "toyota-gr-yaris-at-2026",
+          "versao": "AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 359990,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "1.6 turbo 3 cilindros com injeção D-4ST",
+            "cilindrada_cm3": null,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 304
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 7.8,
+            "estrada_gasolina": 9.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 3995,
+            "largura": 1805,
+            "largura_com_retrovisores": null,
+            "altura": 1455,
+            "entre_eixos": 2560,
+            "altura_livre_solo": null
+          },
+          "peso_kg": 1325,
+          "porta_malas_l": null,
+          "tanque_l": 50,
+          "lugares": null,
+          "portas": null,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 8,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": null,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Tração integral GR-Four com 2 diferenciais Torsen",
+              "Teto em fibra de carbono",
+              "Rodas forjadas de 18\"",
+              "Painel digital de 12,3\"",
+              "Interior em suede com detalhes em couro",
+              "Câmbio automático GR-DAT de 8 marchas",
+              "ACC em todas as velocidades e suporte à frenagem de estacionamento (PKSB)"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/gr-yaris",
+          "campos_fonte_secundaria": [
+            "motor.combustivel",
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "tanque_l",
+            "pais_fabricacao"
+          ],
+          "observacoes": "Ano-modelo 2026 conforme configurador do site (a tabela de preços out/2026 indica 2026/2027). Dimensões, tanque e combustível de fonte secundária (iCarros); o configurador do site rotula o combustível como \"Flex\", sem confirmação em ficha técnica. 0-100 km/h oficial informado pela Toyota para a versão iMT (manual). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GR YARIS 8AT\"."
+        }
+      ]
+    },
+    {
+      "id": "toyota-gr-corolla",
+      "modelo": "GR Corolla",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch esportivo",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/toyota-gr-corolla.webp",
+        "fonte_imagem": "https://static1.topspeedimages.com/wordpress/wp-content/uploads/wm/2023/10/2024-toyota-gr-corolla-side-profile-shot-2.jpg",
+        "pagina_origem": "https://www.topspeed.com/toyota/gr-corolla/2024/"
+      },
+      "fontes": [
+        {
+          "url": "https://media.toyota.com.br/173965ca-3a5f-40fc-be96-02ecac114b91.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyotacomunica.com.br/gazoo-racing-confirma-novo-gr-corolla-para-o-brasil-e-revela-o-esportivo-no-festival-interlagos-2026/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.toyota.com.br/modelos/gr-corolla",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.toyota.com.br/7c59416b-cf85-4188-80a4-6b1abdd5c23b.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "toyota-gr-corolla-circuit-2026",
+          "versao": "Circuit",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 399990,
+          "preco_obs": "Preço público sugerido nacional (tabela Toyota out/2026), pintura sólida, à vista, com frete",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "1.6 turbo 3 cilindros",
+            "cilindrada_cm3": null,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 304
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 6
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": null,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Novo GR Corolla com visual renovado",
+              "Tração integral GR-Four",
+              "Câmbio manual de 6 marchas"
+            ]
+          },
+          "fonte_url": "https://www.toyota.com.br/modelos/gr-corolla",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Novo GR Corolla (anunciado em ago/2026) consta na tabela nacional de preços out/2026 como \"Corolla HB Circuit\" 2026/2026; a página do site ainda mostra a linha anterior (Core e Circuit ano 2024, fora do escopo). Ficha técnica e equipamentos da nova linha ainda não publicados — campos null. Combustível (gasolina) conforme ficha oficial da linha anterior, com o mesmo motor 1.6 turbo."
+        }
+      ]
+    }
+  ]
+}

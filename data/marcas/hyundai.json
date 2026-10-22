@@ -1,0 +1,3343 @@
+{
+  "marca": "Hyundai",
+  "slug": "hyundai",
+  "site_oficial": "https://www.hyundai.com.br",
+  "coletado_em": "2026-10-19",
+  "modelos": [
+    {
+      "id": "hyundai-i20",
+      "modelo": "i20",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch compacto (crossover)",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/hyundai-i20.webp",
+        "fonte_imagem": "https://www.m3motorcube.com/wp/wp-content/uploads/2026/02/hyundai-i20-2026-side-1024x683.jpeg",
+        "pagina_origem": "https://www.m3motorcube.com/2026/02/04/news-mondo-motori/hyundai-i20-2026-prezzo-motori-dotazioni/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.hyundai.com.br/veiculos/novo-hyundai-i20.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.hyundai.com.br/content/dam/hmb/download-manuais/i20/Catalogo_Digital_Hyundai_i20.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://hyundai-csa-news.com/novo-hyundai-i20-tem-vendas-abertas-em-todo-o-brasil/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://hyundai-csa-news.com/novo-hyundai-i20-e-a-ponte-entre-hatchbacks-e-suvs/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://hyundai.caoa.com.br/novos/novo-hyundai-i20",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://garagem360.com.br/?p=314052",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "hyundai-i20-comfort-1-0-mt-2027",
+          "versao": "Comfort 1.0 MT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 99990,
+          "preco_obs": "Preço de lançamento divulgado pela Hyundai Motor Brasil (imprensa, jun–jul/2026)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 12V Flex (aspirado)",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 80,
+              "gasolina": 75
+            },
+            "torque_kgfm": {
+              "etanol": 10.2,
+              "gasolina": 9.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 15.5,
+            "velocidade_maxima_kmh": 160
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4130,
+            "largura": 1780,
+            "largura_com_retrovisores": null,
+            "altura": 1505,
+            "entre_eixos": 2580,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 346,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "185/65 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": null,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Rodas de aço com calotas",
+              "Bluelink",
+              "Atualização Over-the-Air (OTA)",
+              "Sensor de estacionamento traseiro",
+              "Alerta de presença no banco traseiro"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/veiculos/novo-hyundai-i20.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Altura: catálogo informa 1.505 mm; release de imprensa informa 1.495 mm. Painel de instrumentos: a página da CAOA Hyundai lista painel digital de 12,3\" em todas as versões, mas o release indica o conjunto de telas 12,3\"+12,3\" apenas na Ultimate — não confirmado nas demais."
+        },
+        {
+          "id": "hyundai-i20-limited-1-0-mt-2027",
+          "versao": "Limited 1.0 MT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 104990,
+          "preco_obs": "Preço de lançamento divulgado pela Hyundai Motor Brasil (imprensa, jun–jul/2026)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 12V Flex (aspirado)",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 80,
+              "gasolina": 75
+            },
+            "torque_kgfm": {
+              "etanol": 10.2,
+              "gasolina": 9.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 15.5,
+            "velocidade_maxima_kmh": 160
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4130,
+            "largura": 1780,
+            "largura_com_retrovisores": null,
+            "altura": 1505,
+            "entre_eixos": 2580,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 346,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "195/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": null,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Hyundai SmartSense (FCA, LKA, LFA, DAW, HBA)",
+              "Monitoramento de pressão dos pneus (TPMS)",
+              "Rodas de liga leve de 16\""
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/veiculos/novo-hyundai-i20.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Altura: catálogo informa 1.505 mm; release de imprensa informa 1.495 mm. Painel de instrumentos: a página da CAOA Hyundai lista painel digital de 12,3\" em todas as versões, mas o release indica o conjunto de telas 12,3\"+12,3\" apenas na Ultimate — não confirmado nas demais."
+        },
+        {
+          "id": "hyundai-i20-limited-tgdi-2027",
+          "versao": "Limited 1.0 TGDI AT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 125990,
+          "preco_obs": "Preço de lançamento divulgado pela Hyundai Motor Brasil (imprensa, jun–jul/2026)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 Turbo GDI 12V Flex",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 115,
+              "gasolina": 115
+            },
+            "torque_kgfm": {
+              "etanol": 17.5,
+              "gasolina": 17.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.7,
+            "velocidade_maxima_kmh": 184
+          },
+          "consumo": {
+            "cidade_etanol": 8.8,
+            "estrada_etanol": 10.1,
+            "cidade_gasolina": 12.6,
+            "estrada_gasolina": 14.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4130,
+            "largura": 1780,
+            "largura_com_retrovisores": null,
+            "altura": 1505,
+            "entre_eixos": 2580,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 346,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "195/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": null,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 1.0 turbo com câmbio automático de 6 marchas",
+              "Volante revestido em couro sintético",
+              "Grade frontal preto brilhante",
+              "Sistema Stop & Go"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/veiculos/novo-hyundai-i20.html",
+          "campos_fonte_secundaria": [
+            "consumo"
+          ],
+          "observacoes": "Altura: catálogo informa 1.505 mm; release de imprensa informa 1.495 mm. Painel de instrumentos: a página da CAOA Hyundai lista painel digital de 12,3\" em todas as versões, mas o release indica o conjunto de telas 12,3\"+12,3\" apenas na Ultimate — não confirmado nas demais. Consumo do i20 1.0 TGDI AT segundo matérias (Garagem360/JK Carros) citando o Inmetro; não consta na tabela PBEV 2026."
+        },
+        {
+          "id": "hyundai-i20-x-line-2027",
+          "versao": "X Line",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 128990,
+          "preco_obs": "Preço de lançamento divulgado pela Hyundai Motor Brasil (imprensa, jun–jul/2026)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 Turbo GDI 12V Flex",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 115,
+              "gasolina": 115
+            },
+            "torque_kgfm": {
+              "etanol": 17.5,
+              "gasolina": 17.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.7,
+            "velocidade_maxima_kmh": 184
+          },
+          "consumo": {
+            "cidade_etanol": 8.8,
+            "estrada_etanol": 10.1,
+            "cidade_gasolina": 12.6,
+            "estrada_gasolina": 14.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4130,
+            "largura": 1780,
+            "largura_com_retrovisores": null,
+            "altura": 1505,
+            "entre_eixos": 2580,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 346,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "205/50 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": null,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Edição limitada numerada",
+              "Rodas de 17\" em preto brilhante",
+              "Retrovisores em preto brilhante",
+              "Lanternas em LED",
+              "Soleiras e emblema X Line",
+              "Tapetes emborrachados all weather"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/veiculos/novo-hyundai-i20.html",
+          "campos_fonte_secundaria": [
+            "consumo"
+          ],
+          "observacoes": "Altura: catálogo informa 1.505 mm; release de imprensa informa 1.495 mm. Painel de instrumentos: a página da CAOA Hyundai lista painel digital de 12,3\" em todas as versões, mas o release indica o conjunto de telas 12,3\"+12,3\" apenas na Ultimate — não confirmado nas demais. Série especial limitada, só nas cores Cinza Lumina e Cinza Shadow. Consumo do i20 1.0 TGDI AT segundo matérias (Garagem360/JK Carros) citando o Inmetro; não consta na tabela PBEV 2026."
+        },
+        {
+          "id": "hyundai-i20-platinum-2027",
+          "versao": "Platinum",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 134990,
+          "preco_obs": "Preço de lançamento divulgado pela Hyundai Motor Brasil (imprensa, jun–jul/2026)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 Turbo GDI 12V Flex",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 115,
+              "gasolina": 115
+            },
+            "torque_kgfm": {
+              "etanol": 17.5,
+              "gasolina": 17.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.7,
+            "velocidade_maxima_kmh": 184
+          },
+          "consumo": {
+            "cidade_etanol": 8.8,
+            "estrada_etanol": 10.1,
+            "cidade_gasolina": 12.6,
+            "estrada_gasolina": 14.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4130,
+            "largura": 1780,
+            "largura_com_retrovisores": null,
+            "altura": 1505,
+            "entre_eixos": 2580,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 346,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "195/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Controle de velocidade adaptativo com Stop & Go",
+              "Freio de estacionamento eletrônico com auto hold",
+              "Freios a disco nas quatro rodas",
+              "Saída de ar traseira",
+              "Retrovisores com rebatimento elétrico",
+              "Bancos em couro sintético bicolor"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/veiculos/novo-hyundai-i20.html",
+          "campos_fonte_secundaria": [
+            "consumo"
+          ],
+          "observacoes": "Altura: catálogo informa 1.505 mm; release de imprensa informa 1.495 mm. Painel de instrumentos: a página da CAOA Hyundai lista painel digital de 12,3\" em todas as versões, mas o release indica o conjunto de telas 12,3\"+12,3\" apenas na Ultimate — não confirmado nas demais. Consumo do i20 1.0 TGDI AT segundo matérias (Garagem360/JK Carros) citando o Inmetro; não consta na tabela PBEV 2026."
+        },
+        {
+          "id": "hyundai-i20-ultimate-2027",
+          "versao": "Ultimate",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 139990,
+          "preco_obs": "Preço de lançamento divulgado pela Hyundai Motor Brasil (imprensa, jun–jul/2026)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 Turbo GDI 12V Flex",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 115,
+              "gasolina": 115
+            },
+            "torque_kgfm": {
+              "etanol": 17.5,
+              "gasolina": 17.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.7,
+            "velocidade_maxima_kmh": 184
+          },
+          "consumo": {
+            "cidade_etanol": 8.8,
+            "estrada_etanol": 10.1,
+            "cidade_gasolina": 12.6,
+            "estrada_gasolina": 14.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4130,
+            "largura": 1780,
+            "largura_com_retrovisores": null,
+            "altura": 1505,
+            "entre_eixos": 2580,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 346,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "205/50 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Multimídia de 12,3\" integrada ao painel digital de 12,3\"",
+              "Faixa de luz em LED dianteira e traseira",
+              "Faróis com projetor",
+              "Assistente de ponto cego (BCA)",
+              "Tráfego cruzado traseiro (RCCA)",
+              "Alerta de saída segura (SEW)",
+              "Paddle shifts",
+              "Rodas diamantadas de 17\""
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/veiculos/novo-hyundai-i20.html",
+          "campos_fonte_secundaria": [
+            "consumo"
+          ],
+          "observacoes": "Altura: catálogo informa 1.505 mm; release de imprensa informa 1.495 mm. Painel de instrumentos: a página da CAOA Hyundai lista painel digital de 12,3\" em todas as versões, mas o release indica o conjunto de telas 12,3\"+12,3\" apenas na Ultimate — não confirmado nas demais. Consumo do i20 1.0 TGDI AT segundo matérias (Garagem360/JK Carros) citando o Inmetro; não consta na tabela PBEV 2026."
+        }
+      ]
+    },
+    {
+      "id": "hyundai-hb20",
+      "modelo": "HB20",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch compacto",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/hyundai-hb20.webp",
+        "fonte_imagem": "https://hyundai.com.br/content/dam/hmb/product-page/novo-hyndai-hb20/design/features/modal/desktop/04-design_lateral_desk.webp",
+        "pagina_origem": "https://www.hyundai.com.br/veiculos/novo-hyundai-hb20.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.hyundai.com.br/veiculos/novo-hyundai-hb20.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20/2026-2027/catalogos/Catalogo_Digital_Novo_HB20_Comfort_26_27.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20/2025-2026/catalogos/Catalogo_DIgital_Novo_HB20_Comfort_25_26.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://hyundai-csa-news.com/hyundai-inicia-as-comemoracoes-de-15-anos-do-hb20-no-brasil/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://hyundai.caoa.com.br/novos/hb20",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gruposentinela.com.br/?p=16198",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.webmotors.com.br/hyundai/hb20/2027",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "hyundai-hb20-sense-plus-2026",
+          "versao": "Sense Plus",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 12V Flex (aspirado)",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 80,
+              "gasolina": 75
+            },
+            "torque_kgfm": {
+              "etanol": 10.2,
+              "gasolina": 9.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 14.5,
+            "velocidade_maxima_kmh": 161
+          },
+          "consumo": {
+            "cidade_etanol": 9.9,
+            "estrada_etanol": 10.7,
+            "cidade_gasolina": 13.3,
+            "estrada_gasolina": 15.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4015,
+            "largura": 1720,
+            "largura_com_retrovisores": null,
+            "altura": 1470,
+            "entre_eixos": 2530,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 300,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "185/60 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": false,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": "Não",
+            "painel_digital": null,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Rádio blueAudio com Bluetooth",
+              "Seis airbags",
+              "Piloto automático com limitador"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20/2025-2026/catalogos/Catalogo_DIgital_Novo_HB20_Sense_25_26.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2025/2026 ainda listado no site oficial (catálogo ativo); preço não divulgado. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HB20 Sense\"."
+        },
+        {
+          "id": "hyundai-hb20-comfort-2026",
+          "versao": "Comfort",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 12V Flex (aspirado)",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 80,
+              "gasolina": 75
+            },
+            "torque_kgfm": {
+              "etanol": 10.2,
+              "gasolina": 9.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 14.5,
+            "velocidade_maxima_kmh": 161
+          },
+          "consumo": {
+            "cidade_etanol": 9.9,
+            "estrada_etanol": 10.7,
+            "cidade_gasolina": 13.3,
+            "estrada_gasolina": 15.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4015,
+            "largura": 1720,
+            "largura_com_retrovisores": null,
+            "altura": 1470,
+            "entre_eixos": 2530,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 300,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "185/60 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": null,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": null,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Central multimídia blueMedia de 8\" com CarPlay/Android Auto sem fio",
+              "Bluelink",
+              "Seis airbags"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20/2025-2026/catalogos/Catalogo_DIgital_Novo_HB20_Comfort_25_26.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Câmera de ré: não consta na lista de equipamentos do catálogo oficial, mas aparece na página da CAOA Hyundai — não confirmado. Ano/modelo 2025/2026 ainda listado no site oficial (catálogo ativo); preço não divulgado. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HB20 Sense\"."
+        },
+        {
+          "id": "hyundai-hb20-limited-2026",
+          "versao": "Limited",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 12V Flex (aspirado)",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 80,
+              "gasolina": 75
+            },
+            "torque_kgfm": {
+              "etanol": 10.2,
+              "gasolina": 9.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 14.5,
+            "velocidade_maxima_kmh": 161
+          },
+          "consumo": {
+            "cidade_etanol": 9.9,
+            "estrada_etanol": 10.7,
+            "cidade_gasolina": 13.3,
+            "estrada_gasolina": 15.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4015,
+            "largura": 1720,
+            "largura_com_retrovisores": null,
+            "altura": 1470,
+            "entre_eixos": 2530,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 300,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "185/60 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Painel de instrumentos digital LCD de 10\"",
+              "Chave presencial e partida por botão",
+              "Rodas de liga leve de 15\"",
+              "Alerta de presença no banco traseiro"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20/2025-2026/catalogos/Catalogo_DIgital_Novo_HB20_Limited_25_26.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2025/2026 ainda listado no site oficial (catálogo ativo); preço não divulgado. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HB20 Sense\"."
+        },
+        {
+          "id": "hyundai-hb20-limited-tgdi-2026",
+          "versao": "Limited TGDI",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 Turbo GDI 12V Flex",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 120,
+              "gasolina": 115
+            },
+            "torque_kgfm": {
+              "etanol": 17.5,
+              "gasolina": 17.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.7,
+            "velocidade_maxima_kmh": 190
+          },
+          "consumo": {
+            "cidade_etanol": 9.2,
+            "estrada_etanol": 10.2,
+            "cidade_gasolina": 13.2,
+            "estrada_gasolina": 14.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4015,
+            "largura": 1720,
+            "largura_com_retrovisores": null,
+            "altura": 1470,
+            "entre_eixos": 2530,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 300,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": null,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 1.0 turbo com câmbio automático de 6 marchas",
+              "Ar-condicionado digital automático",
+              "Sensor de estacionamento traseiro",
+              "Sistema Stop & Go",
+              "Grade preto brilhante"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20/2025-2026/catalogos/Catalogo_DIgital_Novo_HB20_Limited_TGDI_25_26.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Partida por botão não consta no catálogo desta versão (consta chave presencial). Medida dos pneus não informada no catálogo (rodas de 16\"). Ano/modelo 2025/2026 ainda listado no site oficial (catálogo ativo); preço não divulgado. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HB20 Limited\"."
+        },
+        {
+          "id": "hyundai-hb20-platinum-tgdi-2026",
+          "versao": "Platinum TGDI",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 Turbo GDI 12V Flex",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 120,
+              "gasolina": 115
+            },
+            "torque_kgfm": {
+              "etanol": 17.5,
+              "gasolina": 17.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.7,
+            "velocidade_maxima_kmh": 190
+          },
+          "consumo": {
+            "cidade_etanol": 9.2,
+            "estrada_etanol": 10.2,
+            "cidade_gasolina": 13.2,
+            "estrada_gasolina": 14.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4015,
+            "largura": 1720,
+            "largura_com_retrovisores": null,
+            "altura": 1470,
+            "entre_eixos": 2530,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 300,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "195/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Hyundai SmartSense (FCA, LKA, LFA, BCA, RCCA, SEW, DAW)",
+              "Bancos em couro sintético de microfibra",
+              "Carregador por indução",
+              "Faróis com projetor e neblina",
+              "DRL em LED",
+              "Paddle shifts",
+              "Partida remota pela chave",
+              "Retrovisores com rebatimento elétrico"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20/2025-2026/catalogos/Catalogo_DIgital_Novo_HB20_Platinum_25_26.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2025/2026 ainda listado no site oficial (catálogo ativo); preço não divulgado. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HB20 Limited\"."
+        },
+        {
+          "id": "hyundai-hb20-comfort-2027",
+          "versao": "Comfort",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 96140,
+          "preco_obs": "Preço público sugerido de tabela (fonte secundária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 12V Flex (aspirado)",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 80,
+              "gasolina": 75
+            },
+            "torque_kgfm": {
+              "etanol": 10.2,
+              "gasolina": 9.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 14.5,
+            "velocidade_maxima_kmh": 161
+          },
+          "consumo": {
+            "cidade_etanol": 9.9,
+            "estrada_etanol": 10.7,
+            "cidade_gasolina": 13.3,
+            "estrada_gasolina": 15.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4015,
+            "largura": 1720,
+            "largura_com_retrovisores": null,
+            "altura": 1470,
+            "entre_eixos": 2530,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 300,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "185/60 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": null,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": null,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Central multimídia blueMedia de 8\" com CarPlay/Android Auto sem fio",
+              "Bluelink",
+              "Seis airbags"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20/2026-2027/catalogos/Catalogo_Digital_Novo_HB20_Comfort_26_27.pdf",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Câmera de ré: não consta na lista de equipamentos do catálogo oficial, mas aparece na página da CAOA Hyundai — não confirmado. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HB20 Sense\"."
+        },
+        {
+          "id": "hyundai-hb20-limited-2027",
+          "versao": "Limited",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 100290,
+          "preco_obs": "Preço público sugerido de tabela (fonte secundária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 12V Flex (aspirado)",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 80,
+              "gasolina": 75
+            },
+            "torque_kgfm": {
+              "etanol": 10.2,
+              "gasolina": 9.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 14.5,
+            "velocidade_maxima_kmh": 161
+          },
+          "consumo": {
+            "cidade_etanol": 9.9,
+            "estrada_etanol": 10.7,
+            "cidade_gasolina": 13.3,
+            "estrada_gasolina": 15.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4015,
+            "largura": 1720,
+            "largura_com_retrovisores": null,
+            "altura": 1470,
+            "entre_eixos": 2530,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 300,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "185/60 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Painel de instrumentos digital LCD de 10\"",
+              "Chave presencial e partida por botão",
+              "Rodas de liga leve de 15\"",
+              "Alerta de presença no banco traseiro"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20/2026-2027/catalogos/Catalogo_Digital_Novo_HB20_Limited_26_27.pdf",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HB20 Sense\"."
+        },
+        {
+          "id": "hyundai-hb20-limited-tgdi-2027",
+          "versao": "Limited TGDI",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 122690,
+          "preco_obs": "Preço público sugerido de tabela (fonte secundária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 Turbo GDI 12V Flex",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 120,
+              "gasolina": 115
+            },
+            "torque_kgfm": {
+              "etanol": 17.5,
+              "gasolina": 17.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.7,
+            "velocidade_maxima_kmh": 190
+          },
+          "consumo": {
+            "cidade_etanol": 9.2,
+            "estrada_etanol": 10.2,
+            "cidade_gasolina": 13.2,
+            "estrada_gasolina": 14.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4015,
+            "largura": 1720,
+            "largura_com_retrovisores": null,
+            "altura": 1470,
+            "entre_eixos": 2530,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 300,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": null,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 1.0 turbo com câmbio automático de 6 marchas",
+              "Ar-condicionado digital automático",
+              "Sensor de estacionamento traseiro",
+              "Sistema Stop & Go",
+              "Grade preto brilhante"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20/2026-2027/catalogos/Catalogo_Digital_Novo_HB20_Limited-TGDI_26_27.pdf",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Partida por botão não consta no catálogo desta versão (consta chave presencial). Medida dos pneus não informada no catálogo (rodas de 16\"). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HB20 Limited\"."
+        },
+        {
+          "id": "hyundai-hb20-platinum-tgdi-2027",
+          "versao": "Platinum TGDI",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 132490,
+          "preco_obs": "Preço público sugerido de tabela (fonte secundária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 Turbo GDI 12V Flex",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 120,
+              "gasolina": 115
+            },
+            "torque_kgfm": {
+              "etanol": 17.5,
+              "gasolina": 17.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.7,
+            "velocidade_maxima_kmh": 190
+          },
+          "consumo": {
+            "cidade_etanol": 9.2,
+            "estrada_etanol": 10.2,
+            "cidade_gasolina": 13.2,
+            "estrada_gasolina": 14.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4015,
+            "largura": 1720,
+            "largura_com_retrovisores": null,
+            "altura": 1470,
+            "entre_eixos": 2530,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 300,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "195/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Hyundai SmartSense (FCA, LKA, LFA, BCA, RCCA, SEW, DAW)",
+              "Bancos em couro sintético de microfibra",
+              "Carregador por indução",
+              "Faróis com projetor e neblina",
+              "DRL em LED",
+              "Paddle shifts",
+              "Partida remota pela chave",
+              "Retrovisores com rebatimento elétrico"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20/2026-2027/catalogos/Catalogo_Digital_Novo_HB20_Platinum_26_27.pdf",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HB20 Limited\"."
+        }
+      ]
+    },
+    {
+      "id": "hyundai-hb20s",
+      "modelo": "HB20S",
+      "categoria": "Sedan",
+      "subcategoria": "Sedan compacto",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/hyundai-hb20s.webp",
+        "fonte_imagem": "https://diariodocomercio.com.br/wp-content/uploads/2025/07/hyundai-hb20s-lateral-1024x536.jpeg",
+        "pagina_origem": "https://diariodocomercio.com.br/veiculos/hyundai-hb20s-sobrevive-segmento-cada-vez-mais-restrito/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.hyundai.com.br/veiculos/novo-hyundai-hb20s.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20s/2026-2027/catalogos/Catalogo_Digital_Novo_HB20S_Comfort_26_27.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20s/2025-2026/catalogos/Catalogo_Digital_Novo_HB20S_Comfort_25_26.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://hyundai-csa-news.com/hyundai-inicia-as-comemoracoes-de-15-anos-do-hb20-no-brasil/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://hyundai.caoa.com.br/novos/hb20s",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.automaistv.com.br/vendas-e-precos/hyundai-hb20s-sofre-aumento-de-ate-r-1-380-e-beira-os-r-140-mil/",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.webmotors.com.br/hyundai/hb20s/2027",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "hyundai-hb20s-comfort-2026",
+          "versao": "Comfort",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 12V Flex (aspirado)",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 80,
+              "gasolina": 75
+            },
+            "torque_kgfm": {
+              "etanol": 10.2,
+              "gasolina": 9.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 14.5,
+            "velocidade_maxima_kmh": 162
+          },
+          "consumo": {
+            "cidade_etanol": 9.7,
+            "estrada_etanol": 10.9,
+            "cidade_gasolina": 13.4,
+            "estrada_gasolina": 15.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4325,
+            "largura": 1720,
+            "largura_com_retrovisores": null,
+            "altura": 1470,
+            "entre_eixos": 2530,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 475,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "185/60 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": null,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Central multimídia blueMedia de 8\" com CarPlay/Android Auto sem fio",
+              "Bluelink",
+              "Seis airbags"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20s/2025-2026/catalogos/Catalogo_Digital_Novo_HB20S_Comfort_25_26.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2025/2026 ainda listado no site oficial (catálogo ativo); preço não divulgado. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HB20S Comfort\"."
+        },
+        {
+          "id": "hyundai-hb20s-limited-2026",
+          "versao": "Limited",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 12V Flex (aspirado)",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 80,
+              "gasolina": 75
+            },
+            "torque_kgfm": {
+              "etanol": 10.2,
+              "gasolina": 9.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 14.5,
+            "velocidade_maxima_kmh": 162
+          },
+          "consumo": {
+            "cidade_etanol": 9.7,
+            "estrada_etanol": 10.9,
+            "cidade_gasolina": 13.4,
+            "estrada_gasolina": 15.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4325,
+            "largura": 1720,
+            "largura_com_retrovisores": null,
+            "altura": 1470,
+            "entre_eixos": 2530,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 475,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "185/60 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Painel de instrumentos digital LCD de 10\"",
+              "Chave presencial e partida por botão",
+              "Rodas de liga leve de 15\"",
+              "Alerta de presença no banco traseiro"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20s/2025-2026/catalogos/Catalogo_DIgital_Novo_HB20S_Limited_25_26.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2025/2026 ainda listado no site oficial (catálogo ativo); preço não divulgado. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HB20S Comfort\"."
+        },
+        {
+          "id": "hyundai-hb20s-limited-tgdi-2026",
+          "versao": "Limited TGDI",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 Turbo GDI 12V Flex",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 120,
+              "gasolina": 115
+            },
+            "torque_kgfm": {
+              "etanol": 17.5,
+              "gasolina": 17.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.7,
+            "velocidade_maxima_kmh": 191
+          },
+          "consumo": {
+            "cidade_etanol": 9.2,
+            "estrada_etanol": 10.7,
+            "cidade_gasolina": 13,
+            "estrada_gasolina": 15.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4325,
+            "largura": 1720,
+            "largura_com_retrovisores": null,
+            "altura": 1470,
+            "entre_eixos": 2530,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 475,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 1.0 turbo com câmbio automático de 6 marchas",
+              "Ar-condicionado digital automático",
+              "Sensor de estacionamento traseiro",
+              "Sistema Stop & Go",
+              "Grade preto brilhante"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20s/2025-2026/catalogos/Catalogo_Digital_Novo_HB20S_Limited_TGDI_25_26.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Medida dos pneus não informada no catálogo (rodas de 16\"). Ano/modelo 2025/2026 ainda listado no site oficial (catálogo ativo); preço não divulgado. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HB20S Limited\"."
+        },
+        {
+          "id": "hyundai-hb20s-platinum-tgdi-2026",
+          "versao": "Platinum TGDI",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 Turbo GDI 12V Flex",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 120,
+              "gasolina": 115
+            },
+            "torque_kgfm": {
+              "etanol": 17.5,
+              "gasolina": 17.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.7,
+            "velocidade_maxima_kmh": 191
+          },
+          "consumo": {
+            "cidade_etanol": 9.2,
+            "estrada_etanol": 10.7,
+            "cidade_gasolina": 13,
+            "estrada_gasolina": 15.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4325,
+            "largura": 1720,
+            "largura_com_retrovisores": null,
+            "altura": 1470,
+            "entre_eixos": 2530,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 475,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "195/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Hyundai SmartSense (FCA, LKA, LFA, BCA, RCCA, SEW, DAW)",
+              "Bancos em couro sintético de microfibra",
+              "Carregador por indução",
+              "Faróis com projetor e neblina",
+              "DRL em LED",
+              "Paddle shifts",
+              "Partida remota pela chave",
+              "Retrovisores com rebatimento elétrico",
+              "Smart Trunk",
+              "Farol alto adaptativo e TPMS"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20s/2025-2026/catalogos/Catalogo_Digital_Novo_HB20S_Platinum_25_26.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano/modelo 2025/2026 ainda listado no site oficial (catálogo ativo); preço não divulgado. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HB20S Limited\"."
+        },
+        {
+          "id": "hyundai-hb20s-comfort-2027",
+          "versao": "Comfort",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 105290,
+          "preco_obs": "Preço público sugerido de tabela (fonte secundária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 12V Flex (aspirado)",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 80,
+              "gasolina": 75
+            },
+            "torque_kgfm": {
+              "etanol": 10.2,
+              "gasolina": 9.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 14.5,
+            "velocidade_maxima_kmh": 162
+          },
+          "consumo": {
+            "cidade_etanol": 9.7,
+            "estrada_etanol": 10.9,
+            "cidade_gasolina": 13.4,
+            "estrada_gasolina": 15.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4325,
+            "largura": 1720,
+            "largura_com_retrovisores": null,
+            "altura": 1470,
+            "entre_eixos": 2530,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 475,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "185/60 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": null,
+            "carregador_inducao": false,
+            "partida_sem_chave": false,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": false,
+            "destaques": [
+              "Central multimídia blueMedia de 8\" com CarPlay/Android Auto sem fio",
+              "Bluelink",
+              "Seis airbags"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20s/2026-2027/catalogos/Catalogo_Digital_Novo_HB20S_Comfort_26_27.pdf",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HB20S Comfort\"."
+        },
+        {
+          "id": "hyundai-hb20s-limited-2027",
+          "versao": "Limited",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 107590,
+          "preco_obs": "Preço público sugerido de tabela (fonte secundária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 12V Flex (aspirado)",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": false,
+            "potencia_cv": {
+              "etanol": 80,
+              "gasolina": 75
+            },
+            "torque_kgfm": {
+              "etanol": 10.2,
+              "gasolina": 9.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 5
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 14.5,
+            "velocidade_maxima_kmh": 162
+          },
+          "consumo": {
+            "cidade_etanol": 9.7,
+            "estrada_etanol": 10.9,
+            "cidade_gasolina": 13.4,
+            "estrada_gasolina": 15.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4325,
+            "largura": 1720,
+            "largura_com_retrovisores": null,
+            "altura": 1470,
+            "entre_eixos": 2530,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 475,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "185/60 R15",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 15,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Painel de instrumentos digital LCD de 10\"",
+              "Chave presencial e partida por botão",
+              "Rodas de liga leve de 15\"",
+              "Alerta de presença no banco traseiro"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20s/2026-2027/catalogos/Catalogo_DIgital_Novo_HB20S_Limited_26_27.pdf",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HB20S Comfort\"."
+        },
+        {
+          "id": "hyundai-hb20s-limited-tgdi-2027",
+          "versao": "Limited TGDI",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 128990,
+          "preco_obs": "Preço público sugerido de tabela (fonte secundária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 Turbo GDI 12V Flex",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 120,
+              "gasolina": 115
+            },
+            "torque_kgfm": {
+              "etanol": 17.5,
+              "gasolina": 17.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.7,
+            "velocidade_maxima_kmh": 191
+          },
+          "consumo": {
+            "cidade_etanol": 9.2,
+            "estrada_etanol": 10.7,
+            "cidade_gasolina": 13,
+            "estrada_gasolina": 15.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4325,
+            "largura": 1720,
+            "largura_com_retrovisores": null,
+            "altura": 1470,
+            "entre_eixos": 2530,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 475,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 1.0 turbo com câmbio automático de 6 marchas",
+              "Ar-condicionado digital automático",
+              "Sensor de estacionamento traseiro",
+              "Sistema Stop & Go",
+              "Grade preto brilhante"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20s/2026-2027/catalogos/Catalogo_Digital_Novo_HB20S_Limited_TGDI_26_27.pdf",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Medida dos pneus não informada no catálogo (rodas de 16\"). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HB20S Limited\"."
+        },
+        {
+          "id": "hyundai-hb20s-platinum-tgdi-2027",
+          "versao": "Platinum TGDI",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 138890,
+          "preco_obs": "Preço público sugerido de tabela (fonte secundária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 Turbo GDI 12V Flex",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 120,
+              "gasolina": 115
+            },
+            "torque_kgfm": {
+              "etanol": 17.5,
+              "gasolina": 17.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.7,
+            "velocidade_maxima_kmh": 191
+          },
+          "consumo": {
+            "cidade_etanol": 9.2,
+            "estrada_etanol": 10.7,
+            "cidade_gasolina": 13,
+            "estrada_gasolina": 15.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4325,
+            "largura": 1720,
+            "largura_com_retrovisores": null,
+            "altura": 1470,
+            "entre_eixos": 2530,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 475,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "195/55 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Hyundai SmartSense (FCA, LKA, LFA, BCA, RCCA, SEW, DAW)",
+              "Bancos em couro sintético de microfibra",
+              "Carregador por indução",
+              "Faróis com projetor e neblina",
+              "DRL em LED",
+              "Paddle shifts",
+              "Partida remota pela chave",
+              "Retrovisores com rebatimento elétrico",
+              "Smart Trunk",
+              "Farol alto adaptativo e TPMS"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20s/2026-2027/catalogos/Catalogo_Digital_Novo_HB20S_Platinum_26_27.pdf",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HB20S Limited\"."
+        }
+      ]
+    },
+    {
+      "id": "hyundai-creta",
+      "modelo": "Creta",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/hyundai-creta.webp",
+        "fonte_imagem": "https://www.hyundai.com.mx/dA/f440b35af7/creta_700x500_1.jpg",
+        "pagina_origem": "https://www.hyundai.com.mx/modelos/creta-2026/gl-tm"
+      },
+      "fontes": [
+        {
+          "url": "https://www.hyundai.com.br/veiculos/novo-hyundai-creta.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.hyundai.com.br/veiculos/novo-hyundai-creta-n-line.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.hyundai.com.br/content/dam/hmb/download-manuais/creta_26-27/catalogo_digital_Novo_CRETA_MY26_27_COMFORT.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.hyundai.com.br/content/dam/hmb/download-manuais/creta_26-27/catalogo_digital_Novo_CRETA_MY26_27_PLATINUM.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.hyundai.com.br/content/dam/hmb/download-manuais/creta_26-27/Catlogo_Digital_-_Novo_CRETA_Ultimate_MY_26-27.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.hyundai.com.br/content/dam/hmb/download-manuais/creta-n-line-26-27/Catlogo_Digital_-_Novo_CRETA_N_Line_MY_26-27.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://hyundai-csa-news.com/hyundai-creta-traz-condicoes-especiais-em-outubro-com-descontos-de-ate-r-18-mil/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://hyundai-csa-news.com/hyundai-creta-ganha-versao-action-de-r-119-990-que-atende-o-publico-pcd/",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://hyundai.caoa.com.br/novos/novo-hyundai-creta",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://hyundai.caoa.com.br/ofertas",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "hyundai-creta-action-2026",
+          "versao": "Action",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 119990,
+          "preco_obs": "Preço divulgado no lançamento da versão (imprensa oficial, fev/2026)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 Turbo GDI 12V Flex",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 120,
+              "gasolina": 115
+            },
+            "torque_kgfm": {
+              "etanol": 17.5,
+              "gasolina": 17.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.6,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_etanol": 8.4,
+            "estrada_etanol": 9,
+            "cidade_gasolina": 12,
+            "estrada_gasolina": 12.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4330,
+            "largura": 1790,
+            "largura_com_retrovisores": null,
+            "altura": 1635,
+            "entre_eixos": 2610,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 422,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "205/65 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Seis airbags",
+              "TPMS",
+              "Câmera de ré",
+              "Chave presencial e partida por botão",
+              "Stop & Go",
+              "Rodas de liga leve de 16\""
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/download-manuais/creta-26/Catlogo_Digital_-_Novo_CRETA_Action_MY_26-26.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Versão de entrada com preço voltado ao público PcD, mas listada no site oficial para o público geral. O catálogo não lista central multimídia nesta versão. Ano/modelo 2026/2026. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CRETA Comfort\"."
+        },
+        {
+          "id": "hyundai-creta-action-2027",
+          "versao": "Action",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 Turbo GDI 12V Flex",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 115,
+              "gasolina": 115
+            },
+            "torque_kgfm": {
+              "etanol": 17.5,
+              "gasolina": 17.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.8,
+            "velocidade_maxima_kmh": 175
+          },
+          "consumo": {
+            "cidade_etanol": 8.4,
+            "estrada_etanol": 9,
+            "cidade_gasolina": 12,
+            "estrada_gasolina": 12.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4330,
+            "largura": 1790,
+            "largura_com_retrovisores": null,
+            "altura": 1635,
+            "entre_eixos": 2610,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 422,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "205/65 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Seis airbags",
+              "TPMS",
+              "Câmera de ré",
+              "Chave presencial e partida por botão",
+              "Stop & Go",
+              "Rodas de liga leve de 16\""
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/download-manuais/creta_26-27/catalogo_digital_Novo_CRETA_MY26_27_ACTION.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Versão de entrada com preço voltado ao público PcD, mas listada no site oficial para o público geral. O catálogo não lista central multimídia nesta versão. Preço do ano/modelo 2027 não divulgado. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CRETA Comfort\"."
+        },
+        {
+          "id": "hyundai-creta-comfort-2027",
+          "versao": "Comfort",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 156590,
+          "preco_obs": "Preço original informado pela Hyundai (imprensa, out/2026), sem descontos promocionais",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 Turbo GDI 12V Flex",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 115,
+              "gasolina": 115
+            },
+            "torque_kgfm": {
+              "etanol": 17.5,
+              "gasolina": 17.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.8,
+            "velocidade_maxima_kmh": 175
+          },
+          "consumo": {
+            "cidade_etanol": 8.4,
+            "estrada_etanol": 9,
+            "cidade_gasolina": 12,
+            "estrada_gasolina": 12.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4330,
+            "largura": 1790,
+            "largura_com_retrovisores": null,
+            "altura": 1635,
+            "entre_eixos": 2610,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 422,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "205/65 R16",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 16,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Hyundai SmartSense (FCA com convergência à esquerda, LKA, LFA, DAW, HBA)",
+              "Painel digital LCD de 10\"",
+              "Multimídia de 8\" sem fio",
+              "Bluelink",
+              "Freio a disco nas quatro rodas"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/download-manuais/creta_26-27/catalogo_digital_Novo_CRETA_MY26_27_COMFORT.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CRETA Comfort\"."
+        },
+        {
+          "id": "hyundai-creta-limited-2027",
+          "versao": "Limited",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 173390,
+          "preco_obs": "Preço original informado pela Hyundai (imprensa, out/2026), sem descontos promocionais",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 Turbo GDI 12V Flex",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 115,
+              "gasolina": 115
+            },
+            "torque_kgfm": {
+              "etanol": 17.5,
+              "gasolina": 17.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.8,
+            "velocidade_maxima_kmh": 175
+          },
+          "consumo": {
+            "cidade_etanol": 8.4,
+            "estrada_etanol": 9,
+            "cidade_gasolina": 12,
+            "estrada_gasolina": 12.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4330,
+            "largura": 1790,
+            "largura_com_retrovisores": null,
+            "altura": 1635,
+            "entre_eixos": 2610,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 422,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Ar digital de duas zonas com saída traseira",
+              "Bancos em couro sintético",
+              "Carregador por indução",
+              "Paddle shifts",
+              "Iluminação ambiente",
+              "Retrovisores com rebatimento elétrico",
+              "Rodas diamantadas de 17\""
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/download-manuais/creta_26-27/catalogo_digital_Novo_CRETA_MY26_27_LIMITED.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CRETA Comfort\"."
+        },
+        {
+          "id": "hyundai-creta-platinum-2027",
+          "versao": "Platinum",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 188890,
+          "preco_obs": "Preço original informado pela Hyundai (imprensa, out/2026), sem descontos promocionais",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Kappa 1.0 Turbo GDI 12V Flex",
+            "cilindrada_cm3": 998,
+            "cilindros": 3,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 115,
+              "gasolina": 115
+            },
+            "torque_kgfm": {
+              "etanol": 17.5,
+              "gasolina": 17.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.8,
+            "velocidade_maxima_kmh": 175
+          },
+          "consumo": {
+            "cidade_etanol": 8.4,
+            "estrada_etanol": 9,
+            "cidade_gasolina": 12,
+            "estrada_gasolina": 12.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4330,
+            "largura": 1790,
+            "largura_com_retrovisores": null,
+            "altura": 1635,
+            "entre_eixos": 2610,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 422,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/60 R17",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": true,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto solar panorâmico",
+              "Faróis em LED",
+              "Controle de velocidade adaptativo",
+              "Smart Camera 360º",
+              "Câmera de monitoramento de ponto cego (BVM)",
+              "Banco do motorista ventilado",
+              "Freio de estacionamento eletrônico",
+              "Painel full TFT de 10,25\" e multimídia blueNav de 10,25\" com GPS"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/download-manuais/creta_26-27/catalogo_digital_Novo_CRETA_MY26_27_PLATINUM.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Multimídia blueNav de 10,25\": catálogo não especifica se o CarPlay/Android Auto é sem fio. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CRETA Comfort\"."
+        },
+        {
+          "id": "hyundai-creta-ultimate-2027",
+          "versao": "Ultimate",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 201590,
+          "preco_obs": "Preço 'De' publicado na página de ofertas da CAOA Hyundai (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Gamma II 1.6 Turbo GDI Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 173,
+              "gasolina": 176
+            },
+            "torque_kgfm": {
+              "etanol": 27,
+              "gasolina": 27
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.1,
+            "velocidade_maxima_kmh": 202
+          },
+          "consumo": {
+            "cidade_etanol": 8.3,
+            "estrada_etanol": 9.1,
+            "cidade_gasolina": 11.8,
+            "estrada_gasolina": 13.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4330,
+            "largura": 1790,
+            "largura_com_retrovisores": null,
+            "altura": 1635,
+            "entre_eixos": 2610,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 422,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 1.6 turbo com câmbio de dupla embreagem",
+              "Assistente de ponto cego (BCA) e câmera BVM",
+              "Tráfego cruzado traseiro e alerta de saída segura",
+              "Banco do motorista elétrico e ventilado",
+              "Retrovisor interno eletrocrômico",
+              "Lanternas e faixas de luz em LED",
+              "Tweeters",
+              "Rodas diamantadas de 18\""
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/download-manuais/creta_26-27/Catlogo_Digital_-_Novo_CRETA_Ultimate_MY_26-27.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Motor 1.6: catálogo informa 173 cv (E) e 176 cv (G); número de marchas (7) conforme menu do site oficial; cilindrada não informada. O catálogo 2026/2027 da Ultimate não lista teto solar. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CRETA Ultimate\"."
+        },
+        {
+          "id": "hyundai-creta-n-line-2027",
+          "versao": "N Line",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 206990,
+          "preco_obs": "Preço 'De' publicado na página de ofertas da CAOA Hyundai (out/2026)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "Gamma II 1.6 Turbo GDI Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 173,
+              "gasolina": 176
+            },
+            "torque_kgfm": {
+              "etanol": 27,
+              "gasolina": 27
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.1,
+            "velocidade_maxima_kmh": 202
+          },
+          "consumo": {
+            "cidade_etanol": 8.2,
+            "estrada_etanol": 9.4,
+            "cidade_gasolina": 11.7,
+            "estrada_gasolina": 13.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4330,
+            "largura": 1790,
+            "largura_com_retrovisores": null,
+            "altura": 1635,
+            "entre_eixos": 2610,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 422,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Visual N Line (grade, saias, retrovisores pretos)",
+              "Ponteira de escapamento dupla",
+              "Teto solar panorâmico",
+              "Bancos com costura vermelha e emblema N Line",
+              "Pedais esportivos em metal",
+              "Motor 1.6 turbo DCT",
+              "Rodas de 18\" N Line"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/veiculos/novo-hyundai-creta-n-line.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Motor 1.6: catálogo informa 173 cv (E) e 176 cv (G); número de marchas (7) conforme menu do site oficial; cilindrada não informada. Vendida em página própria (\"CRETA N Line\") no site oficial; medida dos pneus não informada no catálogo. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"CRETA N-line\"."
+        }
+      ]
+    },
+    {
+      "id": "hyundai-kona",
+      "modelo": "Kona Híbrido",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Híbrido (HEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/hyundai-kona.webp",
+        "fonte_imagem": "https://cdn.autopapo.com.br/box/uploads/2025/05/23102134/hyundai-kona-hybrid-2026-cinza-perola-lateral-parado-1920x1280.jpg",
+        "pagina_origem": "https://autopapo.com.br/noticia/hyundai-kona-hybrid-2026/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.hyundai.com.br/veiculos/kona-hibrido.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.hyundai.com.br/content/dam/hmb/cars/kona/2025-2026/download/catalogo_digital_Kona_2026.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://hyundai.caoa.com.br/novos/kona-hybrid",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.webmotors.com.br/hyundai/kona/2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://garagem360.com.br/?p=319917",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "hyundai-kona-ultimate-2026",
+          "versao": "Ultimate",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 219990,
+          "preco_obs": "Preço público sugerido (fonte secundária)",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "Kappa 1.6 GDI HEV (híbrido e gasolina)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "combinada": 141
+            },
+            "torque_kgfm": {
+              "combinada": 27
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 6
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": 11.2,
+            "velocidade_maxima_kmh": 165
+          },
+          "consumo": {
+            "cidade_gasolina": 18.4,
+            "estrada_gasolina": 16
+          },
+          "dimensoes_mm": {
+            "comprimento": 4350,
+            "largura": 1825,
+            "largura_com_retrovisores": null,
+            "altura": 1580,
+            "entre_eixos": 2660,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Híbrido 1.6 de 141 cv combinados",
+              "Multimídia de 12,3\" sem fio",
+              "Smart Camera 360º",
+              "ACC com Stop & Go",
+              "Banco do motorista elétrico",
+              "Teto solar elétrico",
+              "Shift-by-wire na coluna"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/cars/kona/2025-2026/download/catalogo_digital_Kona_2026.pdf",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Tabela de equipamentos do catálogo tem colunas desalinhadas na extração; itens comuns confirmados também na página da CAOA Hyundai. Consumo urbano de 18,4 km/l citado no catálogo (combustível gasolina). Tração não informada explicitamente. Bancos em couro sintético. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"KONA Ultimate\"."
+        },
+        {
+          "id": "hyundai-kona-signature-2026",
+          "versao": "Signature",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 239990,
+          "preco_obs": "Preço público sugerido (fonte secundária); a página de ofertas da CAOA Hyundai mostrou 'De: R$ 219.990' para esta versão",
+          "motor": {
+            "tipo_propulsao": "Híbrido (HEV)",
+            "combustivel": "Gasolina",
+            "descricao": "Kappa 1.6 GDI HEV (híbrido e gasolina)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "combinada": 141
+            },
+            "torque_kgfm": {
+              "combinada": 27
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 6
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": 11.2,
+            "velocidade_maxima_kmh": 165
+          },
+          "consumo": {
+            "cidade_gasolina": 18.4,
+            "estrada_gasolina": 16
+          },
+          "dimensoes_mm": {
+            "comprimento": 4350,
+            "largura": 1825,
+            "largura_com_retrovisores": null,
+            "altura": 1580,
+            "entre_eixos": 2660,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "215/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Bancos em couro natural",
+              "Faixa de luz em LED na grade",
+              "Iluminação ambiente configurável",
+              "Retrovisor interno eletrocrômico",
+              "Smart Camera 360º",
+              "ACC com Stop & Go"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/cars/kona/2025-2026/download/catalogo_digital_Kona_2026.pdf",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Tabela de equipamentos do catálogo tem colunas desalinhadas na extração; itens comuns confirmados também na página da CAOA Hyundai. Consumo urbano de 18,4 km/l citado no catálogo (combustível gasolina). Tração não informada explicitamente. Bancos em couro natural. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"KONA Ultimate\"."
+        }
+      ]
+    },
+    {
+      "id": "hyundai-palisade",
+      "modelo": "Palisade",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV de 8 lugares",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/hyundai-palisade.webp",
+        "fonte_imagem": "https://www.hyundai.com/content/dam/hyundai/au/en/hyundai-info/news/2025/all-new-2026-hyundai-palisade-suv-makes--debut-in-new-york/Hyundai_PR_2026_Palisade_Hybrid_Side-Angle-02_D_1920x720.jpg",
+        "pagina_origem": "https://www.hyundai.com/au/en/news/press-room/All-new-2026-Hyundai-Palisade-SUV-makes-debut-in-New-York"
+      },
+      "fontes": [
+        {
+          "url": "https://www.hyundai.com.br/veiculos/palisade.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.hyundai.com.br/content/dam/hmb/cars/palisade/catalogo/Catalogo_digital_Palisade_25_26.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://hyundai.caoa.com.br/novos/palisade",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.webmotors.com.br/hyundai/palisade/2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "hyundai-palisade-3-8-v6-awd-2026",
+          "versao": "3.8 V6 AWD",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 479990,
+          "preco_obs": "Preço público sugerido (fonte secundária)",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "V6 Lambda II 3.8 GDI",
+            "cilindrada_cm3": 3778,
+            "cilindros": 6,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 295
+            },
+            "torque_kgfm": {
+              "gasolina": 36.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.7,
+            "velocidade_maxima_kmh": 210
+          },
+          "consumo": {
+            "cidade_gasolina": 6.8,
+            "estrada_gasolina": 9.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4995,
+            "largura": 1975,
+            "largura_com_retrovisores": null,
+            "altura": 1750,
+            "entre_eixos": 2900,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 704,
+          "tanque_l": null,
+          "lugares": 8,
+          "portas": 4,
+          "pneus": "245/50 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "8 lugares",
+              "Tração integral HTRAC",
+              "Head-up display",
+              "Som Infinity com 12 alto-falantes",
+              "Teto solar panorâmico",
+              "Bancos dianteiros e traseiros com ventilação e aquecimento",
+              "Câmera de monitoramento de ponto cego (BVM)",
+              "2ª fileira com ajuste elétrico",
+              "Porta-malas com abertura automática"
+            ]
+          },
+          "fonte_url": "https://www.hyundai.com.br/content/dam/hmb/cars/palisade/catalogo/Catalogo_digital_Palisade_25_26.pdf",
+          "campos_fonte_secundaria": [
+            "preco_sugerido_brl"
+          ],
+          "observacoes": "Versão única (o site não nomeia a versão). Porta-malas de 704 l com 5 lugares em uso (3ª fileira rebatida). Consumo conforme página da CAOA Hyundai. Aceleração: catálogo 7,7 s (página CAOA informa 7,8 s). Catálogo 2025/2026. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"PALISADE Signature\"."
+        }
+      ]
+    }
+  ]
+}

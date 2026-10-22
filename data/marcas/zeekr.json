@@ -1,0 +1,647 @@
+{
+  "marca": "Zeekr",
+  "slug": "zeekr",
+  "site_oficial": "https://www.zeekrlife.com/pt-br",
+  "coletado_em": "2026-10-20",
+  "modelos": [
+    {
+      "id": "zeekr-001",
+      "modelo": "001",
+      "categoria": "Perua/Station Wagon",
+      "subcategoria": "Shooting brake",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/zeekr-001.webp",
+        "fonte_imagem": "https://api-core.multimotors.by/storage/media/2025/10/13/cba49aca7a24a3d0e7edec75c7df40fe2dcb68f6.png",
+        "pagina_origem": "https://multimotors.by/news/vysel-restailing-zeekr-001-2026-modelnogo-goda-glavnye-izmeneniia-965/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.zeekrlife.com/pt-br/models/001",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.datocms-assets.com/146515/1783707373-1733937996-ficha-tecnica-001_2026.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "zeekr-001-premium-awd-2026",
+          "versao": "Premium AWD",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": "A Zeekr não divulga preço no site oficial brasileiro",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "2 motores elétricos, 400 kW (544 cv)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 544
+            },
+            "torque_kgfm": {
+              "eletrico": 70
+            },
+            "bateria_kwh": 100,
+            "autonomia_eletrica_km": 426,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.8,
+            "velocidade_maxima_kmh": 200
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 34.1,
+            "estrada_eletrico_km_le": 30.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4955,
+            "largura": 1999,
+            "largura_com_retrovisores": null,
+            "altura": 1560,
+            "entre_eixos": 2999,
+            "altura_livre_solo": 174
+          },
+          "peso_kg": 2353,
+          "porta_malas_l": 539,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "265/40 R22",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 15.4,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 22,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Head-up display",
+              "Som Yamaha com 11 alto-falantes + subwoofer",
+              "Faróis de matriz LED com farol alto adaptativo (ADB)",
+              "Portas sem moldura",
+              "Memória do banco com reconhecimento facial",
+              "ADAS com 12 câmeras",
+              "Suspensão com molas helicoidais",
+              "Luz ambiente de 3 cores"
+            ]
+          },
+          "fonte_url": "https://www.datocms-assets.com/146515/1783707373-1733937996-ficha-tecnica-001_2026.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano-modelo 2026 conforme ficha técnica oficial (\"ficha-tecnica-001_2026\"). Porta-malas expansível a 2.144 L. Peso em ordem de marcha informado uma única vez na ficha (vale para as duas versões). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"001 Premium\"."
+        },
+        {
+          "id": "zeekr-001-flagship-awd-2026",
+          "versao": "Flagship AWD",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": "A Zeekr não divulga preço no site oficial brasileiro",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "2 motores elétricos, 400 kW (544 cv)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 544
+            },
+            "torque_kgfm": {
+              "eletrico": 70
+            },
+            "bateria_kwh": 100,
+            "autonomia_eletrica_km": 426,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.8,
+            "velocidade_maxima_kmh": 200
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 34.1,
+            "estrada_eletrico_km_le": 30.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4955,
+            "largura": 1999,
+            "largura_com_retrovisores": null,
+            "altura": 1548,
+            "entre_eixos": 2999,
+            "altura_livre_solo": 162
+          },
+          "peso_kg": 2353,
+          "porta_malas_l": 539,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "265/40 R22",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 15.4,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 22,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Head-up display",
+              "Som Yamaha com 11 alto-falantes + subwoofer",
+              "Faróis de matriz LED com farol alto adaptativo (ADB)",
+              "Portas sem moldura",
+              "Memória do banco com reconhecimento facial",
+              "ADAS com 12 câmeras",
+              "Suspensão pneumática com ajuste de altura (5 níveis) e amortecimento CDC",
+              "Bancos dianteiros com ventilação e massagem",
+              "Tela de 5,7\" para os bancos traseiros",
+              "Rodas forjadas de 22\"",
+              "Luz ambiente de 12 cores"
+            ]
+          },
+          "fonte_url": "https://www.datocms-assets.com/146515/1783707373-1733937996-ficha-tecnica-001_2026.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano-modelo 2026 conforme ficha técnica oficial (\"ficha-tecnica-001_2026\"). Porta-malas expansível a 2.144 L. Peso em ordem de marcha informado uma única vez na ficha (vale para as duas versões). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"001 Flagship\"."
+        }
+      ]
+    },
+    {
+      "id": "zeekr-x",
+      "modelo": "X",
+      "categoria": "SUV Compacto",
+      "subcategoria": null,
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/zeekr-x.webp",
+        "fonte_imagem": "https://autodigital.com.co/wp-content/uploads/2025/07/Zeeckr-x-lateral-Autodigital.jpg",
+        "pagina_origem": "https://autodigital.com.co/zeekr-x-2026-lujo-electrico-urbano-en-colombia/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.zeekrlife.com/pt-br/models/x",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.datocms-assets.com/146515/1783707373-1748553035-ficha_tecnica_x-2026.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "zeekr-x-premium-rwd-2026",
+          "versao": "Premium RWD",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": "A Zeekr não divulga preço no site oficial brasileiro",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico traseiro 200 kW (272 cv)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 272
+            },
+            "torque_kgfm": {
+              "eletrico": 35
+            },
+            "bateria_kwh": 66,
+            "autonomia_eletrica_km": 332,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.6,
+            "velocidade_maxima_kmh": 185
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 39.5,
+            "estrada_eletrico_km_le": 34.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4432,
+            "largura": 1836,
+            "largura_com_retrovisores": null,
+            "altura": 1572,
+            "entre_eixos": 2750,
+            "altura_livre_solo": 191
+          },
+          "peso_kg": 1855,
+          "porta_malas_l": 362,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "235/50 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "AR-HUD de 24,3\"",
+              "Som Yamaha com 12 alto-falantes + subwoofer",
+              "Bancos dianteiros com aquecimento, ventilação e massagem",
+              "Volante aquecido",
+              "V2L",
+              "Portas sem moldura",
+              "Iluminação ambiente \"Ice Block\"",
+              "Recarga AC 11 kW"
+            ]
+          },
+          "fonte_url": "https://www.datocms-assets.com/146515/1783707373-1748553035-ficha_tecnica_x-2026.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano-modelo 2026 conforme ficha técnica oficial (\"ficha_tecnica_x-2026\"). Porta-malas expansível a 1.182 L. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"X Premium\"."
+        },
+        {
+          "id": "zeekr-x-flagship-awd-2026",
+          "versao": "Flagship AWD",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": "A Zeekr não divulga preço no site oficial brasileiro",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "2 motores elétricos, 315 kW (428 cv)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 428
+            },
+            "torque_kgfm": {
+              "eletrico": 55.3
+            },
+            "bateria_kwh": 66,
+            "autonomia_eletrica_km": 304,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.8,
+            "velocidade_maxima_kmh": 190
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 36.6,
+            "estrada_eletrico_km_le": 32.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4432,
+            "largura": 1836,
+            "largura_com_retrovisores": null,
+            "altura": 1572,
+            "entre_eixos": 2750,
+            "altura_livre_solo": 191
+          },
+          "peso_kg": 1960,
+          "porta_malas_l": 362,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/45 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "AR-HUD de 24,3\"",
+              "Som Yamaha com 12 alto-falantes + subwoofer",
+              "Bancos dianteiros com aquecimento, ventilação e massagem",
+              "Volante aquecido",
+              "V2L",
+              "Portas sem moldura",
+              "Iluminação ambiente \"Ice Block\"",
+              "Rodas forjadas de 20\"",
+              "Pneus autorreparáveis",
+              "Recarga AC 22 kW"
+            ]
+          },
+          "fonte_url": "https://www.datocms-assets.com/146515/1783707373-1748553035-ficha_tecnica_x-2026.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ano-modelo 2026 conforme ficha técnica oficial (\"ficha_tecnica_x-2026\"). Porta-malas expansível a 1.182 L. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"X Flagship\"."
+        }
+      ]
+    },
+    {
+      "id": "zeekr-7x",
+      "modelo": "7X",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/zeekr-7x.webp",
+        "fonte_imagem": "https://imgcdn.zigwheels.my/large/gallery/exterior/175/2574/zeekr-7x-side-view-874088.jpg",
+        "pagina_origem": "https://www.zigwheels.my/new-cars/zeekr/7x/awd-performance"
+      },
+      "fontes": [
+        {
+          "url": "https://www.zeekrlife.com/pt-br/models/7x",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.datocms-assets.com/146515/1778520978-ficha_tecnica_7x_web_site_sept_25.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "zeekr-7x-premium-rwd-2026",
+          "versao": "Premium RWD",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": "A Zeekr não divulga preço no site oficial brasileiro",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico traseiro 310 kW (421 cv)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 421
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": 100,
+            "autonomia_eletrica_km": 615,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 39.5,
+            "estrada_eletrico_km_le": 34
+          },
+          "dimensoes_mm": {
+            "comprimento": 4787,
+            "largura": 1930,
+            "largura_com_retrovisores": null,
+            "altura": 1650,
+            "entre_eixos": 2900,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 16,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Bancos em tecido e PU",
+              "Suspensão convencional (sem suspensão a ar)",
+              "Arquitetura 800 V: recarga DC 10-80% em 16 min",
+              "AR-HUD",
+              "Capacidade de reboque de 2.000 kg",
+              "Frunk"
+            ]
+          },
+          "fonte_url": "https://www.zeekrlife.com/pt-br/models/7x",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Versão listada no comparativo do site oficial como \"7X Premium\" (motor único, 421 cv); não consta da ficha técnica PDF. Autonomia de 615 km informada pelo site sem indicar o ciclo (não é o valor Inmetro). Ano-modelo não informado no site oficial. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"7X Premium RWD\"."
+        },
+        {
+          "id": "zeekr-7x-flagship-awd-2026",
+          "versao": "Flagship AWD",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": "A Zeekr não divulga preço no site oficial brasileiro",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "2 motores elétricos, 475 kW (646 cv)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 646
+            },
+            "torque_kgfm": {
+              "eletrico": 72.4
+            },
+            "bateria_kwh": 100,
+            "autonomia_eletrica_km": 423,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.8,
+            "velocidade_maxima_kmh": 200
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 34.5,
+            "estrada_eletrico_km_le": 29
+          },
+          "dimensoes_mm": {
+            "comprimento": 4787,
+            "largura": 1930,
+            "largura_com_retrovisores": null,
+            "altura": 1650,
+            "entre_eixos": 2900,
+            "altura_livre_solo": 172
+          },
+          "peso_kg": 2460,
+          "porta_malas_l": 616,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 16,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Suspensão pneumática com amortecimento CCD (5 níveis)",
+              "AR-HUD",
+              "Som ZEEKR Sound com 21 alto-falantes e 2.080 W",
+              "Bancos em couro Nappa com ventilação, aquecimento e massagem",
+              "Arquitetura 800 V: recarga DC 10-80% em 16 min",
+              "Portas elétricas (opcional)",
+              "Frunk",
+              "Capacidade de reboque de 2.000 kg",
+              "Câmera de monitoramento dos bancos traseiros (OMS)",
+              "Chip Snapdragon 8295"
+            ]
+          },
+          "fonte_url": "https://www.zeekrlife.com/pt-br/models/7x",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Nomenclatura conforme ficha técnica oficial (Flagship AWD); no site aparece apenas como \"7X\". Ano-modelo não informado no site (2026 conforme ficha de set/2025 e tabelas de referência). Site atual informa rodas de 21\" e autonomia \"até 543 km\" (ciclo não informado); a ficha PDF anterior cita 20\" 265/45 R20. Porta-malas 616 L + frunk; até 1.978 L rebatido. Altura do solo 172/230 mm (suspensão a ar). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"7X Flagship AWD\"."
+        }
+      ]
+    }
+  ]
+}

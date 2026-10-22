@@ -1,0 +1,441 @@
+{
+  "marca": "Lamborghini",
+  "slug": "lamborghini",
+  "site_oficial": "https://www.lamborghini.com/en-en",
+  "coletado_em": "2026-10-21",
+  "modelos": [
+    {
+      "id": "lamborghini-temerario",
+      "modelo": "Temerario",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Superesportivo híbrido",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "Itália",
+      "imagem": {
+        "arquivo": "img/carros/lamborghini-temerario.webp",
+        "fonte_imagem": "https://cdn-ds.com/blogs-media/sites/94/2026/07/01070213/2026-Lamborghini-Temerario-3-B_o.jpg",
+        "pagina_origem": "https://www.lamborghinipalmbeach.com/blog/explore-the-performance-features-of-the-2026-lamborghini-temerario/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.lamborghini.com/en-en/models/temerario",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.lamborghini.com/en-en/ownership/dealer-locator/lamborghini-sao-paulo",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.whichcar.com.au/?p=667831",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "lamborghini-temerario-temerario-2026",
+          "versao": "Temerario",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo (Hot-V) + 3 motores elétricos",
+            "cilindrada_cm3": 3995,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 920
+            },
+            "torque_kgfm": {
+              "gasolina": 74.4
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.7,
+            "velocidade_maxima_kmh": 343
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4706,
+            "largura": null,
+            "largura_com_retrovisores": 2246,
+            "altura": 1201,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "255/35 ZR20 (diant.) / 325/30 ZR21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Sistema híbrido de 920 cv",
+              "Freios carbono-cerâmica CCB Plus",
+              "Rodas 20\" (diant.) / 21\" (tras.)",
+              "Pacote Alleggerita opcional"
+            ]
+          },
+          "fonte_url": "https://www.lamborghini.com/en-en/models/temerario",
+          "campos_fonte_secundaria": [
+            "transmissao"
+          ],
+          "observacoes": "Vendido no Brasil pela Lamborghini São Paulo (concessionária oficial, Pinheiros). Preço não divulgado. Ficha técnica do site global da marca (lamborghini.com), pois não há site BR com especificações. Substituto do Huracán. Site informa peso de 1.705 kg sem especificar se a seco ou em ordem de marcha (não preenchido). Largura com retrovisores: 2.246 mm. Câmbio de dupla embreagem de 8 marchas conforme fichas da imprensa (Autocar India, WhichCar). Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    },
+    {
+      "id": "lamborghini-revuelto",
+      "modelo": "Revuelto",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Superesportivo híbrido V12",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "Itália",
+      "imagem": {
+        "arquivo": "img/carros/lamborghini-revuelto.webp",
+        "fonte_imagem": "https://www.rollsroycelongisland.com/imagetag/4188/3/l/New-2026-Lamborghini-Revuelto-1776774145.jpg",
+        "pagina_origem": "https://bentleylongisland.com/sold-inventory/2026-lamborghini-revuelto-c-4188"
+      },
+      "fontes": [
+        {
+          "url": "https://www.lamborghini.com/en-en/models/revuelto-models/revuelto",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.lamborghini.com/en-en/ownership/dealer-locator/lamborghini-sao-paulo",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://lamborghini.com/models/revuelto",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "lamborghini-revuelto-revuelto-2026",
+          "versao": "Revuelto",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "6.5 V12 aspirado + 3 motores elétricos",
+            "cilindrada_cm3": 6499,
+            "cilindros": 12,
+            "turbo": false,
+            "potencia_cv": {
+              "combinada": 1015
+            },
+            "torque_kgfm": {
+              "gasolina": 73.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.5,
+            "velocidade_maxima_kmh": 350
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 4947,
+            "largura": null,
+            "largura_com_retrovisores": 2266,
+            "altura": 1160,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 2,
+          "portas": 2,
+          "pneus": "265/35 ZR20 (diant.) / 345/30 ZR21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "V12 híbrido de 1.015 cv",
+              "Portas tipo tesoura",
+              "Suspensão Magneride",
+              "Freios carbono-cerâmica CCB Plus",
+              "Rodas 20\"/21\" (21\"/22\" opcionais)"
+            ]
+          },
+          "fonte_url": "https://www.lamborghini.com/en-en/models/revuelto-models/revuelto",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Lamborghini São Paulo (concessionária oficial, Pinheiros). Preço não divulgado. Ficha técnica do site global da marca (lamborghini.com), pois não há site BR com especificações. Velocidade máxima informada como > 350 km/h. Largura com retrovisores: 2.266 mm. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    },
+    {
+      "id": "lamborghini-urus",
+      "modelo": "Urus",
+      "categoria": "SUV Grande",
+      "subcategoria": "Super SUV híbrido plug-in",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "Itália",
+      "imagem": {
+        "arquivo": "img/carros/lamborghini-urus.webp",
+        "fonte_imagem": "https://spots.ag/2026/01/20/lamborghini-urus-se-093ad-c135120012026091727_5.jpg",
+        "pagina_origem": "https://www.autogespot.com/lamborghini-urus-se/2026/01/20"
+      },
+      "fontes": [
+        {
+          "url": "https://www.lamborghini.com/en-en/models/urus/urus-se",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.lamborghini.com/en-en/models/urus/urus-se-performante",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.lamborghini.com/en-en/ownership/dealer-locator/lamborghini-sao-paulo",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "lamborghini-urus-se-2026",
+          "versao": "SE",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo + motor elétrico de 141 kW",
+            "cilindrada_cm3": 3996,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 800
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.4,
+            "velocidade_maxima_kmh": 312
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 5123,
+            "largura": null,
+            "largura_com_retrovisores": 2181,
+            "altura": 1638,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 5,
+          "pneus": "285/45 ZR21 (diant.) / 315/40 ZR21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Híbrido plug-in de 800 cv",
+              "Suspensão pneumática com ajuste de altura",
+              "Eixo traseiro esterçante",
+              "Freios carbono-cerâmica",
+              "Torque vectoring elétrico"
+            ]
+          },
+          "fonte_url": "https://www.lamborghini.com/en-en/models/urus/urus-se",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Lamborghini São Paulo (concessionária oficial, Pinheiros). Preço não divulgado. Ficha técnica do site global da marca (lamborghini.com), pois não há site BR com especificações. Largura com retrovisores: 2.181 mm. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        },
+        {
+          "id": "lamborghini-urus-se-performante-2026",
+          "versao": "SE Performante",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "4.0 V8 biturbo + motor elétrico de 141 kW",
+            "cilindrada_cm3": 3996,
+            "cilindros": 8,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 812
+            },
+            "torque_kgfm": {
+              "combinada": 102
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": 60,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.3,
+            "velocidade_maxima_kmh": 312
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 5123,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1638,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 5,
+          "pneus": "285/45 ZR21 (diant.) / 315/40 ZR21 (tras.)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Híbrido plug-in de 812 cv",
+              "Modo de condução Rally",
+              "Volante em fibra de carbono",
+              "Aerofólio e para-lamas específicos",
+              "Freios carbono-cerâmica"
+            ]
+          },
+          "fonte_url": "https://www.lamborghini.com/en-en/models/urus/urus-se-performante",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Vendido no Brasil pela Lamborghini São Paulo (concessionária oficial, Pinheiros). Preço não divulgado. Ficha técnica do site global da marca (lamborghini.com), pois não há site BR com especificações. Autonomia elétrica informada como \"mais de 60 km\". Dimensões e pneus conforme ficha do site global (mesmos dados do Urus SE). Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+        }
+      ]
+    }
+  ]
+}

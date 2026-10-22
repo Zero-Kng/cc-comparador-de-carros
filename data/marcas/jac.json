@@ -1,0 +1,664 @@
+{
+  "marca": "JAC",
+  "slug": "jac",
+  "site_oficial": "https://www.jacmotors.com.br",
+  "coletado_em": "2026-10-19",
+  "modelos": [
+    {
+      "id": "jac-e-js1",
+      "modelo": "E-JS1",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch subcompacto elétrico",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/jac-e-js1.webp",
+        "fonte_imagem": "https://www.motoragora.com.br/wp-content/uploads/2022/01/lateral-1024x576.jpg",
+        "pagina_origem": "https://www.motoragora.com.br/jac-e-js1-2022/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.jacmotors.com.br/carros/e-js1/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jacmotors.com.br/wp-content/uploads/2026/07/E-JS1-FICHA-1.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "jac-e-js1-e-js1-2026",
+          "versao": "E-JS1",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico síncrono de ímã permanente, 45 kW; bateria LFP 31,4 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 62
+            },
+            "torque_kgfm": {
+              "eletrico": 15.3
+            },
+            "bateria_kwh": 31.4,
+            "autonomia_eletrica_km": 181,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.7,
+            "velocidade_maxima_kmh": 110
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 46.6,
+            "estrada_eletrico_km_le": 35
+          },
+          "peso_kg": 1180,
+          "porta_malas_l": 121,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "picape": null,
+          "preco_sugerido_brl": 119900,
+          "preco_obs": "Site oficial: \"De R$ 132.900 por R$ 119.900\" (preço promocional)",
+          "dimensoes_mm": {
+            "comprimento": 3650,
+            "largura": 1670,
+            "largura_com_retrovisores": null,
+            "altura": 1540,
+            "entre_eixos": 2390,
+            "altura_livre_solo": 160
+          },
+          "pneus": "165/65 R14",
+          "equipamentos": {
+            "airbags": 2,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 14,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Painel do condutor de 6,2\"",
+              "Central de comandos touch (multimídia e ar digital)",
+              "Sistema i-Pedal com regeneração",
+              "Piloto automático",
+              "Sensor de estacionamento traseiro",
+              "TPMS",
+              "Alerta sonoro de pedestres (VSP)",
+              "Recarga DC até 20 kW (20-100% em 1h15)",
+              "Carregador AC portátil incluso",
+              "Faróis halógenos com DRL em LED"
+            ]
+          },
+          "fonte_url": "https://www.jacmotors.com.br/carros/e-js1/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Site identifica a versão como \"E-JS1 25/26\". Torque oficial 150 Nm convertido para kgfm. Ficha não informa se CarPlay/Android Auto é sem fio. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"e-JS1 e-JS1\"."
+        },
+        {
+          "id": "jac-e-js1-ext-2026",
+          "versao": "EXT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico síncrono de ímã permanente, 45 kW; bateria LFP 31,4 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 62
+            },
+            "torque_kgfm": {
+              "eletrico": 15.3
+            },
+            "bateria_kwh": 31.4,
+            "autonomia_eletrica_km": 181,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 10.7,
+            "velocidade_maxima_kmh": 110
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 46.6,
+            "estrada_eletrico_km_le": 35
+          },
+          "peso_kg": 1180,
+          "porta_malas_l": 121,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "picape": null,
+          "preco_sugerido_brl": null,
+          "preco_obs": "Preço não divulgado no site (campo exibido como \"R$ 000.000,00\")",
+          "dimensoes_mm": {
+            "comprimento": 3650,
+            "largura": 1670,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": 2390,
+            "altura_livre_solo": null
+          },
+          "pneus": null,
+          "equipamentos": {
+            "airbags": 2,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 14,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Suspensão 50 mm mais alta, com molas e amortecedores recalibrados",
+              "Pneus de uso misto",
+              "Rodas diamantadas de liga leve",
+              "Rack de teto",
+              "Sistema i-Pedal com regeneração",
+              "Piloto automático",
+              "Sensor de estacionamento traseiro"
+            ]
+          },
+          "fonte_url": "https://www.jacmotors.com.br/carros/e-js1/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Versão aventureira listada no site, sem preço e sem ficha técnica própria; ano-modelo não informado (assumido 2026, igual ao E-JS1 25/26). Mecânica, bateria e peso assumidos da ficha do E-JS1. Altura, vão livre e medida dos pneus diferem do E-JS1 e ficaram null; a ficha do E-JS1 lista rodas de liga leve aro 14. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"e-JS1 e-JS1 EXT\"."
+        }
+      ]
+    },
+    {
+      "id": "jac-hunter",
+      "modelo": "Hunter",
+      "categoria": "Picape",
+      "subcategoria": "Picape média",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/jac-hunter.webp",
+        "fonte_imagem": "https://cdn.autopapo.com.br/box/uploads/2025/06/18190328/jac-hunter-4work-2026-branca-lateral.jpeg",
+        "pagina_origem": "https://autopapo.com.br/noticia/jac-hunter-4work-2026/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.jacmotors.com.br/picapes/hunter/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jacmotors.com.br/picapes/hunter-4work/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jacmotors.com.br/wp-content/uploads/2026/02/Ficha-Tecnica-Catalogo-Hunter-HD-4X4-AT-2.0CTI-Diesel.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jacmotors.com.br/wp-content/uploads/2026/02/Ficha-Tecnica-Catalogo-Hunter-HDX-4X4-AT-2.0CTI-Diesel.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jacmotors.com.br/wp-content/uploads/2025/12/HUNTER-FICHA.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jacmotors.com.br/wp-content/uploads/2026/07/Ficha-Tecnica-Catalogo-Hunter-4WORK-4X4-MT-2.0TI-Diesel.pdf.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.jacmotors.com.br/wp-content/uploads/2026/02/Ficha-Tecnica-Catalogo-Hunter-4WORK-4X4-AT-2.0TI-Diesel.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.tabelafipebrasil.com/carros/JAC/modelo/HUNTER/2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "jac-hunter-4work-mt-2026",
+          "versao": "4Work MT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 219900,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.0 Turbodiesel (CTI)",
+            "cilindrada_cm3": 1999,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 191
+            },
+            "torque_kgfm": {
+              "diesel": 46.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.9,
+            "velocidade_maxima_kmh": 185
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 5330,
+            "largura": 1965,
+            "largura_com_retrovisores": null,
+            "altura": 1920,
+            "entre_eixos": 3110,
+            "altura_livre_solo": 240
+          },
+          "peso_kg": 1990,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/60 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1460
+          },
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 13,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmbio manual de 8 marchas (conforme ficha)",
+              "Tração 4x4 com reduzida e bloqueio elétrico do diferencial",
+              "Capacidade de carga de 1.460 kg",
+              "Interior em couro preto",
+              "Retrovisores com aquecimento e rebatimento elétrico",
+              "Modos de condução Normal/Eco/Esporte/Lama",
+              "Sem teto solar, rack e estribos (versão de trabalho)"
+            ]
+          },
+          "fonte_url": "https://www.jacmotors.com.br/picapes/hunter-4work/",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Ficha oficial indica câmbio manual de 8 marchas (\"8 MT\") e repete desempenho da versão AT. Velocidade máxima de 185 km/h conforme ficha oficial Hunter HD (12/2025); as fichas 2026 trazem \"85\", aparente erro de digitação. Torque oficial 460 Nm convertido para kgfm. Volume da caçamba não informado em litros (medidas internas 1.520 x 1.590 x 470 mm). Ano-modelo 2026 não informado no site oficial; confirmado na Tabela FIPE."
+        },
+        {
+          "id": "jac-hunter-4work-at-2026",
+          "versao": "4Work AT",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 264900,
+          "preco_obs": "Preço do site oficial (aba 4Work AT); é maior que o da versão HD (R$ 259.900), mas é o valor publicado pela JAC.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.0 Turbodiesel (CTI)",
+            "cilindrada_cm3": 1999,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 191
+            },
+            "torque_kgfm": {
+              "diesel": 46.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.9,
+            "velocidade_maxima_kmh": 185
+          },
+          "consumo": {
+            "cidade_diesel": 9,
+            "estrada_diesel": 10.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 5330,
+            "largura": 1965,
+            "largura_com_retrovisores": null,
+            "altura": 1920,
+            "entre_eixos": 3110,
+            "altura_livre_solo": 240
+          },
+          "peso_kg": 1990,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/60 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1460
+          },
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 13,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmbio automático ZF de 8 marchas",
+              "Tração 4x4 com reduzida e bloqueio elétrico do diferencial",
+              "Capacidade de carga de 1.460 kg",
+              "Interior em couro preto",
+              "Retrovisores com aquecimento e rebatimento elétrico",
+              "Modos de condução Normal/Eco/Esporte/Lama",
+              "Sem teto solar, rack e estribos (versão de trabalho)"
+            ]
+          },
+          "fonte_url": "https://www.jacmotors.com.br/picapes/hunter-4work/",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Preço exibido no site (R$ 264.900) é superior ao da Hunter HD (R$ 259.900); imprensa cita tabela de R$ 254.900 no lançamento — conferir. Velocidade máxima de 185 km/h conforme ficha oficial Hunter HD (12/2025); as fichas 2026 trazem \"85\", aparente erro de digitação. Torque oficial 460 Nm convertido para kgfm. Volume da caçamba não informado em litros (medidas internas 1.520 x 1.590 x 470 mm). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HUNTER HUNTER AT\". Ano-modelo 2026 não informado no site oficial; confirmado na Tabela FIPE."
+        },
+        {
+          "id": "jac-hunter-hd-2026",
+          "versao": "HD",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 259900,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.0 Turbodiesel (CTI)",
+            "cilindrada_cm3": 1999,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 191
+            },
+            "torque_kgfm": {
+              "diesel": 46.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.9,
+            "velocidade_maxima_kmh": 185
+          },
+          "consumo": {
+            "cidade_diesel": 9,
+            "estrada_diesel": 10.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 5330,
+            "largura": 1965,
+            "largura_com_retrovisores": null,
+            "altura": 1920,
+            "entre_eixos": 3110,
+            "altura_livre_solo": 240
+          },
+          "peso_kg": 2050,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/60 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1400
+          },
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 13,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmbio automático ZF de 8 marchas",
+              "Tração 4x4 com reduzida e bloqueio elétrico do diferencial",
+              "Teto solar elétrico",
+              "Câmera 360° com visão 3D",
+              "Bancos dianteiros aquecidos, com ajuste elétrico",
+              "Rack de teto",
+              "Estribos em alumínio",
+              "Retrovisores com aquecimento e rebatimento elétrico",
+              "Porta-objetos central refrigerado",
+              "Modos de condução Normal/Eco/Esporte/Lama",
+              "Capacidade de reboque com freio 1.800 kg (PBTC)",
+              "Santo antônio opcional"
+            ]
+          },
+          "fonte_url": "https://www.jacmotors.com.br/picapes/hunter/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Site: \"Heavy Duty 25/26\". Velocidade máxima de 185 km/h conforme ficha oficial Hunter HD (12/2025); as fichas 2026 trazem \"85\", aparente erro de digitação. Torque oficial 460 Nm convertido para kgfm. Volume da caçamba não informado em litros (medidas internas 1.520 x 1.590 x 470 mm). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HUNTER HUNTER AT\"."
+        },
+        {
+          "id": "jac-hunter-hdx-2026",
+          "versao": "HDX",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 264900,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.0 Turbodiesel (CTI)",
+            "cilindrada_cm3": 1999,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 191
+            },
+            "torque_kgfm": {
+              "diesel": 46.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 11.9,
+            "velocidade_maxima_kmh": 185
+          },
+          "consumo": {
+            "cidade_diesel": 9,
+            "estrada_diesel": 10.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 5330,
+            "largura": 1965,
+            "largura_com_retrovisores": null,
+            "altura": 1920,
+            "entre_eixos": 3110,
+            "altura_livre_solo": 240
+          },
+          "peso_kg": 2050,
+          "porta_malas_l": null,
+          "tanque_l": 80,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/60 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1400
+          },
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 13,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmbio automático ZF de 8 marchas",
+              "Tração 4x4 com reduzida e bloqueio elétrico do diferencial",
+              "Teto solar elétrico",
+              "Câmera 360° com visão 3D",
+              "Bancos dianteiros aquecidos, com ajuste elétrico",
+              "Rack de teto",
+              "Estribos em alumínio",
+              "Retrovisores com aquecimento e rebatimento elétrico",
+              "Porta-objetos central refrigerado",
+              "Modos de condução Normal/Eco/Esporte/Lama",
+              "Capacidade de reboque com freio 1.800 kg (PBTC)",
+              "Santo antônio de série"
+            ]
+          },
+          "fonte_url": "https://www.jacmotors.com.br/picapes/hunter/",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Site: \"Heavy Duty 25/26\". Ficha técnica oficial da HDX é idêntica à da HD; a página indica santo antônio como item de série. Velocidade máxima de 185 km/h conforme ficha oficial Hunter HD (12/2025); as fichas 2026 trazem \"85\", aparente erro de digitação. Torque oficial 460 Nm convertido para kgfm. Volume da caçamba não informado em litros (medidas internas 1.520 x 1.590 x 470 mm). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"HUNTER HUNTER AT\"."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "marca": "Denza",
+  "slug": "denza",
+  "site_oficial": "https://www.denza.com/br",
+  "coletado_em": "2026-10-20",
+  "modelos": [
+    {
+      "id": "denza-b5",
+      "modelo": "B5",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV off-road",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/denza-b5.webp",
+        "fonte_imagem": "https://www.denza.com/material/denza-overseas/bao5/exterior-card/exterior-card-2-pc .jpg",
+        "pagina_origem": "https://www.denza.com/br/B5.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.denza.com/br/B5.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.denza.com/material/__CN/denza-site/denza-brazil/manuten%C3%A7%C3%A3o/Denza%20-%20Material%20Cat%C3%A1logo%20B5.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.webmotors.com.br/denza",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "denza-b5-gl-2027",
+          "versao": "GL",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": "Preço não divulgado no site oficial da Denza Brasil",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo longitudinal DMO + dois motores elétricos (4WD)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 194,
+              "eletrico": 659,
+              "combinada": 687
+            },
+            "torque_kgfm": {
+              "gasolina": 27.8,
+              "eletrico": 77.5,
+              "combinada": 77.5
+            },
+            "bateria_kwh": 31.8,
+            "autonomia_eletrica_km": 100,
+            "autonomia_ciclo": "NEDC"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.8,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 8.4,
+            "estrada_gasolina": 7.9,
+            "cidade_eletrico_km_le": 23,
+            "estrada_eletrico_km_le": 20.4
+          },
+          "porta_malas_l": 470,
+          "tanque_l": 83,
+          "lugares": 5,
+          "portas": 5,
+          "picape": null,
+          "fonte_url": "https://www.denza.com/br/B5.html",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "dimensoes_mm": {
+            "comprimento": 4888,
+            "largura": 1970,
+            "largura_com_retrovisores": null,
+            "altura": 1920,
+            "entre_eixos": 2800,
+            "altura_livre_solo": 220
+          },
+          "peso_kg": 2897,
+          "pneus": "265/65 R18",
+          "equipamentos": {
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_liga_leve": true,
+            "carplay_android_auto": null,
+            "airbags": 10,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 15.6,
+            "rodas_polegadas": 18,
+            "destaques": [
+              "Tração 4x4 com reduzida e bloqueio de diferenciais dianteiro e traseiro",
+              "16 modos de condução (inclui U-Turn e Crawl)",
+              "Head-up display de 50\"",
+              "Som Devialet com 18 alto-falantes",
+              "Bancos dianteiros com massagem e ventilação",
+              "Teto solar panorâmico com cortina elétrica",
+              "Capacidade de reboque de 2,5 t",
+              "Estepe em tamanho normal",
+              "Estribo lateral fixo",
+              "Carregamento AC 11 kW / DC 100 kW"
+            ]
+          },
+          "observacoes": "Potência combinada 505 kW (687 cv), torque 760 Nm. Motor a combustão 143 kW/273 Nm; motores elétricos 200 kW + 285 kW. Autonomia combinada NEDC: 920 km. Airbags: 11 na GS segundo o catálogo; a GL não tem o airbag de joelho do motorista (10). Ano-modelo 2027 segundo listagem da Webmotors (o site oficial não informa). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"B5 GS DM\"."
+        },
+        {
+          "id": "denza-b5-gs-2027",
+          "versao": "GS",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": "Preço não divulgado no site oficial da Denza Brasil",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 Turbo longitudinal DMO + dois motores elétricos (4WD)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 194,
+              "eletrico": 659,
+              "combinada": 687
+            },
+            "torque_kgfm": {
+              "gasolina": 27.8,
+              "eletrico": 77.5,
+              "combinada": 77.5
+            },
+            "bateria_kwh": 31.8,
+            "autonomia_eletrica_km": 100,
+            "autonomia_ciclo": "NEDC"
+          },
+          "transmissao": {
+            "tipo": "DHT",
+            "marchas": null
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.8,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 8.4,
+            "estrada_gasolina": 7.9,
+            "cidade_eletrico_km_le": 23,
+            "estrada_eletrico_km_le": 20.4
+          },
+          "porta_malas_l": 470,
+          "tanque_l": 83,
+          "lugares": 5,
+          "portas": 5,
+          "picape": null,
+          "fonte_url": "https://www.denza.com/br/B5.html",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "dimensoes_mm": {
+            "comprimento": 4921,
+            "largura": 1970,
+            "largura_com_retrovisores": null,
+            "altura": 1930,
+            "entre_eixos": 2800,
+            "altura_livre_solo": 310
+          },
+          "peso_kg": 3055,
+          "pneus": "275/55 R20",
+          "equipamentos": {
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_liga_leve": true,
+            "carplay_android_auto": null,
+            "airbags": 11,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 15.6,
+            "rodas_polegadas": 20,
+            "destaques": [
+              "Suspensão hidráulica adaptativa DiSus-P (140 mm de curso de altura)",
+              "Tração 4x4 com reduzida e bloqueio de diferenciais",
+              "Tela de 12,3\" para o passageiro",
+              "Bancos em couro Nappa com massagem, ventilação e aquecimento",
+              "Bancos traseiros ventilados e aquecidos",
+              "Volante aquecido",
+              "Retrovisor interno digital",
+              "Dois carregadores por indução de 50 W",
+              "Estribos laterais retráteis",
+              "Chave UWB"
+            ]
+          },
+          "observacoes": "Potência combinada 505 kW (687 cv), torque 760 Nm. Motor a combustão 143 kW/273 Nm; motores elétricos 200 kW + 285 kW. Autonomia combinada NEDC: 920 km. Ano-modelo 2027 segundo listagem da Webmotors (o site oficial não informa). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"B5 GS DM\"."
+        }
+      ]
+    },
+    {
+      "id": "denza-z9-gt",
+      "modelo": "Z9 GT",
+      "categoria": "Perua/Station Wagon",
+      "subcategoria": "Shooting brake",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/denza-z9-gt.webp",
+        "fonte_imagem": "https://evdrops.com.br/wp-content/uploads/2025/09/Denza3.jpg",
+        "pagina_origem": "https://evdrops.com.br/vendido-no-brasil-denza-z9gt-deve-ter-versao-com-bateria-para-1-036-km/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.denza.com/br/denza-z9gt.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.denza.com/material/__CN/denza-site/denza-brazil/z9gt/maintenance/ficha_tecnica_denzaZ9GT.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.webmotors.com.br/denza",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "denza-z9-gt-ev-awd-2026",
+          "versao": "EV AWD",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": "Preço não divulgado no site oficial da Denza Brasil",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Três motores elétricos (1 dianteiro + 2 traseiros), 850 kW, bateria Blade 2.0 de 122,4 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 1156
+            },
+            "torque_kgfm": {
+              "eletrico": 123.4
+            },
+            "bateria_kwh": 122.4,
+            "autonomia_eletrica_km": 476,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 2.7,
+            "velocidade_maxima_kmh": 270
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 5180,
+            "largura": 1990,
+            "largura_com_retrovisores": null,
+            "altura": 1490,
+            "entre_eixos": 3125,
+            "altura_livre_solo": 120
+          },
+          "peso_kg": 2930,
+          "porta_malas_l": 495,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "255/40 R21",
+          "picape": null,
+          "equipamentos": {
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_liga_leve": true,
+            "carplay_android_auto": null,
+            "airbags": null,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 17.3,
+            "rodas_polegadas": 21,
+            "destaques": [
+              "1.156 cv (850 kW) e 0-100 km/h em 2,7 s",
+              "Plataforma e³ com três motores, vetorização de torque e Crab Walk",
+              "Esterçamento das rodas traseiras",
+              "Suspensão hidráulica adaptativa DiSus-P",
+              "Freios de carbono-cerâmica",
+              "LiDAR e DiPilot 300 com navegação em piloto automático",
+              "Head-up display AR de 50\"",
+              "Som Devialet com 20 alto-falantes",
+              "Ar-condicionado de 4 zonas",
+              "Bancos com massagem, ventilação e aquecimento (dianteiros e traseiros)",
+              "Flash Charging: 10% a 70% em 5 min",
+              "Porta-malas dianteiro de 53 L"
+            ]
+          },
+          "fonte_url": "https://www.denza.com/br/denza-z9gt.html",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Autonomia NEDC: 658 km. Airbags: ficha lista frontais, laterais dianteiros, lateral dianteiro externo, laterais traseiros e cortinas, sem informar o total. Ano-modelo 2026 segundo listagem da Webmotors (o site oficial não informa)."
+        }
+      ]
+    },
+    {
+      "id": "denza-d9",
+      "modelo": "D9",
+      "categoria": "Minivan",
+      "subcategoria": "Minivan de luxo",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/denza-d9.webp",
+        "fonte_imagem": "https://imgcdn.zigwheels.my/large/gallery/exterior/181/2540/denza-d9-side-view-629654.jpg",
+        "pagina_origem": "https://www.zigwheels.my/new-cars/denza/d9"
+      },
+      "fontes": [
+        {
+          "url": "https://www.denza.com/br/denza-d9.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.denza.com/material/__CN/denza-site/denza-brazil/d9/maintenance/ficha_tecnica_DenzaD9.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.tabelafipebrasil.com/carros/DENZA/D9-AWD/2027-Eletrico",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.vrum.com.br/noticias/2026/07/7463277-denza-d9-ganha-nova-versao-com-autonomia-de-1-480-km.html",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "denza-d9-ev-awd-2027",
+          "versao": "EV AWD",
+          "ano_modelo": 2027,
+          "status": "Pré-venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": "Preço não divulgado no site oficial da Denza Brasil (página do modelo marcada \"Em breve\")",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Dois motores elétricos (340 kW dianteiro + 70 kW traseiro), bateria Blade 2.0 de 115 kWh",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 557
+            },
+            "torque_kgfm": {
+              "eletrico": 45.4
+            },
+            "bateria_kwh": 115,
+            "autonomia_eletrica_km": 421,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.3,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": 5250,
+            "largura": 1960,
+            "largura_com_retrovisores": null,
+            "altura": 1900,
+            "entre_eixos": 3110,
+            "altura_livre_solo": 130
+          },
+          "peso_kg": 2995,
+          "porta_malas_l": 689,
+          "tanque_l": null,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": "235/60 R18",
+          "picape": null,
+          "equipamentos": {
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_liga_leve": true,
+            "carplay_android_auto": null,
+            "airbags": null,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 15.6,
+            "rodas_polegadas": 18,
+            "destaques": [
+              "7 lugares (2+2+3)",
+              "Poltronas Zero Gravity na 2ª fileira com massagem, ventilação, aquecimento e apoio de pernas elétrico",
+              "Portas laterais elétricas",
+              "Suspensão DiSus-C",
+              "Som Devialet com 16 alto-falantes e Dolby Atmos",
+              "Head-up display de 12\"",
+              "Telas de entretenimento para a 2ª fileira",
+              "Ar-condicionado de 3 zonas com unidade independente na 3ª fileira",
+              "Compartimento refrigerado e aquecido",
+              "Flash Charging: 10% a 70% em 5 min",
+              "DiPilot 5"
+            ]
+          },
+          "fonte_url": "https://www.denza.com/br/denza-d9.html",
+          "campos_fonte_secundaria": [
+            "ano_modelo"
+          ],
+          "observacoes": "Página oficial marcada \"Em breve\" com configurador (\"Monte o seu\") disponível; tratado como pré-venda. Autonomia NEDC: 650 km. Airbags: ficha lista frontais, laterais, lateral dianteiro externo, laterais da 2ª fileira e cortinas, sem informar o total. Ano-modelo 2027 segundo a Tabela FIPE (o site oficial não informa)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "marca": "Avatr",
+  "slug": "avatr",
+  "site_oficial": "https://avatr.caoachangan.com.br",
+  "coletado_em": "2026-10-21",
+  "modelos": [
+    {
+      "id": "avatr-11",
+      "modelo": "11",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV cupê elétrico de luxo",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "China",
+      "imagem": {
+        "arquivo": "img/carros/avatr-11.webp",
+        "fonte_imagem": "https://imgcdn.zigwheels.co.th/large/gallery/exterior/117/3847/avatr-11-side-view-712706.jpg",
+        "pagina_origem": "https://www.zigwheels.co.th/en/new-cars/avatr/11/images"
+      },
+      "fontes": [
+        {
+          "url": "https://avatr.caoachangan.com.br/novos/avatr-11",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://caoachangan.com.br/novos/avatr-11",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.webmotors.com.br/caoa-changan/avatr-11/2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://revistacarro.com.br/caoa-changan-anuncia-precos-do-avatr-11-no-brasil-suv-eletrico-de-luxo-parte-de-r-599-mil/",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "status": "À venda",
+          "preco_obs": null,
+          "consumo": {
+            "cidade_eletrico_km_le": 35,
+            "estrada_eletrico_km_le": 32.2
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "porta_malas_l",
+            "motor.torque_kgfm",
+            "tracao"
+          ],
+          "peso_kg": null,
+          "id": "avatr-11-5-lugares-2026",
+          "versao": "5 lugares",
+          "ano_modelo": 2026,
+          "preco_sugerido_brl": 599990,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "2 motores elétricos, bateria de 116 kWh (CATL)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 578
+            },
+            "torque_kgfm": {
+              "eletrico": 66.3
+            },
+            "bateria_kwh": 116,
+            "autonomia_eletrica_km": 497,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.9,
+            "velocidade_maxima_kmh": null
+          },
+          "dimensoes_mm": {
+            "comprimento": 4880,
+            "largura": 1970,
+            "largura_com_retrovisores": null,
+            "altura": 1601,
+            "entre_eixos": 2975,
+            "altura_livre_solo": null
+          },
+          "porta_malas_l": 470,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "fonte_url": "https://avatr.caoachangan.com.br/novos/avatr-11",
+          "observacoes": "Site oficial informa 578 cv, bateria 116 kWh, autonomia 497 km (Inmetro) / 710 km (WLTP) e 0-100 km/h em 3,9 s, sem ficha técnica. Dimensões, porta-malas, torque e tração vêm da ficha da loja oficial CAOA Changan no Webmotors (via busca; página bloqueada para leitura direta). Ano-modelo não informado no site (Webmotors lista 2026). Imprensa cita 585 cv e 66,1 kgfm. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AVATR 11 EV\".",
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": null,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 22,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Configuração de 5 lugares",
+              "Bancos dianteiros Zero Gravity com aquecimento, ventilação e massagem",
+              "Couro semi-anilina e teto em microfibra suede",
+              "Som Meridian com 25 alto-falantes (7.1.4, 2.016 W)",
+              "Cabine HarmonyOS 4",
+              "Condução assistida Huawei QianKun ADS com 3 lidares",
+              "Sistema anticolisão 360° CAS 3.0",
+              "Luz ambiente 256 cores",
+              "Rodas de 22\""
+            ]
+          }
+        },
+        {
+          "status": "À venda",
+          "preco_obs": null,
+          "consumo": {
+            "cidade_eletrico_km_le": 35,
+            "estrada_eletrico_km_le": 32.2
+          },
+          "picape": null,
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "porta_malas_l",
+            "motor.torque_kgfm",
+            "tracao"
+          ],
+          "peso_kg": null,
+          "id": "avatr-11-4-lugares-2026",
+          "versao": "4 lugares",
+          "ano_modelo": 2026,
+          "preco_sugerido_brl": 619900,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "2 motores elétricos, bateria de 116 kWh (CATL)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 578
+            },
+            "torque_kgfm": {
+              "eletrico": 66.3
+            },
+            "bateria_kwh": 116,
+            "autonomia_eletrica_km": 497,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.9,
+            "velocidade_maxima_kmh": null
+          },
+          "dimensoes_mm": {
+            "comprimento": 4880,
+            "largura": 1970,
+            "largura_com_retrovisores": null,
+            "altura": 1601,
+            "entre_eixos": 2975,
+            "altura_livre_solo": null
+          },
+          "porta_malas_l": 470,
+          "tanque_l": null,
+          "lugares": 4,
+          "portas": 5,
+          "pneus": null,
+          "fonte_url": "https://avatr.caoachangan.com.br/novos/avatr-11",
+          "observacoes": "Site oficial informa 578 cv, bateria 116 kWh, autonomia 497 km (Inmetro) / 710 km (WLTP) e 0-100 km/h em 3,9 s, sem ficha técnica. Dimensões, porta-malas, torque e tração vêm da ficha da loja oficial CAOA Changan no Webmotors (via busca; página bloqueada para leitura direta). Ano-modelo não informado no site (Webmotors lista 2026). Imprensa cita 585 cv e 66,1 kgfm. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"AVATR 11 EV\".",
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": null,
+            "ar_condicionado": null,
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 22,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Configuração de 4 lugares com bancos traseiros VIP individuais com ajuste elétrico, ventilação e massagem",
+              "Bancos dianteiros Zero Gravity com aquecimento, ventilação e massagem",
+              "Couro semi-anilina e teto em microfibra suede",
+              "Som Meridian com 25 alto-falantes (7.1.4, 2.016 W)",
+              "Cabine HarmonyOS 4",
+              "Condução assistida Huawei QianKun ADS com 3 lidares",
+              "Sistema anticolisão 360° CAS 3.0",
+              "Luz ambiente 256 cores",
+              "Rodas de 22\""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

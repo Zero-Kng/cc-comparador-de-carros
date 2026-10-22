@@ -1,0 +1,1843 @@
+{
+  "marca": "Mitsubishi",
+  "slug": "mitsubishi",
+  "site_oficial": "https://www.mitsubishimotors.com.br",
+  "coletado_em": "2026-10-19",
+  "modelos": [
+    {
+      "id": "mitsubishi-triton",
+      "modelo": "Triton",
+      "categoria": "Picape",
+      "subcategoria": "Picape média",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/mitsubishi-triton.webp",
+        "fonte_imagem": "https://blog.olhonocarro.com.br/wp-content/uploads/2025/05/mitsubishi-l200-triton-gls-2026-lateral.jpg",
+        "pagina_origem": "https://www.olhonocarro.com.br/blog/mitsubishi-l200-triton-gls-2026-avaliacao-completa/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.mitsubishimotors.com.br/picapes/nova-triton",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.mitsubishimotors.com.br/picapes/triton-bf-ms",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Nova_Triton_GLS_22_06_d22ee87d15.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Nova_Triton_KATANA_22_06_b95e10d5ad.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://jkcarros.com.br/?p=37525",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gruposentinela.com.br/?p=15684",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mitsubishi-triton-gl-mt-2027",
+          "versao": "GL MT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": "Preço sob consulta (site indica venda direta).",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.4 Bi-Turbo Diesel 4N16 SHP 16V DOHC MIVEC",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 205
+            },
+            "torque_kgfm": {
+              "diesel": 47.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Manual",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 10.8,
+            "estrada_diesel": 12.2
+          },
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": 222
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": 75,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/65 R17",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1000
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Com fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmbio manual de 6 marchas",
+              "Tração 4x4 Easy Select com reduzida",
+              "7 airbags",
+              "Reboque de até 3.500 kg",
+              "Piloto automático",
+              "Assistente de reboque (TSA)"
+            ]
+          },
+          "fonte_url": "https://www.mitsubishimotors.com.br/picapes/nova-triton?versao=GL%20MT",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Sem ficha técnica em PDF para esta versão; dimensões externas e peso não divulgados na página. Carga \"até 1.000 kg\". Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Triton GL MT4\"."
+        },
+        {
+          "id": "mitsubishi-triton-gl-at-2027",
+          "versao": "GL AT",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": null,
+          "preco_obs": "Preço sob consulta (site indica venda direta).",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.4 Bi-Turbo Diesel 4N16 SHP 16V DOHC MIVEC",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 205
+            },
+            "torque_kgfm": {
+              "diesel": 47.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.5,
+            "estrada_diesel": 11.7
+          },
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": 222
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": 75,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/65 R17",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1000
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Com fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmbio automático de 6 marchas com Sport Mode",
+              "Tração 4x4 Easy Select com reduzida",
+              "7 airbags",
+              "Reboque de até 3.500 kg",
+              "Piloto automático"
+            ]
+          },
+          "fonte_url": "https://www.mitsubishimotors.com.br/picapes/nova-triton?versao=GL%20AT",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Sem ficha técnica em PDF para esta versão; dimensões externas e peso não divulgados na página. Carga \"até 1.000 kg\". Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Triton GL AT4\"."
+        },
+        {
+          "id": "mitsubishi-triton-gls-4x4-2027",
+          "versao": "GLS 4x4",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 274990,
+          "preco_obs": "Preço à vista de tabela (\"Condição de outubro\"), frete incluso, válido até 31/10/2026 para todo o Brasil exceto Zona Franca de Manaus e Maranhão.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.4 Bi-Turbo Diesel 4N16 SHP 16V DOHC MIVEC",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 205
+            },
+            "torque_kgfm": {
+              "diesel": 47.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.5,
+            "estrada_diesel": 11.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 5320,
+            "largura": 1865,
+            "largura_com_retrovisores": null,
+            "altura": 1795,
+            "entre_eixos": 3130,
+            "altura_livre_solo": 222
+          },
+          "peso_kg": 2070,
+          "porta_malas_l": null,
+          "tanque_l": 75,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/65 R17",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1140
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Manual",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": "Com fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Chave presencial (KOS)",
+              "Sensor de chuva",
+              "Engate de reboque",
+              "Protetor de cárter",
+              "Tração 4x4 Easy Select"
+            ]
+          },
+          "fonte_url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Nova_Triton_GLS_22_06_d22ee87d15.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Bancos em couro opcionais; sensores de estacionamento traseiros como acessório. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Triton GLS AT4\"."
+        },
+        {
+          "id": "mitsubishi-triton-tarmac-2027",
+          "versao": "Tarmac",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 264990,
+          "preco_obs": "Preço à vista de tabela (\"Condição de outubro\"), frete incluso, válido até 31/10/2026 para todo o Brasil exceto Zona Franca de Manaus e Maranhão.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.4 Bi-Turbo Diesel 4N16 SHP 16V DOHC MIVEC",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 205
+            },
+            "torque_kgfm": {
+              "diesel": 47.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 10.2,
+            "estrada_diesel": 12.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 5360,
+            "largura": 1930,
+            "largura_com_retrovisores": null,
+            "altura": 1815,
+            "entre_eixos": 3130,
+            "altura_livre_solo": 222
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/50 R20",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1230
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": null,
+            "painel_digital": false,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Som premium JBL com subwoofer",
+              "Capota marítima rígida",
+              "Bancos em couro e suede perfurado",
+              "Interior all black",
+              "Rodas de 20\" diamantadas",
+              "Projetor de logo nas portas"
+            ]
+          },
+          "fonte_url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Nova_Triton_TARMAC_22_06_34b178e648.pdf",
+          "campos_fonte_secundaria": [
+            "consumo"
+          ],
+          "observacoes": "Versão 4x2. Ficha técnica não preenche tanque e peso; carga útil de até 1.230 kg informada na página. Consumo de referência Inmetro da Triton 4x2 AT citado pela imprensa (JK Carros); a Tarmac não consta nominalmente no PBEV 2026."
+        },
+        {
+          "id": "mitsubishi-triton-hpe-2027",
+          "versao": "HPE",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 303890,
+          "preco_obs": "Preço à vista de tabela (\"Condição de outubro\"), frete incluso, válido até 31/10/2026 para todo o Brasil exceto Zona Franca de Manaus e Maranhão.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.4 Bi-Turbo Diesel 4N16 SHP 16V DOHC MIVEC",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 205
+            },
+            "torque_kgfm": {
+              "diesel": 47.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.5,
+            "estrada_diesel": 11.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 5320,
+            "largura": 1865,
+            "largura_com_retrovisores": null,
+            "altura": 1795,
+            "entre_eixos": 3130,
+            "altura_livre_solo": 222
+          },
+          "peso_kg": 2095,
+          "porta_malas_l": null,
+          "tanque_l": 75,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/60 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1115
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": null,
+            "painel_digital": false,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Banco do motorista elétrico",
+              "Circulador de ar no teto",
+              "Carregador sem fio",
+              "Faróis e neblina em LED",
+              "Sensores de estacionamento traseiros"
+            ]
+          },
+          "fonte_url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Nova_Triton_HPE_22_06_cdc215bbb9.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Triton HPE AT4\"."
+        },
+        {
+          "id": "mitsubishi-triton-hpe-s-2027",
+          "versao": "HPE-S",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 330790,
+          "preco_obs": "Preço à vista de tabela (\"Condição de outubro\"), frete incluso, válido até 31/10/2026 para todo o Brasil exceto Zona Franca de Manaus e Maranhão.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.4 Bi-Turbo Diesel 4N16 SHP 16V DOHC MIVEC",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 205
+            },
+            "torque_kgfm": {
+              "diesel": 47.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.5,
+            "estrada_diesel": 11.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 5320,
+            "largura": 1865,
+            "largura_com_retrovisores": null,
+            "altura": 1795,
+            "entre_eixos": 3130,
+            "altura_livre_solo": 222
+          },
+          "peso_kg": 2105,
+          "porta_malas_l": null,
+          "tanque_l": 75,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/60 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1105
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 8,
+            "carplay_android_auto": null,
+            "painel_digital": false,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Tração Super Select II com 4H permanente",
+              "Drive Mode",
+              "ACC",
+              "Frenagem autônoma (FCM)",
+              "Alerta de ponto cego e tráfego cruzado",
+              "Aviso de saída de faixa (LDW)",
+              "Farol alto automático"
+            ]
+          },
+          "fonte_url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Nova_Triton_HPES_22_06_f745ac8f0f.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Triton HPE-S AT4\"."
+        },
+        {
+          "id": "mitsubishi-triton-katana-2027",
+          "versao": "Katana",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 349890,
+          "preco_obs": "Preço à vista de tabela (\"Condição de outubro\"), frete incluso, válido até 31/10/2026 para todo o Brasil exceto Zona Franca de Manaus e Maranhão.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.4 Bi-Turbo Diesel 4N16 SHP 16V DOHC MIVEC",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 205
+            },
+            "torque_kgfm": {
+              "diesel": 47.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.5,
+            "estrada_diesel": 11.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 5360,
+            "largura": 1930,
+            "largura_com_retrovisores": null,
+            "altura": 1815,
+            "entre_eixos": 3130,
+            "altura_livre_solo": 222
+          },
+          "peso_kg": 2130,
+          "porta_malas_l": null,
+          "tanque_l": 75,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/50 R20",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1080
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmera 360°",
+              "Multimídia 9\" com CarPlay sem fio",
+              "Bloqueio do diferencial traseiro",
+              "Rodas de 20\" escurecidas",
+              "Alargadores de para-lama",
+              "Santo-antônio estilizado",
+              "Controle de vetorização de torque (AYC)"
+            ]
+          },
+          "fonte_url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Nova_Triton_KATANA_22_06_b95e10d5ad.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Triton KATANA AT4\"."
+        },
+        {
+          "id": "mitsubishi-triton-savana-2027",
+          "versao": "Savana",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 354990,
+          "preco_obs": "Preço à vista de tabela (\"Condição de outubro\"), frete incluso, válido até 31/10/2026 para todo o Brasil exceto Zona Franca de Manaus e Maranhão.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.4 Bi-Turbo Diesel 4N16 SHP 16V DOHC MIVEC",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 205
+            },
+            "torque_kgfm": {
+              "diesel": 47.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.5,
+            "estrada_diesel": 11.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 5360,
+            "largura": 1930,
+            "largura_com_retrovisores": null,
+            "altura": 1815,
+            "entre_eixos": 3130,
+            "altura_livre_solo": 222
+          },
+          "peso_kg": 2130,
+          "porta_malas_l": null,
+          "tanque_l": 75,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/60 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1080
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pneus Goodyear Wrangler Duratrac RT",
+              "Bagageiro de teto em X-Liner",
+              "Câmera 360°",
+              "ACC",
+              "Rodas pretas de 18\"",
+              "Costuras laranja nos bancos"
+            ]
+          },
+          "fonte_url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Nova_Triton_SAVANA_22_06_185b39a04b.pdf",
+          "campos_fonte_secundaria": [
+            "consumo"
+          ],
+          "observacoes": "Consumo Inmetro das demais versões 4x4 AT da Triton 2027 citado pela imprensa; a versão não consta nominalmente no PBEV 2026."
+        },
+        {
+          "id": "mitsubishi-triton-sertoes-2027",
+          "versao": "Sertões",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 359990,
+          "preco_obs": "Preço à vista de tabela (\"Condição de outubro\"), frete incluso, válido até 31/10/2026 para todo o Brasil exceto Zona Franca de Manaus e Maranhão.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.4 Bi-Turbo Diesel 4N16 SHP 16V DOHC MIVEC",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 205
+            },
+            "torque_kgfm": {
+              "diesel": 47.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.5,
+            "estrada_diesel": 11.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 5360,
+            "largura": 1930,
+            "largura_com_retrovisores": null,
+            "altura": 1815,
+            "entre_eixos": 3130,
+            "altura_livre_solo": 222
+          },
+          "peso_kg": 2130,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/60 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1080
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Edição temática Sertões",
+              "Bagageiro de teto exclusivo",
+              "Skid plates em X-Liner",
+              "Câmera 360°",
+              "ACC"
+            ]
+          },
+          "fonte_url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Triton_SERTOES_MY_27_dc5c3bb270.pdf",
+          "campos_fonte_secundaria": [
+            "consumo"
+          ],
+          "observacoes": "Versão listada nos dados do site (preço e ficha técnica), mas não no seletor principal de versões da Triton. Ficha não preenche o tanque. Consumo Inmetro das demais versões 4x4 AT da Triton 2027 citado pela imprensa; a versão não consta nominalmente no PBEV 2026."
+        },
+        {
+          "id": "mitsubishi-triton-bf-ms-2027",
+          "versao": "BF///MS",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 359990,
+          "preco_obs": "Preço à vista de tabela (\"Condição de outubro\"), frete incluso, válido até 31/10/2026 para todo o Brasil exceto Zona Franca de Manaus e Maranhão.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.4 Bi-Turbo Diesel 4N16 SHP 16V DOHC MIVEC",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 205
+            },
+            "torque_kgfm": {
+              "diesel": 47.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 6
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.5,
+            "estrada_diesel": 11.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 5360,
+            "largura": 1930,
+            "largura_com_retrovisores": null,
+            "altura": 1815,
+            "entre_eixos": 3130,
+            "altura_livre_solo": 222
+          },
+          "peso_kg": 2130,
+          "porta_malas_l": null,
+          "tanque_l": 75,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "265/50 R20",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": 1080
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Som premium JBL com subwoofer",
+              "Estribos elétricos automáticos",
+              "Bancos em couro natural bicolor",
+              "Teto preto brilhante",
+              "Pneus Goodyear Duratrac"
+            ]
+          },
+          "fonte_url": "https://www.mitsubishimotors.com.br/picapes/triton-bf-ms",
+          "campos_fonte_secundaria": [
+            "consumo"
+          ],
+          "observacoes": "Versão especial com página própria (triton-bf-ms). Consumo Inmetro das demais versões 4x4 AT da Triton 2027 citado pela imprensa; a versão não consta nominalmente no PBEV 2026."
+        }
+      ]
+    },
+    {
+      "id": "mitsubishi-eclipse-cross",
+      "modelo": "Eclipse Cross",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/mitsubishi-eclipse-cross.webp",
+        "fonte_imagem": "https://blog.olhonocarro.com.br/wp-content/uploads/2025/04/mitsubishi-eclipse-cross-hpe-s-2026-lateral.jpg",
+        "pagina_origem": "https://www.olhonocarro.com.br/blog/mitsubishi-eclipse-cross-hpe-s-2026-avaliacao-completa/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.mitsubishimotors.com.br/suv-e-crossovers/eclipse-cross",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Eclipse_Cross_GLS_MY_27_5d2277485f.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Eclipse_Cross_HPE_S_4x4_MY_27_df7f65a5b4.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mitsubishi-eclipse-cross-gls-2027",
+          "versao": "GLS",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 155990,
+          "preco_obs": "Preço à vista de tabela (\"Condição de outubro\"), frete incluso, válido até 31/10/2026 para todo o Brasil exceto Zona Franca de Manaus e Maranhão.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 MIVEC Turbo 4B40 (injeção direta)",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 165
+            },
+            "torque_kgfm": {
+              "gasolina": 25.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 10.3,
+            "estrada_gasolina": 11.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4545,
+            "largura": 1805,
+            "largura_com_retrovisores": null,
+            "altura": 1685,
+            "entre_eixos": 2607,
+            "altura_livre_solo": 215
+          },
+          "peso_kg": 1570,
+          "porta_malas_l": 405,
+          "tanque_l": 63,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": null,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 1.5 turbo de 165 cv",
+              "Airbag de joelho do motorista",
+              "Saídas de ar traseiras no assoalho",
+              "Cobertura do porta-malas"
+            ]
+          },
+          "fonte_url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Eclipse_Cross_GLS_MY_27_5d2277485f.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "CVT INVECS-III com 8 marchas simuladas. Ficha não lista central multimídia nem câmera de ré nesta versão; couro opcional. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Eclipse Cross HPE\"."
+        },
+        {
+          "id": "mitsubishi-eclipse-cross-rush-2027",
+          "versao": "Rush",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 176990,
+          "preco_obs": "Preço à vista de tabela (\"Condição de outubro\"), frete incluso, válido até 31/10/2026 para todo o Brasil exceto Zona Franca de Manaus e Maranhão.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 MIVEC Turbo 4B40 (injeção direta)",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 165
+            },
+            "torque_kgfm": {
+              "gasolina": 25.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 10.3,
+            "estrada_gasolina": 11.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4545,
+            "largura": 1805,
+            "largura_com_retrovisores": null,
+            "altura": 1685,
+            "entre_eixos": 2607,
+            "altura_livre_solo": 215
+          },
+          "peso_kg": 1570,
+          "porta_malas_l": 405,
+          "tanque_l": 63,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": false,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Multimídia 10,25\" com CarPlay/Android Auto sem fio",
+              "Câmera de ré com linhas dinâmicas",
+              "Rack de teto preto"
+            ]
+          },
+          "fonte_url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Eclipse_Cross_RUSH_MY_27_7350035f07.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "CVT INVECS-III com 8 marchas simuladas. Couro opcional. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Eclipse Cross RUSH\"."
+        },
+        {
+          "id": "mitsubishi-eclipse-cross-hpe-2027",
+          "versao": "HPE",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 189990,
+          "preco_obs": "Preço à vista de tabela (\"Condição de outubro\"), frete incluso, válido até 31/10/2026 para todo o Brasil exceto Zona Franca de Manaus e Maranhão.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 MIVEC Turbo 4B40 (injeção direta)",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 165
+            },
+            "torque_kgfm": {
+              "gasolina": 25.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 10.3,
+            "estrada_gasolina": 11.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4545,
+            "largura": 1805,
+            "largura_com_retrovisores": null,
+            "altura": 1685,
+            "entre_eixos": 2607,
+            "altura_livre_solo": 215
+          },
+          "peso_kg": 1570,
+          "porta_malas_l": 405,
+          "tanque_l": 63,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": false,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Head-up display",
+              "Bancos dianteiros elétricos",
+              "Faróis e neblina em LED",
+              "Paddle shifters",
+              "Chave presencial (KOS)"
+            ]
+          },
+          "fonte_url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Eclipse_Cross_HPE_23_06_dcbd9981da.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "CVT INVECS-III com 8 marchas simuladas. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Eclipse Cross HPE\"."
+        },
+        {
+          "id": "mitsubishi-eclipse-cross-tarmac-2027",
+          "versao": "Tarmac",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 194990,
+          "preco_obs": "Preço à vista de tabela (\"Condição de outubro\"), frete incluso, válido até 31/10/2026 para todo o Brasil exceto Zona Franca de Manaus e Maranhão.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 MIVEC Turbo 4B40 (injeção direta)",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 165
+            },
+            "torque_kgfm": {
+              "gasolina": 25.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 10.3,
+            "estrada_gasolina": 11.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4545,
+            "largura": 1805,
+            "largura_com_retrovisores": null,
+            "altura": 1685,
+            "entre_eixos": 2607,
+            "altura_livre_solo": 215
+          },
+          "peso_kg": 1570,
+          "porta_malas_l": 405,
+          "tanque_l": 63,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/45 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": false,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": false,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 10.25,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Visual Tarmac com teto preto",
+              "Interior all black com suede",
+              "Head-up display",
+              "Rodas de 19\"",
+              "Carregador sem fio"
+            ]
+          },
+          "fonte_url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Eclipse_Cross_Tarmac_EDITAVEL_MY_27_ab9eb47a4c.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "CVT INVECS-III com 8 marchas simuladas. Bancos em revestimento premium (sintético) com suede. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Eclipse Cross HPE\"."
+        },
+        {
+          "id": "mitsubishi-eclipse-cross-hpe-s-2027",
+          "versao": "HPE-S",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 220790,
+          "preco_obs": "Preço à vista de tabela (\"Condição de outubro\"), frete incluso, válido até 31/10/2026 para todo o Brasil exceto Zona Franca de Manaus e Maranhão.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 MIVEC Turbo 4B40 (injeção direta)",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 165
+            },
+            "torque_kgfm": {
+              "gasolina": 25.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 10.3,
+            "estrada_gasolina": 11.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4545,
+            "largura": 1805,
+            "largura_com_retrovisores": null,
+            "altura": 1685,
+            "entre_eixos": 2607,
+            "altura_livre_solo": 215
+          },
+          "peso_kg": null,
+          "porta_malas_l": 405,
+          "tanque_l": 63,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/55 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto solar panorâmico duplo",
+              "Multimídia 12,3\"",
+              "ACC",
+              "Frenagem autônoma (FCM)",
+              "Alerta de ponto cego e tráfego cruzado",
+              "Bancos dianteiros aquecidos",
+              "Head-up display"
+            ]
+          },
+          "fonte_url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Eclipse_Cross_HPE_S_MY_27_fac093f123.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "CVT INVECS-III com 8 marchas simuladas. A ficha desta versão não informa o peso. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Eclipse Cross HPE-S\"."
+        },
+        {
+          "id": "mitsubishi-eclipse-cross-hpe-s-4x4-2027",
+          "versao": "HPE-S 4x4",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 230990,
+          "preco_obs": "Preço à vista de tabela (\"Condição de outubro\"), frete incluso, válido até 31/10/2026 para todo o Brasil exceto Zona Franca de Manaus e Maranhão.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 MIVEC Turbo 4B40 (injeção direta)",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 165
+            },
+            "torque_kgfm": {
+              "gasolina": 25.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 10.3,
+            "estrada_gasolina": 11.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4545,
+            "largura": 1805,
+            "largura_com_retrovisores": null,
+            "altura": 1685,
+            "entre_eixos": 2607,
+            "altura_livre_solo": 215
+          },
+          "peso_kg": 1570,
+          "porta_malas_l": 405,
+          "tanque_l": 60,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/45 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Tração S-AWC (Auto/Snow/Gravel)",
+              "Tampa traseira elétrica com sensor de pé",
+              "Teto solar panorâmico duplo",
+              "Bancos dianteiros aquecidos",
+              "ACC",
+              "Head-up display"
+            ]
+          },
+          "fonte_url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Eclipse_Cross_HPE_S_4x4_MY_27_df7f65a5b4.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Tração integral eletrônica S-AWC. CVT INVECS-III com 8 marchas simuladas. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Eclipse Cross HPE-S\"."
+        },
+        {
+          "id": "mitsubishi-eclipse-cross-black-4x4-2027",
+          "versao": "Black 4x4",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 233990,
+          "preco_obs": "Preço à vista de tabela (\"Condição de outubro\"), frete incluso, válido até 31/10/2026 para todo o Brasil exceto Zona Franca de Manaus e Maranhão.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "1.5 MIVEC Turbo 4B40 (injeção direta)",
+            "cilindrada_cm3": 1499,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 165
+            },
+            "torque_kgfm": {
+              "gasolina": 25.5
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "CVT",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 10.3,
+            "estrada_gasolina": 11.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4545,
+            "largura": 1805,
+            "largura_com_retrovisores": null,
+            "altura": 1685,
+            "entre_eixos": 2607,
+            "altura_livre_solo": 215
+          },
+          "peso_kg": 1570,
+          "porta_malas_l": 405,
+          "tanque_l": 60,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "235/45 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": false,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Som premium JBL",
+              "Rodas de 19\" diamantadas escurecidas",
+              "Interior all black com suede",
+              "Tração S-AWC",
+              "Teto solar duplo",
+              "Tampa traseira elétrica"
+            ]
+          },
+          "fonte_url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Eclipse_Cross_BLACK_4x4_MY_27_ff2eeaf56b.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Tração integral eletrônica S-AWC. CVT INVECS-III com 8 marchas simuladas. Bancos em revestimento premium (sintético) com suede. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Eclipse Cross HPE BLACK\"."
+        }
+      ]
+    },
+    {
+      "id": "mitsubishi-outlander-phev",
+      "modelo": "Outlander PHEV",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV médio de 7 lugares",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/mitsubishi-outlander-phev.webp",
+        "fonte_imagem": "https://motorillustrated.com/wp-content/uploads/2026/01/Mitsubishi-Outlander-PHEV-2026-6.jpeg",
+        "pagina_origem": "https://motorillustrated.com/2026-mitsubishi-outlander-phev-unveiled-at-the-montreal-auto-show-with-up-to-72-km-of-electric-range/173216/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.mitsubishimotors.com.br/suv-e-crossovers/outlander",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Outlander_HPES_22_06_e1cda3af72.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Outlander_Signature_22_06_661b5f88cd.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "mitsubishi-outlander-phev-hpe-s-2027",
+          "versao": "HPE-S",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 379990,
+          "preco_obs": "Preço à vista de tabela (\"Condição de outubro\"), frete incluso, válido até 31/10/2026 para todo o Brasil exceto Zona Franca de Manaus e Maranhão.",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.4 MIVEC 4B12 + 2 motores elétricos (PHEV)",
+            "cilindrada_cm3": 2360,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 137,
+              "combinada": 252
+            },
+            "torque_kgfm": {
+              "gasolina": 20.9,
+              "combinada": 45.9
+            },
+            "bateria_kwh": 20,
+            "autonomia_eletrica_km": 58,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.9,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 11.6,
+            "estrada_gasolina": 10.4,
+            "cidade_eletrico_km_le": 27.7,
+            "estrada_eletrico_km_le": 25.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4710,
+            "largura": 1862,
+            "largura_com_retrovisores": null,
+            "altura": 1745,
+            "entre_eixos": 2706,
+            "altura_livre_solo": 203
+          },
+          "peso_kg": 2145,
+          "porta_malas_l": 637,
+          "tanque_l": 56,
+          "lugares": 7,
+          "portas": 4,
+          "pneus": "255/45 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 11,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Híbrido plug-in com 252 cv combinados",
+              "Tração S-AWC Twin Motor",
+              "7 lugares",
+              "11 airbags",
+              "Câmera 360°",
+              "Painel digital 12,3\"",
+              "Tomadas 120 V de 1.500 W",
+              "One Pedal Driving"
+            ]
+          },
+          "fonte_url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Outlander_HPES_22_06_e1cda3af72.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Motores elétricos: dianteiro 116 cv / 26,0 kgfm, traseiro 136 cv / 19,9 kgfm. Bateria de 20 kWh; autonomia elétrica de até 58 km e total de até 680 km (fabricante). 0–100 km/h no modo Power. Porta-malas: 637 L com 5 lugares (3ª fila rebatida), 284 L com 7 lugares. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Outlander HPE-S E\"."
+        },
+        {
+          "id": "mitsubishi-outlander-phev-signature-2027",
+          "versao": "Signature",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 399990,
+          "preco_obs": "Preço à vista de tabela (\"Condição de outubro\"), frete incluso, válido até 31/10/2026 para todo o Brasil exceto Zona Franca de Manaus e Maranhão. Site exibe a observação \"(Pessoa Jurídica ou Produtor Rural)\" junto ao preço.",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.4 MIVEC 4B12 + 2 motores elétricos (PHEV)",
+            "cilindrada_cm3": 2360,
+            "cilindros": 4,
+            "turbo": false,
+            "potencia_cv": {
+              "gasolina": 137,
+              "combinada": 252
+            },
+            "torque_kgfm": {
+              "gasolina": 20.9,
+              "combinada": 45.9
+            },
+            "bateria_kwh": 20,
+            "autonomia_eletrica_km": 58,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": null
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.9,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 11.6,
+            "estrada_gasolina": 10.4,
+            "cidade_eletrico_km_le": 27.7,
+            "estrada_eletrico_km_le": 25.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4710,
+            "largura": 1862,
+            "largura_com_retrovisores": null,
+            "altura": 1745,
+            "entre_eixos": 2706,
+            "altura_livre_solo": 203
+          },
+          "peso_kg": 2135,
+          "porta_malas_l": 637,
+          "tanque_l": 56,
+          "lugares": 7,
+          "portas": 4,
+          "pneus": "255/45 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 11,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Som Bose com subwoofer",
+              "Head-up display de 10,8\"",
+              "Couro premium preto com detalhes marrons",
+              "Bancos com 12 ajustes elétricos e lombar",
+              "Cortinas nas portas traseiras",
+              "Câmera 360°",
+              "Teto solar panorâmico"
+            ]
+          },
+          "fonte_url": "https://media.mitsubishimotors.com.br/uploads/originals/FT_Outlander_Signature_22_06_661b5f88cd.pdf",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Motores elétricos: dianteiro 116 cv / 26,0 kgfm, traseiro 136 cv / 19,9 kgfm. Bateria de 20 kWh; autonomia elétrica de até 58 km e total de até 680 km (fabricante). 0–100 km/h no modo Power. Porta-malas: 637 L com 5 lugares (3ª fila rebatida), 284 L com 7 lugares. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Outlander HPE-S E\"."
+        }
+      ]
+    }
+  ]
+}

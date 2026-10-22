@@ -1,0 +1,3743 @@
+{
+  "marca": "BMW",
+  "slug": "bmw",
+  "site_oficial": "https://www.bmw.com.br",
+  "coletado_em": "2026-10-21",
+  "modelos": [
+    {
+      "id": "bmw-serie-1",
+      "modelo": "Série 1",
+      "categoria": "Hatch",
+      "subcategoria": "Hatch médio premium",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Alemanha",
+      "imagem": {
+        "arquivo": "img/carros/bmw-serie-1.webp",
+        "fonte_imagem": "https://imagecdnsa.zigwheels.ae/large/gallery/exterior/4/2115/bmw-1-series-side-view-157066.jpg",
+        "pagina_origem": "https://www.zigwheels.ae/new-cars/bmw/1-series/images"
+      },
+      "fontes": [
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/m-series/bmw-m-135/bmw-m135.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0455804PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.bmw.com.br/pt/all-models.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "bmw-serie-1-m135-xdrive-2026",
+          "versao": "M135 xDrive",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 462950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2026), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 317
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.9,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 9.7,
+            "estrada_gasolina": 12.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4361,
+            "largura": 1800,
+            "largura_com_retrovisores": null,
+            "altura": 1459,
+            "entre_eixos": 2670,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 380,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.7,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 2.0 turbo de 317 cv",
+              "Tração integral xDrive",
+              "Driving Assistant Professional",
+              "Parking Assistant Plus",
+              "Head-Up Display",
+              "Som Harman Kardon",
+              "Digital Key Plus",
+              "BMW Iconic Glow",
+              "Volante M com aletas",
+              "Suspensão M adaptativa",
+              "Freios M Sport"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/m-series/bmw-m-135/bmw-m135.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Lançado no Brasil em 24/02/2026 (preço de lançamento R$ 459.950). Combustível: gasolina premium segundo o site. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"M135 xDrive\"."
+        }
+      ]
+    },
+    {
+      "id": "bmw-serie-2-gran-coupe",
+      "modelo": "Série 2 Gran Coupé",
+      "categoria": "Sedan",
+      "subcategoria": "Sedã cupê (Gran Coupé) compacto",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Alemanha",
+      "imagem": {
+        "arquivo": "img/carros/bmw-serie-2-gran-coupe.webp",
+        "fonte_imagem": "https://production.autoforce.com/uploads/picture/image/269978364/main_webp_comprar-serie-2-gran-coupe-2026_5092644cd7.webp",
+        "pagina_origem": "https://www.originalbmw.com.br/novos/serie-2-gran-coupe-2026"
+      },
+      "fontes": [
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/2-series/gran-coupe/bmw-2-series-gran-coupe.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/m-series/m235-xdrive-gran-coupe/bmw-m235-xdrive-gran-coupe.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0451343PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/bmw/220-gran-coupe-m-sport-2-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/bmw/235i-gran-coupe-m-xdrive-2-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "bmw-serie-2-gran-coupe-220-m-sport-2026",
+          "versao": "220 M Sport",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 334950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2026), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 30.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.3,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 11.4,
+            "estrada_gasolina": 14.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4546,
+            "largura": 1800,
+            "largura_com_retrovisores": null,
+            "altura": 1445,
+            "entre_eixos": 2670,
+            "altura_livre_solo": 145
+          },
+          "peso_kg": 1375,
+          "porta_malas_l": 360,
+          "tanque_l": 49,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/40 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.7,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Parking Assistant Plus",
+              "Head-Up Display",
+              "Teto solar panorâmico",
+              "Digital Key Plus",
+              "BMW Iconic Glow",
+              "Rodas 18\""
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/2-series/gran-coupe/bmw-2-series-gran-coupe.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.assistente_permanencia_faixa",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.banco_motorista_eletrico",
+            "peso_kg",
+            "porta_malas_l",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"220 MSP\"."
+        },
+        {
+          "id": "bmw-serie-2-gran-coupe-m235-xdrive-2026",
+          "versao": "M235 xDrive",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 492950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2026), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 317
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.9,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 8.9,
+            "estrada_gasolina": 12.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4552,
+            "largura": 1801,
+            "largura_com_retrovisores": null,
+            "altura": 1445,
+            "entre_eixos": 2670,
+            "altura_livre_solo": 145
+          },
+          "peso_kg": 1623,
+          "porta_malas_l": 360,
+          "tanque_l": 49,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/40 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.7,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 2.0 turbo de 317 cv",
+              "Tração integral xDrive",
+              "Driving Assistant Plus",
+              "Som Harman Kardon",
+              "Head-Up Display",
+              "Teto solar panorâmico",
+              "Escapamento M com quatro saídas",
+              "Suspensão M adaptativa",
+              "Rodas 19\""
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/m-series/m235-xdrive-gran-coupe/bmw-m235-xdrive-gran-coupe.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.piloto_automatico_adaptativo",
+            "equipamentos.assistente_permanencia_faixa",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.camera_360",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.banco_motorista_eletrico",
+            "peso_kg",
+            "porta_malas_l",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"M235 xDrive\"."
+        }
+      ]
+    },
+    {
+      "id": "bmw-serie-3",
+      "modelo": "Série 3",
+      "categoria": "Sedan",
+      "subcategoria": "Sedã médio premium",
+      "propulsoes": [
+        "Combustão",
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/bmw-serie-3.webp",
+        "fonte_imagem": "https://images.caricos.com/b/bmw/2019_bmw_3-series/images/2560x1440/2019_bmw_3-series_79_2560x1440.jpg",
+        "pagina_origem": "https://www.caricos.com/cars/b/bmw/2019_bmw_3-series/images/79.html"
+      },
+      "fontes": [
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/3-series/bmw-3-series-sedan/bmw-serie-3-Seda.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/3-series/bmw-3-series-sedan/bmw-serie-3-seda-plug-in-hibrido.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0445369PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0445876PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.bmw.com.br/content/dam/bmw/marketBR/bmw_com_br/fascinio-bmw/progama-rotulagem-veicular/260722_bmw_ensv-2026.pdf.coredownload.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/bmw/320i-gp-2-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/bmw/330e-m-sport-2-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "bmw-serie-3-320i-gp-2026",
+          "versao": "320i GP",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 356950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2025/2026), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "2.0 TwinPower Turbo Flex 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 184,
+              "gasolina": 184
+            },
+            "torque_kgfm": {
+              "etanol": 30.6,
+              "gasolina": 30.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.1,
+            "velocidade_maxima_kmh": 235
+          },
+          "consumo": {
+            "cidade_etanol": 7.6,
+            "estrada_etanol": 9.2,
+            "cidade_gasolina": 10.9,
+            "estrada_gasolina": 13.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4709,
+            "largura": 1827,
+            "largura_com_retrovisores": null,
+            "altura": 1435,
+            "entre_eixos": 2851,
+            "altura_livre_solo": 136
+          },
+          "peso_kg": 1460,
+          "porta_malas_l": 365,
+          "tanque_l": 59,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/45 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": null,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Driving Assistant",
+              "Parking Assistant com Reversing Assist",
+              "BMW Live Cockpit Professional (12,3\" + 14,9\")",
+              "Comfort Access 2.0",
+              "Faróis Full LED adaptativos",
+              "Volante de dois raios"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/3-series/bmw-3-series-sedan/bmw-serie-3-Seda.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.banco_motorista_eletrico",
+            "equipamentos.rodas_polegadas",
+            "peso_kg",
+            "porta_malas_l",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Produzido em Araquari (SC). Potência/torque oficiais (184 cv / 300 Nm) sem distinção por combustível; etiqueta de segurança BMW identifica a versão como Flex. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"320i GP Flex\"."
+        },
+        {
+          "id": "bmw-serie-3-320i-sport-gp-2026",
+          "versao": "320i Sport GP",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 369950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2026), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "2.0 TwinPower Turbo Flex 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 184,
+              "gasolina": 184
+            },
+            "torque_kgfm": {
+              "etanol": 30.6,
+              "gasolina": 30.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.1,
+            "velocidade_maxima_kmh": 235
+          },
+          "consumo": {
+            "cidade_etanol": 7.6,
+            "estrada_etanol": 9.2,
+            "cidade_gasolina": 10.9,
+            "estrada_gasolina": 13.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4709,
+            "largura": 1827,
+            "largura_com_retrovisores": null,
+            "altura": 1435,
+            "entre_eixos": 2851,
+            "altura_livre_solo": 136
+          },
+          "peso_kg": 1460,
+          "porta_malas_l": 365,
+          "tanque_l": 59,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/45 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Driving Assistant",
+              "Parking Assistant com Reversing Assist",
+              "BMW Live Cockpit Professional (12,3\" + 14,9\")",
+              "Comfort Access 2.0",
+              "Faróis Full LED adaptativos",
+              "Volante de dois raios"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/3-series/bmw-3-series-sedan/bmw-serie-3-Seda.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.assistente_permanencia_faixa",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.carregador_inducao",
+            "equipamentos.banco_motorista_eletrico",
+            "equipamentos.teto_solar",
+            "equipamentos.rodas_polegadas",
+            "peso_kg",
+            "porta_malas_l",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Produzido em Araquari (SC). Potência/torque oficiais (184 cv / 300 Nm) sem distinção por combustível; etiqueta de segurança BMW identifica a versão como Flex. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"320i Sport GP Flex\"."
+        },
+        {
+          "id": "bmw-serie-3-320i-m-sport-2026",
+          "versao": "320i M Sport",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 391950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2026), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "2.0 TwinPower Turbo Flex 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 184,
+              "gasolina": 184
+            },
+            "torque_kgfm": {
+              "etanol": 30.6,
+              "gasolina": 30.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.1,
+            "velocidade_maxima_kmh": 235
+          },
+          "consumo": {
+            "cidade_etanol": 7.4,
+            "estrada_etanol": 9,
+            "cidade_gasolina": 10.5,
+            "estrada_gasolina": 13.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4709,
+            "largura": 1827,
+            "largura_com_retrovisores": null,
+            "altura": 1435,
+            "entre_eixos": 2851,
+            "altura_livre_solo": 136
+          },
+          "peso_kg": 1460,
+          "porta_malas_l": 365,
+          "tanque_l": 59,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/40 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote M Sport",
+              "Volante M esportivo de base achatada",
+              "Driving Assistant",
+              "Parking Assistant com Reversing Assist",
+              "BMW Live Cockpit Professional (12,3\" + 14,9\")",
+              "Comfort Access 2.0",
+              "Faróis Full LED adaptativos"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/3-series/bmw-3-series-sedan/bmw-serie-3-Seda.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.piloto_automatico_adaptativo",
+            "equipamentos.assistente_permanencia_faixa",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.carregador_inducao",
+            "equipamentos.banco_motorista_eletrico",
+            "equipamentos.teto_solar",
+            "equipamentos.rodas_polegadas",
+            "peso_kg",
+            "porta_malas_l",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Produzido em Araquari (SC). Potência/torque oficiais (184 cv / 300 Nm) sem distinção por combustível; etiqueta de segurança BMW identifica a versão como Flex. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"320i M Sport Flex\"."
+        },
+        {
+          "id": "bmw-serie-3-330e-m-sport-2026",
+          "versao": "330e M Sport",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 467950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2026), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo + motor elétrico (híbrido plug-in)",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 184,
+              "eletrico": 109,
+              "combinada": 292
+            },
+            "torque_kgfm": {
+              "gasolina": 30.6,
+              "eletrico": 27,
+              "combinada": 42.8
+            },
+            "bateria_kwh": 19.5,
+            "autonomia_eletrica_km": 61,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.8,
+            "velocidade_maxima_kmh": 230
+          },
+          "consumo": {
+            "cidade_gasolina": 9.2,
+            "estrada_gasolina": 10.8,
+            "cidade_eletrico_km_le": 20.6,
+            "estrada_eletrico_km_le": 24
+          },
+          "dimensoes_mm": {
+            "comprimento": 4709,
+            "largura": 1827,
+            "largura_com_retrovisores": null,
+            "altura": 1444,
+            "entre_eixos": 2851,
+            "altura_livre_solo": 147
+          },
+          "peso_kg": 1740,
+          "porta_malas_l": 375,
+          "tanque_l": 40,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "225/40 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Híbrido plug-in de 292 cv",
+              "Até 61 km em modo elétrico",
+              "Driving Assistant Professional",
+              "Parking Assistant Plus com Reversing Assist",
+              "Comfort Access 2.0",
+              "Volante M com marcação de 12 horas",
+              "Carregador portátil Flexible Fast Charger",
+              "Rodas 19\""
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/3-series/bmw-3-series-sedan/bmw-serie-3-seda-plug-in-hibrido.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.carregador_inducao",
+            "equipamentos.banco_motorista_eletrico",
+            "equipamentos.teto_solar",
+            "peso_kg",
+            "porta_malas_l",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Consumo informado pela BMW conforme Inmetro. Bateria 19,5 kWh. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"330e -\"."
+        }
+      ]
+    },
+    {
+      "id": "bmw-m3",
+      "modelo": "M3",
+      "categoria": "Sedan",
+      "subcategoria": "Sedã esportivo",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Alemanha",
+      "imagem": {
+        "arquivo": "img/carros/bmw-m3.webp",
+        "fonte_imagem": "https://www.usnews.com/object/image/00000199-87c6-d891-a9d9-afeecb1d0000/2026-bmw-m3-side-ak.jpg?update-time=1758919575789&size=responsiveGallery&format=webp",
+        "pagina_origem": "https://cars.usnews.com/cars-trucks/bmw/m3/2026/photos-exterior"
+      },
+      "fontes": [
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/m-series/bmw-3-series-m-models/bmw-m3-seda.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0445699PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/bmw/m3-competition-3-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "bmw-m3-competition-2026",
+          "versao": "M3 Competition",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 894950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2026), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 M TwinPower Turbo 6 cilindros em linha biturbo",
+            "cilindrada_cm3": 2993,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 510
+            },
+            "torque_kgfm": {
+              "gasolina": 66.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.9,
+            "velocidade_maxima_kmh": 290
+          },
+          "consumo": {
+            "cidade_gasolina": 7,
+            "estrada_gasolina": 9.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4794,
+            "largura": 1903,
+            "largura_com_retrovisores": null,
+            "altura": 1433,
+            "entre_eixos": 2857,
+            "altura_livre_solo": 120
+          },
+          "peso_kg": 1730,
+          "porta_malas_l": 480,
+          "tanque_l": 59,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "275/40 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": null,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 3.0 biturbo de 510 cv",
+              "M Drive Professional (M Drift Analyzer, M Laptimer)",
+              "Driving Assistant Professional",
+              "Parking Assistant Plus",
+              "M Head-Up Display",
+              "Rodas 19\" dianteiras e 20\" traseiras",
+              "Freios M com pinças azuis"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/m-series/bmw-3-series-m-models/bmw-m3-seda.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.banco_motorista_eletrico",
+            "peso_kg",
+            "porta_malas_l",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Velocidade máxima de 290 km/h conforme imprensa BMW Brasil (o site informa 250 km/h). Rodas mistas 19\"/20\". Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"M3 Competition\"."
+        },
+        {
+          "id": "bmw-m3-competition-track-2026",
+          "versao": "M3 Competition Track",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 1001950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2026), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 M TwinPower Turbo 6 cilindros em linha biturbo",
+            "cilindrada_cm3": 2993,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 510
+            },
+            "torque_kgfm": {
+              "gasolina": 66.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.9,
+            "velocidade_maxima_kmh": 290
+          },
+          "consumo": {
+            "cidade_gasolina": 7,
+            "estrada_gasolina": 9.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4794,
+            "largura": 1903,
+            "largura_com_retrovisores": null,
+            "altura": 1433,
+            "entre_eixos": 2857,
+            "altura_livre_solo": 120
+          },
+          "peso_kg": 1730,
+          "porta_malas_l": 480,
+          "tanque_l": 59,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "275/35 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": null,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 3.0 biturbo de 510 cv",
+              "M Drive Professional (M Drift Analyzer, M Laptimer)",
+              "Driving Assistant Professional",
+              "Parking Assistant Plus",
+              "M Head-Up Display",
+              "Rodas 19\" dianteiras e 20\" traseiras",
+              "Freios M carbono-cerâmica",
+              "Bancos concha M Carbon"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/m-series/bmw-3-series-m-models/bmw-m3-seda.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.banco_motorista_eletrico",
+            "peso_kg",
+            "porta_malas_l",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Velocidade máxima de 290 km/h conforme imprensa BMW Brasil (o site informa 250 km/h). Rodas mistas 19\"/20\". Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"M3 Competition\"."
+        }
+      ]
+    },
+    {
+      "id": "bmw-serie-4-cabrio",
+      "modelo": "Série 4 Cabrio",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Conversível",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Alemanha",
+      "imagem": {
+        "arquivo": "img/carros/bmw-serie-4-cabrio.webp",
+        "fonte_imagem": "https://cdn-datak.motork.net/configurator-icon/cars/it/800/BMW/SERIES-4/44161_CONVERTIBLE-2-DOORS/bmw-serie-4-cabrio-side-view.png",
+        "pagina_origem": "https://www.penskecars.it/bmw/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/4-series/4-series-cabrio/bmw-4-series-convertible.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0443092PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/bmw/420i-cabriolet-m-sport-2-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "bmw-serie-4-cabrio-420i-m-sport-2027",
+          "versao": "420i Cabrio M Sport",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 514950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2027), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 184
+            },
+            "torque_kgfm": {
+              "gasolina": 30.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.2,
+            "velocidade_maxima_kmh": 236
+          },
+          "consumo": {
+            "cidade_gasolina": 9.8,
+            "estrada_gasolina": 12.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4768,
+            "largura": 1852,
+            "largura_com_retrovisores": null,
+            "altura": 1384,
+            "entre_eixos": 2851,
+            "altura_livre_solo": 124
+          },
+          "peso_kg": 1690,
+          "porta_malas_l": 300,
+          "tanque_l": 59,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": "245/40 R19 (dianteiros) / 255/35 R19 (traseiros)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 14.9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Capota de tecido elétrica (abre em até 18 s, até 50 km/h)",
+              "Pacote M Sport",
+              "Som Harman Kardon",
+              "Driving Assistant Professional",
+              "Parking Assistant Plus",
+              "BMW Curved Display",
+              "Suspensão e freios M Sport"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/4-series/4-series-cabrio/bmw-4-series-convertible.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.camera_re",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.banco_motorista_eletrico",
+            "peso_kg",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Porta-malas de 300 L (385 L segundo a BMW em outra configuração de capota/banco). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"420i Cabrio\"."
+        }
+      ]
+    },
+    {
+      "id": "bmw-m4",
+      "modelo": "M4 Coupé",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Cupê esportivo",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Alemanha",
+      "imagem": {
+        "arquivo": "img/carros/bmw-m4.webp",
+        "fonte_imagem": "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/05452dd6-0420-4c78-a108-a766e0e91d0c/11d59ccf-304c-48d6-8f84-0850c63522ba.png",
+        "pagina_origem": "https://www.cars.com/research/bmw-m4-2026/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/m-series/bmw-4-series-m-models/bmw-m4-coupe.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0457854PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "bmw-m4-competition-2027",
+          "versao": "M4 Competition",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 915950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2027), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 M TwinPower Turbo 6 cilindros em linha biturbo",
+            "cilindrada_cm3": 2993,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 510
+            },
+            "torque_kgfm": {
+              "gasolina": 66.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.9,
+            "velocidade_maxima_kmh": 290
+          },
+          "consumo": {
+            "cidade_gasolina": 7.4,
+            "estrada_gasolina": 10
+          },
+          "dimensoes_mm": {
+            "comprimento": 4801,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1397,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 3.0 biturbo de 510 cv",
+              "M Drive Professional",
+              "Diferencial M autoblocante",
+              "Suspensão M adaptativa",
+              "M Head-Up Display",
+              "Rodas 19\" dianteiras e 20\" traseiras",
+              "Freios M com pinças azuis"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/m-series/bmw-4-series-m-models/bmw-m4-coupe.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Lançado em pré-venda em 14/05/2026 (preço de lançamento Competition R$ 908.950 / Track R$ 1.015.950). Velocidade máxima de 290 km/h conforme imprensa; o site informa 302 km/h. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"M4 Competition\"."
+        },
+        {
+          "id": "bmw-m4-competition-track-2027",
+          "versao": "M4 Competition Track",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 1022950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2027), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 M TwinPower Turbo 6 cilindros em linha biturbo",
+            "cilindrada_cm3": 2993,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 510
+            },
+            "torque_kgfm": {
+              "gasolina": 66.3
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 3.9,
+            "velocidade_maxima_kmh": 290
+          },
+          "consumo": {
+            "cidade_gasolina": 7.4,
+            "estrada_gasolina": 10
+          },
+          "dimensoes_mm": {
+            "comprimento": 4801,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": 1397,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 3.0 biturbo de 510 cv",
+              "M Drive Professional",
+              "Diferencial M autoblocante",
+              "Suspensão M adaptativa",
+              "M Head-Up Display",
+              "Rodas 19\" dianteiras e 20\" traseiras",
+              "Freios M carbono-cerâmica",
+              "Bancos concha em fibra de carbono",
+              "Aerofólio e retrovisores em fibra de carbono",
+              "Pneus semi-slick"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/m-series/bmw-4-series-m-models/bmw-m4-coupe.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Lançado em pré-venda em 14/05/2026 (preço de lançamento Competition R$ 908.950 / Track R$ 1.015.950). Velocidade máxima de 290 km/h conforme imprensa; o site informa 302 km/h. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"M4 Competition\"."
+        }
+      ]
+    },
+    {
+      "id": "bmw-m2",
+      "modelo": "M2",
+      "categoria": "Cupê/Conversível",
+      "subcategoria": "Cupê esportivo",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Alemanha",
+      "imagem": {
+        "arquivo": "img/carros/bmw-m2.webp",
+        "fonte_imagem": "https://bmwbestusa.com/wp-content/uploads/2025/06/a-photograph-of-a-2026-bmw-m2-coupe-show_-YIQCJL3QESfpEFCugbvzQ_QXxjjaLeQ_ChrSfMY7Qmlg.png",
+        "pagina_origem": "https://bmwbestusa.com/2026-bmw-m2/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/m-series/bmw-2-series-m-models/m2-coupe-2024-g87.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0446052PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/bmw/m2-3-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/bmw/m2-track-3-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "bmw-m2-coupe-2027",
+          "versao": "M2 Coupé",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 690950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2027), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 M TwinPower Turbo 6 cilindros em linha biturbo",
+            "cilindrada_cm3": 2993,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 480
+            },
+            "torque_kgfm": {
+              "gasolina": 61.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 4,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 7.2,
+            "estrada_gasolina": 9.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4580,
+            "largura": 1887,
+            "largura_com_retrovisores": null,
+            "altura": 1403,
+            "entre_eixos": 2747,
+            "altura_livre_solo": 123
+          },
+          "peso_kg": 1730,
+          "porta_malas_l": 390,
+          "tanque_l": 52,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": "275/35 R19 (dianteiros) / 285/30 R20 (traseiros)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 14.9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 3.0 biturbo de 480 cv",
+              "Suspensão M adaptativa",
+              "Som Harman Kardon",
+              "Head-Up Display",
+              "Rodas 19\" dianteiras e 20\" traseiras",
+              "Teto solar"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/m-series/bmw-2-series-m-models/m2-coupe-2024-g87.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.assistente_permanencia_faixa",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.camera_360",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.carregador_inducao",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.bancos_couro",
+            "equipamentos.banco_motorista_eletrico",
+            "peso_kg",
+            "porta_malas_l",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"M2 Coupe\"."
+        },
+        {
+          "id": "bmw-m2-coupe-track-2027",
+          "versao": "M2 Coupé Track",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 744950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2027), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 M TwinPower Turbo 6 cilindros em linha biturbo",
+            "cilindrada_cm3": 2993,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 480
+            },
+            "torque_kgfm": {
+              "gasolina": 61.2
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 4,
+            "velocidade_maxima_kmh": 285
+          },
+          "consumo": {
+            "cidade_gasolina": 7.2,
+            "estrada_gasolina": 9.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4580,
+            "largura": 1887,
+            "largura_com_retrovisores": null,
+            "altura": 1403,
+            "entre_eixos": 2747,
+            "altura_livre_solo": 123
+          },
+          "peso_kg": 1730,
+          "porta_malas_l": 390,
+          "tanque_l": 52,
+          "lugares": 4,
+          "portas": 2,
+          "pneus": "275/35 R19 (dianteiros) / 285/30 R20 (traseiros)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 14.9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": false,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 3.0 biturbo de 480 cv",
+              "Suspensão M adaptativa",
+              "Som Harman Kardon",
+              "Head-Up Display",
+              "Rodas 19\" dianteiras e 20\" traseiras",
+              "Teto em fibra de carbono",
+              "Bancos M Carbon tipo concha",
+              "Freios M Sport com pinça vermelha",
+              "M Driver's Package"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/m-series/bmw-2-series-m-models/m2-coupe-2024-g87.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.assistente_permanencia_faixa",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.camera_360",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.carregador_inducao",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.bancos_couro",
+            "peso_kg",
+            "porta_malas_l",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"M2 Coupe\"."
+        }
+      ]
+    },
+    {
+      "id": "bmw-serie-5",
+      "modelo": "Série 5",
+      "categoria": "Sedan",
+      "subcategoria": "Sedã grande premium",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "Alemanha",
+      "imagem": {
+        "arquivo": "img/carros/bmw-serie-5.webp",
+        "fonte_imagem": "https://autotijd.be/images/bmw/2023/5-reeks-berline/nieuw/03.jpg",
+        "pagina_origem": "https://autotijd.be/en/dimensions/bmw/5-reeks-berline"
+      },
+      "fontes": [
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/5-series/sedan/bmw-serie-5-seda-phev-visao-geral.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0441759PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/bmw/530e-m-sport-2-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "bmw-serie-5-530e-m-sport-2026",
+          "versao": "530e M Sport",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 647950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2025/2026), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo + motor elétrico (híbrido plug-in)",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "combinada": 299
+            },
+            "torque_kgfm": {
+              "combinada": 45.9
+            },
+            "bateria_kwh": 19.4,
+            "autonomia_eletrica_km": 70,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.3,
+            "velocidade_maxima_kmh": 230
+          },
+          "consumo": {
+            "cidade_gasolina": 10.9,
+            "estrada_gasolina": 12.3,
+            "cidade_eletrico_km_le": 26.2,
+            "estrada_eletrico_km_le": 26.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 5060,
+            "largura": 1900,
+            "largura_com_retrovisores": null,
+            "altura": 1515,
+            "entre_eixos": 2995,
+            "altura_livre_solo": 146
+          },
+          "peso_kg": 2005,
+          "porta_malas_l": 520,
+          "tanque_l": 60,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "245/40 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.9,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Híbrido plug-in de 299 cv",
+              "Driving Assistant Professional",
+              "Parking Assistant Professional com Remote Control Parking",
+              "Som Harman Kardon (205 W, 12 alto-falantes)",
+              "Digital Key Plus",
+              "BMW Iconic Glow",
+              "BMW Wallbox e Flex Charger inclusos"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/5-series/sedan/bmw-serie-5-seda-phev-visao-geral.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.ar_condicionado",
+            "equipamentos.carregador_inducao",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.banco_motorista_eletrico",
+            "equipamentos.teto_solar",
+            "equipamentos.rodas_polegadas",
+            "peso_kg",
+            "porta_malas_l",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Autonomia elétrica de 70 km segundo o site atual (comunicado de 2024 informava 61 km no PBEV). Consumo \"equivalente\" em km/l divulgado pela BMW conforme Inmetro (média 27,3 km/l). Rodas 20\" segundo comunicado de 2024; ficha secundária indica 19\". Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"530e M SPORT\"."
+        }
+      ]
+    },
+    {
+      "id": "bmw-i7",
+      "modelo": "i7",
+      "categoria": "Sedan",
+      "subcategoria": "Sedã de luxo elétrico",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "Alemanha",
+      "imagem": {
+        "arquivo": "img/carros/bmw-i7.webp",
+        "fonte_imagem": "https://production.autoforce.com/uploads/picture/image/275561822/main_webp_comprar-i7-2026_4c2cc78d47.png.webp",
+        "pagina_origem": "https://www.originalbmw.com.br/novos/i7-2026"
+      },
+      "fontes": [
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/bmw-i/i7/bmw-i7.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0433318PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/bmw/i7-xdrive60-m-sport-2025",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "bmw-i7-xdrive60-m-sport-2026",
+          "versao": "i7 xDrive60 M Sport",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 1373950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2025/2026), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Dois motores elétricos (um por eixo)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 544
+            },
+            "torque_kgfm": {
+              "eletrico": 76
+            },
+            "bateria_kwh": 101.7,
+            "autonomia_eletrica_km": 479,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.7,
+            "velocidade_maxima_kmh": 240
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 31.8,
+            "estrada_eletrico_km_le": 30.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 5391,
+            "largura": 1950,
+            "largura_com_retrovisores": null,
+            "altura": 1544,
+            "entre_eixos": 3215,
+            "altura_livre_solo": 136
+          },
+          "peso_kg": 2640,
+          "porta_malas_l": 500,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 4,
+          "pneus": "285/35 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "BMW Theatre Screen de 31\" 8K para o banco traseiro",
+              "Som Bowers & Wilkins (2.000 W)",
+              "Modo \"primeira classe\" no banco traseiro",
+              "Driving Assistant Professional",
+              "Parking Assistant Plus e Remote Control Parking",
+              "Faróis com cristais",
+              "Três carregadores inclusos (2 Wallbox + Flex Charger)",
+              "Conectividade 5G"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/bmw-i/i7/bmw-i7.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.camera_360",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.ar_condicionado",
+            "equipamentos.carregador_inducao",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.banco_motorista_eletrico",
+            "equipamentos.teto_solar",
+            "peso_kg",
+            "pneus"
+          ],
+          "observacoes": "Dados físicos complementares (peso, altura livre, pneus) da ficha secundária do ano-modelo 2025, mesma versão. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"i7 xDrive60\"."
+        }
+      ]
+    },
+    {
+      "id": "bmw-x1",
+      "modelo": "X1",
+      "categoria": "SUV Compacto",
+      "subcategoria": "SUV médio premium",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/bmw-x1.webp",
+        "fonte_imagem": "https://trademe.b-cdn.net/photoserver/plus/2313440608.jpg",
+        "pagina_origem": "https://modules.bmw.co.nz/stock/details/5995227013/2026-bmw-x1-new"
+      },
+      "fontes": [
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/serie-x/x1/bmw-x1.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0445493PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.bmw.com.br/content/dam/bmw/marketBR/bmw_com_br/fascinio-bmw/progama-rotulagem-veicular/260722_bmw_ensv-2026.pdf.coredownload.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/bmw/x1-sdrive20i-gp-2-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "bmw-x1-sdrive20i-gp-2027",
+          "versao": "X1 sDrive20i GP",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 334950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2027), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 30.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.6,
+            "velocidade_maxima_kmh": 236
+          },
+          "consumo": {
+            "cidade_gasolina": 10.3,
+            "estrada_gasolina": 13.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4500,
+            "largura": 1845,
+            "largura_com_retrovisores": null,
+            "altura": 1642,
+            "entre_eixos": 2690,
+            "altura_livre_solo": 205
+          },
+          "peso_kg": 1700,
+          "porta_malas_l": 476,
+          "tanque_l": 45,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/50 R18",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": null,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.7,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": null,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Parking Assistant",
+              "Faróis full LED adaptativos",
+              "BMW Curved Display (10,25\" + 10,7\")",
+              "Bancos dianteiros com ajuste elétrico",
+              "Carregador sem fio",
+              "Assistente Pessoal Inteligente BMW",
+              "Rodas 18\""
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/serie-x/x1/bmw-x1.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.bancos_couro",
+            "peso_kg",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Produzido em Araquari (SC). Consumo Inmetro informado pela BMW em 2024 para esta versão. A ficha secundária indica sistema 48V (B48A20M0, 218 cv combinados); o site oficial informa 204 cv e não menciona hibridização, por isso classificado como combustão. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"X1 S20i GP\"."
+        },
+        {
+          "id": "bmw-x1-sdrive20i-x-line-2027",
+          "versao": "X1 sDrive20i X Line",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 367950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2027), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 30.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.6,
+            "velocidade_maxima_kmh": 236
+          },
+          "consumo": {
+            "cidade_gasolina": 10.3,
+            "estrada_gasolina": 13.5
+          },
+          "dimensoes_mm": {
+            "comprimento": 4500,
+            "largura": 1845,
+            "largura_com_retrovisores": null,
+            "altura": 1642,
+            "entre_eixos": 2690,
+            "altura_livre_solo": 205
+          },
+          "peso_kg": 1700,
+          "porta_malas_l": 476,
+          "tanque_l": 45,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/45 R19",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.7,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote X Line",
+              "Faróis full LED adaptativos",
+              "BMW Curved Display (10,25\" + 10,7\")",
+              "Carregador sem fio"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/serie-x/x1/bmw-x1.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.piloto_automatico_adaptativo",
+            "equipamentos.assistente_permanencia_faixa",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.bancos_couro",
+            "equipamentos.teto_solar",
+            "equipamentos.rodas_polegadas",
+            "peso_kg",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Produzido em Araquari (SC). A ficha secundária indica sistema 48V (B48A20M0, 218 cv combinados); o site oficial informa 204 cv e não menciona hibridização, por isso classificado como combustão. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"X1 S20i X Line\"."
+        },
+        {
+          "id": "bmw-x1-sdrive20i-m-sport-2027",
+          "versao": "X1 sDrive20i M Sport",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 389950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2027), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 30.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Dianteira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.6,
+            "velocidade_maxima_kmh": 236
+          },
+          "consumo": {
+            "cidade_gasolina": 10.2,
+            "estrada_gasolina": 13.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4500,
+            "largura": 1845,
+            "largura_com_retrovisores": null,
+            "altura": 1642,
+            "entre_eixos": 2690,
+            "altura_livre_solo": 205
+          },
+          "peso_kg": 1700,
+          "porta_malas_l": 476,
+          "tanque_l": 45,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/40 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.7,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote M Sport",
+              "Faróis full LED adaptativos",
+              "BMW Curved Display (10,25\" + 10,7\")",
+              "Carregador sem fio"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/serie-x/x1/bmw-x1.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.piloto_automatico_adaptativo",
+            "equipamentos.assistente_permanencia_faixa",
+            "equipamentos.camera_360",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.bancos_couro",
+            "equipamentos.teto_solar",
+            "equipamentos.rodas_polegadas",
+            "peso_kg",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Produzido em Araquari (SC). A ficha secundária indica sistema 48V (B48A20M0, 218 cv combinados); o site oficial informa 204 cv e não menciona hibridização, por isso classificado como combustão. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"X1 S20i M Sport\"."
+        }
+      ]
+    },
+    {
+      "id": "bmw-ix1",
+      "modelo": "iX1",
+      "categoria": "SUV Compacto",
+      "subcategoria": "SUV médio elétrico",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "Alemanha",
+      "imagem": {
+        "arquivo": "img/carros/bmw-ix1.webp",
+        "fonte_imagem": "https://trademe.b-cdn.net/photoserver/plus/2307712375.jpg",
+        "pagina_origem": "https://www.eastaucklandbmw.com/preowned/details/5947740446/2026-bmw-ix1-demo"
+      },
+      "fontes": [
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/bmw-i/ix1/bmw-ix1.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0440304PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/bmw/ix1-xdrive30-m-sport-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "bmw-ix1-xdrive30-m-sport-2026",
+          "versao": "iX1 xDrive30 M Sport",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 485950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2025/2026), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Dois motores elétricos (um por eixo)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 313
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": 324,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.6,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 35.7,
+            "estrada_eletrico_km_le": 32
+          },
+          "dimensoes_mm": {
+            "comprimento": 4500,
+            "largura": 1845,
+            "largura_com_retrovisores": null,
+            "altura": 1616,
+            "entre_eixos": 2692,
+            "altura_livre_solo": 170
+          },
+          "peso_kg": 2085,
+          "porta_malas_l": 490,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/40 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 10.7,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Tração integral com dois motores elétricos",
+              "Pacote M Sport",
+              "BMW Curved Display",
+              "Digital Key Plus",
+              "Flex Charger e BMW Wallbox inclusos"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/bmw-i/ix1/bmw-ix1.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.altura",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.piloto_automatico_adaptativo",
+            "equipamentos.assistente_permanencia_faixa",
+            "equipamentos.camera_re",
+            "equipamentos.camera_360",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.ar_condicionado",
+            "equipamentos.carregador_inducao",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.bancos_couro",
+            "equipamentos.banco_motorista_eletrico",
+            "equipamentos.teto_solar",
+            "equipamentos.rodas_polegadas",
+            "peso_kg",
+            "porta_malas_l",
+            "pneus"
+          ],
+          "observacoes": "Autonomia de 324 km informada no site (ciclo não especificado). Torque e bateria não informados pela BMW Brasil para esta versão; bateria segundo a ficha secundária: 66,5 kWh (não usado). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"iX1 xDrive30\"."
+        }
+      ]
+    },
+    {
+      "id": "bmw-x2",
+      "modelo": "X2",
+      "categoria": "SUV Compacto",
+      "subcategoria": "SUV cupê",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Alemanha",
+      "imagem": {
+        "arquivo": "img/carros/bmw-x2.webp",
+        "fonte_imagem": "https://bmwausvss.b-cdn.net/trunks/a7fb7f4d2c0b04681f00154701ad8dbfc7bddcb795ffae54c7bac121/U10_au_Villa_day_cam_04.jpg",
+        "pagina_origem": "https://www.riverinabmw.com.au/stock/details/OAG-AD-WBA42GM0905578516/2026-bmw-x2-xdrive20i-new"
+      },
+      "fontes": [
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/serie-x/x2/bmw-x2-visao-geral.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/m-series/x2-m35i/bmw-x2-m35ixdrive-visao-geral.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0446340PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/bmw/x2-xdrive20i-m-sport-2-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/bmw/x2-m35i-2-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "bmw-x2-xdrive20i-m-sport-2027",
+          "versao": "X2 xDrive20i M Sport",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 415950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2027), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 204
+            },
+            "torque_kgfm": {
+              "gasolina": 30.6
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.4,
+            "velocidade_maxima_kmh": 231
+          },
+          "consumo": {
+            "cidade_gasolina": 9.9,
+            "estrada_gasolina": 13.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4554,
+            "largura": 1845,
+            "largura_com_retrovisores": null,
+            "altura": 1590,
+            "entre_eixos": 2692,
+            "altura_livre_solo": 206
+          },
+          "peso_kg": 1725,
+          "porta_malas_l": 560,
+          "tanque_l": 45,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/40 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 10.7,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pacote M Sport",
+              "Teto solar elétrico de vidro",
+              "BMW Curved Display",
+              "Tração integral xDrive"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/serie-x/x2/bmw-x2-visao-geral.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.piloto_automatico_adaptativo",
+            "equipamentos.assistente_permanencia_faixa",
+            "equipamentos.camera_re",
+            "equipamentos.camera_360",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.ar_condicionado",
+            "equipamentos.carregador_inducao",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.bancos_couro",
+            "equipamentos.banco_motorista_eletrico",
+            "equipamentos.rodas_polegadas",
+            "peso_kg",
+            "porta_malas_l",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Porta-malas de 515 a 560 L segundo o site. A ficha secundária indica sistema 48V (B48A20M0); o site informa 204 cv sem mencionar hibridização. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"X2 xDrive20i MSP\"."
+        },
+        {
+          "id": "bmw-x2-m35i-xdrive-2026",
+          "versao": "X2 M35i xDrive",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 545950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2026), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 317
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automatizada de dupla embreagem",
+            "marchas": 7
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.4,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 8.9,
+            "estrada_gasolina": 11.6
+          },
+          "dimensoes_mm": {
+            "comprimento": 4567,
+            "largura": 1845,
+            "largura_com_retrovisores": null,
+            "altura": 1590,
+            "entre_eixos": 2692,
+            "altura_livre_solo": 206
+          },
+          "peso_kg": 1742,
+          "porta_malas_l": 560,
+          "tanque_l": 54,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/35 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 10.7,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 2.0 turbo de 317 cv",
+              "Pacote M Sport Pro",
+              "Suspensão adaptativa M",
+              "Driving Assistant Professional",
+              "Parking Assistant Plus",
+              "Head-Up Display",
+              "Som Harman Kardon",
+              "Teto solar panorâmico",
+              "Painel com Alcantara",
+              "Rodas 21\""
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/m-series/x2-m35i/bmw-x2-m35ixdrive-visao-geral.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.camera_360",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.carregador_inducao",
+            "equipamentos.banco_motorista_eletrico",
+            "peso_kg",
+            "porta_malas_l",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"X2 M35i\"."
+        }
+      ]
+    },
+    {
+      "id": "bmw-ix2",
+      "modelo": "iX2",
+      "categoria": "SUV Compacto",
+      "subcategoria": "SUV cupê elétrico",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "Alemanha",
+      "imagem": {
+        "arquivo": "img/carros/bmw-ix2.webp",
+        "fonte_imagem": "https://greencarscompare.com/upload/resize_cache/iblock/ab4/3000_1685_2/8wqsz6yl7alvoiiit5urr6dcxtoidhn9.jpg",
+        "pagina_origem": "https://greencarscompare.com/global/car/bmw-ix2-edrive20/specs/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/bmw-i/ix2/bmw-ix2-overview.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/bmw/ix2-xdrive30-m-sport-2025",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "bmw-ix2-xdrive30-m-sport-2027",
+          "versao": "iX2 xDrive30 M Sport",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 495950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2027), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Dois motores elétricos (um por eixo)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 306
+            },
+            "torque_kgfm": {},
+            "bateria_kwh": 64.8,
+            "autonomia_eletrica_km": 337,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.6,
+            "velocidade_maxima_kmh": 180
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 35.7,
+            "estrada_eletrico_km_le": 32.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4554,
+            "largura": 1845,
+            "largura_com_retrovisores": null,
+            "altura": 1560,
+            "entre_eixos": 2692,
+            "altura_livre_solo": 167
+          },
+          "peso_kg": 2020,
+          "porta_malas_l": 525,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/40 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": null,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Boost temporário de até 313 cv",
+              "BMW Iconic Glow",
+              "Flex Charger e BMW Wallbox inclusos",
+              "Recarga 10–80% em 38 min (100 kW)"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/bmw-i/ix2/bmw-ix2-overview.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.piloto_automatico_adaptativo",
+            "equipamentos.assistente_permanencia_faixa",
+            "equipamentos.camera_re",
+            "equipamentos.camera_360",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.ar_condicionado",
+            "equipamentos.carregador_inducao",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.bancos_couro",
+            "equipamentos.banco_motorista_eletrico",
+            "equipamentos.teto_solar",
+            "equipamentos.rodas_polegadas",
+            "peso_kg",
+            "pneus"
+          ],
+          "observacoes": "Potência de 306 cv (313 cv com boost de 10 s). Dados físicos complementares da ficha secundária do ano-modelo 2025, mesma versão. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"iX2 xDrive30 MSP\"."
+        }
+      ]
+    },
+    {
+      "id": "bmw-x3",
+      "modelo": "X3",
+      "categoria": "SUV Médio",
+      "subcategoria": "SUV médio premium",
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": "Estados Unidos",
+      "imagem": {
+        "arquivo": "img/carros/bmw-x3.webp",
+        "fonte_imagem": "https://www.autoo.com.br/fotos/2025/9/1280_960/bmw_x3_2026_1_25092025_86041_1280_960.jpg",
+        "pagina_origem": "https://www.autoo.com.br/bmw-inicia-pre-venda-do-novo-x3-30-xdrive-m-sport-veja-quanto-custa/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/serie-x/x3/bmw-x3.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/m-series/x3-m50/bmw-x3-m50.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0448156PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/bmw/x3-30-xdrive-m-sport-2-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/bmw/x3-m50i-3-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "bmw-x3-30-xdrive-m-sport-2027",
+          "versao": "X3 30 xDrive M Sport",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 528950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2027), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "2.0 TwinPower Turbo 4 cilindros com sistema híbrido leve 48V",
+            "cilindrada_cm3": 1998,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 258
+            },
+            "torque_kgfm": {
+              "gasolina": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.3,
+            "velocidade_maxima_kmh": 209
+          },
+          "consumo": {
+            "cidade_gasolina": 10.4,
+            "estrada_gasolina": 12.2
+          },
+          "dimensoes_mm": {
+            "comprimento": 4750,
+            "largura": 1920,
+            "largura_com_retrovisores": null,
+            "altura": 1660,
+            "entre_eixos": 2865,
+            "altura_livre_solo": 211
+          },
+          "peso_kg": 1894,
+          "porta_malas_l": 570,
+          "tanque_l": 65,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/45 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Híbrido leve 48V",
+              "Pacote M Sport com rodas 20\"",
+              "Driving Assistant Professional",
+              "Parking Assistant Professional com Surround View",
+              "BMW Iconic Glow",
+              "Faróis LED adaptativos com farol alto antiofuscante",
+              "Estofamento Veganza"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/serie-x/x3/bmw-x3.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "desempenho.velocidade_maxima_kmh",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.ar_condicionado",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.banco_motorista_eletrico",
+            "equipamentos.teto_solar",
+            "peso_kg",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Dimensões oficiais arredondadas do comunicado (4,75 m x 1,92 m x 1,66 m). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"X3 30 XDRIVE\"."
+        },
+        {
+          "id": "bmw-x3-m50-xdrive-2027",
+          "versao": "X3 M50 xDrive",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 659950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2027), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 M TwinPower Turbo 6 cilindros em linha com híbrido leve 48V",
+            "cilindrada_cm3": 2998,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 398
+            },
+            "torque_kgfm": {
+              "combinada": 59.1
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.6,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 9.6,
+            "estrada_gasolina": 10.9
+          },
+          "dimensoes_mm": {
+            "comprimento": 4750,
+            "largura": 1920,
+            "largura_com_retrovisores": null,
+            "altura": 1660,
+            "entre_eixos": 2865,
+            "altura_livre_solo": 211
+          },
+          "peso_kg": 2057,
+          "porta_malas_l": 570,
+          "tanque_l": 65,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/40 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": null,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 6 cilindros de 398 cv com híbrido leve 48V",
+              "Pacote M Sport Pro",
+              "Escapamento quádruplo",
+              "Freios M Sport com pinças azuis",
+              "Driving Assistant Professional",
+              "Parking Assistant Professional com Surround View",
+              "Teto solar panorâmico",
+              "Rodas 21\""
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/m-series/x3-m50/bmw-x3-m50.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.ar_condicionado",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.banco_motorista_eletrico",
+            "equipamentos.teto_solar",
+            "peso_kg",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Torque de 580 Nm combinado (MHEV) segundo o site. Dimensões oficiais arredondadas do comunicado. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"X3 M50i\"."
+        }
+      ]
+    },
+    {
+      "id": "bmw-ix3",
+      "modelo": "iX3",
+      "categoria": "SUV Médio",
+      "subcategoria": "SUV médio elétrico (Neue Klasse)",
+      "propulsoes": [
+        "Elétrico (BEV)"
+      ],
+      "pais_fabricacao": "Hungria",
+      "imagem": {
+        "arquivo": "img/carros/bmw-ix3.webp",
+        "fonte_imagem": "https://www.netcarshow.com/BMW-iX3-2026-Side_Profile.70f3f8b3.jpg",
+        "pagina_origem": null
+      },
+      "fontes": [
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/serie-x/ix3/bmw-ix3.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0461024PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0459478PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/global/article/detail/T0451998EN/the-start-of-a-new-era-the-new-bmw-ix3",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "bmw-ix3-50-xdrive-2027",
+          "versao": "iX3 50 xDrive",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 587950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2027), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Dois motores elétricos (6ª geração eDrive, 800 V)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 469
+            },
+            "torque_kgfm": {
+              "eletrico": 65.8
+            },
+            "bateria_kwh": 108.7,
+            "autonomia_eletrica_km": 570,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.9,
+            "velocidade_maxima_kmh": 210
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 38.7,
+            "estrada_eletrico_km_le": 35.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 4782,
+            "largura": 1895,
+            "largura_com_retrovisores": null,
+            "altura": 1635,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": 520,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": null,
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": null,
+            "assistente_permanencia_faixa": null,
+            "alerta_ponto_cego": null,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 17.9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": null,
+            "rodas_liga_leve": null,
+            "destaques": [
+              "Maior autonomia PBEV do país (570 km)",
+              "Recarga DC de até 400 kW (10–80% em ~21 min)",
+              "BMW Panoramic Vision (43\")",
+              "BMW 3D Head-Up Display",
+              "Central Display de 17,9\"",
+              "Frunk de 58 L",
+              "5 estrelas Euro NCAP"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/serie-x/ix3/bmw-ix3.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Lançado em 25/09/2026 por R$ 582.950; site atual informa R$ 587.950. Potência, torque, 0–100 km/h, velocidade máxima e dimensões exatas da imprensa global da BMW (especificação global); o comunicado brasileiro informa 4,78 m de comprimento. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"iX3 50 XDRIVE MSP\"."
+        }
+      ]
+    },
+    {
+      "id": "bmw-x5",
+      "modelo": "X5",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV grande premium",
+      "propulsoes": [
+        "Híbrido plug-in (PHEV)"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/bmw-x5.webp",
+        "fonte_imagem": "https://www.motortrend.com/files/681e4052880f9200087b785f/18-2026-bmw-x5-side-view.jpg",
+        "pagina_origem": "https://ifat-hamburg.de/2026-bmw-x5/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/serie-x/x5/bmw-x5.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0446645PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0419761PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/bmw/x5-xdrive50e-m-sport-3-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "bmw-x5-xdrive50e-m-sport-2026",
+          "versao": "X5 xDrive50e M Sport",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 868950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2026), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Híbrido plug-in (PHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 TwinPower Turbo 6 cilindros + motor elétrico (híbrido plug-in)",
+            "cilindrada_cm3": 2998,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 313,
+              "eletrico": 197,
+              "combinada": 489
+            },
+            "torque_kgfm": {
+              "combinada": 71.4
+            },
+            "bateria_kwh": 25.7,
+            "autonomia_eletrica_km": 76,
+            "autonomia_ciclo": "Fabricante"
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 4.8,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 9.2,
+            "estrada_gasolina": 9.9,
+            "cidade_eletrico_km_le": 22.8,
+            "estrada_eletrico_km_le": 23.4
+          },
+          "dimensoes_mm": {
+            "comprimento": 4935,
+            "largura": 2004,
+            "largura_com_retrovisores": null,
+            "altura": 1755,
+            "entre_eixos": 2975,
+            "altura_livre_solo": 214
+          },
+          "peso_kg": 2435,
+          "porta_malas_l": 500,
+          "tanque_l": 69,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "275/40 R21",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 21,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Híbrido plug-in de 489 cv",
+              "Produzido em Araquari (SC)",
+              "Driving Assistant Professional",
+              "Parking Assistant Professional (visão 360°)",
+              "Ar-condicionado de 4 zonas",
+              "Comfort Access 2.0",
+              "BMW Iconic Glow",
+              "Flex Charger e BMW Wallbox inclusos"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/serie-x/x5/bmw-x5.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.carregador_inducao",
+            "equipamentos.bancos_couro",
+            "equipamentos.banco_motorista_eletrico",
+            "equipamentos.teto_solar",
+            "equipamentos.rodas_polegadas",
+            "peso_kg",
+            "porta_malas_l",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Autonomia elétrica de 76 km segundo o site atual (comunicado de 12/2024 informava 79 km no PBEV). Bateria 25,7 kWh úteis. Novo X5 (G65) e iX5 aparecem no site como \"ainda não disponíveis\". Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"X5 xDrive50e MSP\"."
+        }
+      ]
+    },
+    {
+      "id": "bmw-x6",
+      "modelo": "X6",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV cupê",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Estados Unidos",
+      "imagem": {
+        "arquivo": "img/carros/bmw-x6.webp",
+        "fonte_imagem": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2026-bmw-x6-m60i-xdrive-2.jpg",
+        "pagina_origem": "https://carbuzz.com/cars/bmw/x6/2026/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/serie-x/x6/bmw-x6.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0451791PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0419761PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/bmw/x6-xdrive40i-m-sport-3-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "bmw-x6-xdrive40i-m-sport-2026",
+          "versao": "X6 xDrive40i M Sport",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 892950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2026/2026), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026.",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 TwinPower Turbo 6 cilindros em linha",
+            "cilindrada_cm3": 2998,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 381
+            },
+            "torque_kgfm": {
+              "gasolina": 55.1
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.4,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 9,
+            "estrada_gasolina": 10.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4960,
+            "largura": 2004,
+            "largura_com_retrovisores": null,
+            "altura": 1690,
+            "entre_eixos": 2975,
+            "altura_livre_solo": 216
+          },
+          "peso_kg": 2165,
+          "porta_malas_l": 580,
+          "tanque_l": 83,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "275/35 R22",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 22,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 6 cilindros de 381 cv",
+              "Pacote M Sport",
+              "Driving Assistant Professional",
+              "Parking Assistant Professional (visão 360°)",
+              "Comfort Access 2.0",
+              "Ar-condicionado de 4 zonas",
+              "BMW Iconic Glow",
+              "Digital Key Plus"
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/serie-x/x6/bmw-x6.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.altura_livre_solo",
+            "consumo.cidade_gasolina",
+            "consumo.estrada_gasolina",
+            "equipamentos.frenagem_autonoma_emergencia",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.carregador_inducao",
+            "equipamentos.bancos_couro",
+            "equipamentos.banco_motorista_eletrico",
+            "equipamentos.teto_solar",
+            "equipamentos.rodas_polegadas",
+            "peso_kg",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "A edição limitada Dark Edition (50 unidades, 2025) não foi incluída por ser série esgotável sem preço no site."
+        }
+      ]
+    },
+    {
+      "id": "bmw-x7",
+      "modelo": "X7",
+      "categoria": "SUV Grande",
+      "subcategoria": "SUV grande de luxo (7 lugares)",
+      "propulsoes": [
+        "Híbrido leve (MHEV)"
+      ],
+      "pais_fabricacao": "Estados Unidos",
+      "imagem": {
+        "arquivo": "img/carros/bmw-x7.webp",
+        "fonte_imagem": "https://cdn.auto-dash.com/affinitivadvertising/vehicleimgs/jellybeans/bmw/2026-bmw-x7-m60i-white-side.webp",
+        "pagina_origem": "https://www.bmwofpompano.com/bmw-x7-configurations-info-2026/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/serie-x/x7/bmw-x7.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.press.bmwgroup.com/brazil/article/detail/T0452570PT",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.fichacompleta.com.br/carros/bmw/x7-xdrive40i-m-sport-3-0-2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.bmw.com.br/pt/all-models.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "bmw-x7-xdrive40i-m-sport-2026",
+          "versao": "X7 xDrive40i M Sport",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 1026950,
+          "preco_obs": "Preço público sugerido à vista no site BMW (ano/modelo 2025/2026), pintura sólida, frete incluso; válido de 01/10/2026 a 31/10/2026. A página \"todos os modelos\" exibe R$ 1.033.950.",
+          "motor": {
+            "tipo_propulsao": "Híbrido leve (MHEV)",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 M TwinPower Turbo 6 cilindros em linha com híbrido leve 48V",
+            "cilindrada_cm3": 2998,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 381
+            },
+            "torque_kgfm": {
+              "gasolina": 55.1
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "Integral (AWD)",
+          "desempenho": {
+            "aceleracao_0_100_s": 5.8,
+            "velocidade_maxima_kmh": 250
+          },
+          "consumo": {
+            "cidade_gasolina": 8,
+            "estrada_gasolina": 8.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 5181,
+            "largura": 2000,
+            "largura_com_retrovisores": null,
+            "altura": 1835,
+            "entre_eixos": 3105,
+            "altura_livre_solo": 221
+          },
+          "peso_kg": 2415,
+          "porta_malas_l": null,
+          "tanque_l": 83,
+          "lugares": 7,
+          "portas": 5,
+          "pneus": "275/40 R22",
+          "picape": null,
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital 3+ zonas",
+            "multimidia_polegadas": 14.9,
+            "carplay_android_auto": null,
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 22,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Híbrido leve 48V",
+              "Sete lugares",
+              "Couro Merino",
+              "Ar-condicionado de 5 zonas",
+              "Bancos com ventilação e aquecimento",
+              "Som Bowers & Wilkins Diamond (1.475 W)",
+              "Teto solar Sky Lounge",
+              "Porta-copos aquecido/refrigerado",
+              "Active Cruise Control com Stop & Go",
+              "Rodas 22\""
+            ]
+          },
+          "fonte_url": "https://www.bmw.com.br/pt/all-models/serie-x/x7/bmw-x7.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.entre_eixos",
+            "dimensoes_mm.altura_livre_solo",
+            "equipamentos.assistente_permanencia_faixa",
+            "equipamentos.alerta_ponto_cego",
+            "equipamentos.camera_360",
+            "equipamentos.sensor_estacionamento_dianteiro",
+            "equipamentos.carregador_inducao",
+            "equipamentos.partida_sem_chave",
+            "equipamentos.banco_motorista_eletrico",
+            "peso_kg",
+            "tanque_l",
+            "pneus"
+          ],
+          "observacoes": "Porta-malas: 300 L com as três fileiras em uso (até 2.120 L) segundo o site; volume com a 3ª fila rebatida não informado. Preço de lançamento (09/2025): R$ 999.950. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"X7 xDrive40i\"."
+        }
+      ]
+    }
+  ]
+}

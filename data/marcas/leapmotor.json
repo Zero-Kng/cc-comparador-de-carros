@@ -1,0 +1,748 @@
+{
+  "marca": "Leapmotor",
+  "slug": "leapmotor",
+  "site_oficial": "https://www.leapmotor.com.br",
+  "coletado_em": "2026-10-20",
+  "modelos": [
+    {
+      "id": "leapmotor-b10",
+      "modelo": "B10",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Elétrico (BEV)",
+        "Elétrico com extensor (EREV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/leapmotor-b10.webp",
+        "fonte_imagem": "https://cdn.autopapo.com.br/box/uploads/2025/11/03194236/leapmotor-b10-2026-roxo-aurora-lateral-2.jpg",
+        "pagina_origem": "https://autopapo.com.br/noticia/avaliacao-do-leapmotor-b10/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.leapmotor.com.br/b10.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.leapmotor.com.br/b10/monte.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://mvs-service.k8s.fcalatam.com.br/mvs/all?brand=LEAPMOTOR&market=pt-BR",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.media.stellantis.com/br-pt/leapmotor/press/leapmotor-b10-ultra-hibrido-2027-amplia-a-unica-gama-com-tecnologia-reev-do-brasil",
+          "tipo": "imprensa_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.autossegredos.com.br/lancamentos/leapmotor-b10-reev-179990/",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.webmotors.com.br/wm1/?p=899257",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-21"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "leapmotor-b10-eletrico-bev-2026",
+          "versao": "Elétrico (BEV)",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 182990,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico traseiro 160 kW (218 cv)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 218
+            },
+            "torque_kgfm": {
+              "eletrico": 24.5
+            },
+            "bateria_kwh": 56.2,
+            "autonomia_eletrica_km": 288,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 41.2,
+            "estrada_eletrico_km_le": 32.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4515,
+            "largura": 1885,
+            "largura_com_retrovisores": null,
+            "altura": 1670,
+            "entre_eixos": 2735,
+            "altura_livre_solo": 185
+          },
+          "peso_kg": null,
+          "porta_malas_l": 405,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/50 R18 (dianteiros) e 235/50 R18 (traseiros)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto panorâmico Sky View de 1,8 m² com cortina elétrica",
+              "Frunk de 21,5 L",
+              "Leap Pilot (ADAS nível 2)",
+              "Airbag central",
+              "Carregador portátil incluso",
+              "Recarga DC 30-80% em 16 min",
+              "Autonomia WLTP 361 km"
+            ]
+          },
+          "fonte_url": "https://www.leapmotor.com.br/b10.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica da API oficial do configurador (mvs-service Stellantis), idêntica para 2026 e 2027; preço da price-service oficial. Garantia de 6 anos para ano-modelo 2027. Itens de conforto exclusivos da REEV (bancos com ventilação/ajuste elétrico, iluminação ambiente, lanterna contínua) não constam nesta versão segundo o site. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"B10 LIFE\"."
+        },
+        {
+          "id": "leapmotor-b10-eletrico-bev-2027",
+          "versao": "Elétrico (BEV)",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 182990,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico traseiro 160 kW (218 cv)",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 218
+            },
+            "torque_kgfm": {
+              "eletrico": 24.5
+            },
+            "bateria_kwh": 56.2,
+            "autonomia_eletrica_km": 288,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 41.2,
+            "estrada_eletrico_km_le": 32.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4515,
+            "largura": 1885,
+            "largura_com_retrovisores": null,
+            "altura": 1670,
+            "entre_eixos": 2735,
+            "altura_livre_solo": 185
+          },
+          "peso_kg": null,
+          "porta_malas_l": 405,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/50 R18 (dianteiros) e 235/50 R18 (traseiros)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Teto panorâmico Sky View de 1,8 m² com cortina elétrica",
+              "Frunk de 21,5 L",
+              "Leap Pilot (ADAS nível 2)",
+              "Airbag central",
+              "Carregador portátil incluso",
+              "Recarga DC 30-80% em 16 min",
+              "Autonomia WLTP 361 km"
+            ]
+          },
+          "fonte_url": "https://www.leapmotor.com.br/b10.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica da API oficial do configurador (mvs-service Stellantis), idêntica para 2026 e 2027; preço da price-service oficial. Garantia de 6 anos para ano-modelo 2027. Itens de conforto exclusivos da REEV (bancos com ventilação/ajuste elétrico, iluminação ambiente, lanterna contínua) não constam nesta versão segundo o site. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"B10 LIFE\"."
+        },
+        {
+          "id": "leapmotor-b10-ultra-hibrido-reev-2027",
+          "versao": "Ultra-Híbrido (REEV)",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 179990,
+          "preco_obs": "Preço de lançamento por tempo determinado (press release oficial)",
+          "motor": {
+            "tipo_propulsao": "Elétrico com extensor (EREV)",
+            "combustivel": "Gasolina",
+            "descricao": "Elétrico traseiro 218 cv + gerador 1.5 16V ciclo Atkinson a gasolina",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": false,
+            "potencia_cv": {
+              "eletrico": 218
+            },
+            "torque_kgfm": {
+              "eletrico": 24.5
+            },
+            "bateria_kwh": 18.8,
+            "autonomia_eletrica_km": 68,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 7.8,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 13.5,
+            "estrada_gasolina": 12.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 4530,
+            "largura": 1885,
+            "largura_com_retrovisores": null,
+            "altura": 1655,
+            "entre_eixos": 2735,
+            "altura_livre_solo": 170
+          },
+          "peso_kg": 1785,
+          "porta_malas_l": 350,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "225/50 R18 (dianteiros) e 235/50 R18 (traseiros)",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": "Digital",
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Bancos dianteiros com ajuste elétrico, memória e ventilação",
+              "Som 7.1 de 840 W com 12 alto-falantes + subwoofer",
+              "Iluminação ambiente ajustável",
+              "Lanterna traseira contínua",
+              "Tampa traseira elétrica com altura configurável",
+              "Teto panorâmico Sky View de 1,8 m²",
+              "Leap Pilot (ADAS nível 2)",
+              "Airbag central",
+              "Autonomia combinada de até 900 km (WLTP)",
+              "Recarga DC 30-80% em 18 min",
+              "Smartphone como chave"
+            ]
+          },
+          "fonte_url": "https://www.leapmotor.com.br/b10.html",
+          "campos_fonte_secundaria": [
+            "motor.autonomia_eletrica_km",
+            "consumo"
+          ],
+          "observacoes": "Ficha técnica da API oficial do configurador (mvs-service Stellantis), idêntica para 2026 e 2027; preço da price-service oficial. Garantia de 6 anos para ano-modelo 2027. Autonomia elétrica Inmetro de 68 km segundo imprensa especializada. Consumo Inmetro do modo com extensor citado pela imprensa (Webmotors/A Tarde); não consta na tabela PBEV 2026."
+        }
+      ]
+    },
+    {
+      "id": "leapmotor-c10",
+      "modelo": "C10",
+      "categoria": "SUV Médio",
+      "subcategoria": null,
+      "propulsoes": [
+        "Elétrico (BEV)",
+        "Elétrico com extensor (EREV)"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/leapmotor-c10.webp",
+        "fonte_imagem": "https://www.planetcarsz.com/img/carros/galeria/2025/11/leapmotor-c10-bev-2026-003-20251106093032-1600x1067.jpg",
+        "pagina_origem": "https://www.planetcarsz.com/carros/leapmotor-c10-eletrico-2026"
+      },
+      "fontes": [
+        {
+          "url": "https://www.leapmotor.com.br/c10.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.leapmotor.com.br/c10/monte.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://mvs-service.k8s.fcalatam.com.br/mvs/all?brand=LEAPMOTOR&market=pt-BR",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-20"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "leapmotor-c10-eletrico-bev-2026",
+          "versao": "Elétrico (BEV)",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 214990,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico traseiro 218 cv",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 218
+            },
+            "torque_kgfm": {
+              "eletrico": 32.6
+            },
+            "bateria_kwh": 69.9,
+            "autonomia_eletrica_km": 338,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.3,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 35.1,
+            "estrada_eletrico_km_le": 30.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4739,
+            "largura": 1900,
+            "largura_com_retrovisores": null,
+            "altura": 1680,
+            "entre_eixos": 2825,
+            "altura_livre_solo": 180
+          },
+          "peso_kg": 2007,
+          "porta_malas_l": 465,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/45 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Frunk de 32 L",
+              "Recarga DC 30-80% em 30 min",
+              "Bancos dianteiros elétricos com aquecimento, ventilação e memória",
+              "Função Welcome no banco do motorista",
+              "Teto panorâmico Sky View de 2,1 m² com cortina elétrica",
+              "Iluminação ambiente Smart Light",
+              "Leap Pilot (ADAS) com assistente de congestionamento e centralização em faixa",
+              "Airbag central",
+              "5 estrelas Euro NCAP",
+              "Carregador portátil incluso",
+              "Atualizações OTA"
+            ]
+          },
+          "fonte_url": "https://www.leapmotor.com.br/c10.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica da API oficial do configurador (mvs-service Stellantis), idêntica para 2026 e 2027; preço da price-service oficial. Garantia de 6 anos para ano-modelo 2027. Porta-malas 465 L + 32 L (dianteiro). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"C10 Design\"."
+        },
+        {
+          "id": "leapmotor-c10-eletrico-bev-2027",
+          "versao": "Elétrico (BEV)",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 214990,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Elétrico (BEV)",
+            "combustivel": "Elétrico",
+            "descricao": "Elétrico traseiro 218 cv",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 218
+            },
+            "torque_kgfm": {
+              "eletrico": 32.6
+            },
+            "bateria_kwh": 69.9,
+            "autonomia_eletrica_km": 338,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.3,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_eletrico_km_le": 35.1,
+            "estrada_eletrico_km_le": 30.8
+          },
+          "dimensoes_mm": {
+            "comprimento": 4739,
+            "largura": 1900,
+            "largura_com_retrovisores": null,
+            "altura": 1680,
+            "entre_eixos": 2825,
+            "altura_livre_solo": 180
+          },
+          "peso_kg": 2007,
+          "porta_malas_l": 465,
+          "tanque_l": null,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/45 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Frunk de 32 L",
+              "Recarga DC 30-80% em 30 min",
+              "Bancos dianteiros elétricos com aquecimento, ventilação e memória",
+              "Função Welcome no banco do motorista",
+              "Teto panorâmico Sky View de 2,1 m² com cortina elétrica",
+              "Iluminação ambiente Smart Light",
+              "Leap Pilot (ADAS) com assistente de congestionamento e centralização em faixa",
+              "Airbag central",
+              "5 estrelas Euro NCAP",
+              "Carregador portátil incluso",
+              "Atualizações OTA"
+            ]
+          },
+          "fonte_url": "https://www.leapmotor.com.br/c10.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica da API oficial do configurador (mvs-service Stellantis), idêntica para 2026 e 2027; preço da price-service oficial. Garantia de 6 anos para ano-modelo 2027. Porta-malas 465 L + 32 L (dianteiro). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"C10 Design\"."
+        },
+        {
+          "id": "leapmotor-c10-ultra-hibrido-reev-2026",
+          "versao": "Ultra-Híbrido (REEV)",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 219990,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Elétrico com extensor (EREV)",
+            "combustivel": "Gasolina",
+            "descricao": "Elétrico traseiro 215 cv + gerador a gasolina",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 215
+            },
+            "torque_kgfm": {
+              "eletrico": 32.6
+            },
+            "bateria_kwh": 28.4,
+            "autonomia_eletrica_km": 111,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.5,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 12,
+            "estrada_gasolina": 12,
+            "cidade_eletrico_km_le": 33.5,
+            "estrada_eletrico_km_le": 29.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4739,
+            "largura": 1900,
+            "largura_com_retrovisores": null,
+            "altura": 1680,
+            "entre_eixos": 2825,
+            "altura_livre_solo": 180
+          },
+          "peso_kg": 1976,
+          "porta_malas_l": 435,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/45 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Autonomia combinada de até 950 km (WLTP)",
+              "Recarga DC 30-80% em 18 min",
+              "Test-drive estendido de até 4 dias",
+              "Bancos dianteiros elétricos com aquecimento, ventilação e memória",
+              "Função Welcome no banco do motorista",
+              "Teto panorâmico Sky View de 2,1 m² com cortina elétrica",
+              "Iluminação ambiente Smart Light",
+              "Leap Pilot (ADAS) com assistente de congestionamento e centralização em faixa",
+              "Airbag central",
+              "5 estrelas Euro NCAP",
+              "Carregador portátil incluso",
+              "Atualizações OTA"
+            ]
+          },
+          "fonte_url": "https://www.leapmotor.com.br/c10.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica da API oficial do configurador (mvs-service Stellantis), idêntica para 2026 e 2027; preço da price-service oficial. Garantia de 6 anos para ano-modelo 2027. Autonomia elétrica não divulgada no site oficial. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"C10 REEV\"."
+        },
+        {
+          "id": "leapmotor-c10-ultra-hibrido-reev-2027",
+          "versao": "Ultra-Híbrido (REEV)",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 219990,
+          "preco_obs": null,
+          "motor": {
+            "tipo_propulsao": "Elétrico com extensor (EREV)",
+            "combustivel": "Gasolina",
+            "descricao": "Elétrico traseiro 215 cv + gerador a gasolina",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": null,
+            "potencia_cv": {
+              "eletrico": 215
+            },
+            "torque_kgfm": {
+              "eletrico": 32.6
+            },
+            "bateria_kwh": 28.4,
+            "autonomia_eletrica_km": 111,
+            "autonomia_ciclo": "PBEV/Inmetro"
+          },
+          "transmissao": {
+            "tipo": "Redução única",
+            "marchas": 1
+          },
+          "tracao": "Traseira",
+          "desempenho": {
+            "aceleracao_0_100_s": 8.5,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 12,
+            "estrada_gasolina": 12,
+            "cidade_eletrico_km_le": 33.5,
+            "estrada_eletrico_km_le": 29.1
+          },
+          "dimensoes_mm": {
+            "comprimento": 4739,
+            "largura": 1900,
+            "largura_com_retrovisores": null,
+            "altura": 1680,
+            "entre_eixos": 2825,
+            "altura_livre_solo": 180
+          },
+          "peso_kg": 1976,
+          "porta_malas_l": 435,
+          "tanque_l": 50,
+          "lugares": 5,
+          "portas": 5,
+          "pneus": "245/45 R20",
+          "picape": null,
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": null,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": null,
+            "farois_led": true,
+            "ar_condicionado": null,
+            "multimidia_polegadas": 14.6,
+            "carplay_android_auto": null,
+            "painel_digital": null,
+            "carregador_inducao": true,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Autonomia combinada de até 950 km (WLTP)",
+              "Recarga DC 30-80% em 18 min",
+              "Test-drive estendido de até 4 dias",
+              "Bancos dianteiros elétricos com aquecimento, ventilação e memória",
+              "Função Welcome no banco do motorista",
+              "Teto panorâmico Sky View de 2,1 m² com cortina elétrica",
+              "Iluminação ambiente Smart Light",
+              "Leap Pilot (ADAS) com assistente de congestionamento e centralização em faixa",
+              "Airbag central",
+              "5 estrelas Euro NCAP",
+              "Carregador portátil incluso",
+              "Atualizações OTA"
+            ]
+          },
+          "fonte_url": "https://www.leapmotor.com.br/c10.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Ficha técnica da API oficial do configurador (mvs-service Stellantis), idêntica para 2026 e 2027; preço da price-service oficial. Garantia de 6 anos para ano-modelo 2027. Autonomia elétrica não divulgada no site oficial. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"C10 REEV\"."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1651 @@
+{
+  "marca": "Ram",
+  "slug": "ram",
+  "site_oficial": "https://www.ram.com.br",
+  "coletado_em": "2026-10-19",
+  "modelos": [
+    {
+      "id": "ram-rampage",
+      "modelo": "Rampage",
+      "categoria": "Picape",
+      "subcategoria": "Picape intermediária",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": "Brasil",
+      "imagem": {
+        "arquivo": "img/carros/ram-rampage.webp",
+        "fonte_imagem": "https://as1.ftcdn.net/jpg/16/12/46/16/1000_F_1612461643_3F7aXs6Ui83YGyzF3k0MfjntunuO1tKH.jpg",
+        "pagina_origem": "https://stock.adobe.com/images/side-profile-of-a-black-ram-rampage-r-t-modern-sport-truck-in-a-scenic-mountain-landscape/1612461643"
+      },
+      "fontes": [
+        {
+          "url": "https://www.ram.com.br/picapes/rampage/",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.ram.com.br/picapes/rampage/monte.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://mvs-service.k8s.fcalatam.com.br/mvs?brand=RAM&market=pt-BR&model=591&year=2027",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://price-service.k8s.fcalatam.com.br/price",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://part-service.k8s.fcalatam.com.br/v2/item?market=pt-BR&behavior=FEATURED",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.bemparana.com.br/publicacao/blogs/autosecia/rampage-estreia-motor-flex-e-mais-tecnologia-na-linha-2027/",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "ram-rampage-big-horn-2027",
+          "versao": "Big Horn 2.2 Turbodiesel",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 230990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador ram.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.2 Turbodiesel",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 200
+            },
+            "torque_kgfm": {
+              "diesel": 45.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 10.6,
+            "estrada_diesel": 13.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 5028,
+            "largura": 1886,
+            "largura_com_retrovisores": null,
+            "altura": 1780,
+            "entre_eixos": 2994,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": "235/65 R17",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 980,
+            "capacidade_carga_kg": 1015
+          },
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": false,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": false,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": false,
+            "banco_motorista_eletrico": false,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Tração 4x4 com reduzida",
+              "Câmbio automático de 9 marchas",
+              "Quadro de instrumentos digital de 10,3\"",
+              "Capota marítima e revestimento de caçamba",
+              "Sensores de estacionamento dianteiro e traseiro",
+              "Partida remota",
+              "Ram Connect",
+              "Freio de estacionamento com Auto Hold",
+              "HDC (controle de descida)"
+            ]
+          },
+          "fonte_url": "https://www.ram.com.br/picapes/rampage/monte.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos"
+          ],
+          "observacoes": "Consumo médio informado no site (urbano/estrada); não indica se é PBEV. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RAMPAGE LARAMIE DS\"."
+        },
+        {
+          "id": "ram-rampage-rebel-2027",
+          "versao": "Rebel 2.2 Turbodiesel",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 259990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador ram.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.2 Turbodiesel",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 200
+            },
+            "torque_kgfm": {
+              "diesel": 45.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 10.6,
+            "estrada_diesel": 13.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 5028,
+            "largura": 1886,
+            "largura_com_retrovisores": null,
+            "altura": 1780,
+            "entre_eixos": 2994,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": "235/65 R17",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 980,
+            "capacidade_carga_kg": 1015
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Pneus Pirelli Scorpion All Terrain Plus",
+              "Acabamento externo escurecido off-road",
+              "Bancos em couro preto",
+              "ACC com Stop & Go",
+              "Monitoramento de ponto cego e tráfego cruzado",
+              "Retrovisor eletrocrômico",
+              "Banco do motorista elétrico de 12 vias",
+              "Opcionais: Pack Elite, Pack Ignition Blue"
+            ]
+          },
+          "fonte_url": "https://www.ram.com.br/picapes/rampage/monte.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos"
+          ],
+          "observacoes": "Consumo médio informado no site (urbano/estrada); não indica se é PBEV. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RAMPAGE LARAMIE DS\"."
+        },
+        {
+          "id": "ram-rampage-rebel-ignition-2027",
+          "versao": "Rebel Ignition 2.0 Turbo Flex",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 250990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador ram.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "2.0 Hurricane 4 Turbo Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 272
+            },
+            "torque_kgfm": {
+              "etanol": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": 210
+          },
+          "consumo": {
+            "cidade_etanol": 5.7,
+            "estrada_etanol": 7,
+            "cidade_gasolina": 8.2,
+            "estrada_gasolina": 10
+          },
+          "dimensoes_mm": {
+            "comprimento": 5028,
+            "largura": 1886,
+            "largura_com_retrovisores": null,
+            "altura": 1780,
+            "entre_eixos": 2994,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": "235/65 R17",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 980,
+            "capacidade_carga_kg": null
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Série especial numerada",
+              "Motor 2.0 Hurricane 4 Turbo Flex de 272 cv",
+              "Rambar preto",
+              "Interior em couro e suede com costuras azuis",
+              "Som Harman Kardon com 10 alto-falantes",
+              "Rodas de 17\" pretas com pneus de uso misto",
+              "Adesivos laterais e de capô",
+              "Soleiras iluminadas"
+            ]
+          },
+          "fonte_url": "https://www.ram.com.br/picapes/rampage/monte.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos"
+          ],
+          "observacoes": "A marca divulga um único valor de potência/torque (272 cv / 400 Nm) para o motor flex; registrado na chave etanol. O site informa consumo médio de 7,7 km/l (urbano) e 9,9 km/l (estrada) sem indicar o combustível; não registrado em consumo. Série especial numerada. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RAMPAGE REBEL FLEX\"."
+        },
+        {
+          "id": "ram-rampage-laramie-2027",
+          "versao": "Laramie 2.2 Turbodiesel",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 269990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador ram.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.2 Turbodiesel",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 200
+            },
+            "torque_kgfm": {
+              "diesel": 45.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 10.6,
+            "estrada_diesel": 13.3
+          },
+          "dimensoes_mm": {
+            "comprimento": 5028,
+            "largura": 1886,
+            "largura_com_retrovisores": null,
+            "altura": 1780,
+            "entre_eixos": 2994,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": "235/60 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 980,
+            "capacidade_carga_kg": 1015
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Bancos em couro Mountain Brown",
+              "Bancos elétricos de 12 vias com memória",
+              "Grade cromada",
+              "Rodas diamantadas de 18\"",
+              "ACC com Stop & Go",
+              "Monitoramento de ponto cego",
+              "Opcional: Pack Night Edition"
+            ]
+          },
+          "fonte_url": "https://www.ram.com.br/picapes/rampage/monte.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos"
+          ],
+          "observacoes": "Consumo médio informado no site (urbano/estrada); não indica se é PBEV. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RAMPAGE LARAMIE DS\"."
+        },
+        {
+          "id": "ram-rampage-r-t-2027",
+          "versao": "R/T 2.0 Turbo Flex",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 275990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador ram.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Flex",
+            "descricao": "2.0 Hurricane 4 Turbo Flex",
+            "cilindrada_cm3": null,
+            "cilindros": 4,
+            "turbo": true,
+            "potencia_cv": {
+              "etanol": 272
+            },
+            "torque_kgfm": {
+              "etanol": 40.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 9
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": 6.9,
+            "velocidade_maxima_kmh": 220
+          },
+          "consumo": {
+            "cidade_etanol": 5.3,
+            "estrada_etanol": 6.7,
+            "cidade_gasolina": 7.7,
+            "estrada_gasolina": 9.7
+          },
+          "dimensoes_mm": {
+            "comprimento": 5028,
+            "largura": 1886,
+            "largura_com_retrovisores": null,
+            "altura": 1780,
+            "entre_eixos": 2994,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": "235/55 R19",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 980,
+            "capacidade_carga_kg": null
+          },
+          "equipamentos": {
+            "airbags": 7,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": false,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 19,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 2.0 Hurricane 4 Turbo Flex de 272 cv",
+              "0 a 100 km/h em 6,9 s",
+              "Escapamento duplo esportivo",
+              "Couro e suede com costuras Ruby Red",
+              "Rodas de 19\" Gloss Black",
+              "Luzes ambiente em LED",
+              "Bancos elétricos de 12 vias com memória"
+            ]
+          },
+          "fonte_url": "https://www.ram.com.br/picapes/rampage/monte.html",
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.comprimento",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.altura",
+            "dimensoes_mm.entre_eixos"
+          ],
+          "observacoes": "A marca divulga um único valor de potência/torque (272 cv / 400 Nm) para o motor flex; registrado na chave etanol. O site informa consumo médio de 7,7 km/l (urbano) e 9,9 km/l (estrada) sem indicar o combustível; não registrado em consumo. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"RAMPAGE RT FLEX\"."
+        }
+      ]
+    },
+    {
+      "id": "ram-dakota",
+      "modelo": "Dakota",
+      "categoria": "Picape",
+      "subcategoria": "Picape média",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/ram-dakota.webp",
+        "fonte_imagem": "https://www.autoblog.com/.image/w_3840,q_auto:good,c_limit/NzowMDAwMDAwMDAwOTc2MjMw/lateral-ram-dakota-warlock-galeria-desk-copy-976230.jpg?arena_f_auto",
+        "pagina_origem": "https://www.autoblog.com/trucks/the-ram-dakota-is-back-and-it-looks-like-a-baby-ram-1500"
+      },
+      "fontes": [
+        {
+          "url": "https://www.ram.com.br/picapes/dakota.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.ram.com.br/picapes/dakota/monte.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://mvs-service.k8s.fcalatam.com.br/mvs?brand=RAM&market=pt-BR&model=539&year=2027",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://price-service.k8s.fcalatam.com.br/price",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://part-service.k8s.fcalatam.com.br/v2/item?market=pt-BR&behavior=FEATURED",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "ram-dakota-big-horn-2027",
+          "versao": "Big Horn 2.2 Turbodiesel",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 285990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador ram.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.2 Turbodiesel VGT",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 200
+            },
+            "torque_kgfm": {
+              "diesel": 45.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.6,
+            "estrada_diesel": 10.8
+          },
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": "265/65 R17",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 1210,
+            "capacidade_carga_kg": 1020
+          },
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Câmera 540°",
+              "ACC com Stop & Go",
+              "Tração 4x4 com 2H, 4x4 Auto e 4L",
+              "Quadro de instrumentos digital de 7\"",
+              "Carregador por indução com refrigeração",
+              "Bancos em tecido e couro ecológico",
+              "Estepe de liga leve aro 17\""
+            ]
+          },
+          "fonte_url": "https://www.ram.com.br/picapes/dakota/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Capacidade de reboque: 3.500 kg. Dimensões, peso e tanque não divulgados no site BR. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DAKOTA BIGHORN\"."
+        },
+        {
+          "id": "ram-dakota-warlock-2027",
+          "versao": "Warlock 2.2 Turbodiesel",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 299990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador ram.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.2 Turbodiesel VGT",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 200
+            },
+            "torque_kgfm": {
+              "diesel": 45.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.7,
+            "estrada_diesel": 10.8
+          },
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": "265/65 R17",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 1210,
+            "capacidade_carga_kg": 1020
+          },
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 17,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Rambar (santo antônio)",
+              "Bancos em couro preto",
+              "Rodas de 17\" com pneus de uso misto",
+              "Acabamento interno escurecido",
+              "Câmera 540°",
+              "ACC"
+            ]
+          },
+          "fonte_url": "https://www.ram.com.br/picapes/dakota/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Capacidade de reboque: 3.500 kg. Dimensões, peso e tanque não divulgados no site BR. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DAKOTA WARLOCK\"."
+        },
+        {
+          "id": "ram-dakota-laramie-2027",
+          "versao": "Laramie 2.2 Turbodiesel",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 322990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador ram.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.2 Turbodiesel VGT",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 200
+            },
+            "torque_kgfm": {
+              "diesel": 45.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.7,
+            "estrada_diesel": 10.8
+          },
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": "265/60 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 1210,
+            "capacidade_carga_kg": 1020
+          },
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": null,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Barra frontal em LED com animação",
+              "Bancos em couro marrom",
+              "Rodas diamantadas de 18\"",
+              "Câmera 540°",
+              "ACC",
+              "Monitoramento de ponto cego"
+            ]
+          },
+          "fonte_url": "https://www.ram.com.br/picapes/dakota/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Capacidade de reboque: 3.500 kg. Dimensões, peso e tanque não divulgados no site BR. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DAKOTA LARAMIE\"."
+        },
+        {
+          "id": "ram-dakota-laramie-night-edition-2027",
+          "versao": "Laramie Night Edition 2.2 Turbodiesel",
+          "ano_modelo": 2027,
+          "status": "À venda",
+          "preco_sugerido_brl": 329990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador ram.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "2.2 Turbodiesel VGT",
+            "cilindrada_cm3": null,
+            "cilindros": null,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 200
+            },
+            "torque_kgfm": {
+              "diesel": 45.9
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_diesel": 9.7,
+            "estrada_diesel": 10.8
+          },
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": "265/60 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 1210,
+            "capacidade_carga_kg": 1020
+          },
+          "equipamentos": {
+            "airbags": 6,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12.3,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": false,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Acabamentos externos em preto brilhante",
+              "Interior escurecido em couro",
+              "Rodas de 18\" escurecidas",
+              "Barra frontal em LED com animação",
+              "Câmera 540°",
+              "ACC"
+            ]
+          },
+          "fonte_url": "https://www.ram.com.br/picapes/dakota/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Capacidade de reboque: 3.500 kg. Dimensões, peso e tanque não divulgados no site BR. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"DAKOTA LARAMIE\"."
+        }
+      ]
+    },
+    {
+      "id": "ram-1500",
+      "modelo": "1500",
+      "categoria": "Picape",
+      "subcategoria": "Picape grande",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/ram-1500.webp",
+        "fonte_imagem": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/03/rm026-015fn.jpg?q=50&fit=contain&w=1150&h=650&dpr=1.5",
+        "pagina_origem": "https://carbuzz.com/cars/ram/1500-rev/2026/photos-exterior/"
+      },
+      "fontes": [
+        {
+          "url": "https://www.ram.com.br/picapes/1500.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.ram.com.br/picapes/1500/monte.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://mvs-service.k8s.fcalatam.com.br/mvs?brand=RAM&market=pt-BR&model=575&year=2026",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://price-service.k8s.fcalatam.com.br/price",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://part-service.k8s.fcalatam.com.br/v2/item?market=pt-BR&behavior=FEATURED",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
+          "tipo": "inmetro_pbev",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "ram-1500-big-horn-2026",
+          "versao": "Big Horn",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 449990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador ram.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 Hurricane 6 Biturbo",
+            "cilindrada_cm3": null,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 426
+            },
+            "torque_kgfm": {
+              "gasolina": 64.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": 5.3,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 6.1,
+            "estrada_gasolina": 7.2
+          },
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": "275/55 R20",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": null
+          },
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": null,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": false,
+            "carregador_inducao": null,
+            "partida_sem_chave": null,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": null,
+            "teto_solar": null,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor 3.0 Hurricane 6 biturbo de 426 cv",
+              "0 a 100 km/h em 5,3 s",
+              "Som Alpine com 10 alto-falantes",
+              "Estribo lateral cromado",
+              "ACC com Stop & Go",
+              "Volante aquecido",
+              "Retrovisores aquecidos com rebatimento elétrico"
+            ]
+          },
+          "fonte_url": "https://www.ram.com.br/picapes/1500/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Tração 4x4 com seleção eletrônica e modo 4x4 Auto; o site não detalha se há reduzida (deixado null). Dimensões, peso, caçamba e carga não divulgados para o ano-modelo 2026 no site BR. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"1500 BIG HORN (CY26)\"."
+        },
+        {
+          "id": "ram-1500-laramie-2026",
+          "versao": "Laramie",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 584990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador ram.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 Hurricane 6 Biturbo",
+            "cilindrada_cm3": null,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 426
+            },
+            "torque_kgfm": {
+              "gasolina": 64.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": 5.3,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 6,
+            "estrada_gasolina": 7
+          },
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": "275/55 R20",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": null
+          },
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.5,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 20,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Suspensão a ar Active-Level com 5 modos",
+              "Teto solar panorâmico",
+              "Central multimídia de 14,5\"",
+              "Som Harman Kardon com 19 alto-falantes",
+              "Câmera 360°",
+              "Painel de instrumentos de 12,3\"",
+              "Bancos em couro com memória",
+              "Tomadas 115 V",
+              "Detector de fadiga"
+            ]
+          },
+          "fonte_url": "https://www.ram.com.br/picapes/1500/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Tração 4x4 com seleção eletrônica e modo 4x4 Auto; o site não detalha se há reduzida (deixado null). Dimensões, peso, caçamba e carga não divulgados para o ano-modelo 2026 no site BR. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"1500 LARAMIE\"."
+        },
+        {
+          "id": "ram-1500-laramie-night-edition-2026",
+          "versao": "Laramie Night Edition",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 599990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador ram.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Gasolina",
+            "descricao": "3.0 Hurricane 6 Biturbo",
+            "cilindrada_cm3": null,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "gasolina": 426
+            },
+            "torque_kgfm": {
+              "gasolina": 64.8
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": null,
+          "desempenho": {
+            "aceleracao_0_100_s": 5.3,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {
+            "cidade_gasolina": 6,
+            "estrada_gasolina": 7
+          },
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": "285/45 R22",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": null,
+            "capacidade_carga_kg": null
+          },
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.5,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": true,
+            "rodas_polegadas": 22,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Grade em preto brilhante",
+              "Capô esportivo",
+              "Rodas de 22\" pretas",
+              "Suspensão a ar Active-Level",
+              "Teto solar panorâmico",
+              "Central multimídia de 14,5\"",
+              "Câmera 360°",
+              "Bancos em couro com memória"
+            ]
+          },
+          "fonte_url": "https://www.ram.com.br/picapes/1500/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Tração 4x4 com seleção eletrônica e modo 4x4 Auto; o site não detalha se há reduzida (deixado null). Dimensões, peso, caçamba e carga não divulgados para o ano-modelo 2026 no site BR. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"1500 LARAMIE\"."
+        }
+      ]
+    },
+    {
+      "id": "ram-2500",
+      "modelo": "2500",
+      "categoria": "Picape",
+      "subcategoria": "Picape grande",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/ram-2500.webp",
+        "fonte_imagem": "https://riversidedodge.ca/wp-content/uploads/2025/12/2026-ram-2500.webp",
+        "pagina_origem": "https://riversidedodge.ca/built-to-pull-with-confidence-the-2026-ram-2500s-advanced-towing-technology"
+      },
+      "fontes": [
+        {
+          "url": "https://www.ram.com.br/picapes/2500.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.ram.com.br/picapes/2500/monte.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://mvs-service.k8s.fcalatam.com.br/mvs?brand=RAM&market=pt-BR&model=570&year=2026",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://price-service.k8s.fcalatam.com.br/price",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://part-service.k8s.fcalatam.com.br/v2/item?market=pt-BR&behavior=FEATURED",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "ram-2500-laramie-2026",
+          "versao": "Laramie",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 559990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador ram.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "6.7 Cummins Turbodiesel High-Output",
+            "cilindrada_cm3": null,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 436
+            },
+            "torque_kgfm": {
+              "diesel": 149
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": "275/70 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 1280,
+            "capacidade_carga_kg": null
+          },
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 12,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": null,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor Cummins 6.7 turbodiesel de 436 cv e 149 kgfm",
+              "Reboque de até 8.948 kg",
+              "Câmera 360° e câmera de caçamba",
+              "Painel de instrumentos de 12,3\"",
+              "Pedais e bancos com memória",
+              "Estribo lateral cromado",
+              "Tomadas 115 V",
+              "Controle de estabilidade do reboque"
+            ]
+          },
+          "fonte_url": "https://www.ram.com.br/picapes/2500/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "Capacidade de reboque de até 8.948 kg. Tração 4x2, 4x4 e 4x4 reduzida. Dimensões, peso e carga não divulgados no site BR."
+        }
+      ]
+    },
+    {
+      "id": "ram-3500",
+      "modelo": "3500",
+      "categoria": "Picape",
+      "subcategoria": "Picape grande",
+      "propulsoes": [
+        "Combustão"
+      ],
+      "pais_fabricacao": null,
+      "imagem": {
+        "arquivo": "img/carros/ram-3500.webp",
+        "fonte_imagem": "https://www.webmotors.com.br/imagens/prod/348985/RAM_3500_6.7_I6_TURBO_DIESEL_LIMITED_LONGHORN_CD_4X4__AUTOMATICO_34898516192401673.webp",
+        "pagina_origem": "https://www.webmotors.com.br/ram/3500/2026"
+      },
+      "fontes": [
+        {
+          "url": "https://www.ram.com.br/picapes/3500.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.ram.com.br/picapes/3500/monte.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://mvs-service.k8s.fcalatam.com.br/mvs?brand=RAM&market=pt-BR&model=573&year=2026",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://price-service.k8s.fcalatam.com.br/price",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://part-service.k8s.fcalatam.com.br/v2/item?market=pt-BR&behavior=FEATURED",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-19"
+        }
+      ],
+      "versoes": [
+        {
+          "id": "ram-3500-laramie-night-edition-2026",
+          "versao": "Laramie Night Edition",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 619990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador ram.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "6.7 Cummins Turbodiesel High-Output",
+            "cilindrada_cm3": null,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 436
+            },
+            "torque_kgfm": {
+              "diesel": 149
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": "275/70 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 1280,
+            "capacidade_carga_kg": null
+          },
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.5,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": null,
+            "banco_motorista_eletrico": true,
+            "teto_solar": null,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor Cummins 6.7 turbodiesel de 436 cv e 149 kgfm",
+              "Central multimídia de 14,5\"",
+              "Rodas escurecidas de 18\"",
+              "Cab lights no teto",
+              "Câmera 360° e câmera de caçamba",
+              "Caçamba de 1.280 L com 2 Rambox"
+            ]
+          },
+          "fonte_url": "https://www.ram.com.br/picapes/3500/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "O site informa capacidade de carga de 1.597 kg e 1.599 kg sem associar a cada versão (deixado null). Dimensões e peso não divulgados no site BR."
+        },
+        {
+          "id": "ram-3500-limited-longhorn-2026",
+          "versao": "Limited Longhorn",
+          "ano_modelo": 2026,
+          "status": "À venda",
+          "preco_sugerido_brl": 679990,
+          "preco_obs": "Preço público sugerido nacional (API de preços do configurador ram.com.br), sem opcionais e pintura",
+          "motor": {
+            "tipo_propulsao": "Combustão",
+            "combustivel": "Diesel",
+            "descricao": "6.7 Cummins Turbodiesel High-Output",
+            "cilindrada_cm3": null,
+            "cilindros": 6,
+            "turbo": true,
+            "potencia_cv": {
+              "diesel": 436
+            },
+            "torque_kgfm": {
+              "diesel": 149
+            },
+            "bateria_kwh": null,
+            "autonomia_eletrica_km": null,
+            "autonomia_ciclo": null
+          },
+          "transmissao": {
+            "tipo": "Automática",
+            "marchas": 8
+          },
+          "tracao": "4x4 (com reduzida)",
+          "desempenho": {
+            "aceleracao_0_100_s": null,
+            "velocidade_maxima_kmh": null
+          },
+          "consumo": {},
+          "dimensoes_mm": {
+            "comprimento": null,
+            "largura": null,
+            "largura_com_retrovisores": null,
+            "altura": null,
+            "entre_eixos": null,
+            "altura_livre_solo": null
+          },
+          "peso_kg": null,
+          "porta_malas_l": null,
+          "tanque_l": null,
+          "lugares": null,
+          "portas": 4,
+          "pneus": "275/70 R18",
+          "picape": {
+            "cabine": "Dupla",
+            "cacamba_l": 1280,
+            "capacidade_carga_kg": null
+          },
+          "equipamentos": {
+            "airbags": null,
+            "controle_estabilidade": true,
+            "frenagem_autonoma_emergencia": true,
+            "piloto_automatico_adaptativo": true,
+            "assistente_permanencia_faixa": true,
+            "alerta_ponto_cego": true,
+            "camera_re": true,
+            "camera_360": true,
+            "sensor_estacionamento_dianteiro": true,
+            "farois_led": true,
+            "ar_condicionado": "Digital dual zone",
+            "multimidia_polegadas": 14.5,
+            "carplay_android_auto": "Sem fio",
+            "painel_digital": true,
+            "carregador_inducao": true,
+            "partida_sem_chave": true,
+            "bancos_couro": true,
+            "banco_motorista_eletrico": true,
+            "teto_solar": null,
+            "rodas_polegadas": 18,
+            "rodas_liga_leve": true,
+            "destaques": [
+              "Motor Cummins 6.7 turbodiesel de 436 cv e 149 kgfm",
+              "Bancos em couro Natura Plus",
+              "Acabamento em madeira verdadeira",
+              "Central multimídia de 14,5\"",
+              "Câmera 360°",
+              "Grupo tecnológico de reboque (opcional)"
+            ]
+          },
+          "fonte_url": "https://www.ram.com.br/picapes/3500/monte.html",
+          "campos_fonte_secundaria": [],
+          "observacoes": "O site informa capacidade de carga de 1.597 kg e 1.599 kg sem associar a cada versão (deixado null). Dimensões e peso não divulgados no site BR."
+        }
+      ]
+    }
+  ]
+}
