@@ -1,6 +1,6 @@
 # Pendências da base (coleta de 19–21/10/2026)
 
-Base: 45 marcas, 281 modelos, 800 versões (após a revisão de anos-modelo em 21/10/2026). Todos os arquivos passam em `scripts/validar.mjs` sem erros.
+Base atual: 45 marcas, 282 modelos e 802 versões. Todos os arquivos passam em `scripts/validar.mjs` sem erros.
 
 ## Cobertura dos campos
 | Campo | Versões com dado |
@@ -17,7 +17,7 @@ Base: 45 marcas, 281 modelos, 800 versões (após a revisão de anos-modelo em 2
 Preenchido a partir da **tabela PBEV/Inmetro 2026** (atualização 14/ago/2026), fonte `inmetro_pbev`:
 391 versões que estavam vazias, 39 que tinham consumo de fonte secundária e 25 autonomias elétricas.
 Casamento feito por marca, modelo, propulsão, combustível, cilindrada, turbo, câmbio e nome da versão, com revisão manual dos ambíguos.
-- **Padronizado pelo PBEV** (decisão do usuário, 21/10/2026): as 236 versões que tinham consumo do site da marca
+- **Padronizado pelo PBEV** (decisão de 21/10/2026): as 236 versões que tinham consumo do site da marca
   também passaram a usar o PBEV, e 666 versões têm consumo PBEV. Só 13 versões sem linha no PBEV mantêm o consumo do site:
   X6 40i, Tiggo 9, S10 Trail Boss, Haval H7, Civic Type R, Lexus ES, AMG GLB 35, G 63 Manufaktur, AMG GT, Countryman JCW e Jaecoo 5.
 - **2ª rodada (21/10/2026)**:
@@ -29,7 +29,6 @@ Casamento feito por marca, modelo, propulsão, combustível, cilindrada, turbo, 
     - **Fora do PBEV:** Tiggo 9 PHEV, CS55 PHEV, Denza Z9 GT/D9, Kia EV9, ID.4, RAV4 PHEV XSE, Classe V, G 63, AMG GLC 53, GR Corolla e Ram 2500/3500 (picapes pesadas, isentas);
     - **Duplicatas sem matéria que desempate:** Tiggo 7 Pro e Pro PHEV, i20 1.0 MT, Kardian Evolution AT, Taycan GTS/Turbo S, Cayenne GTS e Cayenne Electric S;
     - **Sem linha própria:** S10 100 Anos, Ranger XL CD AT, Hunter 4Work MT e Saveiro Extreme CD.
-- Scripts e dados do casamento estão em `scratchpad/pbev/`: `parse.mjs`, `casar.mjs`, `alias.json`, `manual.json`, `aplicar.mjs`, `extra.json` e `aplicar-extra.mjs`.
 
 ## Prioridade 2: dados inferidos ou calculados (resolvido em 21/10/2026)
 - **GWM Ora 03**: comprimento (4.235), largura (1.825) e altura (1.603) agora vêm de fontes secundárias (Webmotors, car.blog.br, Itatiaia). O peso da BEV58 não é divulgado, então virou `null`.
@@ -42,7 +41,7 @@ Casamento feito por marca, modelo, propulsão, combustível, cilindrada, turbo, 
   - MCPura e Temerario: DCT de 8 marchas, e Ferrari Luce: redução única, confirmados por fontes secundárias.
 - **Controle de estabilidade**: virou regra documentada no README. É obrigatório desde 1º/jan/2024 (Contran 567/2015 e 799/2020), por isso fica sempre `true`; as 30 versões que estavam `null` foram ajustadas.
 - **Toyota**: Hilux e SW4 Argentina e GR Yaris Japão, por fontes secundárias; GR Corolla sem fonte → `null`.
-- **Inferências menores citadas pelos agentes, ainda sem revisão**:
+- **Inferências menores, ainda sem revisão**:
   - VW: nº de cilindros deduzido da cilindrada; tração dianteira da Saveiro;
   - Amarok 4Motion registrado como 4x4 sem reduzida;
   - tração escolhida na F-150, Maverick Tremor e Bronco Sport;
@@ -60,7 +59,7 @@ Casamento feito por marca, modelo, propulsão, combustível, cilindrada, turbo, 
   - BYD Dolphin Plus: só 2025 na FIPE;
   - JAC E-JS4: último ano na FIPE é 2023;
   - JAC E-J7: FIPE só 0 km/2022/2023.
-  A base passou a ter 281 modelos e 800 versões. Os backups estão no scratchpad (`backup-marcas-4`).
+  A base passou a ter 281 modelos e 800 versões.
 - **Exóticas** (45 versões): a nota "ano-modelo informado como 2026" virou "não divulgado; adotado o ano corrente".
 - **Mantido como está**: versões 2026 que ainda aparecem na API, mas não no site (Jeep Renegade/Commander, Ram Rampage/Dakota, Range Rover/RR Sport), seguem fora, pela regra "o que o site oferece".
 - **A verificar**: a FIPE já lista a JAC Hunter (4Work, HD, HDX) como **2027**, mas o site da JAC não diferencia. Hoje a base só tem o 2026.
@@ -92,7 +91,7 @@ Casamento feito por marca, modelo, propulsão, combustível, cilindrada, turbo, 
   - **Mercedes e Rolls-Royce**: sem fonte (a Mercedes não publica lista de itens), continuam `null` em airbags, multimídia, painel e CarPlay.
 - **Largura**: criado o campo `dimensoes_mm.largura_com_retrovisores`.
   - Preenchido em 104 versões: Audi, Fiat, Ford, Jeep, Lamborghini, Land Rover (XML do configurador), Mercedes (API do site) e Citroën Aircross.
-  - Ainda há 74 versões sem nenhuma largura (Peugeot, Basalt, Ram e exóticas, entre outras).
+  - As 75 versões que ainda estavam sem medida foram preenchidas em seguida, e hoje todas as 802 têm largura.
 - **Categorias limítrofes**:
   - Mudaram BMW X1, iX1, X2 e iX2 (→ SUV Compacto, junto com Q3, GLA e UX), Outlander PHEV (→ SUV Grande, 7 lugares) e Lexus RZ (→ SUV Médio, como o bZ4X);
   - Mantidos pelo posicionamento: Niro, Bronco Sport, Sealion 7, Defender 90, Velar, Q3 e Grecale; Zeekr 001 continua como Perua.

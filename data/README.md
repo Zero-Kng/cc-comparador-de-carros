@@ -1,4 +1,4 @@
-# Base de dados de carros — convenções
+# Base de dados de carros: convenções
 
 Base de modelos e versões de carros **vendidos oficialmente no Brasil**, anos-modelo **2026 e 2027**.
 Fonte primária: **sites oficiais das fabricantes** (página do modelo, configurador, ficha técnica em PDF,
@@ -170,7 +170,7 @@ com 4,70 m ou mais vão para SUV Grande.
 
 `tipo`: `site_oficial` (site da marca, configurador), `ficha_tecnica_pdf` (PDF oficial),
 `imprensa_oficial` (site de imprensa/newsroom da marca no Brasil), `inmetro_pbev` (tabela oficial
-PBEV/Inmetro — usada para consumo e autonomia elétrica), `secundaria` (qualquer outra —
+PBEV/Inmetro, usada para consumo e autonomia elétrica), `secundaria` (qualquer outra,
 só para lacunas; listar o campo em `campos_fonte_secundaria`).
 
 ## Regras gerais

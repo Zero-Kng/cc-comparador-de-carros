@@ -1,4 +1,4 @@
-# CC — Comparador de carros
+# CC: comparador de carros
 
 Site para comparar preços, consumo, motorização e equipamentos dos carros vendidos no Brasil, anos-modelo 2026 e 2027.
 Trabalho acadêmico feito com HTML, CSS, formulários, JavaScript e PHP, sem frameworks.
