@@ -19,6 +19,10 @@ Trabalho acadêmico feito com HTML, CSS, formulários, JavaScript e PHP, sem fra
 O consumo segue o PBEV/Inmetro, e dados de fonte secundária aparecem marcados com `*`.
 As convenções estão em `data/README.md`, e a origem de cada foto, em `data/imagens.json`.
 
+> **Aviso:** todas as informações dos carros (preços, fichas técnicas, consumo e equipamentos) e todas as imagens
+> foram recolhidas por IA, a partir dos sites das fabricantes e de outras fontes indicadas em cada modelo.
+> Os dados podem conter erros ou estar desatualizados. Confira sempre na fonte oficial antes de qualquer decisão de compra.
+
 ## Como rodar
 
 Com o PHP 8 instalado, na pasta do projeto:
