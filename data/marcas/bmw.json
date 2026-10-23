@@ -1300,6 +1300,11 @@
           "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
           "tipo": "inmetro_pbev",
           "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.bmw.ca/en/all-models/m-series/bmw-4-series-m-models/bmw-m4-coupe-technical-data.html",
+          "tipo": "site_oficial",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -1342,8 +1347,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4801,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1887,
+            "largura_com_retrovisores": 2081,
             "altura": 1397,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -1389,7 +1394,7 @@
           },
           "fonte_url": "https://www.bmw.com.br/pt/all-models/m-series/bmw-4-series-m-models/bmw-m4-coupe.html",
           "campos_fonte_secundaria": [],
-          "observacoes": "Lançado em pré-venda em 14/05/2026 (preço de lançamento Competition R$ 908.950 / Track R$ 1.015.950). Velocidade máxima de 290 km/h conforme imprensa; o site informa 302 km/h. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"M4 Competition\"."
+          "observacoes": "Lançado em pré-venda em 14/05/2026 (preço de lançamento Competition R$ 908.950 / Track R$ 1.015.950). Velocidade máxima de 290 km/h conforme imprensa; o site informa 302 km/h. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"M4 Competition\". Largura dos dados técnicos oficiais da BMW (site do Canadá); o site brasileiro não divulga."
         },
         {
           "id": "bmw-m4-competition-track-2027",
@@ -1430,8 +1435,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4801,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1887,
+            "largura_com_retrovisores": 2081,
             "altura": 1397,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -1480,7 +1485,7 @@
           },
           "fonte_url": "https://www.bmw.com.br/pt/all-models/m-series/bmw-4-series-m-models/bmw-m4-coupe.html",
           "campos_fonte_secundaria": [],
-          "observacoes": "Lançado em pré-venda em 14/05/2026 (preço de lançamento Competition R$ 908.950 / Track R$ 1.015.950). Velocidade máxima de 290 km/h conforme imprensa; o site informa 302 km/h. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"M4 Competition\"."
+          "observacoes": "Lançado em pré-venda em 14/05/2026 (preço de lançamento Competition R$ 908.950 / Track R$ 1.015.950). Velocidade máxima de 290 km/h conforme imprensa; o site informa 302 km/h. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"M4 Competition\". Largura dos dados técnicos oficiais da BMW (site do Canadá); o site brasileiro não divulga."
         }
       ]
     },

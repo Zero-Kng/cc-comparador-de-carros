@@ -268,6 +268,11 @@
           "url": "https://www.lamborghini.com/en-en/ownership/dealer-locator/lamborghini-sao-paulo",
           "tipo": "site_oficial",
           "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.samaco.com.sa/en/lamborghini/models/urus-se-performante/",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -388,8 +393,8 @@
           "consumo": {},
           "dimensoes_mm": {
             "comprimento": 5123,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 2031,
+            "largura_com_retrovisores": 2181,
             "altura": 1638,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -432,7 +437,10 @@
             ]
           },
           "fonte_url": "https://www.lamborghini.com/en-en/models/urus/urus-se-performante",
-          "campos_fonte_secundaria": [],
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura",
+            "dimensoes_mm.largura_com_retrovisores"
+          ],
           "observacoes": "Vendido no Brasil pela Lamborghini São Paulo (concessionária oficial, Pinheiros). Preço não divulgado. Ficha técnica do site global da marca (lamborghini.com), pois não há site BR com especificações. Autonomia elétrica informada como \"mais de 60 km\". Dimensões e pneus conforme ficha do site global (mesmos dados do Urus SE). Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
         }
       ]

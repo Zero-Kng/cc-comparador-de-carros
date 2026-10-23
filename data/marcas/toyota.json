@@ -1186,6 +1186,11 @@
           "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
           "tipo": "inmetro_pbev",
           "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.icarros.com.br/catalogo/marcas/toyota/corolla-gr-sport",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -1412,7 +1417,7 @@
           },
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
+            "largura": 1780,
             "largura_com_retrovisores": null,
             "altura": null,
             "entre_eixos": null,
@@ -1457,7 +1462,9 @@
             ]
           },
           "fonte_url": "https://www.toyota.com.br/modelos/corolla-gr-sport",
-          "campos_fonte_secundaria": [],
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura"
+          ],
           "observacoes": "Ficha técnica da versão não disponível no site; dados do site e do release da linha 2025. Dimensões, peso, pneus e tanque não confirmados (null). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COROLLA COROLLA ALTIS 20\"."
         },
         {
@@ -3491,6 +3498,11 @@
           "url": "https://media.toyota.com.br/7c59416b-cf85-4188-80a4-6b1abdd5c23b.pdf",
           "tipo": "ficha_tecnica_pdf",
           "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.webmotors.com.br/toyota/gr-corolla/2024",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -3530,7 +3542,7 @@
           "consumo": {},
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
+            "largura": 1851,
             "largura_com_retrovisores": null,
             "altura": null,
             "entre_eixos": null,
@@ -3572,7 +3584,9 @@
             ]
           },
           "fonte_url": "https://www.toyota.com.br/modelos/gr-corolla",
-          "campos_fonte_secundaria": [],
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura"
+          ],
           "observacoes": "Novo GR Corolla (anunciado em ago/2026) consta na tabela nacional de preços out/2026 como \"Corolla HB Circuit\" 2026/2026; a página do site ainda mostra a linha anterior (Core e Circuit ano 2024, fora do escopo). Ficha técnica e equipamentos da nova linha ainda não publicados — campos null. Combustível (gasolina) conforme ficha oficial da linha anterior, com o mesmo motor 1.6 turbo."
         }
       ]

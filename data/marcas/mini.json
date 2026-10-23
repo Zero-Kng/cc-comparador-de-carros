@@ -508,8 +508,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 3876,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1744,
+            "largura_com_retrovisores": 1970,
             "altura": 1452,
             "entre_eixos": 2495,
             "altura_livre_solo": null
@@ -555,7 +555,7 @@
           },
           "fonte_url": "https://www.mini.com.br/pt_BR/home/mini-victory-edition.html",
           "campos_fonte_secundaria": [],
-          "observacoes": "Ficha técnica do descritivo oficial da edição (cita ano 2026); tabela de preços lista ano-modelo 2027. Consumo combinado de 17,1 km/l no descritivo (ciclo não especificado), não usado. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"JCW 3P\"."
+          "observacoes": "Ficha técnica do descritivo oficial da edição (cita ano 2026); tabela de preços lista ano-modelo 2027. Consumo combinado de 17,1 km/l no descritivo (ciclo não especificado), não usado. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"JCW 3P\". Largura sem espelhos da página oficial de dimensões do MINI 3 portas; a ficha da edição traz 1.970 mm com retrovisores."
         },
         {
           "id": "mini-cooper-3-portas-jcw-gp-inspired-edition-2027",
@@ -596,8 +596,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 3876,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1744,
+            "largura_com_retrovisores": 1970,
             "altura": 1452,
             "entre_eixos": 2495,
             "altura_livre_solo": null
@@ -646,7 +646,7 @@
           "campos_fonte_secundaria": [
             "consumo"
           ],
-          "observacoes": "Edição limitada de 20 unidades lançada em 28/08/2026. Consumo combinado de 17,1 km/l no descritivo (ciclo não especificado), não usado. Consumo do catálogo iCarros (igual ao JCW 3 portas no PBEV 2026); a edição não consta nominalmente no PBEV."
+          "observacoes": "Edição limitada de 20 unidades lançada em 28/08/2026. Consumo combinado de 17,1 km/l no descritivo (ciclo não especificado), não usado. Consumo do catálogo iCarros (igual ao JCW 3 portas no PBEV 2026); a edição não consta nominalmente no PBEV. Largura sem espelhos da página oficial de dimensões do MINI 3 portas; a ficha da edição traz 1.970 mm com retrovisores."
         }
       ]
     },

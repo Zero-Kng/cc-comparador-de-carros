@@ -43,6 +43,11 @@
           "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
           "tipo": "inmetro_pbev",
           "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.vehiclesizes.com/compare/6177-6160/mclaren-artura-spider-roadster-2024-vs-mclaren-720s-spider-roadster-2019/",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -175,8 +180,8 @@
           },
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1913,
+            "largura_com_retrovisores": 2080,
             "altura": null,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -218,7 +223,10 @@
             ]
           },
           "fonte_url": "https://www.mclaren.com/cars/br_pt/artura-spider",
-          "campos_fonte_secundaria": [],
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura",
+            "dimensoes_mm.largura_com_retrovisores"
+          ],
           "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"ARTURA\". Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
         }
       ]
@@ -287,7 +295,7 @@
           "dimensoes_mm": {
             "comprimento": 4683,
             "largura": null,
-            "largura_com_retrovisores": null,
+            "largura_com_retrovisores": 2095,
             "altura": 1213,
             "entre_eixos": 2675,
             "altura_livre_solo": null
@@ -330,7 +338,7 @@
           },
           "fonte_url": "https://www.mclaren.com/cars/br_pt/gts",
           "campos_fonte_secundaria": [],
-          "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Porta-malas: 420 L traseiro + 150 L dianteiro. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+          "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Porta-malas: 420 L traseiro + 150 L dianteiro. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026). O catálogo oficial só traz a largura com espelhos (2.095 mm abertos; 2.045 mm rebatidos)."
         }
       ]
     },
@@ -368,6 +376,11 @@
           "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
           "tipo": "inmetro_pbev",
           "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://autotijd.be/en/dimensions/mclaren/750s",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -410,8 +423,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4569,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1930,
+            "largura_com_retrovisores": 2161,
             "altura": 1196,
             "entre_eixos": 2670,
             "altura_livre_solo": 107
@@ -453,7 +466,10 @@
             ]
           },
           "fonte_url": "https://www.mclaren.com/cars/br_pt/750s",
-          "campos_fonte_secundaria": [],
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura",
+            "dimensoes_mm.largura_com_retrovisores"
+          ],
           "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Porta-malas: 150 L dianteiro + 210 L traseiro. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"750S COUPE\". Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
         },
         {
@@ -495,8 +511,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4569,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1930,
+            "largura_com_retrovisores": 2161,
             "altura": 1196,
             "entre_eixos": 2670,
             "altura_livre_solo": 107
@@ -538,7 +554,10 @@
             ]
           },
           "fonte_url": "https://www.mclaren.com/cars/br_pt/750s-spider",
-          "campos_fonte_secundaria": [],
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura",
+            "dimensoes_mm.largura_com_retrovisores"
+          ],
           "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Porta-malas: 150 L dianteiro + 58 L traseiro. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"750S SPIDER\". Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
         }
       ]
@@ -572,6 +591,11 @@
           "url": "https://www.mclarensaopaulo.com.br/",
           "tipo": "site_oficial",
           "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://www.vehiclesizes.com/cars/mclaren/788hs/788hs-coupe-2027/",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -612,7 +636,7 @@
           "dimensoes_mm": {
             "comprimento": 4569,
             "largura": null,
-            "largura_com_retrovisores": null,
+            "largura_com_retrovisores": 2161,
             "altura": null,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -655,7 +679,9 @@
             ]
           },
           "fonte_url": "https://www.mclaren.com/cars/br_pt/788hs",
-          "campos_fonte_secundaria": [],
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura_com_retrovisores"
+          ],
           "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Peso seco mínimo informado: 1.265 kg (peso em ordem de marcha não divulgado). Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
         },
         {
@@ -695,7 +721,7 @@
           "dimensoes_mm": {
             "comprimento": 4569,
             "largura": null,
-            "largura_com_retrovisores": null,
+            "largura_com_retrovisores": 2161,
             "altura": null,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -737,7 +763,9 @@
             ]
           },
           "fonte_url": "https://www.mclaren.com/cars/br_pt/788hs-spider",
-          "campos_fonte_secundaria": [],
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura_com_retrovisores"
+          ],
           "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Peso seco mínimo informado: 1.313 kg (peso em ordem de marcha não divulgado). Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
         }
       ]

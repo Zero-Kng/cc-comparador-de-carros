@@ -76,7 +76,7 @@ export function linhasFicha(versao) {
   add(G3, 'Portas', texto(versao.portas), ['portas']);
   add(G3, 'Comprimento', sufixo(dim.comprimento, 'mm', 0), ['dimensoes_mm.comprimento']);
   if (dim.largura === null && dim.largura_com_retrovisores !== null) {
-    add(G3, 'Largura', `${formatarNumero(dim.largura_com_retrovisores, 0)} mm (com retrovisores)`, ['dimensoes_mm.largura_com_retrovisores']);
+    add(G3, 'Largura', `${formatarNumero(dim.largura_com_retrovisores, 0)} mm (Com retrovisor)`, ['dimensoes_mm.largura_com_retrovisores']);
   } else {
     add(G3, 'Largura', sufixo(dim.largura, 'mm', 0), ['dimensoes_mm.largura']);
   }

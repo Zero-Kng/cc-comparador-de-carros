@@ -628,6 +628,11 @@
           "url": "https://www.astonmartin.com/en/models/vanquish-volante",
           "tipo": "site_oficial",
           "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://autotijd.be/en/dimensions/aston-martin/vanquish",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -667,8 +672,8 @@
           "consumo": {},
           "dimensoes_mm": {
             "comprimento": 4855,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 2044,
+            "largura_com_retrovisores": 2120,
             "altura": 1290,
             "entre_eixos": 2885,
             "altura_livre_solo": 120
@@ -710,7 +715,10 @@
             ]
           },
           "fonte_url": "https://www.astonmartinsaopaulo.com.br/modelo/vanquish/",
-          "campos_fonte_secundaria": [],
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura",
+            "dimensoes_mm.largura_com_retrovisores"
+          ],
           "observacoes": "Vendido no Brasil pela Aston Martin São Paulo (UK Motors, representante oficial). Preço não divulgado. Ficha técnica: site do dealer oficial BR, complementada pelo site global da marca. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
         },
         {
@@ -749,8 +757,8 @@
           "consumo": {},
           "dimensoes_mm": {
             "comprimento": 4855,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 2044,
+            "largura_com_retrovisores": 2120,
             "altura": 1295,
             "entre_eixos": 2885,
             "altura_livre_solo": 120
@@ -792,7 +800,10 @@
             ]
           },
           "fonte_url": "https://www.astonmartinsaopaulo.com.br/modelo/vanquish-volante/",
-          "campos_fonte_secundaria": [],
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura",
+            "dimensoes_mm.largura_com_retrovisores"
+          ],
           "observacoes": "Vendido no Brasil pela Aston Martin São Paulo (UK Motors, representante oficial). Preço não divulgado. Ficha técnica: site do dealer oficial BR, complementada pelo site global da marca. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
         }
       ]

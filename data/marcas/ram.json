@@ -595,6 +595,11 @@
           "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
           "tipo": "inmetro_pbev",
           "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.media.stellantis.com/uploads/br/model-document/fichatecnicaramdakotalaramie-69833f4cc079d.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -637,8 +642,8 @@
           },
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1965,
+            "largura_com_retrovisores": 2225,
             "altura": null,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -729,8 +734,8 @@
           },
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1965,
+            "largura_com_retrovisores": 2225,
             "altura": null,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -820,8 +825,8 @@
           },
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1965,
+            "largura_com_retrovisores": 2225,
             "altura": null,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -911,8 +916,8 @@
           },
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1965,
+            "largura_com_retrovisores": 2225,
             "altura": null,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -1009,6 +1014,11 @@
           "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
           "tipo": "inmetro_pbev",
           "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.media.stellantis.com/br-pt/download-model-document/523",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -1051,7 +1061,7 @@
           },
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
+            "largura": 2062,
             "largura_com_retrovisores": null,
             "altura": null,
             "entre_eixos": null,
@@ -1143,7 +1153,7 @@
           },
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
+            "largura": 2062,
             "largura_com_retrovisores": null,
             "altura": null,
             "entre_eixos": null,
@@ -1237,7 +1247,7 @@
           },
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
+            "largura": 2062,
             "largura_com_retrovisores": null,
             "altura": null,
             "entre_eixos": null,
@@ -1332,6 +1342,11 @@
           "url": "https://part-service.k8s.fcalatam.com.br/v2/item?market=pt-BR&behavior=FEATURED",
           "tipo": "site_oficial",
           "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.media.stellantis.com/uploads/br/attachment/5867/fichatecnicaram2500laramiemy25-68961f22e9b61.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -1371,7 +1386,7 @@
           "consumo": {},
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
+            "largura": 2120,
             "largura_com_retrovisores": null,
             "altura": null,
             "entre_eixos": null,
@@ -1466,6 +1481,11 @@
           "url": "https://part-service.k8s.fcalatam.com.br/v2/item?market=pt-BR&behavior=FEATURED",
           "tipo": "site_oficial",
           "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.media.stellantis.com/br-pt/download-model-document/489",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -1505,7 +1525,7 @@
           "consumo": {},
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
+            "largura": 2120,
             "largura_com_retrovisores": null,
             "altura": null,
             "entre_eixos": null,
@@ -1593,7 +1613,7 @@
           "consumo": {},
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
+            "largura": 2120,
             "largura_com_retrovisores": null,
             "altura": null,
             "entre_eixos": null,

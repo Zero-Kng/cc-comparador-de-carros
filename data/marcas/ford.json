@@ -2134,6 +2134,11 @@
           "url": "https://www.vrum.com.br/noticias/2025/08/7226240-ford-mustang-dark-horse-chega-ao-brasil-com-muita-potencia-e-tecnologia.html",
           "tipo": "secundaria",
           "acessado_em": "2026-10-22"
+        },
+        {
+          "url": "https://www.ford.com.br/content/dam/Ford/website-assets/latam/br/nameplate/2025/mustang-dark-horse/pdf/fbr-ficha-tecnica-mustang-dark-horse.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -2177,7 +2182,7 @@
           "dimensoes_mm": {
             "comprimento": null,
             "largura": null,
-            "largura_com_retrovisores": null,
+            "largura_com_retrovisores": 2080,
             "altura": null,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -2226,7 +2231,7 @@
             "desempenho.aceleracao_0_100_s",
             "desempenho.velocidade_maxima_kmh"
           ],
-          "observacoes": "Potência (507 cv), torque (567 Nm), motor V8 5.0, faróis LED e rodas 19\" do site oficial; câmbio de 10 marchas e consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Mustang Dark Horse\". Ano-modelo 2026 conforme imprensa e Tabela FIPE (o material do site ainda é identificado como 2025). Dimensões e peso não publicados no site BR."
+          "observacoes": "Potência (507 cv), torque (567 Nm), motor V8 5.0, faróis LED e rodas 19\" do site oficial; câmbio de 10 marchas e consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Mustang Dark Horse\". Ano-modelo 2026 conforme imprensa e Tabela FIPE (o material do site ainda é identificado como 2025). Dimensões e peso não publicados no site BR. A Ford só divulga a largura com espelhos (2.080 mm abertos; 1.958 mm rebatidos)."
         }
       ]
     }

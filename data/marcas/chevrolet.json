@@ -43,6 +43,11 @@
           "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
           "tipo": "inmetro_pbev",
           "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.monkeymotor.net/2026/07/chevrolet-onix-activ-precio-ficha-tecnica.html",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -612,7 +617,7 @@
           },
           "dimensoes_mm": {
             "comprimento": 4169,
-            "largura": null,
+            "largura": 1746,
             "largura_com_retrovisores": null,
             "altura": 1532,
             "entre_eixos": null,
@@ -656,7 +661,9 @@
             ]
           },
           "fonte_url": "https://www.chevrolet.com.br/content/dam/chevrolet/south-america/brazil/portuguese/index/portable-navigation/global-footer/lista-de-precos/11-pdf/lista-de-pre%C3%A7os-p%C3%BAblicos-sugeridos-02-de-Outubro-de-2026.pdf",
-          "campos_fonte_secundaria": [],
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura"
+          ],
           "observacoes": "Dimensões conforme release da linha 2027 (suspensão elevada, vão livre de 201 mm, ataque 19,7°/saída 28,1°). Peso, desempenho e consumo da versão não divulgados. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"ONIX AT\"."
         },
         {
@@ -7992,6 +7999,11 @@
           "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
           "tipo": "inmetro_pbev",
           "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.webmotors.com.br/chevrolet/silverado/2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -8034,7 +8046,7 @@
           },
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
+            "largura": 2063,
             "largura_com_retrovisores": null,
             "altura": null,
             "entre_eixos": 3745,
@@ -8091,7 +8103,8 @@
             "motor.potencia_cv",
             "motor.torque_kgfm",
             "dimensoes_mm.entre_eixos",
-            "tanque_l"
+            "tanque_l",
+            "dimensoes_mm.largura"
           ],
           "observacoes": "Motor V8 5.3, câmbio de 10 marchas, caçamba de 1.781 L e pneus conforme site/release/lista oficiais; potência, torque, consumo, entre-eixos e tanque de fontes secundárias. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"SILVERADO HIGH COUNTRY\"."
         }

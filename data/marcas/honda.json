@@ -2053,6 +2053,11 @@
           "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
           "tipo": "inmetro_pbev",
           "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.carsales.com.au/research/honda/prelude/2026/ehev/",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -2098,7 +2103,7 @@
           },
           "dimensoes_mm": {
             "comprimento": 4522,
-            "largura": null,
+            "largura": 1880,
             "largura_com_retrovisores": null,
             "altura": 1355,
             "entre_eixos": 2605,
@@ -2144,8 +2149,10 @@
             ]
           },
           "fonte_url": "https://www.honda.com.br/automoveis/prelude",
-          "campos_fonte_secundaria": [],
-          "observacoes": "Ficha do site não informa largura nem número de airbags. Lista de conforto do site parece parcialmente copiada do Civic Type R (bancos em suede, LogR, 12 alto-falantes vs. card com 8); itens de acabamento interno ficaram null. Site indica ano/modelo 2026/2026. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"PRELUDE TOP\"."
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura"
+          ],
+          "observacoes": "Ficha do site não informa largura nem número de airbags. Lista de conforto do site parece parcialmente copiada do Civic Type R (bancos em suede, LogR, 12 alto-falantes vs. card com 8); itens de acabamento interno ficaram null. Site indica ano/modelo 2026/2026. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"PRELUDE TOP\". A ficha do site oficial lista 1.695 mm de largura, valor incompatível com o Prelude; usada a medida de fontes secundárias."
         }
       ]
     }

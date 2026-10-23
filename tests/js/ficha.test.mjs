@@ -78,3 +78,8 @@ test('campoSecundario: ano-modelo e país vindos de fonte secundária', () => {
   assert.equal(campoSecundario(versao('denza-b5-gl-2027'), 'ano_modelo'), true);
   assert.equal(campoSecundario(versao('fiat-fastback-abarth-turbo-270-2027'), 'ano_modelo'), false);
 });
+
+test('largura só com retrovisores aparece com "(Com retrovisor)"', () => {
+  const l = linhasFicha(versao('fiat-fastback-abarth-turbo-270-2027'));
+  assert.equal(l.find((x) => x.rotulo === 'Largura').valor, '1.989 mm (Com retrovisor)');
+});

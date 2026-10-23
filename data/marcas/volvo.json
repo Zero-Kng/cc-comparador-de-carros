@@ -38,6 +38,11 @@
           "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
           "tipo": "inmetro_pbev",
           "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://evkx.net/pt-br/models/volvo/ex30/ex30_cross_country/specifications/",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -232,7 +237,9 @@
             "motor.autonomia_eletrica_km",
             "desempenho.aceleracao_0_100_s",
             "equipamentos.rodas_polegadas",
-            "equipamentos.multimidia_polegadas"
+            "equipamentos.multimidia_polegadas",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.largura_com_retrovisores"
           ],
           "observacoes": "Edição listada no configurador oficial (preço oficial). Ficha técnica da edição não publicada no site BR; motorização e autonomia de fonte secundária (AutoPapo). Dimensões diferem da versão regular (maior altura do solo) e não foram confirmadas. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"EX30 C COUNTRY\".",
           "ano_modelo": 2026,
@@ -242,8 +249,8 @@
           },
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1837,
+            "largura_com_retrovisores": 2032,
             "altura": null,
             "entre_eixos": null,
             "altura_livre_solo": null

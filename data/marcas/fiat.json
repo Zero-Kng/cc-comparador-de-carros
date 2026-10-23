@@ -452,6 +452,11 @@
           "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
           "tipo": "inmetro_pbev",
           "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.media.stellantis.com/uploads/br/attachment/4368/fichatecnicafiatargotrekking13fireflyflexcvt-63c81dca16c90.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -765,8 +770,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 3998,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1750,
+            "largura_com_retrovisores": 1980,
             "altura": 1568,
             "entre_eixos": 2521,
             "altura_livre_solo": 182
@@ -811,7 +816,7 @@
           },
           "fonte_url": "https://argo.fiat.com.br/monte.html?mvs=358AGU1&year=2026",
           "campos_fonte_secundaria": [],
-          "observacoes": "Sem ficha técnica oficial MY26 publicada para esta versão: dimensões, porta-malas e tanque do configurador oficial; câmbio de 5 marchas conforme item de série/ficha MY22 da mesma versão. Desempenho, consumo e peso não confirmados. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"ARGO TREKKING 1.3\"."
+          "observacoes": "Sem ficha técnica oficial MY26 publicada para esta versão: dimensões, porta-malas e tanque do configurador oficial; câmbio de 5 marchas conforme item de série/ficha MY22 da mesma versão. Desempenho, consumo e peso não confirmados. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"ARGO TREKKING 1.3\". Largura da ficha oficial da Trekking 1.3 CVT, mesma carroceria."
         },
         {
           "id": "fiat-argo-drive-1-0-2027",

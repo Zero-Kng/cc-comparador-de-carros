@@ -54,6 +54,11 @@
           "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
           "tipo": "inmetro_pbev",
           "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.media.stellantis.com/uploads/br/model-document/fichatecnicanovopeugeot208activet200atmy2526-695d3b7a62721.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -100,8 +105,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4055,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1740,
+            "largura_com_retrovisores": 1965,
             "altura": 1453,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -186,8 +191,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4055,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1740,
+            "largura_com_retrovisores": 1965,
             "altura": 1453,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -277,8 +282,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4055,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1740,
+            "largura_com_retrovisores": 1965,
             "altura": 1453,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -367,8 +372,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4055,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1740,
+            "largura_com_retrovisores": 1965,
             "altura": 1453,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -459,8 +464,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4055,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1740,
+            "largura_com_retrovisores": 1965,
             "altura": 1453,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -552,8 +557,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4055,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1740,
+            "largura_com_retrovisores": 1965,
             "altura": 1453,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -644,8 +649,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4055,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1740,
+            "largura_com_retrovisores": 1965,
             "altura": 1453,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -735,8 +740,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4055,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1740,
+            "largura_com_retrovisores": 1965,
             "altura": 1453,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -847,6 +852,11 @@
           "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
           "tipo": "inmetro_pbev",
           "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.media.stellantis.com/uploads/br/attachment/fichatecnicanovopeugeot2008active2025_2026-68b9ab35a15f3.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -893,8 +903,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4309,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1776,
+            "largura_com_retrovisores": 1992,
             "altura": 1548,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -984,8 +994,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4309,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1776,
+            "largura_com_retrovisores": 1992,
             "altura": 1548,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -1075,8 +1085,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4309,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1776,
+            "largura_com_retrovisores": 1992,
             "altura": 1548,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -1168,8 +1178,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4309,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1776,
+            "largura_com_retrovisores": 1992,
             "altura": 1548,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -1259,8 +1269,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4309,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1776,
+            "largura_com_retrovisores": 1992,
             "altura": 1548,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -1351,8 +1361,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4309,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1776,
+            "largura_com_retrovisores": 1992,
             "altura": 1548,
             "entre_eixos": null,
             "altura_livre_solo": null

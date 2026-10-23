@@ -4,11 +4,11 @@ require __DIR__ . '/../../php/dados.php';
 
 $base = carregarBase();
 
-// Números da base em 22/10/2026
+// Números da base em 23/10/2026 (após o preenchimento das larguras)
 $est = estatisticas($base);
 verificar($est['marcas'] === 45 && $est['modelos'] === 282 && $est['versoes'] === 802, 'totais');
 verificar($est['consumo'] === ['total' => 726, 'pbev' => 699, 'secundaria' => 21, 'site' => 6], 'origem do consumo');
-verificar($est['com_fonte_secundaria'] === 179, 'versões com fonte secundária');
+verificar($est['com_fonte_secundaria'] === 207, 'versões com fonte secundária');
 verificar($est['com_preco'] === 722, 'versões com preço');
 verificar($est['por_categoria']['SUV Compacto'] === 48, 'modelos SUV Compacto');
 verificar(array_key_first($est['por_categoria']) === 'SUV Compacto', 'categorias na ordem oficial');

@@ -53,6 +53,11 @@
           "url": "https://www.gruposentinela.com.br/?p=15684",
           "tipo": "secundaria",
           "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://media.mitsubishimotors.com.br/uploads/originals/Folder_Nova_Triton_GL_MT_13_05_2026_acf5215388.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -95,7 +100,7 @@
           },
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
+            "largura": 1865,
             "largura_com_retrovisores": null,
             "altura": null,
             "entre_eixos": null,
@@ -186,7 +191,7 @@
           },
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
+            "largura": 1865,
             "largura_com_retrovisores": null,
             "altura": null,
             "entre_eixos": null,

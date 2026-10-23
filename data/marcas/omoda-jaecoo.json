@@ -48,6 +48,11 @@
           "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
           "tipo": "inmetro_pbev",
           "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://cms.omodajaecoo.com.br/manual/pdf/FichaTecnicaSimplificada_Omoda5.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -93,7 +98,7 @@
           },
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
+            "largura": 1824,
             "largura_com_retrovisores": null,
             "altura": 1588,
             "entre_eixos": null,
@@ -184,7 +189,7 @@
           },
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
+            "largura": 1824,
             "largura_com_retrovisores": null,
             "altura": 1588,
             "entre_eixos": null,

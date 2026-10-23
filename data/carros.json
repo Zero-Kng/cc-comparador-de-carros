@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-22",
+  "gerado_em": "2026-10-23",
   "totais": {
     "marcas": 45,
     "modelos": 282,
@@ -647,6 +647,11 @@
               "url": "https://www.astonmartin.com/en/models/vanquish-volante",
               "tipo": "site_oficial",
               "acessado_em": "2026-10-21"
+            },
+            {
+              "url": "https://autotijd.be/en/dimensions/aston-martin/vanquish",
+              "tipo": "secundaria",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -686,8 +691,8 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": 4855,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 2044,
+                "largura_com_retrovisores": 2120,
                 "altura": 1290,
                 "entre_eixos": 2885,
                 "altura_livre_solo": 120
@@ -729,7 +734,10 @@
                 ]
               },
               "fonte_url": "https://www.astonmartinsaopaulo.com.br/modelo/vanquish/",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura",
+                "dimensoes_mm.largura_com_retrovisores"
+              ],
               "observacoes": "Vendido no Brasil pela Aston Martin São Paulo (UK Motors, representante oficial). Preço não divulgado. Ficha técnica: site do dealer oficial BR, complementada pelo site global da marca. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             },
             {
@@ -768,8 +776,8 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": 4855,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 2044,
+                "largura_com_retrovisores": 2120,
                 "altura": 1295,
                 "entre_eixos": 2885,
                 "altura_livre_solo": 120
@@ -811,7 +819,10 @@
                 ]
               },
               "fonte_url": "https://www.astonmartinsaopaulo.com.br/modelo/vanquish-volante/",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura",
+                "dimensoes_mm.largura_com_retrovisores"
+              ],
               "observacoes": "Vendido no Brasil pela Aston Martin São Paulo (UK Motors, representante oficial). Preço não divulgado. Ficha técnica: site do dealer oficial BR, complementada pelo site global da marca. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             }
           ]
@@ -3491,6 +3502,11 @@
               "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
               "tipo": "inmetro_pbev",
               "acessado_em": "2026-10-19"
+            },
+            {
+              "url": "https://autotijd.be/it/dimensioni/audi/q7",
+              "tipo": "secundaria",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -3533,8 +3549,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1970,
+                "largura_com_retrovisores": 2212,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -3577,7 +3593,10 @@
                 ]
               },
               "fonte_url": "https://www.audi.com.br/pt/models/q7/q7-suv-2025/configure/",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura",
+                "dimensoes_mm.largura_com_retrovisores"
+              ],
               "observacoes": "Dimensões externas não divulgadas no site/imprensa Audi BR para a linha atual. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Q7 S Line\"."
             }
           ]
@@ -5498,6 +5517,11 @@
               "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
               "tipo": "inmetro_pbev",
               "acessado_em": "2026-10-19"
+            },
+            {
+              "url": "https://www.bmw.ca/en/all-models/m-series/bmw-4-series-m-models/bmw-m4-coupe-technical-data.html",
+              "tipo": "site_oficial",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -5540,8 +5564,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4801,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1887,
+                "largura_com_retrovisores": 2081,
                 "altura": 1397,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -5587,7 +5611,7 @@
               },
               "fonte_url": "https://www.bmw.com.br/pt/all-models/m-series/bmw-4-series-m-models/bmw-m4-coupe.html",
               "campos_fonte_secundaria": [],
-              "observacoes": "Lançado em pré-venda em 14/05/2026 (preço de lançamento Competition R$ 908.950 / Track R$ 1.015.950). Velocidade máxima de 290 km/h conforme imprensa; o site informa 302 km/h. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"M4 Competition\"."
+              "observacoes": "Lançado em pré-venda em 14/05/2026 (preço de lançamento Competition R$ 908.950 / Track R$ 1.015.950). Velocidade máxima de 290 km/h conforme imprensa; o site informa 302 km/h. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"M4 Competition\". Largura dos dados técnicos oficiais da BMW (site do Canadá); o site brasileiro não divulga."
             },
             {
               "id": "bmw-m4-competition-track-2027",
@@ -5628,8 +5652,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4801,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1887,
+                "largura_com_retrovisores": 2081,
                 "altura": 1397,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -5678,7 +5702,7 @@
               },
               "fonte_url": "https://www.bmw.com.br/pt/all-models/m-series/bmw-4-series-m-models/bmw-m4-coupe.html",
               "campos_fonte_secundaria": [],
-              "observacoes": "Lançado em pré-venda em 14/05/2026 (preço de lançamento Competition R$ 908.950 / Track R$ 1.015.950). Velocidade máxima de 290 km/h conforme imprensa; o site informa 302 km/h. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"M4 Competition\"."
+              "observacoes": "Lançado em pré-venda em 14/05/2026 (preço de lançamento Competition R$ 908.950 / Track R$ 1.015.950). Velocidade máxima de 290 km/h conforme imprensa; o site informa 302 km/h. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"M4 Competition\". Largura dos dados técnicos oficiais da BMW (site do Canadá); o site brasileiro não divulga."
             }
           ]
         },
@@ -12182,6 +12206,11 @@
               "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
               "tipo": "inmetro_pbev",
               "acessado_em": "2026-10-19"
+            },
+            {
+              "url": "https://www.monkeymotor.net/2026/07/chevrolet-onix-activ-precio-ficha-tecnica.html",
+              "tipo": "secundaria",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -12751,7 +12780,7 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4169,
-                "largura": null,
+                "largura": 1746,
                 "largura_com_retrovisores": null,
                 "altura": 1532,
                 "entre_eixos": null,
@@ -12795,7 +12824,9 @@
                 ]
               },
               "fonte_url": "https://www.chevrolet.com.br/content/dam/chevrolet/south-america/brazil/portuguese/index/portable-navigation/global-footer/lista-de-precos/11-pdf/lista-de-pre%C3%A7os-p%C3%BAblicos-sugeridos-02-de-Outubro-de-2026.pdf",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura"
+              ],
               "observacoes": "Dimensões conforme release da linha 2027 (suspensão elevada, vão livre de 201 mm, ataque 19,7°/saída 28,1°). Peso, desempenho e consumo da versão não divulgados. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"ONIX AT\"."
             },
             {
@@ -20131,6 +20162,11 @@
               "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
               "tipo": "inmetro_pbev",
               "acessado_em": "2026-10-19"
+            },
+            {
+              "url": "https://www.webmotors.com.br/chevrolet/silverado/2026",
+              "tipo": "secundaria",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -20173,7 +20209,7 @@
               },
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
+                "largura": 2063,
                 "largura_com_retrovisores": null,
                 "altura": null,
                 "entre_eixos": 3745,
@@ -20230,7 +20266,8 @@
                 "motor.potencia_cv",
                 "motor.torque_kgfm",
                 "dimensoes_mm.entre_eixos",
-                "tanque_l"
+                "tanque_l",
+                "dimensoes_mm.largura"
               ],
               "observacoes": "Motor V8 5.3, câmbio de 10 marchas, caçamba de 1.781 L e pneus conforme site/release/lista oficiais; potência, torque, consumo, entre-eixos e tanque de fontes secundárias. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"SILVERADO HIGH COUNTRY\"."
             }
@@ -21550,6 +21587,11 @@
               "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
               "tipo": "inmetro_pbev",
               "acessado_em": "2026-10-19"
+            },
+            {
+              "url": "https://www.media.stellantis.com/uploads/br/attachment/5919/fichatecnicacitroenbasaltdarkeditionturbo2002025_2026-68b84fde705f4.pdf",
+              "tipo": "ficha_tecnica_pdf",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -21592,8 +21634,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4343,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1741,
+                "largura_com_retrovisores": 2014,
                 "altura": 1585,
                 "entre_eixos": 2645,
                 "altura_livre_solo": null
@@ -21683,8 +21725,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4343,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1741,
+                "largura_com_retrovisores": 2014,
                 "altura": 1585,
                 "entre_eixos": 2645,
                 "altura_livre_solo": null
@@ -21775,8 +21817,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4343,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1741,
+                "largura_com_retrovisores": 2014,
                 "altura": 1585,
                 "entre_eixos": 2645,
                 "altura_livre_solo": null
@@ -21870,8 +21912,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4343,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1741,
+                "largura_com_retrovisores": 2014,
                 "altura": 1585,
                 "entre_eixos": 2645,
                 "altura_livre_solo": null
@@ -21961,8 +22003,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4343,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1741,
+                "largura_com_retrovisores": 2014,
                 "altura": 1585,
                 "entre_eixos": 2645,
                 "altura_livre_solo": null
@@ -22052,8 +22094,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4343,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1741,
+                "largura_com_retrovisores": 2014,
                 "altura": 1585,
                 "entre_eixos": 2645,
                 "altura_livre_solo": null
@@ -22144,8 +22186,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4343,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1741,
+                "largura_com_retrovisores": 2014,
                 "altura": 1585,
                 "entre_eixos": 2645,
                 "altura_livre_solo": null
@@ -22235,8 +22277,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4343,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1741,
+                "largura_com_retrovisores": 2014,
                 "altura": 1585,
                 "entre_eixos": 2645,
                 "altura_livre_solo": null
@@ -22330,8 +22372,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4343,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1741,
+                "largura_com_retrovisores": 2014,
                 "altura": 1585,
                 "entre_eixos": 2645,
                 "altura_livre_solo": null
@@ -24985,6 +25027,11 @@
               "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
               "tipo": "inmetro_pbev",
               "acessado_em": "2026-10-19"
+            },
+            {
+              "url": "https://www.media.stellantis.com/uploads/br/attachment/4368/fichatecnicafiatargotrekking13fireflyflexcvt-63c81dca16c90.pdf",
+              "tipo": "ficha_tecnica_pdf",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -25298,8 +25345,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 3998,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1750,
+                "largura_com_retrovisores": 1980,
                 "altura": 1568,
                 "entre_eixos": 2521,
                 "altura_livre_solo": 182
@@ -25344,7 +25391,7 @@
               },
               "fonte_url": "https://argo.fiat.com.br/monte.html?mvs=358AGU1&year=2026",
               "campos_fonte_secundaria": [],
-              "observacoes": "Sem ficha técnica oficial MY26 publicada para esta versão: dimensões, porta-malas e tanque do configurador oficial; câmbio de 5 marchas conforme item de série/ficha MY22 da mesma versão. Desempenho, consumo e peso não confirmados. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"ARGO TREKKING 1.3\"."
+              "observacoes": "Sem ficha técnica oficial MY26 publicada para esta versão: dimensões, porta-malas e tanque do configurador oficial; câmbio de 5 marchas conforme item de série/ficha MY22 da mesma versão. Desempenho, consumo e peso não confirmados. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"ARGO TREKKING 1.3\". Largura da ficha oficial da Trekking 1.3 CVT, mesma carroceria."
             },
             {
               "id": "fiat-argo-drive-1-0-2027",
@@ -33346,6 +33393,11 @@
               "url": "https://www.vrum.com.br/noticias/2025/08/7226240-ford-mustang-dark-horse-chega-ao-brasil-com-muita-potencia-e-tecnologia.html",
               "tipo": "secundaria",
               "acessado_em": "2026-10-22"
+            },
+            {
+              "url": "https://www.ford.com.br/content/dam/Ford/website-assets/latam/br/nameplate/2025/mustang-dark-horse/pdf/fbr-ficha-tecnica-mustang-dark-horse.pdf",
+              "tipo": "ficha_tecnica_pdf",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -33389,7 +33441,7 @@
               "dimensoes_mm": {
                 "comprimento": null,
                 "largura": null,
-                "largura_com_retrovisores": null,
+                "largura_com_retrovisores": 2080,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -33438,7 +33490,7 @@
                 "desempenho.aceleracao_0_100_s",
                 "desempenho.velocidade_maxima_kmh"
               ],
-              "observacoes": "Potência (507 cv), torque (567 Nm), motor V8 5.0, faróis LED e rodas 19\" do site oficial; câmbio de 10 marchas e consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Mustang Dark Horse\". Ano-modelo 2026 conforme imprensa e Tabela FIPE (o material do site ainda é identificado como 2025). Dimensões e peso não publicados no site BR."
+              "observacoes": "Potência (507 cv), torque (567 Nm), motor V8 5.0, faróis LED e rodas 19\" do site oficial; câmbio de 10 marchas e consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"Mustang Dark Horse\". Ano-modelo 2026 conforme imprensa e Tabela FIPE (o material do site ainda é identificado como 2025). Dimensões e peso não publicados no site BR. A Ford só divulga a largura com espelhos (2.080 mm abertos; 1.958 mm rebatidos)."
             }
           ]
         }
@@ -41386,6 +41438,11 @@
               "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
               "tipo": "inmetro_pbev",
               "acessado_em": "2026-10-19"
+            },
+            {
+              "url": "https://www.carsales.com.au/research/honda/prelude/2026/ehev/",
+              "tipo": "secundaria",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -41431,7 +41488,7 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4522,
-                "largura": null,
+                "largura": 1880,
                 "largura_com_retrovisores": null,
                 "altura": 1355,
                 "entre_eixos": 2605,
@@ -41477,8 +41534,10 @@
                 ]
               },
               "fonte_url": "https://www.honda.com.br/automoveis/prelude",
-              "campos_fonte_secundaria": [],
-              "observacoes": "Ficha do site não informa largura nem número de airbags. Lista de conforto do site parece parcialmente copiada do Civic Type R (bancos em suede, LogR, 12 alto-falantes vs. card com 8); itens de acabamento interno ficaram null. Site indica ano/modelo 2026/2026. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"PRELUDE TOP\"."
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura"
+              ],
+              "observacoes": "Ficha do site não informa largura nem número de airbags. Lista de conforto do site parece parcialmente copiada do Civic Type R (bancos em suede, LogR, 12 alto-falantes vs. card com 8); itens de acabamento interno ficaram null. Site indica ano/modelo 2026/2026. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"PRELUDE TOP\". A ficha do site oficial lista 1.695 mm de largura, valor incompatível com o Prelude; usada a medida de fontes secundárias."
             }
           ]
         }
@@ -49683,6 +49742,11 @@
               "url": "https://www.lamborghini.com/en-en/ownership/dealer-locator/lamborghini-sao-paulo",
               "tipo": "site_oficial",
               "acessado_em": "2026-10-21"
+            },
+            {
+              "url": "https://www.samaco.com.sa/en/lamborghini/models/urus-se-performante/",
+              "tipo": "secundaria",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -49803,8 +49867,8 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": 5123,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 2031,
+                "largura_com_retrovisores": 2181,
                 "altura": 1638,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -49847,7 +49911,10 @@
                 ]
               },
               "fonte_url": "https://www.lamborghini.com/en-en/models/urus/urus-se-performante",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura",
+                "dimensoes_mm.largura_com_retrovisores"
+              ],
               "observacoes": "Vendido no Brasil pela Lamborghini São Paulo (concessionária oficial, Pinheiros). Preço não divulgado. Ficha técnica do site global da marca (lamborghini.com), pois não há site BR com especificações. Autonomia elétrica informada como \"mais de 60 km\". Dimensões e pneus conforme ficha do site global (mesmos dados do Urus SE). Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             }
           ]
@@ -53698,6 +53765,11 @@
               "url": "https://www.maserati.com/br/pt/models/granturismo/granturismo-folgore",
               "tipo": "site_oficial",
               "acessado_em": "2026-10-21"
+            },
+            {
+              "url": "https://autotijd.be/en/dimensions/maserati/granturismo",
+              "tipo": "secundaria",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -53737,8 +53809,8 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1957,
+                "largura_com_retrovisores": 2113,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -53779,7 +53851,10 @@
                 ]
               },
               "fonte_url": "https://www.maserati.com/br/pt/models/granturismo/granturismo-trim",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura",
+                "dimensoes_mm.largura_com_retrovisores"
+              ],
               "observacoes": "Vendido no Brasil pela rede oficial Maserati (Maserati São Paulo, Grupo Via Italia). Preço não divulgado no site BR. Ficha técnica do site oficial Maserati Brasil (maserati.com/br/pt). Potências publicadas em \"HP\" no site BR, tratadas como cv. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             },
             {
@@ -53818,8 +53893,8 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1957,
+                "largura_com_retrovisores": 2113,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -53860,7 +53935,10 @@
                 ]
               },
               "fonte_url": "https://www.maserati.com/br/pt/models/granturismo/granturismo-trofeo",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura",
+                "dimensoes_mm.largura_com_retrovisores"
+              ],
               "observacoes": "Vendido no Brasil pela rede oficial Maserati (Maserati São Paulo, Grupo Via Italia). Preço não divulgado no site BR. Ficha técnica do site oficial Maserati Brasil (maserati.com/br/pt). Potências publicadas em \"HP\" no site BR, tratadas como cv. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             },
             {
@@ -53899,8 +53977,8 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1957,
+                "largura_com_retrovisores": 2113,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -53942,7 +54020,10 @@
                 ]
               },
               "fonte_url": "https://www.maserati.com/br/pt/models/granturismo/granturismo-folgore",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura",
+                "dimensoes_mm.largura_com_retrovisores"
+              ],
               "observacoes": "Vendido no Brasil pela rede oficial Maserati (Maserati São Paulo, Grupo Via Italia). Preço não divulgado no site BR. Ficha técnica do site oficial Maserati Brasil (maserati.com/br/pt). Potências publicadas em \"HP\" no site BR, tratadas como cv. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             }
           ]
@@ -53982,6 +54063,11 @@
               "url": "https://www.maserati.com/br/pt/models/grancabrio/grancabrio-folgore",
               "tipo": "site_oficial",
               "acessado_em": "2026-10-21"
+            },
+            {
+              "url": "https://fr.automobiledimension.com/modele/maserati/grancabrio",
+              "tipo": "secundaria",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -54021,8 +54107,8 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1957,
+                "largura_com_retrovisores": 2113,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -54064,7 +54150,10 @@
                 ]
               },
               "fonte_url": "https://www.maserati.com/br/pt/models/grancabrio/grancabrio-trim",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura",
+                "dimensoes_mm.largura_com_retrovisores"
+              ],
               "observacoes": "Vendido no Brasil pela rede oficial Maserati (Maserati São Paulo, Grupo Via Italia). Preço não divulgado no site BR. Ficha técnica do site oficial Maserati Brasil (maserati.com/br/pt). Potências publicadas em \"HP\" no site BR, tratadas como cv. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             },
             {
@@ -54101,8 +54190,8 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1957,
+                "largura_com_retrovisores": 2113,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -54143,7 +54232,10 @@
                 ]
               },
               "fonte_url": "https://www.maserati.com/br/pt/models/grancabrio/grancabrio-trofeo",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura",
+                "dimensoes_mm.largura_com_retrovisores"
+              ],
               "observacoes": "Vendido no Brasil pela rede oficial Maserati (Maserati São Paulo, Grupo Via Italia). Preço não divulgado no site BR. Ficha técnica do site oficial Maserati Brasil (maserati.com/br/pt). Potências publicadas em \"HP\" no site BR, tratadas como cv. Velocidade máxima informada como \"superando os 316 km/h\". Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             },
             {
@@ -54182,8 +54274,8 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1957,
+                "largura_com_retrovisores": 2113,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -54225,7 +54317,10 @@
                 ]
               },
               "fonte_url": "https://www.maserati.com/br/pt/models/grancabrio/grancabrio-folgore",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura",
+                "dimensoes_mm.largura_com_retrovisores"
+              ],
               "observacoes": "Vendido no Brasil pela rede oficial Maserati (Maserati São Paulo, Grupo Via Italia). Preço não divulgado no site BR. Ficha técnica do site oficial Maserati Brasil (maserati.com/br/pt). Potências publicadas em \"HP\" no site BR, tratadas como cv. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             }
           ]
@@ -54478,6 +54573,11 @@
               "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
               "tipo": "inmetro_pbev",
               "acessado_em": "2026-10-19"
+            },
+            {
+              "url": "https://www.vehiclesizes.com/compare/6177-6160/mclaren-artura-spider-roadster-2024-vs-mclaren-720s-spider-roadster-2019/",
+              "tipo": "secundaria",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -54610,8 +54710,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1913,
+                "largura_com_retrovisores": 2080,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -54653,7 +54753,10 @@
                 ]
               },
               "fonte_url": "https://www.mclaren.com/cars/br_pt/artura-spider",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura",
+                "dimensoes_mm.largura_com_retrovisores"
+              ],
               "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"ARTURA\". Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             }
           ]
@@ -54722,7 +54825,7 @@
               "dimensoes_mm": {
                 "comprimento": 4683,
                 "largura": null,
-                "largura_com_retrovisores": null,
+                "largura_com_retrovisores": 2095,
                 "altura": 1213,
                 "entre_eixos": 2675,
                 "altura_livre_solo": null
@@ -54765,7 +54868,7 @@
               },
               "fonte_url": "https://www.mclaren.com/cars/br_pt/gts",
               "campos_fonte_secundaria": [],
-              "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Porta-malas: 420 L traseiro + 150 L dianteiro. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
+              "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Porta-malas: 420 L traseiro + 150 L dianteiro. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026). O catálogo oficial só traz a largura com espelhos (2.095 mm abertos; 2.045 mm rebatidos)."
             }
           ]
         },
@@ -54803,6 +54906,11 @@
               "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
               "tipo": "inmetro_pbev",
               "acessado_em": "2026-10-19"
+            },
+            {
+              "url": "https://autotijd.be/en/dimensions/mclaren/750s",
+              "tipo": "secundaria",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -54845,8 +54953,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4569,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1930,
+                "largura_com_retrovisores": 2161,
                 "altura": 1196,
                 "entre_eixos": 2670,
                 "altura_livre_solo": 107
@@ -54888,7 +54996,10 @@
                 ]
               },
               "fonte_url": "https://www.mclaren.com/cars/br_pt/750s",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura",
+                "dimensoes_mm.largura_com_retrovisores"
+              ],
               "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Porta-malas: 150 L dianteiro + 210 L traseiro. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"750S COUPE\". Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             },
             {
@@ -54930,8 +55041,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4569,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1930,
+                "largura_com_retrovisores": 2161,
                 "altura": 1196,
                 "entre_eixos": 2670,
                 "altura_livre_solo": 107
@@ -54973,7 +55084,10 @@
                 ]
               },
               "fonte_url": "https://www.mclaren.com/cars/br_pt/750s-spider",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura",
+                "dimensoes_mm.largura_com_retrovisores"
+              ],
               "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Porta-malas: 150 L dianteiro + 58 L traseiro. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"750S SPIDER\". Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             }
           ]
@@ -55007,6 +55121,11 @@
               "url": "https://www.mclarensaopaulo.com.br/",
               "tipo": "site_oficial",
               "acessado_em": "2026-10-21"
+            },
+            {
+              "url": "https://www.vehiclesizes.com/cars/mclaren/788hs/788hs-coupe-2027/",
+              "tipo": "secundaria",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -55047,7 +55166,7 @@
               "dimensoes_mm": {
                 "comprimento": 4569,
                 "largura": null,
-                "largura_com_retrovisores": null,
+                "largura_com_retrovisores": 2161,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -55090,7 +55209,9 @@
                 ]
               },
               "fonte_url": "https://www.mclaren.com/cars/br_pt/788hs",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura_com_retrovisores"
+              ],
               "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Peso seco mínimo informado: 1.265 kg (peso em ordem de marcha não divulgado). Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             },
             {
@@ -55130,7 +55251,7 @@
               "dimensoes_mm": {
                 "comprimento": 4569,
                 "largura": null,
-                "largura_com_retrovisores": null,
+                "largura_com_retrovisores": 2161,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -55172,7 +55293,9 @@
                 ]
               },
               "fonte_url": "https://www.mclaren.com/cars/br_pt/788hs-spider",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura_com_retrovisores"
+              ],
               "observacoes": "Vendido no Brasil pela McLaren São Paulo (Eurobike, importador e revendedor oficial). Preço não divulgado. Ficha técnica do site oficial McLaren em português do Brasil (mclaren.com/cars/br_pt), complementada pelo catálogo global. Peso seco mínimo informado: 1.313 kg (peso em ordem de marcha não divulgado). Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             }
           ]
@@ -60316,8 +60439,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 3876,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1744,
+                "largura_com_retrovisores": 1970,
                 "altura": 1452,
                 "entre_eixos": 2495,
                 "altura_livre_solo": null
@@ -60363,7 +60486,7 @@
               },
               "fonte_url": "https://www.mini.com.br/pt_BR/home/mini-victory-edition.html",
               "campos_fonte_secundaria": [],
-              "observacoes": "Ficha técnica do descritivo oficial da edição (cita ano 2026); tabela de preços lista ano-modelo 2027. Consumo combinado de 17,1 km/l no descritivo (ciclo não especificado), não usado. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"JCW 3P\"."
+              "observacoes": "Ficha técnica do descritivo oficial da edição (cita ano 2026); tabela de preços lista ano-modelo 2027. Consumo combinado de 17,1 km/l no descritivo (ciclo não especificado), não usado. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"JCW 3P\". Largura sem espelhos da página oficial de dimensões do MINI 3 portas; a ficha da edição traz 1.970 mm com retrovisores."
             },
             {
               "id": "mini-cooper-3-portas-jcw-gp-inspired-edition-2027",
@@ -60404,8 +60527,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 3876,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1744,
+                "largura_com_retrovisores": 1970,
                 "altura": 1452,
                 "entre_eixos": 2495,
                 "altura_livre_solo": null
@@ -60454,7 +60577,7 @@
               "campos_fonte_secundaria": [
                 "consumo"
               ],
-              "observacoes": "Edição limitada de 20 unidades lançada em 28/08/2026. Consumo combinado de 17,1 km/l no descritivo (ciclo não especificado), não usado. Consumo do catálogo iCarros (igual ao JCW 3 portas no PBEV 2026); a edição não consta nominalmente no PBEV."
+              "observacoes": "Edição limitada de 20 unidades lançada em 28/08/2026. Consumo combinado de 17,1 km/l no descritivo (ciclo não especificado), não usado. Consumo do catálogo iCarros (igual ao JCW 3 portas no PBEV 2026); a edição não consta nominalmente no PBEV. Largura sem espelhos da página oficial de dimensões do MINI 3 portas; a ficha da edição traz 1.970 mm com retrovisores."
             }
           ]
         },
@@ -61992,6 +62115,11 @@
               "url": "https://www.gruposentinela.com.br/?p=15684",
               "tipo": "secundaria",
               "acessado_em": "2026-10-21"
+            },
+            {
+              "url": "https://media.mitsubishimotors.com.br/uploads/originals/Folder_Nova_Triton_GL_MT_13_05_2026_acf5215388.pdf",
+              "tipo": "ficha_tecnica_pdf",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -62034,7 +62162,7 @@
               },
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
+                "largura": 1865,
                 "largura_com_retrovisores": null,
                 "altura": null,
                 "entre_eixos": null,
@@ -62125,7 +62253,7 @@
               },
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
+                "largura": 1865,
                 "largura_com_retrovisores": null,
                 "altura": null,
                 "entre_eixos": null,
@@ -64954,6 +65082,11 @@
               "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
               "tipo": "inmetro_pbev",
               "acessado_em": "2026-10-19"
+            },
+            {
+              "url": "https://cms.omodajaecoo.com.br/manual/pdf/FichaTecnicaSimplificada_Omoda5.pdf",
+              "tipo": "ficha_tecnica_pdf",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -64999,7 +65132,7 @@
               },
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
+                "largura": 1824,
                 "largura_com_retrovisores": null,
                 "altura": 1588,
                 "entre_eixos": null,
@@ -65090,7 +65223,7 @@
               },
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
+                "largura": 1824,
                 "largura_com_retrovisores": null,
                 "altura": 1588,
                 "entre_eixos": null,
@@ -66125,6 +66258,11 @@
               "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
               "tipo": "inmetro_pbev",
               "acessado_em": "2026-10-19"
+            },
+            {
+              "url": "https://www.media.stellantis.com/uploads/br/model-document/fichatecnicanovopeugeot208activet200atmy2526-695d3b7a62721.pdf",
+              "tipo": "ficha_tecnica_pdf",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -66171,8 +66309,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4055,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1740,
+                "largura_com_retrovisores": 1965,
                 "altura": 1453,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -66257,8 +66395,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4055,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1740,
+                "largura_com_retrovisores": 1965,
                 "altura": 1453,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -66348,8 +66486,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4055,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1740,
+                "largura_com_retrovisores": 1965,
                 "altura": 1453,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -66438,8 +66576,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4055,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1740,
+                "largura_com_retrovisores": 1965,
                 "altura": 1453,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -66530,8 +66668,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4055,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1740,
+                "largura_com_retrovisores": 1965,
                 "altura": 1453,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -66623,8 +66761,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4055,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1740,
+                "largura_com_retrovisores": 1965,
                 "altura": 1453,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -66715,8 +66853,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4055,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1740,
+                "largura_com_retrovisores": 1965,
                 "altura": 1453,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -66806,8 +66944,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4055,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1740,
+                "largura_com_retrovisores": 1965,
                 "altura": 1453,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -66918,6 +67056,11 @@
               "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
               "tipo": "inmetro_pbev",
               "acessado_em": "2026-10-19"
+            },
+            {
+              "url": "https://www.media.stellantis.com/uploads/br/attachment/fichatecnicanovopeugeot2008active2025_2026-68b9ab35a15f3.pdf",
+              "tipo": "ficha_tecnica_pdf",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -66964,8 +67107,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4309,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1776,
+                "largura_com_retrovisores": 1992,
                 "altura": 1548,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -67055,8 +67198,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4309,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1776,
+                "largura_com_retrovisores": 1992,
                 "altura": 1548,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -67146,8 +67289,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4309,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1776,
+                "largura_com_retrovisores": 1992,
                 "altura": 1548,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -67239,8 +67382,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4309,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1776,
+                "largura_com_retrovisores": 1992,
                 "altura": 1548,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -67330,8 +67473,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4309,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1776,
+                "largura_com_retrovisores": 1992,
                 "altura": 1548,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -67422,8 +67565,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": 4309,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1776,
+                "largura_com_retrovisores": 1992,
                 "altura": 1548,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -72271,6 +72414,11 @@
               "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
               "tipo": "inmetro_pbev",
               "acessado_em": "2026-10-19"
+            },
+            {
+              "url": "https://www.media.stellantis.com/uploads/br/model-document/fichatecnicaramdakotalaramie-69833f4cc079d.pdf",
+              "tipo": "ficha_tecnica_pdf",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -72313,8 +72461,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1965,
+                "largura_com_retrovisores": 2225,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -72405,8 +72553,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1965,
+                "largura_com_retrovisores": 2225,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -72496,8 +72644,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1965,
+                "largura_com_retrovisores": 2225,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -72587,8 +72735,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1965,
+                "largura_com_retrovisores": 2225,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -72685,6 +72833,11 @@
               "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
               "tipo": "inmetro_pbev",
               "acessado_em": "2026-10-19"
+            },
+            {
+              "url": "https://www.media.stellantis.com/br-pt/download-model-document/523",
+              "tipo": "ficha_tecnica_pdf",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -72727,7 +72880,7 @@
               },
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
+                "largura": 2062,
                 "largura_com_retrovisores": null,
                 "altura": null,
                 "entre_eixos": null,
@@ -72819,7 +72972,7 @@
               },
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
+                "largura": 2062,
                 "largura_com_retrovisores": null,
                 "altura": null,
                 "entre_eixos": null,
@@ -72913,7 +73066,7 @@
               },
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
+                "largura": 2062,
                 "largura_com_retrovisores": null,
                 "altura": null,
                 "entre_eixos": null,
@@ -73008,6 +73161,11 @@
               "url": "https://part-service.k8s.fcalatam.com.br/v2/item?market=pt-BR&behavior=FEATURED",
               "tipo": "site_oficial",
               "acessado_em": "2026-10-19"
+            },
+            {
+              "url": "https://www.media.stellantis.com/uploads/br/attachment/5867/fichatecnicaram2500laramiemy25-68961f22e9b61.pdf",
+              "tipo": "ficha_tecnica_pdf",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -73047,7 +73205,7 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
+                "largura": 2120,
                 "largura_com_retrovisores": null,
                 "altura": null,
                 "entre_eixos": null,
@@ -73142,6 +73300,11 @@
               "url": "https://part-service.k8s.fcalatam.com.br/v2/item?market=pt-BR&behavior=FEATURED",
               "tipo": "site_oficial",
               "acessado_em": "2026-10-19"
+            },
+            {
+              "url": "https://www.media.stellantis.com/br-pt/download-model-document/489",
+              "tipo": "ficha_tecnica_pdf",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -73181,7 +73344,7 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
+                "largura": 2120,
                 "largura_com_retrovisores": null,
                 "altura": null,
                 "entre_eixos": null,
@@ -73269,7 +73432,7 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
+                "largura": 2120,
                 "largura_com_retrovisores": null,
                 "altura": null,
                 "entre_eixos": null,
@@ -75284,6 +75447,11 @@
               "url": "https://www.rolls-roycemotorcars.com/saopaolo/en_GB/showroom.html",
               "tipo": "site_oficial",
               "acessado_em": "2026-10-21"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Rolls-Royce_Phantom_VIII",
+              "tipo": "secundaria",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -75319,7 +75487,7 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
+                "largura": 2018,
                 "largura_com_retrovisores": null,
                 "altura": null,
                 "entre_eixos": null,
@@ -75362,7 +75530,9 @@
                 ]
               },
               "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/phantom.html",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura"
+              ],
               "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Phantom Series II. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             },
             {
@@ -75397,7 +75567,7 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
+                "largura": 2018,
                 "largura_com_retrovisores": null,
                 "altura": null,
                 "entre_eixos": null,
@@ -75439,7 +75609,9 @@
                 ]
               },
               "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/phantom-extended.html",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura"
+              ],
               "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Phantom Series II. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             }
           ]
@@ -75488,6 +75660,11 @@
               "url": "https://www.rolls-roycemotorcars.com/saopaolo/en_GB/showroom.html",
               "tipo": "site_oficial",
               "acessado_em": "2026-10-21"
+            },
+            {
+              "url": "https://autotijd.be/en/dimensions/rolls-royce/ghost",
+              "tipo": "secundaria",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -75527,8 +75704,8 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1998,
+                "largura_com_retrovisores": 2148,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -75572,7 +75749,9 @@
               "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/ghost.html",
               "campos_fonte_secundaria": [
                 "motor.potencia_cv",
-                "motor.torque_kgfm"
+                "motor.torque_kgfm",
+                "dimensoes_mm.largura",
+                "dimensoes_mm.largura_com_retrovisores"
               ],
               "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Ghost Series II, com tração e esterçamento nas quatro rodas. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             },
@@ -75608,8 +75787,8 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1998,
+                "largura_com_retrovisores": 2148,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -75650,7 +75829,10 @@
                 ]
               },
               "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/ghost-extended.html",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura",
+                "dimensoes_mm.largura_com_retrovisores"
+              ],
               "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Ghost Series II, com tração e esterçamento nas quatro rodas. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             },
             {
@@ -75685,8 +75867,8 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1998,
+                "largura_com_retrovisores": 2148,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -75727,7 +75909,10 @@
                 ]
               },
               "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/black-badge-ghost.html",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura",
+                "dimensoes_mm.largura_com_retrovisores"
+              ],
               "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Ghost Series II, com tração e esterçamento nas quatro rodas. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             }
           ]
@@ -75771,6 +75956,11 @@
               "url": "https://www.rolls-roycemotorcars.com/saopaolo/en_GB/showroom.html",
               "tipo": "site_oficial",
               "acessado_em": "2026-10-21"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Rolls-Royce_Cullinan",
+              "tipo": "secundaria",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -75806,8 +75996,8 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 2000,
+                "largura_com_retrovisores": 2164,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -75849,7 +76039,10 @@
                 ]
               },
               "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/cullinan.html",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura",
+                "dimensoes_mm.largura_com_retrovisores"
+              ],
               "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Cullinan Series II; rodas de 23\" disponíveis. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             },
             {
@@ -75888,8 +76081,8 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 2000,
+                "largura_com_retrovisores": 2164,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null
@@ -75931,7 +76124,10 @@
                 ]
               },
               "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/black-badge-cullinan.html",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura",
+                "dimensoes_mm.largura_com_retrovisores"
+              ],
               "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Cullinan Series II; rodas de 23\" disponíveis. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             }
           ]
@@ -75970,6 +76166,11 @@
               "url": "https://www.rolls-roycemotorcars.com/saopaolo/en_GB/showroom.html",
               "tipo": "site_oficial",
               "acessado_em": "2026-10-21"
+            },
+            {
+              "url": "https://autotijd.be/en/dimensions/rolls-royce/spectre",
+              "tipo": "secundaria",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -76009,7 +76210,7 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
+                "largura": 2080,
                 "largura_com_retrovisores": null,
                 "altura": null,
                 "entre_eixos": null,
@@ -76052,7 +76253,9 @@
                 ]
               },
               "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/spectre.html",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura"
+              ],
               "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Spectre Series II: 442 kW e 1.015 Nm conforme PressClub; autonomia 390 milhas WLTP convertida para km. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             },
             {
@@ -76091,7 +76294,7 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
+                "largura": 2080,
                 "largura_com_retrovisores": null,
                 "altura": null,
                 "entre_eixos": null,
@@ -76133,7 +76336,9 @@
                 ]
               },
               "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/black-badge-spectre.html",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura"
+              ],
               "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Potência de 500 kW no Infinity Mode e torque de 1.100 Nm no Spirited Mode (PressClub, Series II). Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
             }
           ]
@@ -77463,6 +77668,11 @@
               "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
               "tipo": "inmetro_pbev",
               "acessado_em": "2026-10-19"
+            },
+            {
+              "url": "https://www.icarros.com.br/catalogo/marcas/toyota/corolla-gr-sport",
+              "tipo": "secundaria",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -77689,7 +77899,7 @@
               },
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
+                "largura": 1780,
                 "largura_com_retrovisores": null,
                 "altura": null,
                 "entre_eixos": null,
@@ -77734,7 +77944,9 @@
                 ]
               },
               "fonte_url": "https://www.toyota.com.br/modelos/corolla-gr-sport",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura"
+              ],
               "observacoes": "Ficha técnica da versão não disponível no site; dados do site e do release da linha 2025. Dimensões, peso, pneus e tanque não confirmados (null). Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"COROLLA COROLLA ALTIS 20\"."
             },
             {
@@ -79768,6 +79980,11 @@
               "url": "https://media.toyota.com.br/7c59416b-cf85-4188-80a4-6b1abdd5c23b.pdf",
               "tipo": "ficha_tecnica_pdf",
               "acessado_em": "2026-10-19"
+            },
+            {
+              "url": "https://www.webmotors.com.br/toyota/gr-corolla/2024",
+              "tipo": "secundaria",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -79807,7 +80024,7 @@
               "consumo": {},
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
+                "largura": 1851,
                 "largura_com_retrovisores": null,
                 "altura": null,
                 "entre_eixos": null,
@@ -79849,7 +80066,9 @@
                 ]
               },
               "fonte_url": "https://www.toyota.com.br/modelos/gr-corolla",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura"
+              ],
               "observacoes": "Novo GR Corolla (anunciado em ago/2026) consta na tabela nacional de preços out/2026 como \"Corolla HB Circuit\" 2026/2026; a página do site ainda mostra a linha anterior (Core e Circuit ano 2024, fora do escopo). Ficha técnica e equipamentos da nova linha ainda não publicados — campos null. Combustível (gasolina) conforme ficha oficial da linha anterior, com o mesmo motor 1.6 turbo."
             }
           ]
@@ -82004,6 +82223,11 @@
               "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
               "tipo": "inmetro_pbev",
               "acessado_em": "2026-10-19"
+            },
+            {
+              "url": "https://www.webmotors.com.br/volkswagen/golf/2026",
+              "tipo": "secundaria",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -82046,7 +82270,7 @@
               },
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
+                "largura": 1789,
                 "largura_com_retrovisores": null,
                 "altura": null,
                 "entre_eixos": 2630,
@@ -82097,7 +82321,9 @@
                 ]
               },
               "fonte_url": "https://www.vw.com.br/pt/carros/golf.html",
-              "campos_fonte_secundaria": [],
+              "campos_fonte_secundaria": [
+                "dimensoes_mm.largura"
+              ],
               "observacoes": "Fora do configurador: dados de página oficial e releases oficiais (ago/2025 e mai/2026). Ano-modelo não divulgado; assumido 2026 (unidades do 2º lote entregues em 2026, produzidas em Wolfsburg). Venda restrita a clientes que já tiveram esportivos do Grupo VW, uma unidade por CPF/CNPJ. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GOLF GOLF GTI\"."
             }
           ]
@@ -83697,6 +83923,11 @@
               "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
               "tipo": "inmetro_pbev",
               "acessado_em": "2026-10-19"
+            },
+            {
+              "url": "https://evkx.net/pt-br/models/volvo/ex30/ex30_cross_country/specifications/",
+              "tipo": "secundaria",
+              "acessado_em": "2026-10-22"
             }
           ],
           "versoes": [
@@ -83891,7 +84122,9 @@
                 "motor.autonomia_eletrica_km",
                 "desempenho.aceleracao_0_100_s",
                 "equipamentos.rodas_polegadas",
-                "equipamentos.multimidia_polegadas"
+                "equipamentos.multimidia_polegadas",
+                "dimensoes_mm.largura",
+                "dimensoes_mm.largura_com_retrovisores"
               ],
               "observacoes": "Edição listada no configurador oficial (preço oficial). Ficha técnica da edição não publicada no site BR; motorização e autonomia de fonte secundária (AutoPapo). Dimensões diferem da versão regular (maior altura do solo) e não foram confirmadas. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"EX30 C COUNTRY\".",
               "ano_modelo": 2026,
@@ -83901,8 +84134,8 @@
               },
               "dimensoes_mm": {
                 "comprimento": null,
-                "largura": null,
-                "largura_com_retrovisores": null,
+                "largura": 1837,
+                "largura_com_retrovisores": 2032,
                 "altura": null,
                 "entre_eixos": null,
                 "altura_livre_solo": null

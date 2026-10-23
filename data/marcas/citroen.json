@@ -966,6 +966,11 @@
           "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
           "tipo": "inmetro_pbev",
           "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.media.stellantis.com/uploads/br/attachment/5919/fichatecnicacitroenbasaltdarkeditionturbo2002025_2026-68b84fde705f4.pdf",
+          "tipo": "ficha_tecnica_pdf",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -1008,8 +1013,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4343,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1741,
+            "largura_com_retrovisores": 2014,
             "altura": 1585,
             "entre_eixos": 2645,
             "altura_livre_solo": null
@@ -1099,8 +1104,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4343,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1741,
+            "largura_com_retrovisores": 2014,
             "altura": 1585,
             "entre_eixos": 2645,
             "altura_livre_solo": null
@@ -1191,8 +1196,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4343,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1741,
+            "largura_com_retrovisores": 2014,
             "altura": 1585,
             "entre_eixos": 2645,
             "altura_livre_solo": null
@@ -1286,8 +1291,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4343,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1741,
+            "largura_com_retrovisores": 2014,
             "altura": 1585,
             "entre_eixos": 2645,
             "altura_livre_solo": null
@@ -1377,8 +1382,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4343,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1741,
+            "largura_com_retrovisores": 2014,
             "altura": 1585,
             "entre_eixos": 2645,
             "altura_livre_solo": null
@@ -1468,8 +1473,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4343,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1741,
+            "largura_com_retrovisores": 2014,
             "altura": 1585,
             "entre_eixos": 2645,
             "altura_livre_solo": null
@@ -1560,8 +1565,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4343,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1741,
+            "largura_com_retrovisores": 2014,
             "altura": 1585,
             "entre_eixos": 2645,
             "altura_livre_solo": null
@@ -1651,8 +1656,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4343,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1741,
+            "largura_com_retrovisores": 2014,
             "altura": 1585,
             "entre_eixos": 2645,
             "altura_livre_solo": null
@@ -1746,8 +1751,8 @@
           },
           "dimensoes_mm": {
             "comprimento": 4343,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1741,
+            "largura_com_retrovisores": 2014,
             "altura": 1585,
             "entre_eixos": 2645,
             "altura_livre_solo": null

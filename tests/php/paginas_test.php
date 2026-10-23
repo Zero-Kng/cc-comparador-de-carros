@@ -35,7 +35,8 @@ verificar(!str_contains($h, 'step="1000"'), 'campos de preço aceitam qualquer v
 
 // ---- Como comparamos ----
 $c = renderPagina('como-comparamos.php', []);
-foreach (['45', '282', '802', '699', '87,2%', '90,5%', '22/10/2026'] as $n) {
+$dataBase = date('d/m/Y', strtotime(json_decode(file_get_contents(__DIR__ . '/../../data/carros.json'), true)['gerado_em']));
+foreach (['45', '282', '802', '699', '87,2%', '90,5%', $dataBase] as $n) {
     verificar(str_contains($c, $n), "número $n");
 }
 verificar(str_contains($c, 'PBEV/Inmetro'), 'explica o PBEV');

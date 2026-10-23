@@ -33,6 +33,11 @@
           "url": "https://www.rolls-roycemotorcars.com/saopaolo/en_GB/showroom.html",
           "tipo": "site_oficial",
           "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rolls-Royce_Phantom_VIII",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -68,7 +73,7 @@
           "consumo": {},
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
+            "largura": 2018,
             "largura_com_retrovisores": null,
             "altura": null,
             "entre_eixos": null,
@@ -111,7 +116,9 @@
             ]
           },
           "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/phantom.html",
-          "campos_fonte_secundaria": [],
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura"
+          ],
           "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Phantom Series II. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
         },
         {
@@ -146,7 +153,7 @@
           "consumo": {},
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
+            "largura": 2018,
             "largura_com_retrovisores": null,
             "altura": null,
             "entre_eixos": null,
@@ -188,7 +195,9 @@
             ]
           },
           "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/phantom-extended.html",
-          "campos_fonte_secundaria": [],
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura"
+          ],
           "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Phantom Series II. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
         }
       ]
@@ -237,6 +246,11 @@
           "url": "https://www.rolls-roycemotorcars.com/saopaolo/en_GB/showroom.html",
           "tipo": "site_oficial",
           "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://autotijd.be/en/dimensions/rolls-royce/ghost",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -276,8 +290,8 @@
           "consumo": {},
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1998,
+            "largura_com_retrovisores": 2148,
             "altura": null,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -321,7 +335,9 @@
           "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/ghost.html",
           "campos_fonte_secundaria": [
             "motor.potencia_cv",
-            "motor.torque_kgfm"
+            "motor.torque_kgfm",
+            "dimensoes_mm.largura",
+            "dimensoes_mm.largura_com_retrovisores"
           ],
           "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Ghost Series II, com tração e esterçamento nas quatro rodas. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
         },
@@ -357,8 +373,8 @@
           "consumo": {},
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1998,
+            "largura_com_retrovisores": 2148,
             "altura": null,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -399,7 +415,10 @@
             ]
           },
           "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/ghost-extended.html",
-          "campos_fonte_secundaria": [],
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura",
+            "dimensoes_mm.largura_com_retrovisores"
+          ],
           "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Ghost Series II, com tração e esterçamento nas quatro rodas. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
         },
         {
@@ -434,8 +453,8 @@
           "consumo": {},
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 1998,
+            "largura_com_retrovisores": 2148,
             "altura": null,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -476,7 +495,10 @@
             ]
           },
           "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/black-badge-ghost.html",
-          "campos_fonte_secundaria": [],
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura",
+            "dimensoes_mm.largura_com_retrovisores"
+          ],
           "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Ghost Series II, com tração e esterçamento nas quatro rodas. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
         }
       ]
@@ -520,6 +542,11 @@
           "url": "https://www.rolls-roycemotorcars.com/saopaolo/en_GB/showroom.html",
           "tipo": "site_oficial",
           "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rolls-Royce_Cullinan",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -555,8 +582,8 @@
           "consumo": {},
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 2000,
+            "largura_com_retrovisores": 2164,
             "altura": null,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -598,7 +625,10 @@
             ]
           },
           "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/cullinan.html",
-          "campos_fonte_secundaria": [],
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura",
+            "dimensoes_mm.largura_com_retrovisores"
+          ],
           "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Cullinan Series II; rodas de 23\" disponíveis. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
         },
         {
@@ -637,8 +667,8 @@
           "consumo": {},
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
-            "largura_com_retrovisores": null,
+            "largura": 2000,
+            "largura_com_retrovisores": 2164,
             "altura": null,
             "entre_eixos": null,
             "altura_livre_solo": null
@@ -680,7 +710,10 @@
             ]
           },
           "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/black-badge-cullinan.html",
-          "campos_fonte_secundaria": [],
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura",
+            "dimensoes_mm.largura_com_retrovisores"
+          ],
           "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Cullinan Series II; rodas de 23\" disponíveis. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
         }
       ]
@@ -719,6 +752,11 @@
           "url": "https://www.rolls-roycemotorcars.com/saopaolo/en_GB/showroom.html",
           "tipo": "site_oficial",
           "acessado_em": "2026-10-21"
+        },
+        {
+          "url": "https://autotijd.be/en/dimensions/rolls-royce/spectre",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -758,7 +796,7 @@
           "consumo": {},
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
+            "largura": 2080,
             "largura_com_retrovisores": null,
             "altura": null,
             "entre_eixos": null,
@@ -801,7 +839,9 @@
             ]
           },
           "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/spectre.html",
-          "campos_fonte_secundaria": [],
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura"
+          ],
           "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Spectre Series II: 442 kW e 1.015 Nm conforme PressClub; autonomia 390 milhas WLTP convertida para km. Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
         },
         {
@@ -840,7 +880,7 @@
           "consumo": {},
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
+            "largura": 2080,
             "largura_com_retrovisores": null,
             "altura": null,
             "entre_eixos": null,
@@ -882,7 +922,9 @@
             ]
           },
           "fonte_url": "https://www.rolls-roycemotorcars.com/en_GB/showroom/black-badge-spectre.html",
-          "campos_fonte_secundaria": [],
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura"
+          ],
           "observacoes": "Vendido no Brasil pela Rolls-Royce Motor Cars São Paulo (concessionária oficial, Grupo Via Italia). A marca não divulga preços nem ficha técnica completa no site; dados do site global e do PressClub oficial. Potência de 500 kW no Infinity Mode e torque de 1.100 Nm no Spirited Mode (PressClub, Series II). Ano-modelo não divulgado pela marca/importador; adotado o ano corrente (2026)."
         }
       ]

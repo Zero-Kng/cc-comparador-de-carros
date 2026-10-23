@@ -2146,6 +2146,11 @@
           "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf",
           "tipo": "inmetro_pbev",
           "acessado_em": "2026-10-19"
+        },
+        {
+          "url": "https://www.webmotors.com.br/volkswagen/golf/2026",
+          "tipo": "secundaria",
+          "acessado_em": "2026-10-22"
         }
       ],
       "versoes": [
@@ -2188,7 +2193,7 @@
           },
           "dimensoes_mm": {
             "comprimento": null,
-            "largura": null,
+            "largura": 1789,
             "largura_com_retrovisores": null,
             "altura": null,
             "entre_eixos": 2630,
@@ -2239,7 +2244,9 @@
             ]
           },
           "fonte_url": "https://www.vw.com.br/pt/carros/golf.html",
-          "campos_fonte_secundaria": [],
+          "campos_fonte_secundaria": [
+            "dimensoes_mm.largura"
+          ],
           "observacoes": "Fora do configurador: dados de página oficial e releases oficiais (ago/2025 e mai/2026). Ano-modelo não divulgado; assumido 2026 (unidades do 2º lote entregues em 2026, produzidas em Wolfsburg). Venda restrita a clientes que já tiveram esportivos do Grupo VW, uma unidade por CPF/CNPJ. Consumo PBEV/Inmetro 2026 (atualização 14/ago/2026), linha \"GOLF GOLF GTI\"."
         }
       ]
