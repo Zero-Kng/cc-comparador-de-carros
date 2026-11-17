@@ -82,6 +82,7 @@ h1, h2, h3, h4 { font-family: var(--fonte-titulo); line-height: 1.1; margin: 0; 
   align-items: center;
   gap: 8px;
 }
+.logo svg { display: block; height: 24px; width: auto; }
 .menu { display: flex; gap: 22px; margin-left: auto; align-items: center; flex-wrap: wrap; }
 .menu a { text-decoration: none; font-size: var(--t-sm); }
 .menu a:hover, .menu a[aria-current="page"] { text-decoration: underline; text-underline-offset: 4px; }
