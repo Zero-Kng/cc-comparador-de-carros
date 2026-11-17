@@ -31,9 +31,9 @@ include __DIR__ . '/php/cabecalho.php';
 ?>
 <main class="conteudo explorar">
   <div class="explorar__topo">
-    <p class="rotulo">Para quem ainda não decidiu</p>
+    <p class="rotulo">Brasil / anos-modelo 2026 e 2027</p>
     <h1>Explorar modelos</h1>
-    <p class="explorar__apoio">Filtre por categoria, marca, preço e ano. Depois abra a ficha e escolha as versões para comparar.</p>
+    <p class="explorar__apoio">Para quem ainda não decidiu: filtre por categoria, marca, preço e ano. Depois abra a ficha e escolha as versões para comparar.</p>
   </div>
 
   <form class="filtros cartao" method="get" action="explorar.php">
@@ -104,7 +104,7 @@ include __DIR__ . '/php/cabecalho.php';
     </details>
 
     <div class="filtros__acoes">
-      <button class="botao botao--limao" type="submit">Filtrar modelos →</button>
+      <button class="botao botao--limao" type="submit">Filtrar modelos</button>
       <a class="botao" href="explorar.php">Limpar filtros</a>
     </div>
   </form>
@@ -134,7 +134,7 @@ include __DIR__ . '/php/cabecalho.php';
                 <span class="rotulo"><?= e($g['modelo']['categoria']) ?></span>
                 <h2><?= e($g['marca']['marca']) ?> <?= e($g['modelo']['modelo']) ?></h2>
                 <p class="resultado__preco"><?= e($faixa) ?><?php if ($g['preco_secundario']): ?><span class="selo-secundaria" title="Fonte secundária">*</span><?php endif; ?></p>
-                <p class="resultado__versoes"><?= $g['qtd'] ?> <?= $g['qtd'] === 1 ? 'versão' : 'versões' ?> · Ver ficha →</p>
+                <p class="resultado__versoes"><?= $g['qtd'] ?> <?= $g['qtd'] === 1 ? 'versão' : 'versões' ?> · Ver ficha</p>
               </div>
             </a>
           </li>

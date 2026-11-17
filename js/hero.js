@@ -11,6 +11,7 @@ const caixaSugestoes = document.getElementById('sugestoes');
 const mensagem = document.getElementById('busca-mensagem');
 const selecionados = document.getElementById('selecionados');
 const irComparar = document.getElementById('ir-comparar');
+const escada = document.getElementById('escada');
 
 let indice = [];
 let sugestoes = [];
@@ -88,7 +89,7 @@ function chipComparado(id) {
     el('button', {
       class: 'chip__remover', type: 'button', 'aria-label': `Remover ${nomeDe(modelo)}`,
       onclick: () => { lista.remover(id); avisarMudanca(); },
-    }, '×'));
+    }, ''));
 }
 
 function chipPendente(modelo) {
@@ -101,7 +102,7 @@ function chipPendente(modelo) {
     el('button', {
       class: 'chip__remover', type: 'button', 'aria-label': `Descartar ${nomeDe(modelo)}`,
       onclick: () => { pendente = null; renderSelecionados(); },
-    }, '×'));
+    }, ''));
 }
 
 function renderSelecionados() {
@@ -109,6 +110,7 @@ function renderSelecionados() {
   selecionados.replaceChildren(...ids.map(chipComparado).filter(Boolean), ...(pendente ? [chipPendente(pendente)] : []));
   rotulo.textContent = ids.length === 0 ? 'Qual modelo você quer comparar?' : `Agora, o ${ordinal(ids.length + 1)} modelo`;
   irComparar.hidden = ids.length < 2;
+  escada.dataset.n = String(Math.min(ids.length, 5));
 }
 
 campo.addEventListener('input', mostrarSugestoes);
@@ -128,7 +130,7 @@ form.addEventListener('submit', (ev) => {
   if (primeira) { escolher(primeira); return; }
   fecharSugestoes();
   avisar(campo.value.trim() ? 'Nenhum modelo encontrado. ' : 'Digite o nome de um modelo. ');
-  mensagem.append(el('a', { href: 'explorar.php' }, 'Explorar modelos →'));
+  mensagem.append(el('a', { href: 'explorar.php' }, 'Explorar modelos'));
 });
 
 form.querySelectorAll('[data-atalho]').forEach((botao) => botao.addEventListener('click', () => {
@@ -144,3 +146,12 @@ carregarIndice().then((dados) => {
   indice = dados;
   renderSelecionados();
 }).catch(() => avisar('Não foi possível carregar a lista de modelos.'));
+
+const palco = document.querySelector('.palco');
+const observador = new IntersectionObserver((entradas) => {
+  if (entradas.some((e) => e.isIntersecting)) {
+    palco.classList.add('palco--ativo');
+    observador.disconnect();
+  }
+}, { threshold: 0.45 });
+observador.observe(palco);

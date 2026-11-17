@@ -12,9 +12,9 @@ include __DIR__ . '/php/cabecalho.php';
 ?>
 <main class="conteudo metodo">
   <div class="metodo__topo">
-    <p class="rotulo">Transparência</p>
+    <p class="rotulo">Brasil / anos-modelo 2026 e 2027</p>
     <h1>Como comparamos</h1>
-    <p class="metodo__apoio">Cada número do site tem origem. Usamos o que a fabricante publica e, quando ela não publica,
+    <p class="metodo__apoio">Transparência primeiro: cada número do site tem origem. Usamos o que a fabricante publica e, quando ela não publica,
       dizemos isso, em vez de inventar.</p>
   </div>
 

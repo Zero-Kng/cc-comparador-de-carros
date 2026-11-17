@@ -7,7 +7,8 @@
   <meta name="description" content="Compare preços sugeridos, consumo, motorização e equipamentos dos carros vendidos no Brasil, anos-modelo 2026 e 2027.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Inter+Tight:wght@500;600;700&family=JetBrains+Mono:wght@500&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&display=swap">
+  <script>document.documentElement.classList.add("js")</script>
   <link rel="icon" href="img/logo.svg" type="image/svg+xml">
   <link rel="stylesheet" href="css/estilo.css">
   <script type="module" src="js/comum.js"></script>
@@ -27,14 +28,24 @@
 
 <main class="hero">
   <div class="conteudo">
-    <div class="hero__sobretitulo rotulo">
+   <section class="etiqueta" aria-labelledby="titulo-hero">
+    <div class="etiqueta__faixa">
       <span>Compare. Entenda. Escolha.</span>
       <span>Brasil / anos-modelo 2026 e 2027</span>
     </div>
 
     <div class="hero__titulo">
-      <h1>Compare antes de escolher.</h1>
-      <p>Preços sugeridos, consumo, motorização e equipamentos. Compare versões e descubra o que faz sentido para você.</p>
+      <div class="hero__texto">
+        <h1 id="titulo-hero">Compare antes de escolher.</h1>
+        <p>Preços sugeridos, consumo, motorização e equipamentos. Compare versões e descubra o que faz sentido para você.</p>
+      </div>
+      <ol class="escada" id="escada" aria-hidden="true">
+        <li data-vazio="vaga livre">1º modelo</li>
+        <li data-vazio="vaga livre">2º modelo</li>
+        <li data-vazio="vaga livre">3º modelo</li>
+        <li data-vazio="vaga livre">4º modelo</li>
+        <li data-vazio="vaga livre">5º modelo</li>
+      </ol>
     </div>
 
     <form class="busca" id="busca" role="search" autocomplete="off">
@@ -42,7 +53,7 @@
       <div class="busca__caixa">
         <input id="termo" name="termo" type="text" placeholder="Digite o modelo do carro"
                role="combobox" aria-expanded="false" aria-controls="sugestoes" aria-autocomplete="list">
-        <button class="botao botao--limao busca__botao" type="submit">Buscar modelo →</button>
+        <button class="botao botao--limao busca__botao" type="submit">Buscar modelo</button>
         <ul class="sugestoes" id="sugestoes" role="listbox" aria-label="Modelos sugeridos" hidden></ul>
       </div>
       <p class="busca__mensagem" id="busca-mensagem" role="status" hidden></p>
@@ -56,23 +67,24 @@
           <button type="button" data-atalho="T-Cross">T-Cross</button>
         </p>
         <p class="busca__dica">Comece pelo modelo. Depois, escolha as versões.</p>
-        <a class="botao botao--limao busca__comparar" id="ir-comparar" href="comparar.html" hidden><span>Comparar (<span data-contador>0</span>) →</span></a>
+        <a class="botao botao--limao busca__comparar" id="ir-comparar" href="comparar.html" hidden><span>Comparar (<span data-contador>0</span>)</span></a>
       </div>
     </form>
-  </div>
 
-  <div class="palco" aria-hidden="true">
-    <div class="palco__parede"></div>
-    <div class="palco__planta palco__planta--esq"></div>
-    <div class="palco__planta palco__planta--dir"></div>
-    <div class="palco__piso"></div>
-    <img class="palco__carro palco__carro--esq" src="img/carros/volvo-ex40.webp" alt="" width="1200" height="480">
-    <img class="palco__carro palco__carro--dir" src="img/carros/bmw-serie-3.webp" alt="" width="1200" height="400">
-  </div>
+    <div class="palco" aria-hidden="true">
+      <span class="palco__sombra palco__sombra--esq"></span>
+      <span class="palco__sombra palco__sombra--dir"></span>
+      <img class="palco__carro palco__carro--esq" src="img/carros/volvo-ex40.webp" alt="" width="1200" height="480">
+      <img class="palco__carro palco__carro--dir" src="img/carros/bmw-serie-3.webp" alt="" width="1200" height="400">
+      <span class="palco__cota palco__cota--esq"><span>Volvo EX40 · 4.440 mm</span></span>
+      <span class="palco__cota palco__cota--dir"><span>BMW Série 3 · 4.709 mm</span></span>
+    </div>
 
-  <div class="conteudo hero__rodape">
-    <span>Dados das fabricantes. Fontes secundárias sempre sinalizadas.</span>
-    <span>Modelos vendidos oficialmente no Brasil.</span>
+    <div class="hero__rodape">
+      <span>Dados das fabricantes. Fontes secundárias sempre sinalizadas.</span>
+      <span>Modelos vendidos oficialmente no Brasil.</span>
+    </div>
+   </section>
   </div>
 </main>
 

@@ -17,8 +17,9 @@ function botaoComparar(versao) {
   const botao = el('button', { class: 'botao botao--pequeno', type: 'button' });
   const atualizar = () => {
     const marcado = lista.contem(versao.id);
-    botao.textContent = marcado ? 'Na comparação ✓' : 'Comparar';
+    botao.textContent = marcado ? 'Na comparação' : 'Comparar';
     botao.classList.toggle('botao--limao', marcado);
+    botao.classList.toggle('botao--feito', marcado);
     botao.setAttribute('aria-pressed', String(marcado));
   };
   botao.addEventListener('click', () => {
@@ -100,7 +101,7 @@ async function iniciar() {
   };
 
   raiz.replaceChildren(
-    el('a', { class: 'carro__voltar', href: 'explorar.php' }, '← Explorar modelos'),
+    el('a', { class: 'carro__voltar', href: 'explorar.php' }, 'Explorar modelos'),
     el('section', { class: 'carro__topo' },
       fotoCarro(modelo, nome),
       el('div', { class: 'carro__info' },

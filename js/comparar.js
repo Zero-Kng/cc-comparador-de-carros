@@ -2,6 +2,7 @@ import { carregarBase, indexarVersoes } from './dados.js';
 import { linhasFicha, alinharLinhas, campoSecundario } from './ficha.js';
 import { formatarPreco } from './formatar.js';
 import { resolverSelecao } from './selecao.js';
+import { medirLinhas } from './medidas.js';
 import { lista, avisarMudanca } from './comum.js';
 import { el, trocarConteudo, valorComSelo, precoComSelo, legendaSecundaria, fotoCarro } from './ui.js';
 
@@ -23,7 +24,7 @@ function estadoVazio() {
     el('p', {}, el('strong', {}, 'Sua comparação está vazia.')),
     el('p', {}, 'Pesquise um modelo na página inicial ou explore por categoria e marque as versões que quer comparar.'),
     el('div', { class: 'comparar__acoes' },
-      el('a', { class: 'botao botao--limao', href: 'index.html' }, 'Buscar modelo →'),
+      el('a', { class: 'botao botao--limao', href: 'index.html' }, 'Buscar modelo'),
       el('a', { class: 'botao', href: 'explorar.php' }, 'Explorar modelos')));
 }
 
@@ -49,13 +50,14 @@ function render() {
     avisarMudanca();
   }
 
-  resumo.textContent = validos.length === 1 ? '1 versão' : `${validos.length} versões`;
+  resumo.textContent = validos.length === 1 ? '1 versão, lado a lado' : `${validos.length} versões, lado a lado`;
   if (validos.length === 0) {
     raiz.replaceChildren(estadoVazio());
     return;
   }
 
   const { rotulos, celulas } = alinharLinhas(validos.map(({ versao }) => linhasFicha(versao)));
+  const medidas = medirLinhas(rotulos, celulas);
   const visiveis = rotulos.map((r, i) => ({ ...r, i })).filter((r) => aberto || r.principal);
   const linhasDaGrade = [];
   for (const r of visiveis) {
@@ -72,7 +74,7 @@ function render() {
         el('button', {
           class: 'cartao-comp__remover', type: 'button', 'aria-label': `Remover ${nome} ${versao.versao}`,
           onclick: () => { lista.remover(versao.id); avisarMudanca(); render(); },
-        }, '×')),
+        }, '')),
       el('div', { class: 'cartao-comp__titulo' },
         el('h2', {}, el('a', { href: `carro.html?id=${modelo.id}&versao=${versao.id}` }, nome), el('span', {}, versao.versao)),
         el('p', { class: 'rotulo' }, 'Ano-modelo ',
@@ -84,11 +86,14 @@ function render() {
         ? el('h3', { class: 'cartao-comp__grupo' }, l.grupo)
         : el('div', { class: 'cartao-comp__linha' },
           el('span', { class: 'cartao-comp__rotulo' }, l.rotulo),
-          el('span', { class: 'cartao-comp__valor' }, valorComSelo(celulas[l.i][j]))))),
+          el('span', { class: 'cartao-comp__valor' }, valorComSelo(celulas[l.i][j])),
+          medidas[l.i][j]
+            ? el('span', { class: 'cartao-comp__medida', 'data-faixa': medidas[l.i][j].faixa, style: `--pct: ${medidas[l.i][j].pct.toFixed(1)}`, 'aria-hidden': 'true' })
+            : null))),
       el('button', {
         class: 'botao cartao-comp__mais', type: 'button', 'aria-expanded': String(aberto),
         onclick: () => { aberto = !aberto; render(); },
-      }, aberto ? 'Ver menos ▴' : 'Ver mais ▾'),
+      }, aberto ? 'Ver menos' : 'Ver mais'),
     );
   });
 
@@ -99,7 +104,10 @@ function render() {
     validos.length === 1
       ? el('div', { class: 'aviso comparar__convite' },
         el('p', {}, 'Adicione outra versão para comparar.'),
-        el('a', { class: 'botao botao--limao', href: 'index.html' }, 'Buscar outro modelo →'))
+        el('a', { class: 'botao botao--limao', href: 'index.html' }, 'Buscar outro modelo'))
+      : null,
+    validos.length > 1
+      ? el('p', { class: 'comparar__nota-barras' }, 'As barras comparam só as versões desta página: a maior marca o melhor valor de cada linha.')
       : null,
     temSecundaria ? legendaSecundaria() : null,
   );
